@@ -61,6 +61,7 @@ export interface Question {
   correctOption: OptionKey;
   explanation: string;
   difficulty: Difficulty;
+  localContextNote?: string | null;
   sourceReference: string | null;
   status: ContentStatus;
   createdAt: string;
@@ -81,6 +82,7 @@ export interface QuizQuestion {
   questionText: string;
   options: Record<OptionKey, string>;
   difficulty: Difficulty;
+  localContextNote?: string | null;
 }
 
 export interface QuizSession {
@@ -204,6 +206,7 @@ export interface UserQcmQuestion {
   correctOption: OptionKey;
   explanation: string;
   difficulty: Difficulty;
+  localContextNote?: string | null;
   sourceNote: string | null;
   tags: string[];
   isArchived: boolean;

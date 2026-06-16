@@ -33,6 +33,7 @@ export default async function QuizSessionPage({
   const questions: RunnerQuestion[] = sessionQuestions.map((q) => ({
     id: q.id,
     questionText: q.questionText,
+    localContextNote: q.localContextNote,
     options: q.options,
     difficulty: q.difficulty,
     subjectName: subject?.name ?? "",

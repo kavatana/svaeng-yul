@@ -61,7 +61,6 @@ export interface Question {
   correctOption: OptionKey;
   explanation: string;
   difficulty: Difficulty;
-  localContextNote?: string | null;
   sourceReference: string | null;
   status: ContentStatus;
   createdAt: string;
@@ -206,7 +205,6 @@ export interface UserQcmQuestion {
   correctOption: OptionKey;
   explanation: string;
   difficulty: Difficulty;
-  localContextNote?: string | null;
   sourceNote: string | null;
   tags: string[];
   isArchived: boolean;

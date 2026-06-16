@@ -1,0 +1,269 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+  Svaeng-Yul — "Midnight Study Clinic" theme.
+  The app is dark by default; the palette below is applied to both
+  :root and .dark so semantic shadcn tokens stay calm and dreamy.
+*/
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Brand + atmosphere */
+  --color-bg-soft: var(--bg-soft);
+  --color-card-elevated: var(--card-elevated);
+  --color-purple: var(--purple);
+  --color-purple-glow: var(--purple-glow);
+  --color-electric: var(--electric);
+  --color-teal: var(--teal);
+  --color-amber: var(--amber);
+  --color-success: var(--success);
+
+  /* Subject identities */
+  --color-subject-demography: var(--subject-demography);
+  --color-subject-nursing: var(--subject-nursing);
+  --color-subject-history: var(--subject-history);
+  --color-subject-infection: var(--subject-infection);
+  --color-subject-embryology: var(--subject-embryology);
+
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.4);
+}
+
+/*
+  LIGHT — "Study Notebook". Soft paper, calm purple/teal accents, readable
+  in a classroom. This is the default scope; .dark overrides below.
+*/
+:root {
+  color-scheme: light;
+
+  --background: #f8f7fb;
+  --bg-soft: #f1f0f7;
+  --foreground: #1e1b2e;
+
+  --card: #ffffff;
+  --card-elevated: #ffffff;
+  --card-foreground: #1e1b2e;
+
+  --popover: #ffffff;
+  --popover-foreground: #1e1b2e;
+
+  --primary: #6d4aff;
+  --primary-foreground: #ffffff;
+
+  --secondary: #f1f0f7;
+  --secondary-foreground: #2c2840;
+
+  --muted: #f1f0f7;
+  --muted-foreground: #6b647a;
+
+  --accent: #e9e4ff;
+  --accent-foreground: #34245c;
+
+  --destructive: #dc2626;
+  --destructive-foreground: #ffffff;
+
+  --border: #ded8ea;
+  --input: #ded8ea;
+  --ring: #6d4aff;
+
+  /* Brand — restrained accents that read on paper. */
+  --purple: #6d4aff;
+  --purple-glow: #6d4aff;
+  --electric: #2f6bd6;
+  --teal: #0f9f8e;
+  --amber: #d99100;
+  --success: #16a34a;
+
+  /* Subjects — slightly deepened so they read on white. */
+  --subject-demography: #3b76d6;
+  --subject-nursing: #0f9f8e;
+  --subject-history: #c47f00;
+  --subject-infection: #169a6b;
+  --subject-embryology: #b14fc4;
+
+  --radius: 1rem;
+}
+
+/*
+  DARK — "Midnight Study Clinic", matured. Deeper ink, softer card
+  separation, restrained purple, warm amber kept for progress only.
+*/
+.dark {
+  color-scheme: dark;
+
+  --background: #090d1a;
+  --bg-soft: #0e1426;
+  --foreground: #e9edf7;
+
+  --card: #131a2c;
+  --card-elevated: #182035;
+  --card-foreground: #e9edf7;
+
+  --popover: #182035;
+  --popover-foreground: #e9edf7;
+
+  --primary: #7c5cff;
+  --primary-foreground: #f7f8ff;
+
+  --secondary: #1a2238;
+  --secondary-foreground: #d8def0;
+
+  --muted: #161e33;
+  --muted-foreground: #94a0bd;
+
+  --accent: #1d2742;
+  --accent-foreground: #eef1fb;
+
+  --destructive: #f26d6d;
+  --destructive-foreground: #1a0e0e;
+
+  --border: #222c46;
+  --input: #222c46;
+  --ring: #a89bff;
+
+  /* Brand */
+  --purple: #7c5cff;
+  --purple-glow: #a89bff;
+  --electric: #38bdf8;
+  --teal: #2dd4bf;
+  --amber: #f0a93b;
+  --success: #34d399;
+
+  /* Subjects */
+  --subject-demography: #60a5fa;
+  --subject-nursing: #2dd4bf;
+  --subject-history: #f0a93b;
+  --subject-infection: #34d399;
+  --subject-embryology: #e879f9;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    background-attachment: fixed;
+  }
+
+  /* LIGHT: a barely-there paper tint — calm, not corporate white. */
+  :root body {
+    background-image:
+      radial-gradient(60rem 60rem at 12% -10%, rgba(109, 74, 255, 0.05), transparent 60%),
+      radial-gradient(50rem 50rem at 100% 0%, rgba(15, 159, 142, 0.04), transparent 55%);
+  }
+
+  /* DARK: a restrained aurora — softer than before, no neon. */
+  .dark body {
+    background-image:
+      radial-gradient(60rem 60rem at 12% -10%, rgba(124, 92, 255, 0.1), transparent 62%),
+      radial-gradient(52rem 52rem at 100% 0%, rgba(56, 189, 248, 0.06), transparent 58%),
+      radial-gradient(46rem 46rem at 50% 120%, rgba(45, 212, 191, 0.05), transparent 62%);
+  }
+}
+
+@layer components {
+  /* The core surface. Light = clean paper with a soft lift; dark = calm glass. */
+  .glow-card {
+    background: var(--card);
+    border: 1px solid var(--card-border, var(--border));
+    box-shadow: 0 1px 2px 0 rgba(30, 27, 46, 0.04), 0 8px 24px -16px rgba(30, 27, 46, 0.12);
+  }
+  .dark .glow-card {
+    background:
+      linear-gradient(150deg, rgba(255, 255, 255, 0.025), rgba(255, 255, 255, 0.005)),
+      var(--card);
+    box-shadow:
+      0 1px 0 0 rgba(255, 255, 255, 0.03) inset,
+      0 16px 44px -24px rgba(3, 6, 16, 0.85);
+    backdrop-filter: blur(6px);
+  }
+
+  /* A subtle accent halo, color set via --glow inline style. Kept gentle. */
+  .glow-ring {
+    box-shadow: 0 0 0 1px color-mix(in oklch, var(--glow, var(--purple-glow)) 28%, transparent),
+      0 10px 30px -20px var(--glow, var(--purple-glow));
+  }
+
+  /* Text glow is a dark-mode flourish only — it muddies text on paper. */
+  .dark .text-glow {
+    text-shadow: 0 0 18px color-mix(in oklch, currentColor 40%, transparent);
+  }
+}
+
+@layer utilities {
+  /* Respect iOS safe areas for the bottom nav + full-screen feel. */
+  .pb-safe {
+    padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+  }
+  .pt-safe {
+    padding-top: max(env(safe-area-inset-top), 0.5rem);
+  }
+  .min-h-dvh {
+    min-height: 100dvh;
+  }
+}
+
+/* Gentle drifting starfield used behind auth + hero areas (dark only). */
+.dark .starfield::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(1px 1px at 20% 30%, rgba(248, 250, 252, 0.7) 0, transparent 2px),
+    radial-gradient(1px 1px at 70% 20%, rgba(167, 139, 250, 0.7) 0, transparent 2px),
+    radial-gradient(1px 1px at 40% 70%, rgba(56, 189, 248, 0.6) 0, transparent 2px),
+    radial-gradient(1px 1px at 85% 65%, rgba(248, 250, 252, 0.6) 0, transparent 2px),
+    radial-gradient(1px 1px at 55% 45%, rgba(248, 250, 252, 0.5) 0, transparent 2px);
+  background-size: 320px 320px;
+  animation: star-drift 60s linear infinite;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+@keyframes star-drift {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 320px 320px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .starfield::before {
+    animation: none;
+  }
+}

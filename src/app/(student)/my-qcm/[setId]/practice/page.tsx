@@ -24,7 +24,6 @@ export default async function QcmPracticePage({
   const pool: PracticeQuestion[] = questions.map((q) => ({
     id: q.id,
     questionText: q.questionText,
-    localContextNote: q.localContextNote,
     options: q.options,
     correctOption: q.correctOption,
     explanation: q.explanation,

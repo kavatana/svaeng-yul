@@ -1,0 +1,4666 @@
+[
+{
+"id": "question1",
+"question": "តើនៅដំណាក់កាលជាអំប្រ៊ីយ៉ុងមានផ្ទុកកោសិកាភេទពូជដើមដំបូងឈ្មោះអ្វី? ",
+"choices": [
+"Primordial germ cells ",
+"Spermatogonia ",
+"Oogonia ",
+"Stem cell "
+],
+"correct_answer": "Primordial germ cells "
+},
+{
+"id": "question2",
+"question": "ប្រហែល ៧សប្តាហ៍ក្រោយការបង្កកំណើតក្រពេញពងស្វាស Gonocyte បានវិវត្តទៅជាកោសិកាឈ្មោះអ្វី? ",
+"choices": [
+"Primordial germ cells ",
+"Spermatogonia ",
+"Oogonia ",
+"Stem cell "
+],
+"correct_answer": "Spermatogonia "
+},
+{
+"id": "question3",
+"question": "ប្រហែល ផសប្តាហ៍ក្រោយការបង្កកំណើតក្រពេញអូវែ Gonocyte បានវិវត្តទៅជាកោសិកាឈ្មោះអ្វី? ",
+"choices": [
+"Spermatogonia ",
+"Stem cell ",
+"Primordial germ cells ",
+"Oogonia "
+],
+"correct_answer": "Oogonia "
+},
+{
+"id": "question4",
+"question": "កោសិកា Spermatogonia និង កោសិកា Oogonia គឺជាប្រភេទកោសិកា៖ ",
+"choices": [
+"2n ក្រូម៉ូសូម ",
+"n ក្រូម៉ូសូម ",
+"3n ក្រូម៉ូសូម ",
+"4n ក្រូម៉ូសូម "
+],
+"correct_answer": "2n ក្រូម៉ូសូម "
+},
+{
+"id": "question5",
+"question": "ក្នុងកំណកាម៉ែតញី (Oogenesis) ក្រោយបញ្ចប់វគ្គដំណុះដំណាល (Multiplication phase) Oogonia បានក្លាយជា៖ ",
+"choices": [
+"កោសិកា Oogonia ",
+"កោសិកា Oocyte II ",
+"កោសិកា Oocyte I ",
+"កោសិកា Ootid "
+],
+"correct_answer": "កោសិកា Oocyte I "
+},
+{
+"id": "question6",
+"question": "នៅកំណកាម៉ែតញី (Oogenesis) ក្រោយបញ្ចប់ចំណែកទី២នៃមេយ៉ូសកោសិកា Oocyte បានក្លាយជា៖ ",
+"choices": [
+"កោសិកា Oocyte ",
+"កោសិកា Zygote ",
+"កោសិកា Oocyte I ",
+"កោសិកា Ovum "
+],
+"correct_answer": "កោសិកា Ovum "
+},
+{
+"id": "question7",
+"question": "នៅកំណកាម៉ែតឈ្មោល (Spermatogenesis) ក្រោយបញ្ចប់វគ្គកំណើនមាឌ Spermatogonia បានក្លាយជា៖ ",
+"choices": [
+"កោសិកា Spermatogonia ",
+"កោសិកា Spermatocyte I ",
+"កោសិកា Spermatocyte II ",
+"កោសិកា Spermatid "
+],
+"correct_answer": "កោសិកា Spermatocyte I "
+},
+{
+"id": "question8",
+"question": "នៅកំណកាម៉ែតបុរស (Spermatogenesis) ក្រោយបញ្ចប់ចំណែកទី២នៃមេយ៉ូស Spermatogonia បានក្លាយជា៖ ",
+"choices": [
+"កោសិកា Spermatid ចំនួន ៤ ",
+"កោសិកា Spermatid ចំនួន ២ ",
+"កោសិកា Spermatocyte | ចំនួន ២ ",
+"កោសិកា Spermatocyte II ចំនួន ៤ "
+],
+"correct_answer": "កោសិកា Spermatid ចំនួន ៤ "
+},
+{
+"id": "question9",
+"question": "នៅកំណកាម៉ែតឈ្មោល តើកោសិកា Spermatocyte II មានចំនួនក្រូម៉ូសូមនិងក្រូម៉ាទីតចំនួនប៉ុន្មាន? ",
+"choices": [
+"1n:1c ",
+"1n:2c ",
+"1n:3c ",
+"2n:2c "
+],
+"correct_answer": "1n:2c "
+},
+{
+"id": "question10",
+"question": "នៅកំណកាម៉ែតឈ្មោល តើកោសិកា Spermatid មានចំនួនក្រូម៉ូសូមនិងក្រូម៉ាទីតចំនួនប៉ុន្មាន? ",
+"choices": [
+"1n:1c ",
+"1n:2c ",
+"1n:3c ",
+"2n:4c "
+],
+"correct_answer": "1n:1c "
+},
+{
+"id": "question11",
+"question": "កំណកាម៉ែតឈ្មោល ក្រោយបញ្ចប់ចំណែកទី១នៃមេយ៉ូស តើកោសិកា Spermatocyte I ចំនួន១ អាចបង្កើតបាន Spermatocyte II ចំនួនប៉ុន្មាន? ",
+"choices": [
+"Spermatocyte II ចំនួន 2 ",
+"Spermatocyte II ចំនួន 1 ",
+"Spermatocyte II ចំនួន 3 ",
+"Spermatocyte II ចំនួន 4 "
+],
+"correct_answer": "Spermatocyte II ចំនួន 2 "
+},
+{
+"id": "question12",
+"question": "នៅកំណកាម៉ែតឈ្មោល ក្រោយបញ្ចប់ចំណែកទី2 នៃមេយ៉ូស តើកោសិកា Spermatogonia ចំនួន១ អាចបង្កើតបានកោសិកា Spermatid ចំនួនប៉ុន្មាន? ",
+"choices": [
+"Spermatid ចំនួន 1 ",
+"Spermatid ចំនួន 2 ",
+"Spermatid ចំនួន 4 ",
+"Spermatid ចំនួន 3 "
+],
+"correct_answer": "Spermatid ចំនួន 2 "
+},
+{
+"id": "question13",
+"question": "រយៈពេលនៃកំណកាម៉ែតឈ្មោល (Spermatogenesis) តើដំណាក់កាល Spermatogonia ក្លាយជា Spermatocyte | មានរយៈពេលប៉ុន្មានថ្ងៃ? ",
+"choices": [
+"១០ថ្ងៃ ",
+"១៦ថ្ងៃ ",
+"២៣ថ្ងៃ ",
+"៣១ថ្ងៃ "
+],
+"correct_answer": "១៦ថ្ងៃ "
+},
+{
+"id": "question14",
+"question": "រយៈពេលនៃកំណកាម៉ែតឈ្មោល (Spermatogenesis) តើដំណាក់កាល Spermatocyte II ក្លាយជា Spermatid មានរយៈពេលប៉ុន្មានថ្ងៃ? ",
+"choices": [
+"១ថ្ងៃ ",
+"២៣ថ្ងៃ ",
+"១៦ថ្ងៃ ",
+"១០ថ្ងៃ "
+],
+"correct_answer": "២៣ថ្ងៃ "
+},
+{
+"id": "question15",
+"question": "រយៈពេលនៃកំណកាម៉ែតឈ្មោល (Spermatogenesis) តើដំណាក់កាល Spermatid ក្លាយជា Spermatozoon មានរយៈពេលប៉ុន្មានថ្ងៃ? ",
+"choices": [
+"24ថ្ងៃ ",
+"២៣ថ្ងៃ ",
+"១៦ថ្ងៃ ",
+"១០ថ្ងៃ "
+],
+"correct_answer": "24ថ្ងៃ "
+},
+{
+"id": "question16",
+"question": "តើកោសិកាស្តែម៉ាតូសូអ៊ុតពេញវ័យពេញមួយឋិតនៅក្នុងបំពង់ seminiferous ប្រើរយៈពេលប៉ុន្មានថ្ងៃ? ",
+"choices": [
+"៦០ថ្ងៃ ",
+"៦៤ថ្ងៃ ",
+"៧៤ថ្ងៃ ",
+"៣១ថ្ងៃ "
+],
+"correct_answer": "៧៤ថ្ងៃ "
+},
+{
+"id": "question17",
+"question": "នៅវគ្គបំលែងឯកទេស (Spermiogenesis) តើប្រដាប់ Golgi បានក្លាយទៅជាអ្វី? ",
+"choices": [
+"ណៃយ៉ូ ",
+"កន្ទុយ ",
+"ក្បាល ",
+"អាក្រូសូម "
+],
+"correct_answer": "អាក្រូសូម "
+},
+{
+"id": "question18",
+"question": "នៅវគ្គបំលែងឯកទេស (Spermiogenesis) តើ Centriole បានក្លាយទៅជាអ្វី? ",
+"choices": [
+"យ៉ូ ",
+"មីតូកុងទ្រី ",
+"អាក្រូសូម ",
+"កន្ទុយ "
+],
+"correct_answer": "កន្ទុយ "
+},
+{
+"id": "question19",
+"question": "ទម្រង់ស្ពៃម៉ាតូសូអ៊ុចពេញវ័យមួយមានប្រវែងសរុបប្រហែល៖ ",
+"choices": [
+"៦៥-៧០µm ",
+"៥០-៦០µm ",
+"៤០-៥០µm ",
+"៣០-៤០µm "
+],
+"correct_answer": "៥០-៦០µm "
+},
+{
+"id": "question20",
+"question": "តើអរម៉ូន Estrogen និង Progesterone ផលិតនៅក្នុងសរីរាង្គណាមួយ? ",
+"choices": [
+"ក្នុងក្រពេញអូវែ ",
+"ក្នុងក្រពេញស្វាស ",
+"ក្នុងសរីរាង្គស្បូន ",
+"ក្នុងសរីរាង្គស្រទាប់ស្បូន "
+],
+"correct_answer": "ក្នុងក្រពេញអូវែ "
+},
+{
+"id": "question21",
+"question": "ផ្នែកសំបកដែលព័ទ្ធជុំវិញពងស្វាសមានឈ្មោះថា៖ ",
+"choices": [
+"Seminiferous tubule ",
+"Rete testis ",
+"Epididymis ",
+"Albuginea "
+],
+"correct_answer": "Albuginea "
+},
+{
+"id": "question22",
+"question": "ខាងក្នុងសំបក albuginea មានបន្ទប់តូចៗប្រហែល៖ ",
+"choices": [
+"250-300 ",
+"100-150 ",
+"150-200 ",
+"400-500 "
+],
+"correct_answer": "250-300 "
+},
+{
+"id": "question23",
+"question": "Lobule seminiferous មួយមានបំពង់ seminiferous ចន្លោះពី៖ ",
+"choices": [
+"1-2 ",
+"4-8 ",
+"1-4 ",
+"5-6 "
+],
+"correct_answer": "1-4 "
+},
+{
+"id": "question24",
+"question": "ពងស្វាសម្អាងមានបំពង់ seminiferous ប្រហែល៖ ",
+"choices": [
+"100-200 ",
+"300-400 ",
+"1000-1200 ",
+"500-900 "
+],
+"correct_answer": "500-900 "
+},
+{
+"id": "question25",
+"question": "បើពន្លាបំពង់ epididymis ចេញវាមានប្រវែងប្រហែលប៉ុន្មាន? ",
+"choices": [
+"2-3 ម៉ែត្រ ",
+"8-10 ម៉ែត្រ ",
+"15-20 ម៉ែត្រ ",
+"5-6 ម៉ែត្រ "
+],
+"correct_answer": "5-6 ម៉ែត្រ "
+},
+{
+"id": "question26",
+"question": "មុខងារសំខាន់នៃ epididymis គឺ៖ ",
+"choices": [
+"ផលិតអរម៉ូន Testosterone ",
+"អរម៉ូន Progesterone ",
+"ស្តុកស្តែម៉ាតូសូអ៊ុត និងអនុញ្ញាតឲ្យវាពេញវ័យ ",
+"ផលិតសារធាតុរាវនៃទឹកកាម "
+],
+"correct_answer": "ស្តុកស្តែម៉ាតូសូអ៊ុត និងអនុញ្ញាតឲ្យវាពេញវ័យ "
+},
+{
+"id": "question27",
+"question": "ស្គមនៅក្នុង epididymis ត្រូវបានរក្សាទុកប្រហែលប៉ុន្មានថ្ងៃ? ",
+"choices": [
+"៣ថ្ងៃ ",
+"៥ថ្ងៃ ",
+"២០ថ្ងៃ ",
+"១០ថ្ងៃ "
+],
+"correct_answer": "២០ថ្ងៃ "
+},
+{
+"id": "question28",
+"question": "តួនាទីសំខាន់របស់ mitochondria នៅក្នុងផ្នែកកណ្តាល (midpiece) របស់ស្តែម៉ាតូសូអ៊ុតគឺអ្វី? ",
+"choices": [
+"ផលិតប្រូតេអ៊ីន ",
+"ផ្ទុកអង់ស៊ីម ",
+"ផលិត ATP សម្រាប់ចលនា ",
+"បង្កើត DNA "
+],
+"correct_answer": "ផលិត ATP សម្រាប់ចលនា "
+},
+{
+"id": "question29",
+"question": "តើស្រទាប់ Theca internal នៃកោសិកាផូលេគុលបញ្ចេញអរម៉ូនឈ្មោះអ្វី? ",
+"choices": [
+"អរម៉ូន Testosterone ",
+"អរម៉ូន Progesterone ",
+"អរម៉ូន Androgen ",
+"អរម៉ូន LH & FSH "
+],
+"correct_answer": "អរម៉ូន Androgen "
+},
+{
+"id": "question30",
+"question": "តើអរម៉ូន Progesterone ត្រូវបានបញ្ចេញដោយកោសិកាអ្វី? ",
+"choices": [
+"កោសិកា Corpus luteum ",
+"កោសិកា Follicle ",
+"កោសិកា Ovaria ",
+"កោសិកា Testis "
+],
+"correct_answer": "កោសិកា Corpus luteum "
+},
+{
+"id": "question31",
+"question": "តើអរម៉ូន Testosterone ផលិតនៅក្នុងសរីរាង្គណាមួយក្នុងចំនោមខាងក្រោម? ",
+"choices": [
+"ក្នុងសរីរាង្គបំពង់អេពីឌីឌីម ",
+"ក្នុងសរីរាង្គពងស្វាស ",
+"ក្នុងសរីរាង្គអូវែ ",
+"ក្នុងសរីរាង្គបំពង់បង្ហូនោម "
+],
+"correct_answer": "ក្នុងសរីរាង្គពងស្វាស "
+},
+{
+"id": "question32",
+"question": "តើ Leydig cell បញ្ចេញអរម៉ូនភេទឈ្មោះអ្វី? ",
+"choices": [
+"អរម៉ូន Testosterone ",
+"អរម៉ូន Estrogen ",
+"អរម៉ូន LH ",
+"អរម៉ូន FSH "
+],
+"correct_answer": "អរម៉ូន Testosterone "
+},
+{
+"id": "question33",
+"question": "តើអរម៉ូន Follicle Stimulating Hormone (FSH) និង Luteinizing Hormone (LH) បញ្ចេញនៅកន្លែងណា? ",
+"choices": [
+"ក្នុងក្រពេញ ប៉ូភីសមុខ ",
+"ក្នុងក្រពេញអីប៉ូតាឡាមុស ",
+"ក្នុងក្រពេញទីរ៉ូអ៊ុត ",
+"ក្នុងក្រពេញអូវែ "
+],
+"correct_answer": "ក្នុងក្រពេញ ប៉ូភីសមុខ "
+},
+{
+"id": "question34",
+"question": "កំណកាម៉ែតញីក្នុងមួយខែម្តង តើជាទូទៅស្ត្រីអាចបង្កើតបានកោសិកា Oocyte II ពេញវ័យបានចំនួនប៉ុន្មាន? ",
+"choices": [
+"ចំនួន១-២ ",
+"ចំនួន ២ ",
+"ចំនួន ១ ",
+"ចំនួន ៣ "
+],
+"correct_answer": "ចំនួន ១ "
+},
+{
+"id": "question35",
+"question": "ចំពោះមនុស្សស្រីចាប់ពីពេញវ័យ តើមានអូវូស៊ីត១ សល់ប្រហែលប៉ុន្មានដែលនឹងវិវត្តក្លាយជាអូវូស៊ីត២? ",
+"choices": [
+"ប្រហែល ៥០០ ",
+"ប្រហែល ៤០០ ",
+"ប្រហែល ៣០០ ",
+"ប្រហែល ២៥០ "
+],
+"correct_answer": "ប្រហែល ៤០០ "
+},
+{
+"id": "question36",
+"question": "ចាប់ពីស្ត្រីមានដំណើរវដ្តរដូវដំបូងរហូតដល់អស់ដំណើរវដ្តរដូវ តើស្ត្រីអាចផលិតកោសិកា Oocyte II ពេញវ័យបានចំនួនប៉ុន្មាន? ",
+"choices": [
+"៣០០-៤០០0 ",
+"២៥០-៣០០0 ",
+"៤០០-៤៥០ ",
+"៤៥០-៥០០ "
+],
+"correct_answer": "៤០០-៤៥០ "
+},
+{
+"id": "question37",
+"question": "តើកោសិកាស្តែម៉ាតូសូអ៊ុតត្រូវបានផលិតនៅក្នុងកោសិកាណាមួយនៃពងស្វាស? ",
+"choices": [
+"ក្នុងកោសិកាពងស្វាស ",
+"ក្នុងកោសិកាSertoli ",
+"ក្នុងកោសិកាប្រលោះពងស្វាស ",
+"ក្នុងកោសិកាជាយបំពង់ seminiferous "
+],
+"correct_answer": "ក្នុងកោសិកាជាយបំពង់ seminiferous "
+},
+{
+"id": "question38",
+"question": "តើកោសិកាស្តែម៉ាតូសូអ៊ុតពេញវ័យមានផ្ទុកក្រូម៉ូសូមចំនួនប៉ុន្មាន? ",
+"choices": [
+"២៣ ក្រូម៉ូសូម ",
+"៤៦ ក្រូម៉ូសូម ",
+"៣៦ ក្រូម៉ូសូម ",
+"៤២ ក្រូម៉ូសូម "
+],
+"correct_answer": "២៣ ក្រូម៉ូសូម "
+},
+{
+"id": "question39",
+"question": "ដំណាក់កាលកំណកាម៉ែតបុរស តើអរម៉ូន luteinizing hormone (LH) មានអំពើទៅលើកោសិកាអ្វី? ",
+"choices": [
+"កោសិកា Spermatogonia ",
+"កោសិកាពូជ Oogonia ",
+"កោសិកា Leydig ",
+"កោសិកា Sertoli "
+],
+"correct_answer": "កោសិកា Leydig "
+},
+{
+"id": "question40",
+"question": "ដំណាក់កាលកំណកាម៉ែតបុរស តើអរម៉ូន Follicle-Stimulating Hormone (FSH) មានអំពើទៅលើកោសិកាអ្វី? ",
+"choices": [
+"កោសិកា Spermatogonia ",
+"កោសិកាពូជ Oogonia ",
+"កោសិកា Sertoli ",
+"កោសិកា Leydig "
+],
+"correct_answer": "កោសិកា Sertoli "
+},
+{
+"id": "question41",
+"question": "ដំណាក់កាលកំណកាម៉ែតបុរស តើកោសិកា Sertoli មានតួនាទីអ្វី? ",
+"choices": [
+"ផ្តល់សារធាតុចិញ្ចឹមនិងថែទាំ Oocyte ",
+"ផ្តល់សារធាតុចិញ្ចឹមនិងថែទាំ Oogonia ",
+"ផ្តល់សារធាតុចិញ្ចឹមនិងថែទាំ Spermatogonia ",
+"ផ្តល់សារធាតុចិញ្ចឹមនិងថែទាំ Leydig "
+],
+"correct_answer": "ផ្តល់សារធាតុចិញ្ចឹមនិងថែទាំ Spermatogonia "
+},
+{
+"id": "question42",
+"question": "តើអរម៉ូនឈ្មោះអ្វីដែលបញ្ជាក់ថាស្ត្រីមានផ្ទៃពោះដំបូង? ",
+"choices": [
+"Estrogen ",
+"Progesterone ",
+"Follicle Stimulating Releasing Hormone (FSH) ",
+"Human Chorionic Gonadotrophin (hCG) "
+],
+"correct_answer": "Human Chorionic Gonadotrophin (hCG) "
+},
+{
+"id": "question43",
+"question": "តើលំដាប់ដែលត្រឹមត្រូវនៃដំណាក់កាលរីកលូតលាស់ដំបូងបន្ទាប់ពីការបង្កកំណើតគឺ៖ ",
+"choices": [
+"zygote, cleavage, morula, blastocyst, Gastrula ",
+"zygote, blastomeres, cleavage, blastocyst, Gastrula ",
+"polar bodies, zygote, blastocyst, cleavage, Gastrula ",
+"blastomeres, morula, zygote, blastocyst, Gastrula "
+],
+"correct_answer": "zygote, cleavage, morula, blastocyst, Gastrula "
+},
+{
+"id": "question44",
+"question": "ការបង្កកំណើត គឺជាការរលាយចូលគ្នារវាងណៃយ៉ូកាម៉ែតញីនិងកាម៉ែតឈ្មោលដើម្បីបង្កើតបានជា៖ ",
+"choices": [
+"កោសិកា Zygote ",
+"កោសិកា Embryo ",
+"កោសិកា Oocyte I ",
+"កោសិកា Oocyte II "
+],
+"correct_answer": "កោសិកា Zygote "
+},
+{
+"id": "question45",
+"question": "ការបង្កកំណើតបង្កើតបានជា Zygote តើគេសម្គាល់លក្ខណៈរបស់ Zygote ដោយផ្អែកលើកត្តាអ្វី? ",
+"choices": [
+"កោសិកាមាន 2 pronuclei (2PN) ",
+"កោសិកាមាន 1 pronucleus (1PN) ",
+"កោសិកាមាន 3 pronuclei (3PN) ",
+"កោសិកាមាន 4 pronuclei (4PN) "
+],
+"correct_answer": "កោសិកាមាន 2 pronuclei (2PN) "
+},
+{
+"id": "question46",
+"question": "ហេតុអ្វីបានជាកំណកាម៉ែតត្រូវឆ្លងកាត់ចំណែកមេយ៉ូស? ",
+"choices": [
+"ដើម្បីបន្ថយចំនួនក្រូម៉ូសូមពី 2n ទៅ n ",
+"ដើម្បីបន្ថយចំនួនក្រូម៉ូសូមពី 4n ទៅ n ",
+"ដើម្បីបន្ថយចំនួនក្រូម៉ូសូមពី 4n ទៅ 2n ",
+"ដើម្បីបន្ថយចំនួនក្រូម៉ូសូមពី 3n ទៅ n "
+],
+"correct_answer": "ដើម្បីបន្ថយចំនួនក្រូម៉ូសូមពី 2n ទៅ n "
+},
+{
+"id": "question47",
+"question": "តើកំណ ម៉ាតូសូអ៊ុត (Spermatogenesis) ត្រូវឆ្លងកាត់ដំណាក់កាលអ្វីខ្លះ? ",
+"choices": [
+"Spermatocytes - Spermatids - Spermatogonia - Spermatozoa ",
+"Spermatogonia - Spermatids - Spermatocytes - Spermatozoa ",
+"Spermatocytes - Spermatogonia - Spermatids - Spermatozoa ",
+"Spermatogonia - Spermatocytes - Spermatids - Spermatozoa "
+],
+"correct_answer": "Spermatogonia - Spermatocytes - Spermatids - Spermatozoa "
+},
+{
+"id": "question48",
+"question": "តើកំណ ម៉ាតូសូអ៊ុត (Spermatogenesis) ត្រូវឆ្លងកាត់ចំណែកកោសិកាអ្វីខ្លះ? ",
+"choices": [
+"មេយ៉ូស និងចន្លោះវគ្គ ",
+"មីតូស និងមេយ៉ូស ",
+"មីតូស និងចន្លោះវគ្គ ",
+"មិនត្រឹមត្រូវទាំងអស់ "
+],
+"correct_answer": "មីតូស និងមេយ៉ូស "
+},
+{
+"id": "question49",
+"question": "ចំពោះមនុស្ស តើការបង្ករកំណើតប្រព្រឹត្តទៅនៅកន្លែងណា? ",
+"choices": [
+"នៅតំបន់ស្រទាប់ស្បូន ",
+"នៅតំបន់ Ampule នៃដៃស្បូន ",
+"នៅតំបន់ isthmus នៃដៃស្បូន ",
+"នៅតំបន់ក្រពេញអូវែ "
+],
+"correct_answer": "នៅតំបន់ Ampule នៃដៃស្បូន "
+},
+{
+"id": "question50",
+"question": "ដំណាក់កាលបង្កកំណើត ការប៉ះនិងទទួលស្គាល់រវាងស្តែម៉ាតូសូអ៊ុត និង Oocyte II ដោយអង់ស៊ីម៖ ",
+"choices": [
+"អង់ស៊ីម Hydrolytic ",
+"អង់ស៊ីម Acrosome ",
+"អង់ស៊ីម Sperm Binding ",
+"អង់ស៊ីម Sperm Binding Receptor "
+],
+"correct_answer": "អង់ស៊ីម Sperm Binding Receptor "
+},
+  {
+    "id": "question51",
+    "question": "ជាទូទៅមានតែស្តែម៉ាតូសូអ៊ុតចំនួន១ប៉ុណ្ណោះដែលអាចចូលរួមបង្កកំនើតជាមួយ Oocyte II បាន។ ហេតុអ្វី",
+    "choices": [
+      "ភ្នាស Zona Pellucidas Oocyte II",
+      "ភ្នាសស៊ីតូប្លាសនៃ Oocyte II",
+      "ភ្នាសបង្កកំណើតដោយអំពើគ្រាប់ Cortical Granule",
+      "ភ្នាសលំហ perivitelline space"
+    ],
+    "correct_answer": "ភ្នាសបង្កកំណើតដោយអំពើគ្រាប់ Cortical Granule"
+  },
+  {
+    "id": "question52",
+    "question": "ព្រឹត្តិការណ៍សំខាន់ៗដែលកើតមានក្នុងពេលបង្កកំណើត តើខាងក្រោមនេះមួយណាដែលមិនត្រឹមត្រូវ?",
+    "choices": [
+      "ការប៉ះនិងទទួលស្គាល់រវាងស្តែម៉ាតូសូអ៊ុត និង Oocyte II",
+      "គ្មានការរលាយអាក្រូសូមទៅនឹងភ្នាស Pellucida នៃ Oocyte II ទេ",
+      "ប្រតិកម្មនៃថង់ Cortical Granule ដើម្បីបង្កើតបានភ្នាសបង្កកំណើត",
+      "ភ្នាស Zona Pellucida នៃ Oocyte II"
+    ],
+    "correct_answer": "គ្មានការរលាយអាក្រូសូមទៅនឹងភ្នាស Pellucida នៃ Oocyte II ទេ"
+  },
+  {
+    "id": "question53",
+    "question": "កំណអំប្រ៊ីយ៉ុង (embryonic development) អំប្រ៊ីយ៉ុងមានអាយុ៣ថ្ងៃ និងមានកោសិកាចំនួន ៨-១៦កោសិកា គឺស្ថិតនៅក្នុងវគ្គ៖",
+    "choices": [
+      "វគ្គ Gastrulation",
+      "វគ្គ Morula",
+      "វគ្គ Cleavage",
+      "វគ្គ Blastocyst"
+    ],
+    "correct_answer": "វគ្គ Morula"
+  },
+  {
+    "id": "question54",
+    "question": "កំណអំប្រ៊ីយ៉ុង (embryonic development) អំប្រ៊ីយ៉ុងបានបង្កើតប្រហោងក្នុងផ្ទុកសារធាតុរាវនៅដំណាក់កាល Blastocyst គឺជា៖",
+    "choices": [
+      "Blastomere",
+      "Blastopore",
+      "Blastocoel",
+      "Blastula"
+    ],
+    "correct_answer": "Blastocoel"
+  },
+  {
+    "id": "question55",
+    "question": "ដំណាក់កាលវិវត្តន៍អំប្រ៊ីយ៉ុងនៃដំណាក់កាល Morula មានលក្ខណៈសម្គាល់ដូចជា៖",
+    "choices": [
+      "អំប្រ៊ីយ៉ុងមានអាយុ៤ថ្ងៃ និងកោសិកាកូន (Blastomere) ចំនួន១៦-៣២កោសិកា",
+      "អំប្រ៊ីយ៉ុងវិវត្តបានកោសិកា Trophoblast និង កោសិកា Trophectoderm",
+      "អំប្រ៊ីយ៉ុងវិវត្តបានកោសិកា Trophoblast និង កោសិកា Inner Cells Mass (ICM)",
+      "អំប្រ៊ីយ៉ុងវិវត្តបានកោសិកា Trophoblast និង កោសិកា Trophectoderm"
+    ],
+    "correct_answer": "អំប្រ៊ីយ៉ុងមានអាយុ៤ថ្ងៃ និងកោសិកាកូន (Blastomere) ចំនួន១៦-៣២កោសិកា"
+  },
+  {
+    "id": "question56",
+    "question": "ដំណាក់កាលវិវត្តន៍អំប្រ៊ីយ៉ុងនៃដំណាក់កាល Morula គឺកោសិកាពេញ តើកោសិកានោះហៅថាអ្វី?",
+    "choices": [
+      "កោសិកា Blastomere",
+      "កោសិកា Blastopore",
+      "កោសិកា Blastocoel",
+      "កោសិកា Blastula"
+    ],
+    "correct_answer": "កោសិកា Blastomere"
+  },
+  {
+    "id": "question57",
+    "question": "ដំណាក់កាលវិវត្តន៍អំប្រ៊ីយ៉ុង តើដំណាក់កាល Blastocyst មានលក្ខណៈសម្គាល់ដូចម្តេចខ្លះ?",
+    "choices": [
+      "អំប្រ៊ីយ៉ុងមានអាយុ៥ថ្ងៃវិវត្តបានកោសិកាកូន (កោសិកា Blastomere) និងប្រហោងក្នុងនៃអំប្រ៊ីយ៉ុង (Blastocoel)",
+      "អំប្រ៊ីយ៉ុងវិវត្តបានកោសិកា Trophoblast និង កោសិកា Trophectoderm",
+      "អំប្រ៊ីយ៉ុងមានអាយុ៥ ទៅ ៦ ថ្ងៃវិវត្តបានកោសិកា Trophectoderm និង កោសិកា Inner Cells Mass (ICM) និង ប្រហោង (Blastocoel) នៃអំប្រ៊ីយ៉ុង",
+      "អំប្រ៊ីយ៉ុងវិវត្តបានកោសិកា Trophoblast និង កោសិកា Trophectoderm"
+    ],
+    "correct_answer": "អំប្រ៊ីយ៉ុងមានអាយុ៥ ទៅ ៦ ថ្ងៃវិវត្តបានកោសិកា Trophectoderm និង កោសិកា Inner Cells Mass (ICM) និង ប្រហោង (Blastocoel) នៃអំប្រ៊ីយ៉ុង"
+  },
+  {
+    "id": "question58",
+    "question": "តើកោសិកាឈ្មោះអ្វីដែលនឹងវិវត្តក្លាយជាគភ៌នៅដំណាក់កាលវិវត្តន៍នៃអំប្រ៊ីយ៉ុង?",
+    "choices": [
+      "កោសិកា Inner Cells Mass",
+      "កោសិកា Trophectoderm",
+      "កោសិកា Endoderm",
+      "កោសិកា Ectoderm"
+    ],
+    "correct_answer": "កោសិកា Inner Cells Mass"
+  },
+  {
+    "id": "question59",
+    "question": "តើសរីរាង្គសុក (Placenta) ត្រូវបានបំលែងពីកោសិកាឈ្មោះអ្វីនៅដំណាក់វិវត្តន៍នៃអំប្រ៊ីយ៉ុង?",
+    "choices": [
+      "កោសិកា Ectoderm",
+      "កោសិកា Trophectoderm",
+      "កោសិកា Inner Cells Mass",
+      "កោសិកា Endoderm"
+    ],
+    "correct_answer": "កោសិកា Trophectoderm"
+  },
+  {
+    "id": "question60",
+    "question": "ប្រព័ន្ធរំលាយអាហារ ប្រព័ន្ធផ្លូវដង្ហើម និងសរីរាង្គខាងក្នុងមួយចំនួនដូចជា ថ្លើម និងលំពែង គឺបំលែងពីស្រទាប់៖",
+    "choices": [
+      "ស្រទាប់ Mesoderm",
+      "ស្រទាប់ Endoderm",
+      "ស្រទាប់ Ectoderm",
+      "ស្រទាប់ Epidermis"
+    ],
+    "correct_answer": "ស្រទាប់ Endoderm"
+  },
+  {
+    "id": "question61",
+    "question": "ខួរក្បាល ខួរឆ្អឹងខ្នង ជាលិកាប្រសាទ ក្រពេញញើស ស្បែក សក់ ក្រចក ប្រព័ន្ធប្រសាទ និងសរីរាង្គវិញ្ញាណ គឺបំលែងពីស្រទាប់៖",
+    "choices": [
+      "ស្រទាប់ Ectoderm",
+      "ស្រទាប់ Mesoderm",
+      "ស្រទាប់ Endoderm",
+      "ស្រទាប់ Epidermis"
+    ],
+    "correct_answer": "ស្រទាប់ Ectoderm"
+  },
+  {
+    "id": "question62",
+    "question": "ជាលិកាសាច់ដុំ ឆ្អឹង ឆ្អឹងខ្ចី ជាលិកាសន្ធាន ប្រព័ន្ធឈាមរត់ ប្រព័ន្ធបញ្ចេញចោល និងប្រព័ន្ធបន្តពូជ គឺបំលែងពីស្រទាប់៖",
+    "choices": [
+      "ស្រទាប់ Ectoderm",
+      "ស្រទាប់ Endoderm",
+      "ស្រទាប់ Mesoderm",
+      "ស្រទាប់ Epidermis"
+    ],
+    "correct_answer": "ស្រទាប់ Mesoderm"
+  },
+  {
+    "id": "question63",
+    "question": "ការវិវត្តន៍នៃដំណាក់កាល Gastrulation តើអំប្រ៊ីយ៉ុងបង្កើតបានស្រទាប់សំខាន់ៗអ្វីខ្លះ?",
+    "choices": [
+      "ស្រទាប់ Ectoderm និងកោសិកា Inner Cells Mass (ICM)",
+      "ស្រទាប់ Ectoderm, Mesoderm, និង Endoderm",
+      "ស្រទាប់ Ectoderm កោសិកា Trophoblast",
+      "ស្រទាប់ Mesoderm និង កោសិកា Inner Cells Mass"
+    ],
+    "correct_answer": "ស្រទាប់ Ectoderm, Mesoderm, និង Endoderm"
+  },
+  {
+    "id": "question64",
+    "question": "ការញាស់ (éclosion) របស់ Blastocyste ធ្វើឡើងនៅក្នុង :",
+    "choices": [
+      "ដៃស្បូន (trompe utérine)",
+      "អូវែរ (ovaire)",
+      "ប្រហោងស្បូន (cavité utérine)",
+      "ប្រហោងពោះ (cavité abdominale)"
+    ],
+    "correct_answer": "ប្រហោងស្បូន (cavité utérine)"
+  },
+  {
+    "id": "question65",
+    "question": "ការកាច់សំបុក (implantation) របស់ Blastocyste ធ្វើឡើងនៅ :",
+    "choices": [
+      "Pôle anti- embryonnaire ដោយ Syncytiotrophoblaste",
+      "Pôle embryonnaire និង Pôle anti- embryonnaire",
+      "Pôle embryonnaireដោយ Cytotrophoblaste",
+      "Pôle embryonnaireដោយ Syncytiotrophoblaste"
+    ],
+    "correct_answer": "Pôle embryonnaireដោយ Syncytiotrophoblaste"
+  },
+  {
+    "id": "question66",
+    "question": "ការធ្វើចំនែករបស់ Zygote (Segmentation du zygote) នៅក្នុងពេល :",
+    "choices": [
+      "Zygoteនៅក្នុងដៃស្បូន (trompe utérine)",
+      "Zygote នៅក្នុងប្រហោងស្បូន (cavité utérine)",
+      "Zygote ធ្វើដំណើរចុះតាមប្រហោងដៃស្បូន",
+      "Zygoteនៅក្នុងអូវែរ(ovaire)"
+    ],
+    "correct_answer": "Zygote ធ្វើដំណើរចុះតាមប្រហោងដៃស្បូន"
+  },
+  {
+    "id": "question67",
+    "question": "Zygote មិ នកើនទំហំទេនៅពេលធ្វើ Segmentationព្រោះ :",
+    "choices": [
+      "Zygote ធ្វើ(បំណែក)Segmentation ក្នុង zone pellucide រីកធំ",
+      "Zygote ធ្វើ (បំណែក) Segmentation ក្នុង zone pellucide មិនរីកធំ",
+      "Zygote ធ្វើ បំណែកចេញពី mitose និងក្នុង zone pellucide មិនរីកធំ",
+      "Zygote ធ្វើ បំណែក ក្នុង zone pellucide មិនរីកធំ"
+    ],
+    "correct_answer": "Zygote ធ្វើ បំណែកចេញពី mitose និងក្នុង zone pellucide មិនរីកធំ"
+  },
+  {
+    "id": "question68",
+    "question": "Mésenchyme extra embryonnaire ដែលក្រាលលើ amnios:",
+    "choices": [
+      "Somatopleure extra embryonnaire",
+      "Splanchnopleure extra embryonnaire",
+      "Séreuse",
+      "Mésoblaste"
+    ],
+    "correct_answer": "Somatopleure extra embryonnaire"
+  },
+  {
+    "id": "question69",
+    "question": "Mésenchyme extra embryonnaire ដែលក្រាលលើ vésicule vitelline:",
+    "choices": [
+      "Somatopleureextra embryonnaire",
+      "Splanchnopleure extra embryonnaire",
+      "Séreuse",
+      "Mésoblaste"
+    ],
+    "correct_answer": "Splanchnopleure extra embryonnaire"
+  },
+  {
+    "id": "question70",
+    "question": "Amnios ផ្សំឡើងពី",
+    "choices": [
+      "Amnioblastes et ectoderme",
+      "Amnioblastes et endoderme",
+      "Amnioblastes",
+      "Epiblastes"
+    ],
+    "correct_answer": "Amnioblastes et ectoderme"
+  },
+  {
+    "id": "question71",
+    "question": "Canal neurentériqueភ្ជាប់ទំនាក់ទំនង",
+    "choices": [
+      "Cavité amniotique និង Cavité de segmentation",
+      "Cavité amniotique និង Vésicule vitelline primitive",
+      "Cavité amniotique និង Vésicule ombilicale",
+      "Cavité amniotique និង Lécithocèle"
+    ],
+    "correct_answer": "Cavité amniotique និង Vésicule vitelline primitive"
+  },
+  {
+    "id": "question72",
+    "question": "Canal vitellin ភ្ជាប់ទំនាក់ទំនង:",
+    "choices": [
+      "Intestin antérieur និង Vésicule ombilicale",
+      "Intestin moyen និង Vésicule ombilicale",
+      "Intestin moyenនិង Vésicule vitelline primitive",
+      "Intestin postérieur និង Vésicule ombilicale"
+    ],
+    "correct_answer": "Intestin moyen និង Vésicule ombilicale"
+  },
+  {
+    "id": "question73",
+    "question": "ក្នុងការវិវត្តរបស់ Mésoblaste គឺ Mésoblaste latéralឲ្យកំណើត :",
+    "choices": [
+      "SomatopleureនិងSplanchnopleure intra embryonnaireក្លាយជាamnios",
+      "SomatopleureនិងSplanchnopleure intra embryonnaire ក្លាយជាcordon ombilical",
+      "SomatopleureនិងSplanchnopleure intra embryonnaire ក្លាយជាséreuse",
+      "SomatopleureនិងSplanchnopleure intra embryonnaire ក្លាយជាchorion"
+    ],
+    "correct_answer": "SomatopleureនិងSplanchnopleure intra embryonnaire ក្លាយជាséreuse"
+  },
+  {
+    "id": "question74",
+    "question": "Caduque ដែលរុំព័ទ្ធembryon :",
+    "choices": [
+      "Caduque utérine",
+      "Caduque basilaire",
+      "Caduque ovulaire",
+      "Caduque pariétal"
+    ],
+    "correct_answer": "Caduque ovulaire"
+  },
+  {
+    "id": "question75",
+    "question": "Divagation គឺជា:",
+    "choices": [
+      "ការធ្លាក់ចុះនៃ ovuleទៅក្នុងប្រហោងពោះ ខុសធម្មតា",
+      "ការហូរចូលនៃ ovuleទៅក្នុងប្រហោងស្បូន ខុសធម្មតា",
+      "ការហូរចូលនៃ ovuleទៅក្នុងដៃស្បូន ខុសធម្មតា",
+      "ការធ្លាក់ចុះនៃ zygoteទៅក្នុងប្រហោងពោះ ខុសធម្មតា"
+    ],
+    "correct_answer": "ការធ្លាក់ចុះនៃ ovuleទៅក្នុងប្រហោងពោះ ខុសធម្មតា"
+  },
+  {
+    "id": "question76",
+    "question": "ក្នុងពេល Délimitation postérieure du germe tridermiqueគឺ :",
+    "choices": [
+      "Pédicule embryonnaireទៅស្ថិតនៅ face dorsale médiane du fœtus",
+      "Pédicule embryonnaireទៅស្ថិតនៅ face ventrale médiane du fœtus",
+      "Pédicule embryonnaireទៅស្ថិតនៅ face caudale du fœtus",
+      "Pédicule embryonnaireទៅស្ថិតនៅ extrémité caudale du fœtus"
+    ],
+    "correct_answer": "Pédicule embryonnaireទៅស្ថិតនៅ face ventrale médiane du fœtus"
+  },
+  {
+    "id": "question77",
+    "question": "ក្នុងពេលវិវត្ត ក្នុងសប្តាហ៍ទី៤ Stomodéum គឺជា :",
+    "choices": [
+      "Dépressionរបស់ membrane cloacale រុញច្រានទៅក្នុងជំរៅមួយ",
+      "Dépressionរបស់ membrane pharyngienneរុញច្រានទៅក្នុងជំរៅមួយ",
+      "Dépressionរបស់ intestin antérieurរុញច្រានទៅក្នុងជំរៅមួយ",
+      "Dépressionរបស់ canal cordalរុញច្រានទៅក្នុងជំរៅមួយ"
+    ],
+    "correct_answer": "Dépressionរបស់ membrane pharyngienneរុញច្រានទៅក្នុងជំរៅមួយ"
+  },
+  {
+    "id": "question78",
+    "question": "ក្រពេញ Thymusមានប្រភពមកពី",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពី intestin primitif postérieur",
+      "ចេញពី intestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif antérieur"
+  },
+  {
+    "id": "question79",
+    "question": "ក្នុងការវិវត្តរបស់Mésoblaste intermédiaireអោយកំណើត :",
+    "choices": [
+      "Séreuse",
+      "Somites",
+      "Métanéphros",
+      "Cordon néphrogènes"
+    ],
+    "correct_answer": "Cordon néphrogènes"
+  },
+  {
+    "id": "question80",
+    "question": "ក្នុងការវិវត្តរបស់ Ectoblasteអោយកំណើត :",
+    "choices": [
+      "Neurectoblasteនិង hypoblaste",
+      "Neurectoblasteនិង épiblaste",
+      "Epiblasteនិង hypoblaste",
+      "Plaque neurale និង hypoblaste"
+    ],
+    "correct_answer": "Neurectoblasteនិង épiblaste"
+  },
+  {
+    "id": "question81",
+    "question": "ក្នុងការវិវត្តរបស់ Ectoblaste គឺ crêtes neuralesអោយ កំណើត",
+    "choices": [
+      "Bourrelets ganglionnairesពីរ symétriques នៅក្រោម épiblaste",
+      "Bandelettes ganglionnaires ពីរ symétriques នៅក្រោម épiblaste",
+      "Bandelettes nerveux ពីរ symétriques នៅក្រោម épiblaste",
+      "Bandelettes épendymairesពីរ symétriques នៅក្រោម épiblaste"
+    ],
+    "correct_answer": "Bandelettes ganglionnaires ពីរ symétriques នៅក្រោម épiblaste"
+  },
+  {
+    "id": "question82",
+    "question": "ក្នុងការវិវត្តរបស់ Tube neural antérieurអោយជាៈ",
+    "choices": [
+      "Vésicules cérébrales: prosencéphale, télencéphale, rhombencéphale",
+      "Vésicules cérébrales: télencéphale, mésencéphale, rhombencéphale",
+      "Vésicules cérébrales: prosencéphale, mésencéphale, rhombencéphale",
+      "Vésicules cérébrales: prosencéphale, diencéphale, rhombencéphale"
+    ],
+    "correct_answer": "Vésicules cérébrales: prosencéphale, mésencéphale, rhombencéphale"
+  },
+  {
+    "id": "question83",
+    "question": "កំរាលរបស់ Allantoide ធ្វើឡើងពី :",
+    "choices": [
+      "Entoblaste intra-embryonnaire",
+      "Hypoblaste intra-embryonnaire",
+      "Entoblaste extra-embryonnaire",
+      "Lécithocèle"
+    ],
+    "correct_answer": "Entoblaste extra-embryonnaire"
+  },
+  {
+    "id": "question84",
+    "question": "កោសិការបស់mésoblaste ធ្វើឡើងពី :",
+    "choices": [
+      "កោសិកាendodermique modifiée មានរាងsphérique",
+      "កោសិកាectodermique modifiée មានរាងcylindrique",
+      "កោសិកា ectodermique modifiée មានរាងsphérique",
+      "កោសិកាendodermique modifiée មានរាងcylindrique"
+    ],
+    "correct_answer": "កោសិកា ectodermique modifiée មានរាងsphérique"
+  },
+  {
+    "id": "question85",
+    "question": "កោសិការបស់ plaque protocordale ធ្វើឡើងពី :",
+    "choices": [
+      "កោសិកាcylindrique",
+      "កោសិកា sphérique",
+      "កោសិកា pyramide",
+      "កោសិកា polyédrique"
+    ],
+    "correct_answer": "កោសិកា cylindrique"
+  },
+  {
+    "id": "question86",
+    "question": "ក្នុងពេលវិវត្ត ក្នុងសប្តាហ៍ទី៣ គឺ Ligne primitive:",
+    "choices": [
+      "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក céphalique នៃបន្ទះ embryon",
+      "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក caudaleនៃបន្ទះ embryon",
+      "កើតនៅថ្ងៃទី 17នៅផ្នែក caudale នៃបន្ទះ embryon",
+      "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក médullaire នៃបន្ទះ embryon"
+    ],
+    "correct_answer": "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក caudaleនៃបន្ទះ embryon"
+  },
+  {
+    "id": "question87",
+    "question": "Pédicule de fixation ផ្សំឡើងពី :",
+    "choices": [
+      "Mésenchyme intra-embryonnaire, amnios, vésicule vitelline, cytotrophoblaste",
+      "Mésenchyme extra-embryonnaire, amnios, vésicule vitelline, cytotrophoblaste",
+      "Mésenchyme extra-embryonnaire, amnios, allantoïde, cytotrophoblaste",
+      "Mésenchyme extra-embryonnaire, vésicule vitelline, cytotrophoblaste, coelome"
+    ],
+    "correct_answer": "Mésenchyme extra-embryonnaire, amnios, allantoïde, cytotrophoblaste"
+  },
+  {
+    "id": "question88",
+    "question": "នៅពេលគ្រប់ខែ ទឹកភ្លោះ (liquide amniotique) មានចំណុះ :",
+    "choices": [
+      "200 ទៅ 400 ml",
+      "300 ទៅ 500 ml",
+      "500 ទៅ 800 ml",
+      "1000 ទៅ 1200 ml"
+    ],
+    "correct_answer": "500 ទៅ 800 ml"
+  },
+  {
+    "id": "question89",
+    "question": "Caduque capsulaire និង caduque pariétaleបិតជាប់គ្នា នៅក្នុង :",
+    "choices": [
+      "ខែទី៣",
+      "ខែទី៤",
+      "ខែទី៥",
+      "ខែទី៦"
+    ],
+    "correct_answer": "ខែទី៤"
+  },
+  {
+    "id": "question90",
+    "question": "កោសិកាកំរាល របស់ ប្រដាប់ដកដង្ហើម embryon មានប្រភពមកពី :",
+    "choices": [
+      "Ectoblaste",
+      "Endobalste",
+      "Mésoblaste",
+      "Epiblaste et Hypoblaste"
+    ],
+    "correct_answer": "Endobalste"
+  },
+  {
+    "id": "question91",
+    "question": "ការកាច់សំបុក (implantation) គឺជា :",
+    "choices": [
+      "ការភ្ជាប់ខ្លួននៅpôle anti-embryonnaire របស់ blastocyste ទៅនឹង endomètre របស់ស្បូន",
+      "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់ Blastocyste ទៅនឹង muqueuse របស់ដៃស្បូន",
+      "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់Morulaទៅនឹង endomètre របស់ស្បូន",
+      "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់ Blastocyste ទៅនឹង endomètre របស់ស្បូន"
+    ],
+    "correct_answer": "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់ Blastocyste ទៅនឹង endomètre របស់ស្បូន"
+  },
+  {
+    "id": "question92",
+    "question": "ដែនរបស់ Vésicule vitelline primitiveផ្សំឡើងមកពី :",
+    "choices": [
+      "Ectoblaste et membrane de Heuser",
+      "Endoblaste ទាំងអស់",
+      "Membrane de Heuser",
+      "Endoblaste និង Membrane de Heuser ទាំងអស់"
+    ],
+    "correct_answer": "Endoblaste និង Membrane de Heuser ទាំងអស់"
+  },
+  {
+    "id": "question93",
+    "question": "ដែនរបស់ Vésicule vitelline secondaireផ្សំឡើងមកពី :",
+    "choices": [
+      "Ectoblaste et membrane de Heuser",
+      "Endoblaste ទាំងអស់",
+      "Endoblaste et membrane de Heuser",
+      "Membrane de Heuser ទាំងអស់"
+    ],
+    "correct_answer": "Endoblaste ទាំងអស់"
+  },
+  {
+    "id": "question94",
+    "question": "Embryon didermiqueផ្សំឡើងមកពី :",
+    "choices": [
+      "Ectodermeធ្វើពីកោសិកាsphériqueនិង Endodermeធ្វើពីកោសិកាតូចៗ polyédrique",
+      "Ectodermeធ្វើពីកោសិកា cylindrique និង Endodermeធ្វើពីកោសិកាតូចៗsphérique",
+      "Ectodermeធ្វើពីកោសិកាតូចៗ polyédriqueនិង Endodermeធ្វើពីកោសិកា cylindrique",
+      "Ectodermeធ្វើពីកោសិកា cylindriqueនិង Endodermeធ្វើពីកោសិកាតូចៗ polyédrique"
+    ],
+    "correct_answer": "Ectodermeធ្វើពីកោសិកា cylindriqueនិង Endodermeធ្វើពីកោសិកាតូចៗ polyédrique"
+  },
+  {
+    "id": "question95",
+    "question": "Capacitationគឺជាបំរែបំរួលរបស់ spermatozoïde កើតមាន :",
+    "choices": [
+      "មុន réaction acrosomique",
+      "ក្រោយ réaction acrosomique",
+      "ស្របពេលនឹងréaction acrosomique",
+      "ដោយគ្មាន réaction acrosomique"
+    ],
+    "correct_answer": "មុន réaction acrosomique"
+  },
+  {
+    "id": "question96",
+    "question": "ពួក gonocytes primordiauxធ្វើការបំលែងខ្លួនដំបូងបង្អស់នៅ :",
+    "choices": [
+      "ជុំវិញ Lécithocèle",
+      "នៅជិត Allantoïde",
+      "នៅក្នុង Allantoïde",
+      "នៅក្នុងCrêtes génitales"
+    ],
+    "correct_answer": "នៅក្នុង Allantoïde"
+  },
+  {
+    "id": "question97",
+    "question": "ដំណាក់កាល Chorion lisseគឺជា:",
+    "choices": [
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque basilaire",
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque capsulaire",
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque pariétale",
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque basilaire et pariétal"
+    ],
+    "correct_answer": "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque pariétale"
+  },
+  {
+    "id": "question98",
+    "question": "រចនាសម្ពន្ធ័មូលដ្ឋានរបស់ Villositésមាន:",
+    "choices": [
+      "Axe mésenchymateux ព្រមទាំងcapillaire",
+      "ស្រទាប់ក្នុង Cytotrophoblasteនិង ស្រទាប់ក្រៅ Syncytiotrophoblaste",
+      "ស្រទាប់ Chorion ទាំងអស់ដែលរុំព័ទ្ធអំប្រ៊ីយ៉ុងទាំងមូល",
+      "Axe mésenchymateux ព្រមទាំងcapillaires, ស្រទាប់ក្នុងCytotrophoblasteនិង ស្រទាប់ក្រៅSyncytiotrophoblaste"
+    ],
+    "correct_answer": "Axe mésenchymateux ព្រមទាំងcapillaires, ស្រទាប់ក្នុងCytotrophoblasteនិង ស្រទាប់ក្រៅSyncytiotrophoblaste"
+  },
+  {
+    "id": "question99",
+    "question": "នៅពេលគ្រប់ខែ សុក (placenta) មានទំងន់:",
+    "choices": [
+      "200 gទៅ 400 g",
+      "500 g ទៅ 600 g",
+      "100 g ទៅ 300 g",
+      "800 g ទៅ 900 g"
+    ],
+    "correct_answer": "500 g ទៅ 600 g"
+  },
+  {
+    "id": "question100",
+    "question": "Somites៣ទៅ៥គូរ ដំបូង លេចចេញជារូបរាងនៅ :",
+    "choices": [
+      "ថ្ងៃទី១៩",
+      "ថ្ងៃទី២០",
+      "ថ្ងៃទី២១",
+      "ថ្ងៃទី៣០"
+    ],
+    "correct_answer": "ថ្ងៃទី២០"
+  },
+  {
+    "id": "question101",
+    "question": "កោសិការបស់mésoblaste ធ្វើឡើងពី :",
+    "choices": [
+      "កោសិកាendodermique modifiée មានរាងsphérique",
+      "កោសិកាectodermique modifiée មានរាងcylindrique",
+      "កោសិកា ectodermique modifiée មានរាងsphérique",
+      "កោសិកាendodermique modifiée មានរាងcylindrique"
+    ],
+    "correct_answer": "កោសិកា ectodermique modifiée មានរាងsphérique"
+  },
+  {
+    "id": "question102",
+    "question": "កោសិការបស់ plaque protocordale ធ្វើឡើងពី :",
+    "choices": [
+      "កោសិកាcylindrique",
+      "កោសិកា sphérique",
+      "កោសិកា pyramide",
+      "កោសិកា polyédrique"
+    ],
+    "correct_answer": "កោសិកាcylindrique"
+  },
+  {
+    "id": "question103",
+    "question": "ក្នុងពេលវិវត្ត ក្នុងសប្តាហ៍ទី៣ គឺ Ligne primitive:",
+    "choices": [
+      "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក céphalique នៃបន្ទះ embryon",
+      "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក caudaleនៃបន្ទះ embryon",
+      "កើតនៅថ្ងៃទី 17នៅផ្នែក caudale នៃបន្ទះ embryon",
+      "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក médullaire នៃបន្ទះ embryon"
+    ],
+    "correct_answer": "កើតនៅថ្ងៃទី 15-16 នៅផ្នែក caudaleនៃបន្ទះ embryon"
+  },
+  {
+    "id": "question104",
+    "question": "Pédicule de fixation ផ្សំឡើងពី :",
+    "choices": [
+      "Mésenchyme intra-embryonnaire, amnios, vésicule vitelline, cytotrophoblaste",
+      "Mésenchyme extra-embryonnaire, amnios, vésicule vitelline, cytotrophoblaste",
+      "Mésenchyme extra-embryonnaire, amnios, allantoïde, cytotrophoblaste",
+      "Mésenchyme extra-embryonnaire, vésicule vitelline, cytotrophoblaste, coelome"
+    ],
+    "correct_answer": "Mésenchyme extra-embryonnaire, amnios, allantoïde, cytotrophoblaste"
+  },
+  {
+    "id": "question105",
+    "question": "នៅពេលគ្រប់ខែ ទឹកភ្លោះ (liquide amniotique) មានចំណុះ :",
+    "choices": [
+      "200 ទៅ 400 ml",
+      "300 ទៅ 500 ml",
+      "500 ទៅ 800 ml",
+      "1000 ទៅ 1200 ml"
+    ],
+    "correct_answer": "500 ទៅ 800 ml"
+  },
+  {
+    "id": "question106",
+    "question": "Caduque capsulaire និង caduque pariétaleបិតជាប់គ្នា នៅក្នុង :",
+    "choices": [
+      "ខែទី៣",
+      "ខែទី៤",
+      "ខែទី៥",
+      "ខែទី៦"
+    ],
+    "correct_answer": "ខែទី៤"
+  },
+  {
+    "id": "question107",
+    "question": "កោសិកាកំរាល របស់ ប្រដាប់ដកដង្ហើម embryon មានប្រភពមកពី :",
+    "choices": [
+      "Ectoblaste",
+      "Endobalste",
+      "Mésoblaste",
+      "Epiblaste et Hypoblaste"
+    ],
+    "correct_answer": "Endobalste"
+  },
+  {
+    "id": "question108",
+    "question": "ការកាច់សំបុក (implantation) គឺជា :",
+    "choices": [
+      "ការភ្ជាប់ខ្លួននៅpôle anti-embryonnaire របស់ blastocyste ទៅនឹង endomètre របស់ស្បូន",
+      "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់ Blastocyste ទៅនឹង muqueuse របស់ដៃស្បូន",
+      "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់Morulaទៅនឹង endomètre របស់ស្បូន",
+      "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់ Blastocyste ទៅនឹង endomètre របស់ស្បូន"
+    ],
+    "correct_answer": "ការភ្ជាប់ខ្លួននៅpôle embryonnaire របស់ Blastocyste ទៅនឹង endomètre របស់ស្បូន"
+  },
+  {
+    "id": "question109",
+    "question": "ដែនរបស់ Vésicule vitelline primitiveផ្សំឡើងមកពី :",
+    "choices": [
+      "Ectoblaste et membrane de Heuser",
+      "Endoblaste ទាំងអស់",
+      "Membrane de Heuser",
+      "Endoblaste និង Membrane de Heuser ទាំងអស់"
+    ],
+    "correct_answer": "Endoblaste និង Membrane de Heuser ទាំងអស់"
+  },
+  {
+    "id": "question110",
+    "question": "ដែនរបស់ Vésicule vitelline secondaireផ្សំឡើងមកពី :",
+    "choices": [
+      "Ectoblaste et membrane de Heuser",
+      "Endoblaste ទាំងអស់",
+      "Endoblaste et membrane de Heuser",
+      "Membrane de Heuser ទាំងអស់"
+    ],
+    "correct_answer": "Endoblaste ទាំងអស់"
+  },
+  {
+    "id": "question111",
+    "question": "Embryon didermiqueផ្សំឡើងមកពី :",
+    "choices": [
+      "Ectodermeធ្វើពីកោសិកាsphériqueនិង Endodermeធ្វើពីកោសិកាតូចៗ polyédrique",
+      "Ectodermeធ្វើពីកោសិកា cylindrique និង Endodermeធ្វើពីកោសិកាតូចៗsphérique",
+      "Ectodermeធ្វើពីកោសិកាតូចៗ polyédriqueនិង Endodermeធ្វើពីកោសិកា cylindrique",
+      "Ectodermeធ្វើពីកោសិកា cylindriqueនិង Endodermeធ្វើពីកោសិកាតូចៗ polyédrique"
+    ],
+    "correct_answer": "Ectodermeធ្វើពីកោសិកា cylindriqueនិង Endodermeធ្វើពីកោសិកាតូចៗ polyédrique"
+  },
+  {
+    "id": "question112",
+    "question": "Capacitationគឺជាបំរែបំរួលរបស់ spermatozoïde កើតមាន :",
+    "choices": [
+      "មុន réaction acrosomique",
+      "ក្រោយ réaction acrosomique",
+      "ស្របពេលនឹងréaction acrosomique",
+      "ដោយគ្មាន réaction acrosomique"
+    ],
+    "correct_answer": "មុន réaction acrosomique"
+  },
+  {
+    "id": "question113",
+    "question": "ពួក gonocytes primordiauxធ្វើការបំលែងខ្លួនដំបូងបង្អស់នៅ :",
+    "choices": [
+      "ជុំវិញ Lécithocèle",
+      "នៅជិត Allantoïde",
+      "នៅក្នុង Allantoïde",
+      "នៅក្នុងCrêtes génitales"
+    ],
+    "correct_answer": "នៅក្នុង Allantoïde"
+  },
+  {
+    "id": "question114",
+    "question": "ដំណាក់កាល Chorion lisseគឺជា:",
+    "choices": [
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque basilaire",
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque capsulaire",
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque pariétale",
+      "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque basilaire et pariétal"
+    ],
+    "correct_answer": "ការរលុបបាត់នៃពួកvillosité នៅផ្នែក caduque pariétale"
+  },
+  {
+    "id": "question115",
+    "question": "រចនាសម្ពន្ធ័មូលដ្ឋានរបស់ Villositésមាន:",
+    "choices": [
+      "Axe mésenchymateux ព្រមទាំងcapillaire",
+      "ស្រទាប់ក្នុង Cytotrophoblasteនិង ស្រទាប់ក្រៅ Syncytiotrophoblaste",
+      "ស្រទាប់ Chorion ទាំងអស់ដែលរុំព័ទ្ធអំប្រ៊ីយ៉ុងទាំងមូល",
+      "Axe mésenchymateux ព្រមទាំងcapillaires, ស្រទាប់ក្នុងCytotrophoblasteនិង ស្រទាប់ក្រៅSyncytiotrophoblaste"
+    ],
+    "correct_answer": "Axe mésenchymateux ព្រមទាំងcapillaires, ស្រទាប់ក្នុងCytotrophoblasteនិង ស្រទាប់ក្រៅSyncytiotrophoblaste"
+  },
+  {
+    "id": "question116",
+    "question": "នៅពេលគ្រប់ខែ សុក (placenta) មានទំងន់:",
+    "choices": [
+      "200 gទៅ 400 g",
+      "500 g ទៅ 600 g",
+      "100 g ទៅ 300 g",
+      "800 g ទៅ 900 g"
+    ],
+    "correct_answer": "500 g ទៅ 600 g"
+  },
+  {
+    "id": "question117",
+    "question": "Somites៣ទៅ៥គូរ ដំបូង លេចចេញជារូបរាងនៅ :",
+    "choices": [
+      "ថ្ងៃទី១៩",
+      "ថ្ងៃទី២០",
+      "ថ្ងៃទី២១",
+      "ថ្ងៃទី៣០"
+    ],
+    "correct_answer": "ថ្ងៃទី២០"
+  },
+  {
+    "id": "question118",
+    "question": "ក្នុងការវិវត្តរបស់ Somitesគឺ Somitesអោយកំណើត :",
+    "choices": [
+      "Sclérotome, Myotomeនិង Epidermatome",
+      "Sclérotome, Chondromeនិង Dermatome",
+      "Sclérotome, Myotomeនិង Dermatome",
+      "Sclérotome, Myotomeនិង Angiome"
+    ],
+    "correct_answer": "Sclérotome, Myotomeនិង Dermatome"
+  },
+  {
+    "id": "question119",
+    "question": "ក្នុងការវិវត្តរបស់Cordons néphrogènesគឺ Cordons néphrogènesអោយកំណើត",
+    "choices": [
+      "Pronéphros, Néphrotomeនិង Métanéphros",
+      "Pronéphros, Mésonéphrosនិង Blastème métanéphrogène",
+      "Pronéphros, Corps de Wolff និងMétanéphros",
+      "Pronéphros, Mésonéphros និង Métanéphros"
+    ],
+    "correct_answer": "Pronéphros, Mésonéphros និង Métanéphros"
+  },
+  {
+    "id": "question120",
+    "question": "Follicules ovariens ដែលគ្មានការវិវត្តនិង គ្មានដំណើរការជីវិតគឺៈ",
+    "choices": [
+      "Follicules primaires",
+      "Follicules quiescents",
+      "Follicules secondaires",
+      "Follicule dominant"
+    ],
+    "correct_answer": "Follicules quiescents"
+  },
+  {
+    "id": "question121",
+    "question": "សំណល់ របស់ Canal vitellinគឺ :",
+    "choices": [
+      "Diverticule allantoïdien ចាក់រឹសនៅ intestin grêle",
+      "Diverticule de Meckel ចាក់រឹសនៅ intestin grêleត្រង់ duodénum",
+      "Diverticule de Meckel ចាក់រឹសនៅ intestin grêle ត្រង់jéjunum",
+      "Diverticule de Meckel ចាក់រឹសនៅ intestin grêleត្រង់iléon"
+    ],
+    "correct_answer": "Diverticule de Meckel ចាក់រឹសនៅ intestin grêleត្រង់iléon"
+  },
+  {
+    "id": "question122",
+    "question": "ទិដ្ឋភាពបន្ទះ Embryon រាងជាpyriforme គេសង្កេតឃើញនៅថ្ងៃ :",
+    "choices": [
+      "ថ្ងៃទី១៧",
+      "ថ្ងៃទី១៨",
+      "ថ្ងៃទី១៩",
+      "ថ្ងៃទី២០"
+    ],
+    "correct_answer": "ថ្ងៃទី១៨"
+  },
+  {
+    "id": "question123",
+    "question": "Ligne primitive et Nœud de Hensen រលុបបាត់នៅ :",
+    "choices": [
+      "ចុងសប្តាហ៍ទី៣",
+      "ដើមសប្តាហ៍ទី៤",
+      "ចុងសប្តាហ៍ទី៤",
+      "ដើមសប្តាហ៍ទី៥"
+    ],
+    "correct_answer": "ចុងសប្តាហ៍ទី៤"
+  },
+  {
+    "id": "question124",
+    "question": "ទិដ្ឋភាពបន្ទះ Embryon រាងជា tridermique:",
+    "choices": [
+      "Ectoderme, hypoblaste, mésoblaste",
+      "Ectoblaste, mésoblaste, endoderme",
+      "Ectoderme, endoblaste, mésenchyme",
+      "Ectoderme, mésoderme, endoderme"
+    ],
+    "correct_answer": "Ectoderme, mésoderme, endoderme"
+  },
+  {
+    "id": "question125",
+    "question": "ហេដ្ឋារចនាសម្ពន្ធ័របស់ placentaមាន :",
+    "choices": [
+      "Plaque choriale, caduque réfléchieនៅផ្នែក face maternelle",
+      "Plaque choriale, Plaque basale, Chambre intervilleuse et villosités",
+      "Plaque basale, caduque ovulaireព្រមទាំង face fœtale",
+      "Caduquecapsulaire, lame choriale, cytotrophoblaste, syncytiotrophoblaste"
+    ],
+    "correct_answer": "Plaque choriale, Plaque basale, Chambre intervilleuse et villosités"
+  },
+  {
+    "id": "question126",
+    "question": "Eperon périnéal នឹងខណ្ឌ័ចែក :",
+    "choices": [
+      "Cloaque ចេញពី vésicule ombilicale",
+      "Intestin moyen ចេញពី allantoïde",
+      "Cloaque ចេញពី allantoïde",
+      "Cloaque ចេញ ជា sinus uro-génital និង canal anal"
+    ],
+    "correct_answer": "Cloaque ចេញ ជា sinus uro-génital និង canal anal"
+  },
+  {
+    "id": "question127",
+    "question": "Neuropore postérieur បិទ:",
+    "choices": [
+      "ថ្ងៃទី២៨",
+      "ថ្ងៃទី២៧",
+      "ថ្ងៃទី២៩",
+      "ថ្ងៃទី២៥"
+    ],
+    "correct_answer": "ថ្ងៃទី២៨"
+  },
+  {
+    "id": "question128",
+    "question": "Amnioblastes មានប្រភពមកពី :",
+    "choices": [
+      "កោសិកាectodermique ជាប់នឹង cytotrophoblaste",
+      "កោសិកាectodermique ជាប់នឹង endoderme",
+      "កោសិកាcytotrophoblastiqueជាប់នឹង ectoderme",
+      "កោសិកាendodermique ជាប់នឹង ectoderme"
+    ],
+    "correct_answer": "កោសិកាectodermique ជាប់នឹង cytotrophoblaste"
+  },
+  {
+    "id": "question129",
+    "question": "Mésenchyme extra embryonnaire មានប្រភពមកពី :",
+    "choices": [
+      "កោសិកាectodermique ជាប់នឹង cytotrophoblaste",
+      "កោសិកាectodermique ជាប់នឹង endoderme",
+      "កោសិកាcytotrophoblastiqueជាប់នឹង ectoderme",
+      "កោសិកាendodermique ជាប់នឹង ectoderme"
+    ],
+    "correct_answer": "កោសិកាcytotrophoblastiqueជាប់នឹង ectoderme"
+  },
+  {
+    "id": "question130",
+    "question": "Corde dorsal មានប្រភពមកពី :",
+    "choices": [
+      "Plaque cordale",
+      "Canal cordal",
+      "Cordon cellulaire plein",
+      "Prolongement céphalique de la ligne primitive"
+    ],
+    "correct_answer": "Prolongement céphalique de la ligne primitive"
+  },
+  {
+    "id": "question131",
+    "question": "Hormone ដែលចេញពី placenta :",
+    "choices": [
+      "HCG",
+      "Testosterone",
+      "Estrogène et progestérone",
+      "HCG, Estrogène et progestérone"
+    ],
+    "correct_answer": "HCG, Estrogène et progestérone"
+  },
+  {
+    "id": "question132",
+    "question": "Vessie មានប្រភពមកពី :",
+    "choices": [
+      "Allantoïde",
+      "Mésonéphros",
+      "Sinus uro-génital",
+      "Cordons néphrogènes"
+    ],
+    "correct_answer": "Sinus uro-génital"
+  },
+  {
+    "id": "question133",
+    "question": "Séreuse viscéral (feuillet viscéral) មានប្រភពមកពី :",
+    "choices": [
+      "Somatopleure",
+      "Splanchnopleure",
+      "Somatopleure et Splanchnopleure",
+      "Mésenchyme extra embryonnaire"
+    ],
+    "correct_answer": "Splanchnopleure"
+  },
+  {
+    "id": "question134",
+    "question": "Membrane pharyngienne មានប្រភពមកពី",
+    "choices": [
+      "Ectoderme et endoderme ស្អិតជាប់គ្នាផ្នែក céphalique",
+      "ចេញពី Plaque protocordale ក្នុងសប្តាហ៍ទី២",
+      "ចេញពី Plaque protochordale ក្នុងសប្តាហ៍ទី៣",
+      "ចេញពីការរីកក្រាស់របស់ Endoderme ក្នុងសប្តាហ៍ទី៣"
+    ],
+    "correct_answer": "Ectoderme et endoderme ស្អិតជាប់គ្នាផ្នែក céphalique"
+  },
+  {
+    "id": "question135",
+    "question": "Placentaមាន face:",
+    "choices": [
+      "Face externe et face interne",
+      "Face ventrale et dorsale",
+      "Face antérieure et postérieure",
+      "Face maternelle et face fœtale"
+    ],
+    "correct_answer": "Face maternelle et face fœtale"
+  },
+  {
+    "id": "question136",
+    "question": "ភាគផ្សំរបស់កូនដែលប៉ះផ្ទាល់ជាមួយឈាមម្តាយគឺៈ",
+    "choices": [
+      "Mésenchyme extra-embryonnaire",
+      "Artère et veine ombilicale",
+      "Villosité",
+      "Syncytiotrophoblaste"
+    ],
+    "correct_answer": "Syncytiotrophoblaste"
+  },
+  {
+    "id": "question137",
+    "question": "ចំពោះវដ្តរដូវ២៨ថ្ងៃ តើ Ovulation កើតឡើងនៅថ្ងៃទីប៉ុន្មាន?",
+    "choices": [
+      "ថ្ងៃទី១",
+      "ថ្ងៃទី៥",
+      "ថ្ងៃទី១៤",
+      "ថ្ងៃទី២៨"
+    ],
+    "correct_answer": "ថ្ងៃទី១៤"
+  },
+  {
+    "id": "question138",
+    "question": "ក្នុងករណីធម្មតា តើមាន Ovocyte ប៉ុន្មានទទួលរងនូវ ការធ្វើ fécondation?",
+    "choices": [
+      "មានមួយ",
+      "មានពីរ",
+      "មានបី",
+      "មានបួន"
+    ],
+    "correct_answer": "មានមួយ"
+  },
+  {
+    "id": "question139",
+    "question": "ចំពោះ disque embryonnaire didermique, disque មានប៉ុន្មានស្រទាប់?",
+    "choices": [
+      "មួយស្រទាប់",
+      "ពីរស្រទាប់",
+      "បីស្រទាប់",
+      "បួនស្រទាប់"
+    ],
+    "correct_answer": "ពីរស្រទាប់"
+  },
+  {
+    "id": "question140",
+    "question": "តើកោសិកា Cytotrophoblaste មានលក្ខណះដូចម្តេច?",
+    "choices": [
+      "មាន noyau តែមួយ",
+      "មាន noyaux ច្រើន",
+      "មាន membrane រលាយចូលគ្នា",
+      "គ្មានព្រំដែនច្បាស់លាស់"
+    ],
+    "correct_answer": "មាន noyau តែមួយ"
+  },
+  {
+    "id": "question141",
+    "question": "តើកោសិកា Trophoblaste មាន noyaux ច្រើន គ្មានព្រំដែនច្បាស់លាស់ហើយចិតនៅខាងក្រៅ មានឈ្មោះអ្វី?",
+    "choices": [
+      "Cytotrophoblaste",
+      "Syncytiotrophoblaste",
+      "Corona radiata",
+      "Globule polaire"
+    ],
+    "correct_answer": "Syncytiotrophoblaste"
+  },
+  {
+    "id": "question142",
+    "question": "តើ Phase sécrétoire du cycle menstruel ចាប់ផ្តើមនៅពេលណា?",
+    "choices": [
+      "បន្ទាប់ពីធ្លាក់ឈាមរដូវអស់",
+      "នៅថ្ងៃដែលមាន Ovulation",
+      "ក្រោយពី Ovulation",
+      "នៅពេលចាប់ផ្តើមធ្លាក់ឈាមរដូវ"
+    ],
+    "correct_answer": "ក្រោយពី Ovulation"
+  },
+  {
+    "id": "question143",
+    "question": "កោសិកានៃ Bouton embryonnaire ផ្សំឡើងពី:",
+    "choices": [
+      "Hypoblaste",
+      "Trophoblaste",
+      "Embryoblaste",
+      "Epiblaste"
+    ],
+    "correct_answer": "Epiblaste"
+  },
+  {
+    "id": "question144",
+    "question": "Disque embryonnaire didermique បង្កើតដោយស្រទាប់កោសិកាពីរគឺ",
+    "choices": [
+      "Cytotrophoblasteនិង Syncytiotrophoblaste",
+      "Epiblaste និង Hypoblaste",
+      "Cytotrophoblaste និង Epiblaste",
+      "Syncytiotrophoblaste និង Hypoblaste"
+    ],
+    "correct_answer": "Epiblaste និង Hypoblaste"
+  },
+  {
+    "id": "question145",
+    "question": "Cavité amniotique ថិតនៅចន្លោះ :",
+    "choices": [
+      "Amnioblaste និង Ectoderme primitive",
+      "Cytotrophoblaste និង Syncytiotrophoblaste",
+      "Hypoblaste និង Epiblaste",
+      "Cytotrophoblaste និង Hypoblaste"
+    ],
+    "correct_answer": "Amnioblaste និង Ectoderme primitive"
+  },
+  {
+    "id": "question146",
+    "question": "តើ Circulation utéro-lacunaire កើតឡើងនៅថ្ងៃទីប៉ុន្មាន?",
+    "choices": [
+      "នៅថ្ងៃទី៩ទៅ១០",
+      "នៅថ្ងៃទី១០ទៅ១១",
+      "នៅថ្ងៃទី១១ទៅ១២",
+      "នៅថ្ងៃទី១៣ទៅ១៤"
+    ],
+    "correct_answer": "នៅថ្ងៃទី១១ទៅ១២"
+  },
+  {
+    "id": "question147",
+    "question": "តើ Disque embryonnaire didermique កើតឡើងនៅសប្តាហ៍ទីប៉ុន្មាននៃ développement?",
+    "choices": [
+      "សប្តាហ៍ទី១",
+      "សប្តាហ៍ទី២",
+      "សប្តាហ៍ទី៣",
+      "សប្តាហ៍ទី៤"
+    ],
+    "correct_answer": "សប្តាហ៍ទី២"
+  },
+  {
+    "id": "question148",
+    "question": "តើ Disque embryonnaire tridermique កើតឡើងនៅសប្តាហ៍ទីប៉ុន្មាននៃ développement?",
+    "choices": [
+      "សប្តាហ៍ទី1",
+      "សប្តាហ៍ទី2",
+      "សប្តាហ៍ទី3",
+      "សប្តាហ៍ទី4"
+    ],
+    "correct_answer": "សប្តាហ៍ទី3"
+  },
+  {
+    "id": "question149",
+    "question": "Gastrulation កើតឡើងនៅសប្តាហ៍ទីប៉ុន្មាននៃការលូតលាស់ ?",
+    "choices": [
+      "សប្តាហ៍ទី1",
+      "សប្តាហ៍ទី2",
+      "សប្តាហ៍ទី3",
+      "សប្តាហ៍ទី4"
+    ],
+    "correct_answer": "សប្តាហ៍ទី3"
+  },
+  {
+    "id": "question150",
+    "question": "Gastrulation គឺជា :",
+    "choices": [
+      "ដំណើរការកកើតនៃស្រទាប់ពីររបស់ Embryon didermique",
+      "ដំណើរការកកើតនៃស្រទាប់ទាំងបីរបស់ Embryon tridermique",
+      "ការធ្វើដំណើរនៃŒuf ចូលទៅក្នុងស្បូនក្រោយពី Fécondation",
+      "ដំណើរការកកើតនៃស្រទាប់ពីររបស់ trophoblaste"
+    ],
+    "correct_answer": "ដំណើរការកកើតនៃស្រទាប់ទាំងបីរបស់ Embryon tridermique"
+  },
+  {
+    "id": "question151",
+    "question": "Noeud de Hensen ថិតនៅ :",
+    "choices": [
+      "Extrémité céphalique (cranial) នៃligne primitive",
+      "Extrémité caudale នៃ ligne primitive",
+      "ចន្លោះÉpiblaste និង Hypoblaste",
+      "ផ្នែកខាងក្នុងនៃ Vésicule vitelline"
+    ],
+    "correct_answer": "Extrémité céphalique (cranial) នៃligne primitive"
+  },
+  {
+    "id": "question152",
+    "question": "ស្រទាប់ទាំងបីនៃកោសិការបស់ Embryon tridermiqueគឺ",
+    "choices": [
+      "Epiblaste, Hypoblaste និង Cytotrophoblaste",
+      "Hypoblaste, mésoblaste និង entoblaste",
+      "Entoblaste, hyopoblaste និង mésoblaste",
+      "Ectoblaste, mésoblate និង entoblaste"
+    ],
+    "correct_answer": "Ectoblaste, mésoblate និង entoblaste"
+  },
+  {
+    "id": "question153",
+    "question": "តើ Notochorde (corde dorsal) កើតឡើងនៅថ្ងៃទីប៉ុន្មាន?",
+    "choices": [
+      "ថ្ងៃទី៩",
+      "ថ្ងៃទី១០",
+      "ថ្ងៃទី18",
+      "ថ្ងៃទី20"
+    ],
+    "correct_answer": "ថ្ងៃទី18"
+  },
+  {
+    "id": "question154",
+    "question": "សំណល់ Notochorde (corde dorsal) នឹងលូតលាស់ទៅជាៈ",
+    "choices": [
+      "សាច់ដុំ",
+      "បណ្តាលនៃទ្រនាប់ឆ្អឹងកង (nucleus pulposus)",
+      "ប្រព័ន្ធតំរងនោម",
+      "Pédicule embryonnaire"
+    ],
+    "correct_answer": "បណ្តាលនៃទ្រនាប់ឆ្អឹងកង (nucleus pulposus)"
+  },
+  {
+    "id": "question155",
+    "question": "Système nerveux centrale និង périphérique បង្កើតឡើងពីស្រទាប់អ្វី?",
+    "choices": [
+      "Neurectoblaste et épiblaste",
+      "Entoblaste",
+      "Mésoblaste",
+      "Hypoblaste"
+    ],
+    "correct_answer": "Neurectoblaste et épiblaste"
+  },
+  {
+    "id": "question156",
+    "question": "Mésoblaste បង្កើតបានជា",
+    "choices": [
+      "Epiderme របស់ស្បែក",
+      "Système nerveux",
+      "Organe de sens",
+      "Cellules sanguines និង vaisseaux sanguins"
+    ],
+    "correct_answer": "Cellules sanguines និង vaisseaux sanguins"
+  },
+  {
+    "id": "question157",
+    "question": "Somite កើតឡើងដំបូងនៅ :",
+    "choices": [
+      "Région caudale",
+      "Jonction occipito-cervicale",
+      "Région ventrale",
+      "Région thoracique"
+    ],
+    "correct_answer": "Jonction occipito-cervicale"
+  },
+  {
+    "id": "question158",
+    "question": "Placenta à terme មានទំងន់:",
+    "choices": [
+      "1000 ក្រាម",
+      "500-600 ក្រាម",
+      "200 ក្រាម",
+      "1500 ក្រាម"
+    ],
+    "correct_answer": "500-600 ក្រាម"
+  },
+  {
+    "id": "question159",
+    "question": "កំហាប់អរម៉ូន LH កើនឡើងខ្ពស់ មួយថ្ងៃកន្លះ មុន ពាក់កណ្តាលវដ្ត រដូវ ដើម្បី",
+    "choices": [
+      "បង្កើត មជ្ឈដ្ឋាន សមស្របមួយ នាំអោយ fécondation មួយ នឹងសំរេច បានជោគជ័យ",
+      "អោយ follicules ដ៏ទៃផ្សេង ទៀត ទុំ",
+      "អោយមាន ការដាច់ ស្រទាប់ endomètre របស់ស្បូន ដែលបង្កើតជាឈាមរដូវ",
+      "អោយមានការបញ្ចេញ follicules de De Graaf មកក្នុងដៃស្បូន"
+    ],
+    "correct_answer": "អោយមានការបញ្ចេញ follicules de De Graaf មកក្នុងដៃស្បូន"
+  },
+  {
+    "id": "question160",
+    "question": "កំហាប់អរម៉ូន LH កើនឡើងខ្ពស់ មួយថ្ងៃកន្លះ មុន ពាក់កណ្តាលវដ្តរដូវ នាំអោយៈ",
+    "choices": [
+      "Follicules dominants ទាំងអស់ ទុំ",
+      "មានការចល័តនៃ ampoule tubaire របស់ដៃស្បូន មកគ្របលើ ផ្ទៃរបស់ Ovaire",
+      "មាន ការដាច់ ស្រទាប់ endomètre របស់ស្បូន",
+      "មានការបញ្ចេញ follicules dominants មកក្នុងដៃស្បូន"
+    ],
+    "correct_answer": "មានការបញ្ចេញ follicules dominants មកក្នុងដៃស្បូន"
+  },
+  {
+    "id": "question161",
+    "question": "Follicule ដែលត្រៀមខ្លួន សំរាប់ ovulation មានឈ្មោះថាៈ",
+    "choices": [
+      "Follicule primodiaux",
+      "Follicule primaire",
+      "Follicule tertiaire",
+      "Follicule de De Graaf"
+    ],
+    "correct_answer": "Follicule de De Graaf"
+  },
+  {
+    "id": "question162",
+    "question": "និយមន័យរបស់ Ovulation :",
+    "choices": [
+      "ជាការ បញ្ចេញ follicules de De Graaf មកខាងក្រៅ ovaire",
+      "ជាការ បញ្ចេញ follicules primordiaux មកខាងក្រៅ ovaire",
+      "ជាការ បញ្ចេញ premier globule polaire មកខាងក្រៅ ovaire",
+      "ជាការបញ្ចេញ ovocyte secondaire មកក្រៅខាង follicules និង មកខាងក្រៅ ovaire"
+    ],
+    "correct_answer": "ជាការបញ្ចេញ ovocyte secondaire មកក្រៅខាង follicules និង មកខាងក្រៅ ovaire"
+  },
+  {
+    "id": "question163",
+    "question": "ការដាច់រហែកនៃផ្ទៃរបស់ follicule និងផ្ទៃរបស់ ovaire នៅពេល ovulation បណ្តាល មកពី",
+    "choices": [
+      "សកម្មភាពដោយផ្ទាល់របស់អរម៉ូន estradiol និង អរម៉ូន lutéinique",
+      "សកម្មភាពដោយផ្ទាល់របស់ enzymes ដែលបញ្ចេញដោយកោសិកា granulosa",
+      "ការកើន សំពាធ liquide folliculaire រួមជាមួយនិងសកម្មភាព enzymes destructrices",
+      "សកម្មភាពដោយផ្ទាល់ របស់ enzyme lytique"
+    ],
+    "correct_answer": "ការកើន សំពាធ liquide folliculaire រួមជាមួយនិងសកម្មភាព enzymes destructrices"
+  },
+  {
+    "id": "question164",
+    "question": "ក្នុង liquide folliculaire ដែលធ្លាយចេញ ពី follicule មាន",
+    "choices": [
+      "Progestérone, acide hyaluronique",
+      "Acide hyaluronique",
+      "Cellule de la thèque interne",
+      "Progestérone, acide hyaluronique និង amas de cellule de cumulus oophorus"
+    ],
+    "correct_answer": "Progestérone, acide hyaluronique និង amas de cellule de cumulus oophorus"
+  },
+  {
+    "id": "question165",
+    "question": "Follicule de De Graaf អាច មានទំហំរហូតដល់",
+    "choices": [
+      "50 mm",
+      "10 mm",
+      "25 mm",
+      "120 mm"
+    ],
+    "correct_answer": "25 mm"
+  },
+  {
+    "id": "question166",
+    "question": "នៅពេលមាន ovulation, មាត់ស្បូន និង mucus របស់ cervix មានសភាព :",
+    "choices": [
+      "មាត់ស្បូន រីកធំ ទន់ និង mucus រាវ",
+      "មាត់ស្បូន រួមតូច និង mucus ខាប់ ស្អិត",
+      "ធម្មតា មិនមានការ ប្រែប្រួល",
+      "មាត់ស្បូន រីកធំ និង mucus ខាប់ស្អិត"
+    ],
+    "correct_answer": "មាត់ស្បូន រីកធំ ទន់ និង mucus រាវ"
+  },
+  {
+    "id": "question167",
+    "question": "ការឈប់សំចតរងចាំរបស់ ovocyte secondaire ដើម្បីធ្វើ ការបង្កកំណើតជាមួយ spermatozoide នៅផ្នែក 1/3 ខាងចុងនៃ partie ampoulaire de la trompe ការឈប់រងចាំនេះ បណ្តាលមកពី :",
+    "choices": [
+      "ការឡើងខាប់នៃ matrice d'acide hyaluronique",
+      "ការឈប់ធ្វើចលនា battement នៃ cils របស់ កោសិកា épithéliale របស់ trompe",
+      "ការឈប់ធ្វើចលនានៃ ដៃស្បូន មួយរយះពេល",
+      "វត្តមាន progesterone ក្នុង liquide folliculaire"
+    ],
+    "correct_answer": "ការឈប់ធ្វើចលនា battement នៃ cils របស់ កោសិកា épithéliale របស់ trompe"
+  },
+  {
+    "id": "question168",
+    "question": "វត្តមាន progesterone ក្នុង liquide folliculaire មានមុខងារ",
+    "choices": [
+      "សំរាប់ការរស់រានមានជីវិត របស់ ovocyte secondaire",
+      "ទាក់ទាញ spermatozoïde",
+      "ការពារ ovocyte",
+      "ជួយសំរួល ការធ្វើចលនា របស់ ovocyte"
+    ],
+    "correct_answer": "ទាក់ទាញ spermatozoïde"
+  },
+  {
+    "id": "question169",
+    "question": "ឃ្លាទាំងអស់ខាង ក្រោមអធិប្បាយអំពី ដំណាក់កាលទាំងឡាយនៃ maturation របស់ spermatozoīde ក្នុង épididyme ។ លើកលែងតែមួយ",
+    "choices": [
+      "Cytoplasme បន្តបន្ថយមាឌ",
+      "ADN chromosome រលា",
+      "រចនាសម្ព័ន្ធ របស់ membrane cytoplasmqiue ផ្លាស់ប្តូរ",
+      "ភាពប៉ិនប្រសប់ក្នុងការធ្វើចលនា"
+    ],
+    "correct_answer": "ADN chromosome រលា"
+  },
+  {
+    "id": "question170",
+    "question": "Capacitation របស់ spermatozoïdes គឺជា :",
+    "choices": [
+      "ការទទួលរងនូវ បំរែបំរួល រចនាសម្ព័ន្ធ នៃ កន្ទុយ របស់ spermatozoïde",
+      "ការទទួលរងនូវ បំរែបំរួល នៃ cape acrosomique របស់ spermatozoïde",
+      "ជាការធ្វើ réaction acrosomique របស់ spermatozoïde",
+      "ការទទួលរង នូវ បំរែបំរួល physiologique របស់ spermatozoïde ទាំងមូល ដែលនាំអោយមាន វាមាន hyperactivité"
+    ],
+    "correct_answer": "ការទទួលរង នូវ បំរែបំរួល physiologique របស់ spermatozoïde ទាំងមូល ដែលនាំអោយមាន វាមាន hyperactivité"
+  },
+  {
+    "id": "question171",
+    "question": "សូមគូសខ្វែង លើប្រយោគដែល ត្រឹមត្រូវខាងក្រោម",
+    "choices": [
+      "ដោយការឆ្លងកាត់និងស្តុកនៅក្នុងépididyme, spermatozoïdes បានទទួលនូវ បទពិសោធន៍ មួយយ៉ាង សំខាន់ក្នុងតំនាក់កាល maturation",
+      "Capacitation របស់ spermatozoïde កើតមានក្រោយ réaction acrosomique",
+      "Capacitation របស់ spermatozoïde គឺ ជា maturation fonctionnelle ដែល កើតមានក្រោយ ការធ្វើ réaction acrosomique",
+      "Réaction acrosomique របស់ spermatozoïdes ជាកត្តាជំនួយយ៉ាងសំខាន់ សំរាប់ក្នុងតំនាក់កាល maturation"
+    ],
+    "correct_answer": "ដោយការឆ្លងកាត់និងស្តុកនៅក្នុងépididyme, spermatozoïdes បានទទួលនូវ បទពិសោធន៍ មួយយ៉ាង សំខាន់ក្នុងតំនាក់កាល maturation"
+  },
+  {
+    "id": "question172",
+    "question": "ព្រឹត្តិការណ៍មួយណាខាងក្រោម ដែលអធិប្បាយអំពី blocage polyspermie",
+    "choices": [
+      "ការ រលុបបាត់ membrane pellucide និង ការឡើង រឹង នៃ membrane ovocyte",
+      "ការឡើង រឹង នៃ membrane pellucide និង រលុបបាត់ membrane ovocyte",
+      "ការឡើង រឹងនៃ membrane ovocyte",
+      "ការឡើង រឹង នៃ membrane pellucide"
+    ],
+    "correct_answer": "ការឡើង រឹង នៃ membrane pellucide"
+  },
+  {
+    "id": "question173",
+    "question": "បន្ទាប់ ពីឆ្លងកាត់ ស្រទាប់ corona radiata និង membrane pellucide, spermatozoīde ឆ្លងកាត់ membrane cytoplasmique របស់ ovocyte បានដោយ :",
+    "choices": [
+      "កំឡាំង mécanique នៃ ចលនា កន្ទុយ របស់វា",
+      "ការបញ្ចេញ enzymes lytique ដែលស្តុកទុក ក្នុង acrosome",
+      "ការរលាយចូលគ្នានៃmembrane post-acrosomique និង membrane plasmique របស់ ovocyte",
+      "កំឡាំង mécanique នៃចលនា pendulaire របស់ ក្បាល spermatozoïde"
+    ],
+    "correct_answer": "ការរលាយចូលគ្នានៃmembrane post-acrosomique និង membrane plasmique របស់ ovocyte"
+  },
+  {
+    "id": "question174",
+    "question": "L'imprégnation de spermatozoïde បណ្តាល :",
+    "choices": [
+      "អោយមានសកម្មភាពឡើងវិញនៃappareil microtubulaire de division របស់ ovocyte",
+      "អោយអសកម្មភាព នៃ appareil microtubulaire de division របស់ globule polaire ទី 1",
+      "អោយមានសកម្មភាពឡើងវិញ នៃ kinocil របស់ spermatozoïde",
+      "អោយ ការបញ្ចប់ការបំបែក ទី ២ នៃ mitose របស់ ovocyte លែងមានសកម្មភាព"
+    ],
+    "correct_answer": "អោយមានសកម្មភាពឡើងវិញនៃappareil microtubulaire de division របស់ ovocyte"
+  },
+  {
+    "id": "question175",
+    "question": "គូស ឃ្លា ដែលត្រឹមត្រូវទាក់ទង នឹង ការបង្កើត pronucleus :",
+    "choices": [
+      "Pronucléi ទាំងពីរ ត្រូវបានពន្ធ័ជុំវិញដោយ membrane nucléaire តែមួយ ។",
+      "Pronuclei ទាំងពីរ មិនមានពន្ធ័ជុំវិញដោយ membrane nucléaire មុន ដាក់chromosome បញ្ចូលគ្នា",
+      "ការដំឡើងទ្វេរ នៃ ADN ប្រព្រិត្តទៅក្នុងកំឡុងពេលpronucléi ទាំងពីរ រំកិលខិតចូលជិតគ្នា",
+      "ការដំឡើងទ្វេរ នៃ ADN ប្រព្រឹត្តទៅក្នុងពេលដែល pronucléi ទាំងពីរបានប៉ះគ្នា"
+    ],
+    "correct_answer": "ការដំឡើងទ្វេរ នៃ ADN ប្រព្រិត្តទៅក្នុងកំឡុងពេលpronucléi ទាំងពីរ រំកិលខិតចូលជិតគ្នា"
+  },
+  {
+    "id": "question176",
+    "question": "គូស ឃ្លា ដែលត្រឹមត្រូវទាក់ទង នឹង réaction acrosomique :",
+    "choices": [
+      "Revêtement protectil របស់ spermatozoïde ត្រូវបានដកចេញ",
+      "Couche glycoprotéine និង protéine séminal របស់ spermatozoïde ត្រូវបានដកចេញ",
+      "ការធ្លុះធ្លាយ acrosome នាំអោយមានការបញ្ចេញ enzyme acrosomique",
+      "ការភ្ជាប់ខ្លួននៃ spermatozoïdeជាមួយmembrane pellucide មុនធ្វើការ ការជ្រៀតចូល"
+    ],
+    "correct_answer": "ការធ្លុះធ្លាយ acrosome នាំអោយមានការបញ្ចេញ enzyme acrosomique"
+  },
+  {
+    "id": "question177",
+    "question": "ឃ្លាទាំងអស់ខាងក្រោម ពន្យល់ពីការបង្កើត blastula ។ សូមគូស ឃ្លាណាមួយត្រឹមត្រូវ",
+    "choices": [
+      "Compaction នៃកោសិកានៅខាងក្រៅគេបំផុតរបស់ morula ដែលនឹងវិវត្តន៍ទៅជា trophoblaste",
+      "ការបង្កើតស្រទាប់កោសិកាកំរាលសំប៉ែតនិងជាប់គ្នាយ៉ាងចង្អៀតណែននៅកណ្តាលនៃ morula",
+      "ការបង្កើត lécithocèle និង cavité vitelline primitive",
+      "ការបង្កើតជា masse cellulaire externe របស់ blastocytes នៅខាងក្នុងគេបំផុតនៃ morula ដែលនឹងវិវត្តន៍ទៅ th embryon proprement dit"
+    ],
+    "correct_answer": "ការបង្កើតជា masse cellulaire externe របស់ blastocytes នៅខាងក្នុងគេបំផុតនៃ morula ដែលនឹងវិវត្តន៍ទៅ th embryon proprement dit"
+  },
+  {
+    "id": "question178",
+    "question": "តើមុខងារណាមួយខាងក្រោម មិនមែនជាមុខងាររបស់កោសិកា Sertoli",
+    "choices": [
+      "ផ្ទេរការភ្លេចនៃhormone ទៅអោយកោសិកាgerminales",
+      "ជារបាំងhémato-testiculaire",
+      "ជាទំរ និងចិញ្ចឹមកោសិកាgerminales",
+      "ដឹកនាំspermatozoides មិនទាន់មានចលនានៅឡើយតាមរយះចលនានៃ cils របស់វា"
+    ],
+    "correct_answer": "ដឹកនាំspermatozoides មិនទាន់មានចលនានៅឡើយតាមរយះចលនានៃ cils របស់វា"
+  },
+  {
+    "id": "question179",
+    "question": "តើដំណាក់កាលណាមួយរបស់ spermatogenèse ដែលមានថេរះវេលាខ្លីជាងគេ",
+    "choices": [
+      "La prophase នៃការបំបែកméiose លើកទីមួយ",
+      "La spermiogenèse",
+      "La mitose របស់spermatogonies",
+      "ការបំបែក méiose លើកទីពីរ"
+    ],
+    "correct_answer": "ការបំបែក méiose លើកទីពីរ"
+  },
+  {
+    "id": "question180",
+    "question": "Le capuchon acrosomial របស់ spermatozoīde :",
+    "choices": [
+      "មានផ្ទុកនូវhyaluoronidase",
+      "កកើតឡើងក្នុង réticulum endoplasmique",
+      "រលុបបាត់ នៅពេល ចុងបញ្ចប់ នៃmaturation",
+      "មានតួនាទីដូចជាmitochondrie"
+    ],
+    "correct_answer": "មានផ្ទុកនូវhyaluoronidase"
+  },
+  {
+    "id": "question181",
+    "question": "Le capuchon acrosomial របស់ spermatozoïde :",
+    "choices": [
+      "មានផ្ទុកនូវ blastocèle",
+      "កកើតឡើងក្នុង appareil de Golgie",
+      "រលុបបាត់ នៅពេល ចុងបញ្ចប់ នៃmaturation",
+      "មានតួនាទីដូចជាmitochondrie"
+    ],
+    "correct_answer": "កកើតឡើងក្នុង appareil de Golgie"
+  },
+  {
+    "id": "question182",
+    "question": "Le capuchon acrosomial របស់ spermatozoïde :",
+    "choices": [
+      "មានផ្ទុកនូវ liquide folliculaire",
+      "កកើតឡើងក្នុង réticulum endoplasmique",
+      "រលុបបាត់ នៅពេល ចុងបញ្ចប់ នៃmaturation",
+      "មានតួនាទីដូចជាlysosome"
+    ],
+    "correct_answer": "មានតួនាទីដូចជាlysosome"
+  },
+  {
+    "id": "question183",
+    "question": "Le capuchon acrosomial របស់ spermatozoide :",
+    "choices": [
+      "មានផ្ទុកនូវ liquide folliculaire",
+      "កកើតឡើងក្នុង réticulum endoplasmique",
+      "រលុបបាត់ នៅពេលspermatozoide ចូលទៅក្នុង espace périvitellin",
+      "មានតួនាទីដូចជាmitochondrie"
+    ],
+    "correct_answer": "រលុបបាត់ នៅពេលspermatozoide ចូលទៅក្នុង espace périvitellin"
+  },
+  {
+    "id": "question184",
+    "question": "Morula មានលក្ខណះដូចតទៅ",
+    "choices": [
+      "មានកោសិកាblastomères ចំនួន16",
+      "មិនមានពន្ធ័ជុំវិញដោយmembrane pellucide",
+      "កោសិកានៅជាយខាង (périphérie) មានទំហំធំ ជាង កោសិកានៅខាងក្នុង (interne)",
+      "Morula មានទំហំធំជាងovule origine"
+    ],
+    "correct_answer": "មានកោសិកាblastomères ចំនួន16"
+  },
+  {
+    "id": "question185",
+    "question": "នៅពេល implantation របស់ blastocyste តើ élément ណាមួយដែលមាន តួនាទីសំខាន់ក្នុងការជ្រៀតចូលក្នុង endomètre :",
+    "choices": [
+      "Entoblaste et ectoblaste",
+      "Splanchnopleure extra-embryonnaire",
+      "Somatopleure extra-embryonnaire",
+      "Syncytiotrophoblaste"
+    ],
+    "correct_answer": "Syncytiotrophoblaste"
+  },
+  {
+    "id": "question186",
+    "question": "Phénomènes ទាំងអស់ខាងក្រោមមានសារះសំខាន់ក្នុងការធ្វើ implantation របស់ blastocyste លើក លែងតែមួយគឺ :",
+    "choices": [
+      "ការបង្កើតsyncytiotrophoblaste",
+      "ការជ្រៀតចូលជ្រៅរបស់blastocyte ទៅក្នុងmuqueuse utérine",
+      "ការបំលែងendomètre ទៅជាcaduque",
+      "វត្តមានរបស់zone pellucide"
+    ],
+    "correct_answer": "វត្តមានរបស់zone pellucide"
+  },
+  {
+    "id": "question187",
+    "question": "Centrosome នៃកោសិកា somatique របស់មនុស្សមានដើមកំណើតពី",
+    "choices": [
+      "ឪពុក ឬ ម្តាយ(paternelle ou maternelle)",
+      "ឪពុក និង ម្តាយ (à la fois paternelle et maternelle)",
+      "ឪពុកតែមួយគត់ (paternelle uniquement)",
+      "ម្តាយតែមួយគត់ (maternelle uniquement)"
+    ],
+    "correct_answer": "ឪពុកតែមួយគត់ (paternelle uniquement)"
+  },
+  {
+    "id": "question188",
+    "question": "La réaction acrosomiale (acrosomique) អនុញ្ញាតអោយមានៈ",
+    "choices": [
+      "ការ ចflagelle",
+      "ការជ្រៀតចូលរបស់ spermatozoïde ទៅក្នុង zone de pellucide",
+      "ការរារាំង polyspermie",
+      "ការរុញច្រានspermatozide ចូលក្នុងcavité utérine"
+    ],
+    "correct_answer": "ការជ្រៀតចូលរបស់ spermatozoïde ទៅក្នុង zone de pellucide"
+  },
+  {
+    "id": "question189",
+    "question": "La fécondation ជាធម្មតាចាប់ផ្តើមនៅក្នុង",
+    "choices": [
+      "Infundibulum de la trompe",
+      "Segment intramural de la trompe",
+      "Portion interstitielle de la trompe",
+      "Ampoule tubaire de la trompe"
+    ],
+    "correct_answer": "Ampoule tubaire de la trompe"
+  },
+  {
+    "id": "question190",
+    "question": "ប្រសិនមិនបាន ធ្វើការបង្កកំណើត ovule មាន អាយុ (durée de vie)",
+    "choices": [
+      "4 ម៉ោង",
+      "8 ម៉ោង",
+      "24 ម៉ោង",
+      "72 ម៉ោង"
+    ],
+    "correct_answer": "24 ម៉ោង"
+  },
+  {
+    "id": "question191",
+    "question": "ក្នុងមួយជីវិតរបស់ស្ត្រីម្នាក់ តើចំនួន follicules ប្រហាក់ប្រហែល ប៉ុន្មានដែលបានឈានទៅដល់ ovulation",
+    "choices": [
+      "150 ទៅ 200",
+      "400 ទៅ 450",
+      "950 ទៅ 1250",
+      "2500 ទៅ 5500"
+    ],
+    "correct_answer": "400 ទៅ 450"
+  },
+  {
+    "id": "question192",
+    "question": "ក្នុងចំណោមឃ្លា ខាងក្រោម ទាក់ទងនឹង réaction acrosomiale, តើឃ្លាណាមួយត្រឹមត្រូវ",
+    "choices": [
+      "Réaction acrosomiale ប្រព្រឹត្តទៅមុន capacitation",
+      "Réaction acrosomiale ប្រព្រឹត្តទៅនៅក្នុងប្រដាប់បន្តពូជរបស់បុរស",
+      "Les enzymes acrosomiales បញ្ចេញនៅក្នុង utérus",
+      "Les enzymes acrosomiales បញ្ចេញនៅជុំវិញ ovule"
+    ],
+    "correct_answer": "Les enzymes acrosomiales បញ្ចេញនៅជុំវិញ ovule"
+  },
+  {
+    "id": "question193",
+    "question": "ក្នុងចំណោមឃ្លាទាំងអស់ខាងក្រោម ដែលទាក់ទងនឹង spermatogenèse តើឃ្លាមួយណាដែលត្រឹមត្រូវ",
+    "choices": [
+      "Spermatogenèse ចាប់ផ្តើមដំណើរការនៅពេល (puberté) ពេញវ័យ",
+      "Spermatogenèse ចាប់ផ្តើមដំណើរការនៅពេលកំណើត (à la naissance)",
+      "Spermatogenèse ដំណើរការនៅក្នុងépididyme",
+      "Spermatogenèse ចាប់ផ្តើមដំណើរការតាំងពីដំណាក់កាល foetal"
+    ],
+    "correct_answer": "Spermatogenèse ចាប់ផ្តើមដំណើរការនៅពេល (puberté) ពេញវ័យ"
+  },
+  {
+    "id": "question194",
+    "question": "នៅពេលក្រោយពីធ្វើ ovulation រួចមក",
+    "choices": [
+      "Ovocyte បានស្ថិតនៅក្នុង membrane pellucide មាន corona radiata នៅពីក្រៅ",
+      "Ovocyte បានស្ថិតនៅតែក្នុង épithélium folliculaire ដែលជា corona radiata",
+      "Ovocyte បានស្ថិតនៅសេរីគ្មានអ្វី ព ឡើយ",
+      "Ovocyte បានស្លាប់ភ្លាមមួយរំពេច"
+    ],
+    "correct_answer": "Ovocyte បានស្ថិតនៅក្នុង membrane pellucide មាន corona radiata នៅពីក្រៅ"
+  },
+  {
+    "id": "question195",
+    "question": "La fécondation គឺជាហេតុការណ៍",
+    "choices": [
+      "Spermatozoïde ត្រូវចូលទៅជួបនឹង Ovocyte ដើម្បីក្លាយទៅជា pronucleus male និង femelle ហើយក្រោយ មកវាទាំងពីររួម chromosome ចូលគ្នា",
+      "Spermatozoïde បានឆ្លងផុត membrane pellucide",
+      "Spermatozoïde បានឆ្លងផុត corona radiata",
+      "Spermatozoïdeទើ បតែបានប៉ះនឹង corona radiata"
+    ],
+    "correct_answer": "Spermatozoïde ត្រូវចូលទៅជួបនឹង Ovocyte ដើម្បីក្លាយទៅជា pronucleus male និង femelle ហើយក្រោយ មកវាទាំងពីររួម chromosome ចូលគ្នា"
+  },
+  {
+    "id": "question196",
+    "question": "La fécondation គឺជាដំណើរការមួយកើតឡើងដោយការរួមគ្នាកោសិកាពីរគឺៈ",
+    "choices": [
+      "Spermatozoïde និង ovogonie",
+      "Ovocyte និង spermatide",
+      "Spermatozoïde និង ovocyte secondaire",
+      "Spermatocyte primaire និង ovogonie"
+    ],
+    "correct_answer": "Spermatozoïde និង ovocyte secondaire"
+  },
+  {
+    "id": "question197",
+    "question": "La fécondation កើតមានជាទូទៅនៅត្រង់",
+    "choices": [
+      "Cavité uterine",
+      "Cervix",
+      "Ampoule tubaire",
+      "Ovaire"
+    ],
+    "correct_answer": "Ampoule tubaire"
+  },
+  {
+    "id": "question198",
+    "question": "បន្ទាប់ពី fécondation ភ្លាម le zygote",
+    "choices": [
+      "បានក្លាយទៅជា blastocyste ភ្លាម",
+      "បានធ្វើ mitose ដោយបំបែកខ្លួនជាបន្តបន្ទាប់រហូតដល់ក្លាយជា morula",
+      "បានញាស់ចេញពី la membrane pellucide ភ្លាម",
+      "បានក្លាយទៅជា embryon ភ្លាម"
+    ],
+    "correct_answer": "បានធ្វើ mitose ដោយបំបែកខ្លួនជាបន្តបន្ទាប់រហូតដល់ក្លាយជា morula"
+  },
+  {
+    "id": "question199",
+    "question": "ជាទូទៅ le blastocyste បានញាស់ចេញពី la membrane pellucide នៅក្នុង",
+    "choices": [
+      "Tube utérin",
+      "Cavité utérine",
+      "Cavité abdominale",
+      "Ovaire"
+    ],
+    "correct_answer": "Cavité utérine"
+  },
+  {
+    "id": "question200",
+    "question": "Les trophoblastes មានលក្ខណះពិសេសដោយ៖",
+    "choices": [
+      "វាអាចតោងស្អិតទៅនឹង la membrane pellucide",
+      "វាជាអ្នកបំបែក la membrane pellucide",
+      "-វាមិនមែនជាអ្នកផ្តល់សារធាតុចិញ្ចឹមទៅអោយ embryon",
+      "វាអាចតោងស្អិតទៅនឹង épithélium utérin"
+    ],
+    "correct_answer": "វាអាចតោងស្អិតទៅនឹង épithélium utérin"
+  },
+  {
+    "id": "question201",
+    "question": "ការជ្រៀតចូលទៅក្នុង épithélium endométrial នៃ blastocyste គឺដោយសារ៖",
+    "choices": [
+      "Les cellules macromères",
+      "Les cytotrophoblastes",
+      "Les syncytiotrophoblastes",
+      "Les embryoblastes"
+    ],
+    "correct_answer": "Les syncytiotrophoblastes"
+  },
+  {
+    "id": "question202",
+    "question": "Les disques embryonnaires didermiques តំណាងដោយ",
+    "choices": [
+      "Ectoderme ឬ épiblastes និង endoderme ឬ hypoblastes",
+      "Le groupe de macromères et le groupe de micromères",
+      "Cytotrophoblastes និងsyncytiotrophoblastes",
+      "Mésenchyme extra-embryonnaire et trophoblastes"
+    ],
+    "correct_answer": "Ectoderme ឬ épiblastes និង endoderme ឬ hypoblastes"
+  },
+  {
+    "id": "question203",
+    "question": "Le lécithocèle primaire ស្ថិតនៅ៖",
+    "choices": [
+      "ពីក្រោមhypoblastes",
+      "ពីលើépiblastes",
+      "ពីក្រៅ syncytium",
+      "ពីក្រោម syncytium"
+    ],
+    "correct_answer": "ពីក្រោមhypoblastes"
+  },
+  {
+    "id": "question204",
+    "question": "La cavité amniotique ស្ថិតនៅ៖",
+    "choices": [
+      "ពីក្រោម endoderme",
+      "ពីលើ syncytium",
+      "ពីក្រោម syncytium",
+      "ពីលើ ectoderme"
+    ],
+    "correct_answer": "ពីលើ ectoderme"
+  },
+  {
+    "id": "question205",
+    "question": "La cavité chorionique គឺជា cavité ដែល",
+    "choices": [
+      "ស្រោបព័ទ្ធពីក្រៅ cavité amniotique ព្រមទាំងlécithocèle secondaire",
+      "ស្ថិតនៅចន្លោះ cavité amniotique និង lécithocèle secondaire",
+      "ស្ថិតនៅខាងក្នុង lécithocèle secondaire",
+      "ស្ថិតនៅខាងក្នុង cavité amniotique"
+    ],
+    "correct_answer": "ស្រោបព័ទ្ធពីក្រៅ cavité amniotique ព្រមទាំងlécithocèle secondaire"
+  },
+  {
+    "id": "question206",
+    "question": "La plaque prochordale គឺជា",
+    "choices": [
+      "ផ្នែក circulaire មួយដែលនៅគែមរបស់ disque embryonnaire ហើយដែលត្រូវបានខ័ណ្ឌចែក ectoderme ពី endoderme ដោយ mésoderme",
+      "ផ្នែក circulaire មួយដែលស្ថិតនៅចំកណ្តាល disque embryonnaire",
+      "ផ្នែក circulaire មួយដែលនៅគែមរបស់ disque embryonnaire ហើយដែលមិនត្រូវបានខ័ណ្ឌចែក ectoderme ពី endoderme ដោយ mésoderme ឡើយ",
+      "ផ្នែកcirculaireមួយដែលស្ថិតនៅចំកណ្តាល disque endodermique"
+    ],
+    "correct_answer": "ផ្នែក circulaire មួយដែលនៅគែមរបស់ disque embryonnaire ហើយដែលមិនត្រូវបានខ័ណ្ឌចែក ectoderme ពី endoderme ដោយ mésoderme ឡើយ"
+  },
+  {
+    "id": "question207",
+    "question": "La ligne primitiveកើតមានឡើងនៅខាងផ្នែក",
+    "choices": [
+      "Endoderme",
+      "Ectoderme",
+      "Cytotrophoblastes",
+      "Syncytiotrophoblastes"
+    ],
+    "correct_answer": "Ectoderme"
+  },
+  {
+    "id": "question208",
+    "question": "Les cellules de la ligne primitive ជា",
+    "choices": [
+      "Hypoblastes",
+      "Mésenchyme extra-embryonnaire",
+      "Cytotrophoblastes",
+      "Epiblastes"
+    ],
+    "correct_answer": "Epiblastes"
+  },
+  {
+    "id": "question209",
+    "question": "La corde dorsale កើតចេញមកពី",
+    "choices": [
+      "ផ្នែកមួយនៃendoderme",
+      "ផ្នែកមួយនៃ mésoderme",
+      "Processus chordal ដែលមានប្រភពមកពី ligne primitive",
+      "ផ្នែកមួយនៃsyncytiotrophoblaste"
+    ],
+    "correct_answer": "Processus chordal ដែលមានប្រភពមកពី ligne primitive"
+  },
+  {
+    "id": "question210",
+    "question": "Le mésoblaste splanchnique គឺជាស្រទាប់ mésoderme ស្តើងមួយដែលនៅជាប់នឹងៈ",
+    "choices": [
+      "Endoderme définitive",
+      "Ectoderme",
+      "Cavité lécithocèle",
+      "Cavité amniotique"
+    ],
+    "correct_answer": "Cavité lécithocèle"
+  },
+  {
+    "id": "question211",
+    "question": "Le mésoblastesomatiqueគឺជាស្រទាប់mesodermeស្តើងមួយដែលនៅជាប់នឹង៖",
+    "choices": [
+      "Endoderme",
+      "Ectoderme",
+      "Cavité amniotique",
+      "Cavité lécithocèle"
+    ],
+    "correct_answer": "Cavité amniotique"
+  },
+  {
+    "id": "question212",
+    "question": "La gouttière neurale កើតចេញមកពី",
+    "choices": [
+      "Endoderme",
+      "Mésoderme",
+      "Plaque neurale",
+      "Mésenchyme extra-embryonnaire"
+    ],
+    "correct_answer": "Plaque neurale"
+  },
+  {
+    "id": "question213",
+    "question": "Le tube neural នឹងអោយកំណើតទៅជា",
+    "choices": [
+      "Le système nerveux",
+      "Le système gastro- intestinal",
+      "Le système uro-génital",
+      "Le système cardio-vasculaire"
+    ],
+    "correct_answer": "Le système nerveux"
+  },
+  {
+    "id": "question214",
+    "question": "Le mésoblaste para-axial គឺជា៖",
+    "choices": [
+      "Mésoderme ដែលស្ថិតនៅកៀកជាប់សងខាង la corde dorsale",
+      "Mésoderme ដែលស្ថិតនៅឆ្ងាយពី la corde dorsale",
+      "Ectoderme ដែលស្ថិតនៅសងខាង tube neural",
+      "Endoderme ដែលស្ថិតនៅសងខាង tube neural"
+    ],
+    "correct_answer": "Mésoderme ដែលស្ថិតនៅកៀកជាប់សងខាង la corde dorsale"
+  },
+  {
+    "id": "question215",
+    "question": "ការភពប្រសព្វគ្នា (fécondation) រវាង spermatozoïde និង ovule កើតធ្វើឡើងត្រង់",
+    "choices": [
+      "ក្នុងស្បូន",
+      "ក្នុងដៃស្បូនផ្នែកចុង",
+      "ក្នុងមាត់ស្បូន",
+      "ក្នុងovaire"
+    ],
+    "correct_answer": "ក្នុងដៃស្បូនផ្នែកចុង"
+  },
+  {
+    "id": "question216",
+    "question": "បន្ទាប់ពី fécondation, Zygote បានធ្វើ mitose ជាបន្តបន្ទាប់រហូតបាន cellules រវាង១២ទៅ១៦ដែលគេអោយឈ្មោះថាៈ",
+    "choices": [
+      "Blastocyste",
+      "Trophoblastes",
+      "Morula",
+      "Macromères"
+    ],
+    "correct_answer": "Morula"
+  },
+  {
+    "id": "question217",
+    "question": "ពពួកកោសិកា syncytiotrophoblastes មានប្រភពមកពី",
+    "choices": [
+      "កោសិកា macromères",
+      "ក្រុមកោសិកា mésenchyme extra embryonnaire",
+      "ការរលាយចូលគ្នានៃស៊ីតូប្លាស តែមិនរលាយ យ៉ូ នៃកោសិកា cytotrophoblastes",
+      "កោសិកានៃសាច់ស្បូនម្តាយ"
+    ],
+    "correct_answer": "ការរលាយចូលគ្នានៃស៊ីតូប្លាស តែមិនរលាយ យ៉ូ នៃកោសិកា cytotrophoblastes"
+  },
+  {
+    "id": "question218",
+    "question": "La sphère choriale នៃ embryon មានសមាសភាពផ្សំដោយ៖",
+    "choices": [
+      "ក្រុមកោសិកា ectoderme និង endoderme",
+      "ក្រុមកោសិកា mésenchyme extra embryonnaire",
+      "ក្រុមកោសិកា trophoblastes និងក្រុមកោសិកា mésenchyme extra embryonnaire extra coelomique",
+      "ក្រុមកោសិកាsyncytiotrophoblastes"
+    ],
+    "correct_answer": "ក្រុមកោសិកា trophoblastes និងក្រុមកោសិកា mésenchyme extra embryonnaire extra coelomique"
+  },
+  {
+    "id": "question219",
+    "question": "Les lacunes de syncytiotrophoblastes គឺជា",
+    "choices": [
+      "លំហតូចៗដែលកើតឡើងនៅក្នុងស្រទាប់ ectoderme",
+      "លំហតូចៗដែលកើតឡើងនៅក្នុងស្រទាប់ syncytiotrophoblastes ហើយដែលអាចទទួលលំហូរឈាមម្តាយ ចូលមក",
+      "ស្រទាប់ជាលិកាក្រៅបង្អស់របស់កូនដែលដុះចាក់ចូលទៅក្នុងសាច់ស្បូនម្តាយ",
+      "កន្ទុកតូចៗពេញទៅដោយឈាមម្តាយនៅក្នុងជាលិកា mésenchyme extra embryonnaire"
+    ],
+    "correct_answer": "លំហតូចៗដែលកើតឡើងនៅក្នុងស្រទាប់ syncytiotrophoblastes ហើយដែលអាចទទួលលំហូរឈាមម្តាយ ចូលមក"
+  },
+  {
+    "id": "question220",
+    "question": "Les villosités primaires de la sphère choriale:",
+    "choices": [
+      "គឺជា des cordons de cellules Cytotrophoblastes មានសភាពជា travées radiaires ដែលព័ទ្ធពីខាងក្រៅដោយ syncytiotrophoblastes",
+      "គឺជា cordons cellulaires ដែលមានសភាពជា travées radiaires ផ្សំឡើងដោយក្រុមកោសិកា syncytiotrophoblastes",
+      "មាន axe ដែលមានសសៃឈាមក្នុងក្រុមកោសិកាmésenchyme extra embryonnaire",
+      "គឺជាcordons cellulaires ដែលមានសភាពជា travées radiaires ផ្សំឡើងដោយក្រុមកោសិកា embryoblastes"
+    ],
+    "correct_answer": "គឺជា des cordons de cellules Cytotrophoblastes មានសភាពជា travées radiaires ដែលព័ទ្ធពីខាងក្រៅដោយ syncytiotrophoblastes"
+  },
+  {
+    "id": "question221",
+    "question": "គេឃើញមានសរសៃឈាមរបស់កូនកើតឡើងនៅក្នុង៖",
+    "choices": [
+      "Les villosités primaires",
+      "Les villosités secondaires",
+      "Les villosités tertiaires",
+      "Les travées trophoblastiques"
+    ],
+    "correct_answer": "Les villosités tertiaires"
+  },
+  {
+    "id": "question222",
+    "question": "Les cellules des ilots sanguins ជួបគ្នាដើម្បីបង្កើតបំពង់នៃបេះដូង ដែលមានរាងជា",
+    "choices": [
+      "គីប cuboïde",
+      "រាងក្រចកជើងសេះ de fer à cheval រឺអក្សរ ប ផ្កាប់",
+      "រាងមូល arrondie",
+      "រាងត្រីកោណ triangulaire"
+    ],
+    "correct_answer": "រាងក្រចកជើងសេះ de fer à cheval រឺអក្សរ ប ផ្កាប់"
+  },
+  {
+    "id": "question223",
+    "question": "Le tube cardiaque ចែកចេញជាបី compartiments: le bulbe, le ventricule primitif(gauche) និង...... :",
+    "choices": [
+      "le ventricule Droite",
+      "l'oreillette primitive (commune)",
+      "l'oreillette primitive (oreillette Droite)",
+      "l'oreillette primitive(oreillette Gauche)"
+    ],
+    "correct_answer": "l'oreillette primitive (commune)"
+  },
+  {
+    "id": "question224",
+    "question": "Le bulbe អោយកំណើតទៅជា ventricule droit, au conus cardiaque និង...... :",
+    "choices": [
+      "au Oreillette Droite",
+      "au tronc artériel commun (ou truncus arteriosus)",
+      "sinus Veineux",
+      "ventricule Gauche"
+    ],
+    "correct_answer": "au tronc artériel commun (ou truncus arteriosus)"
+  },
+  {
+    "id": "question225",
+    "question": "La région auriculaire រីកលូតលាស់ទៅតាមទិសដៅ",
+    "choices": [
+      "រីកលូតលាស់ទៅcroit vers l'avant, la tête et la gauche",
+      "រីកលូតលាស់ទៅcroit vers l'arrière, la tête et la gauche",
+      "រីកលូតលាស់ទៅcroit vers l'arrière, la queue et la gauche",
+      "រីកលូតលាស់ទៅcroit vers l'arrière, la tête et la droite"
+    ],
+    "correct_answer": "រីកលូតលាស់ទៅcroit vers l'arrière, la tête et la gauche"
+  },
+  {
+    "id": "question226",
+    "question": "L'oreillette commune ភ្ជាប់ទំនាក់ទំនងនឹង sinus veineux ដែលមាន cornes ពីរគឺ :",
+    "choices": [
+      "antérieur et postérieur",
+      "droite et gauche",
+      "supérieur et inférieur",
+      "médiale et latéral"
+    ],
+    "correct_answer": "droite et gauche"
+  },
+  {
+    "id": "question227",
+    "question": "ផ្នែកនៃ cornes ម្ខាងៗ នៃ sinus veineux ទទួលឈាមពីសរសៃឈាមចំនួន :",
+    "choices": [
+      "Deux vaisseaux",
+      "Trois vaisseaux",
+      "Quatre vaisseaux",
+      "Un vaisseaux"
+    ],
+    "correct_answer": "Trois vaisseaux"
+  },
+  {
+    "id": "question228",
+    "question": "Le sinus veineux នៃផ្នែក corne droite នៅថ្ងៃអនាគត នឹងចូលរួមជាផ្នែកមួយនៃ :",
+    "choices": [
+      "Oreillette gauche",
+      "Oreillette droite",
+      "Ventricule droite",
+      "Ventricule gauche"
+    ],
+    "correct_answer": "Oreillette droite"
+  },
+  {
+    "id": "question229",
+    "question": "Corne gauche នឹងអោយកំណើតទៅជា",
+    "choices": [
+      "le sinus coronaire",
+      "La veine ombilical",
+      "La veine cave inférieur",
+      "Le sinus veineux"
+    ],
+    "correct_answer": "le sinus coronaire"
+  },
+  {
+    "id": "question230",
+    "question": "le foramen ovale ជារន្ធនៃបន្ទះ :",
+    "choices": [
+      "interventriculaire",
+      "interauriculaire",
+      "atrio-ventriculaire",
+      "artère pulmonaire"
+    ],
+    "correct_answer": "interauriculaire"
+  },
+  {
+    "id": "question231",
+    "question": "បន្ទះprimumដុះចេញពីដំបូលនៃ Oreilleteទៅកាន់",
+    "choices": [
+      "បន្ទះSecondum",
+      "Bourrelet encardique",
+      "Canal Atrio-ventriculaire Droite",
+      "artère pulmonaire"
+    ],
+    "correct_answer": "Bourrelet encardique"
+  },
+  {
+    "id": "question232",
+    "question": "ostium primum ជារន្ធដែលមាននៅលើ :",
+    "choices": [
+      "បន្ទះsecondum",
+      "បន្ទះprimum",
+      "បន្ទះinterventriculaire",
+      "le ostium secondum"
+    ],
+    "correct_answer": "បន្ទះprimum"
+  },
+  {
+    "id": "question233",
+    "question": "1'ostium secundum ចាប់មានកកើត នៅជិតកំពូលនៃបន្ទះ primum តាមរយៈ processus:",
+    "choices": [
+      "de mitose",
+      "d'apoptose",
+      "latéralisation",
+      "le plicature"
+    ],
+    "correct_answer": "d'apoptose"
+  },
+  {
+    "id": "question234",
+    "question": "La portion musculaire នៃ Le cloisonnement des ventricules កកើតឡើងដោយសារ :",
+    "choices": [
+      "Bourrelet encardique",
+      "ការរីកនៃ ventricules latéralement និងការបង្កបង្កើតនៃ myocarde",
+      "Septum primum",
+      "Septum secondum"
+    ],
+    "correct_answer": "ការរីកនៃ ventricules latéralement និងការបង្កបង្កើតនៃ myocarde"
+  },
+  {
+    "id": "question235",
+    "question": "សរសៃឈាមដែលចាក់ចេញពីបេះដូងត្រូវចែកចេញជា :",
+    "choices": [
+      "Aorte et vein cave inférieur",
+      "Aorte et artère pulmonaires",
+      "Aorte et tronc artériel commune",
+      "Aorte et sinus veineux"
+    ],
+    "correct_answer": "Aorte et artère pulmonaires"
+  },
+  {
+    "id": "question236",
+    "question": "បាតុភូតបង្វិលទិស១៨០ដឺក្រេ (Spiralé 180degree)ធ្វើអោយមាន",
+    "choices": [
+      "Aorte នឹងចាក់ចេញពី Ventricule ខាងឆ្វេង",
+      "Artère pulmonaires នឹងចាក់ចេញពី Ventricule ខាងឆ្វេង",
+      "Aorte et Artère pulmonaires និងរួមគ្នា",
+      "Sinus veineuxនឹងចាក់ចេញពី Ventricule ខាងឆ្វេង"
+    ],
+    "correct_answer": "Aorte នឹងចាក់ចេញពី Ventricule ខាងឆ្វេង"
+  },
+  {
+    "id": "question237",
+    "question": "Trois grands systèmes veineux symétriques មានដូចជា :",
+    "choices": [
+      "Les veines vitellines, les veines ombilicales, les veines caves",
+      "Les veines mésentériques, les veines ombilicales, les veines cardinales",
+      "Les veines vitellines, les veines cérébraux, les veines cardinales",
+      "Les veines vitellines, les veines ombilicales, les veines cardinales"
+    ],
+    "correct_answer": "Les veines vitellines, les veines ombilicales, les veines cardinales"
+  },
+  {
+    "id": "question238",
+    "question": "La coque cytotrophoblastique ៖",
+    "choices": [
+      "ស្រទាប់ក្រៅបង្អស់របស់ la sphere choriale ដែលមានក្រុមរកោសិកា cytotrophoblastes",
+      "ស្រទាប់ក្រៅបង្អស់របស់ la sphere choriale ដែលមានក្រុមកោសិកា syncytiotrophoblastes",
+      "ស្រទាប់ក្រៅបង្អស់របស់ la sphère choriale ដែលមានក្រុមកោសិកា mésenchyme extra embryonnaire",
+      "ស្រទាប់ក្រៅបង្អស់របស់ la sphère choriale ដែលនឹងវិវត្តទៅថ្ងៃមុខជា embryon"
+    ],
+    "correct_answer": "ស្រទាប់ក្រៅបង្អស់របស់ la sphere choriale ដែលមានក្រុមរកោសិកា cytotrophoblastes"
+  },
+  {
+    "id": "question239",
+    "question": "នៅរវាងថ្ងៃទី២១គេឃើញមាន les villosités tertiaires ពីរបែបៈ",
+    "choices": [
+      "Les villosités tertiaires libres ដែល extrémités របស់វាបានជាប់ទៅនឹង la coque cytotrophoblastique",
+      "Les villosités tertiaires cramponsដែល extrémités របស់វាបានអណ្តែតនៅក្នុង cavité amniotique",
+      "Les villosités tertiaires crampons ដែល extrémités របស់វាបានអណ្តែតនៅក្នុង chambre inter villeuse",
+      "Les villosités tertiaires crampons ដែល extrémités របស់វាបានភ្ជាប់ទៅនឹង la coque cytotrophoblastique"
+    ],
+    "correct_answer": "Les villosités tertiaires crampons ដែល extrémités របស់វាបានភ្ជាប់ទៅនឹង la coque cytotrophoblastique"
+  },
+  {
+    "id": "question240",
+    "question": "នៅរវាងថ្ងៃទី២១គេឃើញមាន les villosités tertiaires ពីរបែបៈ",
+    "choices": [
+      "Les villosités tertiaires libres ដែល extrémités របស់វាបានជាប់ទៅនឹងla coque cytotrophoblastique",
+      "Les villosités tertiaires crampons ដែល extrémités របស់វាបានអណ្តែតនៅក្នុង chambre inter villeuse",
+      "Les villosités tertiaires libres ដែល extrémités របស់វាបានអណ្តែតនៅក្នុង chambre inter villeuse",
+      "Les villosités tertiaires libres ដែល extrémités របស់វាបានភ្ជាប់ទៅនឹង endoderme"
+    ],
+    "correct_answer": "Les villosités tertiaires libres ដែល extrémités របស់វាបានអណ្តែតនៅក្នុង chambre inter villeuse"
+  },
+  {
+    "id": "question241",
+    "question": "Le cotylédon fætal កំណត់ដោយ៖",
+    "choices": [
+      "Les villosités primaires",
+      "Les villosités secondaires",
+      "Les villosités tertiaires",
+      "La villosité primordiale និងមែកធាងរបស់វារហូតដល់ villosités terminales"
+    ],
+    "correct_answer": "La villosité primordiale និងមែកធាងរបស់វារហូតដល់ villosités terminales"
+  },
+  {
+    "id": "question242",
+    "question": "នៅក្នុង axe vasculaire នៃ villosité tertiaire នីមួយៗគេឃើញមានៈ",
+    "choices": [
+      "សរសៃ veine 1 និង artère 1 ដែល veine ជញ្ជូនឈាមពីទារកមកសុក",
+      "សរសៃ veine 1 និងartères 2 ដែល veine ជញ្ជូនឈាមពីទារកមកសុកនិងartère ជញ្ជូនឈាមពីសុកទៅទារក",
+      "សរសៃ veine 1 និង artères 2 ដែល veine ជញ្ជូនឈាមពីសុកទៅទារក",
+      "សរសៃ veines 2 និង artères 2 ដែលveine ជញ្ជូនឈាមពីសុកទៅទារក"
+    ],
+    "correct_answer": "សរសៃ veine 1 និងartères 2 ដែល veine ជញ្ជូនឈាមពីទារកមកសុកនិងartère ជញ្ជូនឈាមពីសុកទៅទារក"
+  },
+  {
+    "id": "question243",
+    "question": "ចាប់ពីចុងខែទី២ទៅគេសង្កេតឃើញ",
+    "choices": [
+      "ទារកត្រូវបានគ្របដោយ la caduque pariétale",
+      "La caduque ovulaire ស្ថិតនៅចន្លោះរវាងទារកនិង la cavité utérine",
+      "La caduque basilaire ស្ថិតនៅចន្លោះរវាងទារកនិង la cavité utérine",
+      "La caduque ovulaire ស្ថិតនៅចន្លោះរវាងទារកនិង la paroi utérine"
+    ],
+    "correct_answer": "La caduque ovulaire ស្ថិតនៅចន្លោះរវាងទារកនិង la cavité utérine"
+  },
+  {
+    "id": "question244",
+    "question": "ចូរជ្រើសរើសចំលើយមួយដែលត្រឹមត្រូវ les colonnes cytotrophoblastiques:",
+    "choices": [
+      "បានកើតមកអំពីក្រុមកោសិកា mésenchyme extra embryonnaire",
+      "ក្រុមកោសិកា cytotrophoblastes ដុះដាលនៅខាងចុងនៃ villosité tertiaire នីមួយៗ",
+      "បានកកើតឡើងចុងសប្តាហ៍ទី៥",
+      "បានដុះដាលមកអំពីក្រុមកោសិកា syncytiotrophoblastes"
+    ],
+    "correct_answer": "ក្រុមកោសិកា cytotrophoblastes ដុះដាលនៅខាងចុងនៃ villosité tertiaire នីមួយៗ"
+  },
+  {
+    "id": "question245",
+    "question": "Les chambres inter villeuses:",
+    "choices": [
+      "បានកើតមកពី la transformation នៃ lacunes de syncytiotrophoblastes",
+      "មានជញ្ជាំងរបស់វាដែលពាសដោយក្រុមកោសិកា cytotrophoblastes",
+      "ជាបន្ទប់តូចៗដែលបំពេញដោយឈាមម្តាយលាយជាមួយឈាមទារក",
+      "ជាបន្ទប់តូចៗដែលបំពេញដោយឈាមទារក"
+    ],
+    "correct_answer": "បានកើតមកពី la transformation នៃ lacunes de syncytiotrophoblastes"
+  },
+  {
+    "id": "question246",
+    "question": "ចូរជ្រើសរើសចំលើយមួយដែលត្រឹមត្រូវៈ",
+    "choices": [
+      "Les villosités crampons villosités អណ្តែតនៅក្នុងchambres inter villeuses",
+      "Les villosités libres គឺជា villosités tertiaires បានភ្ជាប់នឹងcoque cytotrophoblastique",
+      "Les villosités terminales ជាប្រភេទ villosité tertiaire",
+      "Les villosités secondaires មានសរសៃឈាមទារកនៅចំកណ្តាល"
+    ],
+    "correct_answer": "Les villosités terminales ជាប្រភេទ villosité tertiaire"
+  },
+  {
+    "id": "question247",
+    "question": "ចូររកចំលើយមួយដែលត្រឹមត្រូវៈ",
+    "choices": [
+      "Le chorion chevelu គឺជា villosités ដែលដុះលូតលាស់ល្អតំរង់ទិសទៅរក caduque basilaire",
+      "La caduque ovulaire គឺជាសាច់ស្បូនម្តាយដែលស្ថិតនៅជាប់នឹង chorion chevelu",
+      "La cavité utérine ត្រូវបិទនៅចុងខែទី៥",
+      "Le chorion chevelu មាន villosités primordiales ប្រហែល២០០"
+    ],
+    "correct_answer": "Le chorion chevelu គឺជា villosités ដែលដុះលូតលាស់ល្អតំរង់ទិសទៅរក caduque basilaire"
+  },
+  {
+    "id": "question248",
+    "question": "Le chorion lisse:",
+    "choices": [
+      "គឺជា villosités ដែលដុះលូតលាស់ល្អហើយដែលនឹងក្លាយទៅជា placenta",
+      "គឺជា villosités ដែលពុំលូតលាស់ល្អហើយស្ថិតនៅពីខាងក្រោម la caduque ovulaire",
+      "មានសរសៃរបស់ទារកដុះដាលលូតលាស់ល្អ",
+      "មានន័យដូចតែគ្នាទៅនឹង chorion chevelu"
+    ],
+    "correct_answer": "គឺជា villosités ដែលពុំលូតលាស់ល្អហើយស្ថិតនៅពីខាងក្រោម la caduque ovulaire"
+  },
+  {
+    "id": "question249",
+    "question": "Le placenta គឺជា organe ដែលមានសភាពដូចថាសដែល",
+    "choices": [
+      "បិទភ្ជាប់ទៅនឹង paroi utérine ដោយ cordon ombilical",
+      "បិទភ្ជាប់ទៅនឹង paroi utérine ដោយ la plaque basale",
+      "មាន plaque choriale ស្ថិតនៅខាង face maternelle",
+      "មានអង្កត់ផ្ចិតប្រហែល៥ cm"
+    ],
+    "correct_answer": "បិទភ្ជាប់ទៅនឹង paroi utérine ដោយ la plaque basale"
+  },
+  {
+    "id": "question250",
+    "question": "Les cytotrophoblastes បានរលុបបាត់ខ្លះៗ villosités tertiaires :",
+    "choices": [
+      "នៅចុងខែទី១",
+      "នៅចុងខែទី២",
+      "នៅដើមខែទី៤",
+      "នៅចុងខែទី៤"
+    ],
+    "correct_answer": "នៅចុងខែទី៤"
+  },
+  {
+    "id": "question251",
+    "question": "ចូរជ្រើសរើសរកចំលើយមួយដែលត្រឹមត្រូវៈ",
+    "choices": [
+      "Le placenta ត្រូវកើតឡើងនៅកន្លែងណាដែល cœuf ធ្វើ implantation",
+      "គេឃើញមានchambres inter villeuses ដែលទទួលនូវ លំហូរឈាមកូនចូលមក",
+      "Le placenta គឺជា organe ដែលនៅព័ទ្ធជុំវិញកូនដែលវិវត្តមកអំពី la sphère choriale",
+      "បើពុំមានការលូតលាស់នៃ placenta បានល្អទេទារកក៏អាចលូតលាស់បានល្អដែរ"
+    ],
+    "correct_answer": "Le placenta ត្រូវកើតឡើងនៅកន្លែងណាដែល cœuf ធ្វើ implantation"
+  },
+  {
+    "id": "question252",
+    "question": "La barrière foeto-maternelle គឺជា:",
+    "choices": [
+      "របាំងខណ្ឌ័ចែកឈាមទារកនិងឈាមម្តាយដែលសូម្បីតែmolécules តូចៗ ក៏ឆ្លងកាត់ពុំបានដែរ",
+      "អាចអនុញ្ញាតអោយគ្រាប់ឈាមក្រហមរបស់ទារកឆ្លងកាត់បានប៉ុន្តែគ្រាប់ឈាម ក្រហមរបស់ម្តាយពុំអាចឆ្លង កាត់បានទេ",
+      "អាចអោយ parasite ដូចជាមេរោគគ្រុនចាញ់ឆ្លងកាត់បាន",
+      "អាចអោយ bactérie នៃជំងឺស្វាយ (le tréponème) ឆ្លងកាត់បាន"
+    ],
+    "correct_answer": "របាំងខណ្ឌ័ចែកឈាមទារកនិងឈាមម្តាយដែលសូម្បីតែmolécules តូចៗ ក៏ឆ្លងកាត់ពុំបានដែរ"
+  },
+  {
+    "id": "question253",
+    "question": "Le placenta:",
+    "choices": [
+      "ត្រូវបានកើតឡើងពីការរីកដុះដាលនៃ chorion lisse",
+      "ត្រូវបានកើតឡើងពីការរីកដុះដាលនៃ chorion chevelu",
+      "ជាទូទៅកើតឡើងនៅម្តុំមាត់ស្បូន",
+      "មិនសំខាន់ឡើយសំរាប់ការលូតលាស់របស់ទារកចាប់ពីខែទី៥ទៅ"
+    ],
+    "correct_answer": "ត្រូវបានកើតឡើងពីការរីកដុះដាលនៃ chorion chevelu"
+  },
+  {
+    "id": "question254",
+    "question": "La neurulation គឺមានហេតុការណ៍បន្តបន្ទាប់ដូចតទៅ",
+    "choices": [
+      "La plaque neurale => la gouttière neurale =>le tube neural",
+      "La gouttière neurale => le tube neural =>la plaque neurale",
+      "Le tube neural => la plaque neurale => la gouttière neurale",
+      "La plaque neurale => la corde dorsale => le tube neural"
+    ],
+    "correct_answer": "La plaque neurale => la gouttière neurale =>le tube neural"
+  },
+  {
+    "id": "question255",
+    "question": "Le canal cordal នឹងវិវត្តន៍ក្លាយទៅជា",
+    "choices": [
+      "Le canal neural",
+      "Le tube neural",
+      "Le diverticule allantoïdien",
+      "Le canal neurentérique"
+    ],
+    "correct_answer": "Le tube neural"
+  },
+  {
+    "id": "question256",
+    "question": "La corde dorsale បានកើតមកអំពី",
+    "choices": [
+      "Hypoblastes",
+      "Mésenchyme extra- embryonnaire",
+      "Processus cordal ដែលជា cordon cellulaire plein",
+      "Trophoblastes"
+    ],
+    "correct_answer": "Processus cordal ដែលជា cordon cellulaire plein"
+  },
+  {
+    "id": "question257",
+    "question": "Le mésoderme intra-embryonnaire បានកើតមកពី",
+    "choices": [
+      "Les trophoblastes",
+      "Les cytotrophoblastes",
+      "Les épiblastes de la ligne primitive",
+      "Les hypoblastes"
+    ],
+    "correct_answer": "Les épiblastes de la ligne primitive"
+  },
+  {
+    "id": "question258",
+    "question": "ការរៀបចំបង្កើត La corde dorsale (ឬ notochord) គឺ",
+    "choices": [
+      "សម្រាប់វិវត្តកើតសាច់ដុំ",
+      "សម្រាប់វិវត្តកើត somites",
+      "សម្រាប់ភ្លេចឲ្យកើត la plaque neurale",
+      "សម្រាប់វិវត្តកើតឆ្អឹងកងខ្នង"
+    ],
+    "correct_answer": "សម្រាប់ភ្លេចឲ្យកើត la plaque neurale"
+  },
+  {
+    "id": "question259",
+    "question": "La barrière foeto-maternelle គឺមានជាលិកាដូចតទៅ",
+    "choices": [
+      "Le mésenchyme extra embryonnaire និង mésenchyme intra-embryonnaire",
+      "Cytotrophoblastes និង mésenchyme extra-embryonnaire",
+      "Syncytiotrophoblastes និង cytotrophoblastes",
+      "Syncytiotrophoblastes, cytotrophoblastes, mésenchyme extra-embryonnaire និង paroi sanguine នៃសសៃរឈាមរបស់កូន"
+    ],
+    "correct_answer": "Syncytiotrophoblastes, cytotrophoblastes, mésenchyme extra-embryonnaire និង paroi sanguine នៃសសៃរឈាមរបស់កូន"
+  },
+  {
+    "id": "question260",
+    "question": "Le mésoderme para-axial និងវិវត្តក្លាយទៅជា",
+    "choices": [
+      "ប្រព័ន្ធផ្លូវនោមនិងប្រព័ន្ធបន្តពូជ (Système génito-urinaire)",
+      "Sclérotome, myotome និង dermatome",
+      "Système nerveux",
+      "System digestif"
+    ],
+    "correct_answer": "Sclérotome, myotome និង dermatome"
+  },
+  {
+    "id": "question261",
+    "question": "Le mésoderme intermédiaire នឹងវិវត្តក្លាយទៅជា",
+    "choices": [
+      "Système digestif",
+      "Système nerveux",
+      "Système cardio-vasculaire",
+      "Système urinaire"
+    ],
+    "correct_answer": "Système urinaire"
+  },
+  {
+    "id": "question262",
+    "question": "Le mésoderme latéral somatique គឺជា",
+    "choices": [
+      "សន្លឹក mésoderme latéral ស្តើងមួយដែលនៅជាប់នឹង endoderme",
+      "សន្លឹក mésoderme latéral ស្តើងមួយដែលនៅជាប់នឹង ectoderme",
+      "Mésoderme ក្រាស់ដែលនៅជាប់នឹងអមសងខាង la corde dorsale",
+      "Mésoderme ដែលនឹងចូលរួមចំណែកបង្កើត le placenta"
+    ],
+    "correct_answer": "សន្លឹក mésoderme latéral ស្តើងមួយដែលនៅជាប់នឹង ectoderme"
+  },
+  {
+    "id": "question263",
+    "question": "Le mésenchyme extra-embryonnaire extra-coelomique គឺជា",
+    "choices": [
+      "ស្រទាប់ mésenchyme extra embryonnaire នៅជាប់ពីក្រោមក្រុម trophoblastes",
+      "ស្រទាប់ mésenchyme extra embryonnaire នៅជាប់នឹងជញ្ជាំង lécithocèle",
+      "ស្រទាប់ mésenchyme extra embryonnaire នៅជាប់នឹង disque ectodermique",
+      "ស្រទាប់ mésenchyme extra embryonnaire នៅជាប់នឹង disque endodermique"
+    ],
+    "correct_answer": "ស្រទាប់ mésenchyme extra embryonnaire នៅជាប់ពីក្រោមក្រុម trophoblastes"
+  },
+  {
+    "id": "question264",
+    "question": "ចូរជ្រើសរើសចម្លើយមួយដែលត្រឹមត្រូវ",
+    "choices": [
+      "Mitose គឺជាចំណែកកោសិកាដែលលទ្ធផលបានកោសិកាកូនពីរដែលមាន “n” chromosomes",
+      "Mitose ខុសពី méiose ដោយ mitose ត្រូវរៀបចំណែកកោសិកាមួយបានកោសិកាកូនបួនឯ méiose កោសិកាមួយចែកបានតែកោសិកាពីរ",
+      "La première division méiotique នឹងបានលទ្ធផលកោសិកាកូនពីរ ដែលនីមួយៗមាន (n) chromosomes ព្រោះវាបានផ្តាច់ centromère",
+      "La première division méiotique នឹងបានលទ្ធផលកោសិកាកូនពីរ ដែលនីមួយៗមាន (n) chromosome ពីព្រោះវាបានចែក chromosomes homologues ជាពីរក្រុម"
+    ],
+    "correct_answer": "La première division méiotique នឹងបានលទ្ធផលកោសិកាកូនពីរ ដែលនីមួយៗមាន (n) chromosome ពីព្រោះវាបានចែក chromosomes homologues ជាពីរក្រុម"
+  },
+  {
+    "id": "question265",
+    "question": "ចូរជ្រើសរើសចម្លើយមួយដែលត្រឹមត្រូវ",
+    "choices": [
+      "Méiose ក្នុង spermatogenèse មានរយៈពេលវែងជាងក្នុង ovogenèse",
+      "Méiose ក្នុង ovogenèse មានរយៈពេលជាច្រើនឆ្នាំ",
+      "Méiose ក្នុង ovogenèse អាចចប់ជាស្ថាពរ ទោះជាគ្មាន la fécondation",
+      "Méiose ក្នុង ovogenèse នឹងកើតបានកោសិកាកូនបួនដែលមានទំហំប៉ុនគ្នា"
+    ],
+    "correct_answer": "Méiose ក្នុង ovogenèse មានរយៈពេលជាច្រើនឆ្នាំ"
+  },
+  {
+    "id": "question266",
+    "question": "La réaction de la membrane pellucide:",
+    "choices": [
+      "នឹងអនុញ្ញាតិឲ្យ spermatozoïdes ច្រើនចូលក្នុង ovocyte secondaire",
+      "នឹងមិនអនុញ្ញាតិឲ្យ spermatozoïde ឆ្លងកាត់ la membrane pellucide បានឡើយ",
+      "នឹងធ្វើឲ្យមានហេតុការណ៍ le blocage de polyspermies គឺ spermatozoïde មិនអាចចូលក្នុង ovocyte បានលើសពីមួយ",
+      "នឹងធ្វើឲ្យស្លាប់ spermatozoïde ដែល បានចូលក្នុង ovocyte secondaire"
+    ],
+    "correct_answer": "នឹងធ្វើឲ្យមានហេតុការណ៍ le blocage de polyspermies គឺ spermatozoïde មិនអាចចូលក្នុង ovocyte បានលើសពីមួយ"
+  },
+  {
+    "id": "question267",
+    "question": "Hormone hCG ត្រូវបានបញ្ចេញពី :",
+    "choices": [
+      "Embryoblaste",
+      "Syncytiotrophoblaste",
+      "Cytotrophoblaste",
+      "កោសិកាស្បូនម្តាយ"
+    ],
+    "correct_answer": "Syncytiotrophoblaste"
+  },
+  {
+    "id": "question268",
+    "question": "គេអាចឃើញមាន hormone hCG ក្នុងទឹកនោមម្តាយ (test de grossesse) :",
+    "choices": [
+      "តាំងពីថ្ងៃមាន ovulation",
+      "នៅថ្ងៃទី 5 ក្រោយ ovulation",
+      "នៅ 2 អាទិត្យក្រោយ ovulation",
+      "នៅថ្ងៃទី 7 ក្រោយ ovulation"
+    ],
+    "correct_answer": "នៅ 2 អាទិត្យក្រោយ ovulation"
+  },
+  {
+    "id": "question269",
+    "question": "ដើម្បីកើត mésoderme intra-embryonnaire បាន",
+    "choices": [
+      "ត្រូវកើតមាន la ligne primitive សិន",
+      "មិនចាំបាច់មានការកើត la ligne primitive ទេ",
+      "ត្រូវមានការរៀបចំកកើត la corde dorsale ឲ្យចប់សព្វគ្រប់សិន",
+      "ត្រូវមានការរៀបចំកើត le tube neural ឲ្យហើយសិន"
+    ],
+    "correct_answer": "ត្រូវកើតមាន la ligne primitive សិន"
+  },
+  {
+    "id": "question270",
+    "question": "Les cellules de la ligne gamétocyte (កោសិកាបន្តពូជ) ដូចជា spermatozoïde នឹង ovocyte មានប្រភពមកពី:",
+    "choices": [
+      "Ectoderme",
+      "Endoderme",
+      "Trophoblaste",
+      "Cellules gonocytes primordiales នៃ mésenchyme extra embryonnaire"
+    ],
+    "correct_answer": "Cellules gonocytes primordiales នៃ mésenchyme extra embryonnaire"
+  },
+  {
+    "id": "question271",
+    "question": "បើគេកាត់ ovaireឬtrompe (ដៃស្បូន)តើស្ត្រីនៅតែអាចមានគភ៌ ក្នុងករណីមួយណា?",
+    "choices": [
+      "កាត់ ovaire ទាំងពីរ",
+      "កាត់ trompe ទាំងពីរ",
+      "កាត់ ovaire ម្ខាងនិង trompe ទាំងពីរ",
+      "កាត់ ovaire ម្ខាងនិង trompe ដែលនៅផ្នែកម្ខាងជាមួយគ្នា"
+    ],
+    "correct_answer": "កាត់ ovaire ម្ខាងនិង trompe ដែលនៅផ្នែកម្ខាងជាមួយគ្នា"
+  },
+  {
+    "id": "question272",
+    "question": "ការចូលរបស់ spermatozoïde នៅក្នុង ovule ត្រូវឆ្លងកាត់របាំងអ្វីខ្លះ?",
+    "choices": [
+      "La membrane de Slavjanski, le granulosa, antrum",
+      "Thèque externe, thèque interne, granulosa",
+      "La membrane de Slavjanski, la granulosa, membrane plasmique",
+      "Le corona radiata, membrane pellucide, membrane cellulaire"
+    ],
+    "correct_answer": "Le corona radiata, membrane pellucide, membrane cellulaire"
+  },
+  {
+    "id": "question273",
+    "question": "តើ zygote មានចំនួនកោសិកាប៉ុន្មានទើបគេហៅថាឈ្មោះ Morula ?",
+    "choices": [
+      "ពី២ទៅ៤",
+      "ពី៦ទៅ៨",
+      "ពី១២ទៅ១៦",
+      "ពី៨ទៅ១៦"
+    ],
+    "correct_answer": "ពី១២ទៅ១៦"
+  },
+  {
+    "id": "question274",
+    "question": "តើនៅដំណាក់កាលណាទើបគេហៅថា la blastula?",
+    "choices": [
+      "គឺដំណាក់កាលនៃការរីកចំរើនរបស់œufដែលកើតបាន cavité មួយហៅថា blastocèle",
+      "គឺដំណាក់កាលនៃការកកើត cavité amniotique",
+      "គឺដំណាក់កាលនៃការកកើត cavité vitelline primaire",
+      "គឺដំណាក់កាលនៃការកកើតនៃ cavité coelomique"
+    ],
+    "correct_answer": "គឺដំណាក់កាលនៃការរីកចំរើនរបស់œufដែលកើតបាន cavité មួយហៅថា blastocèle"
+  },
+  {
+    "id": "question275",
+    "question": "តើពួក cyto និង syncytiotrophoblastes មានប្រភពមកពីណា?",
+    "choices": [
+      "Cyto និង syncytiotrophoblastes មានប្រភពមកពី macromère នៃ blastomère",
+      "Cyto និង syncytiotrophoblastes មានប្រភពមកពី micromère នៃ blastomère",
+      "Cyto និង syncytiotrophoblastes មានប្រភពមកពី blastocyste",
+      "Cyto និង syncytiotrophoblastes មានប្រភពមកពី trophoblaste"
+    ],
+    "correct_answer": "Cyto និង syncytiotrophoblastes មានប្រភពមកពី trophoblaste"
+  },
+  {
+    "id": "question276",
+    "question": "នៅក្នុង bouton embryonnaire កោសិកាប្រភេទណានៅទីណា អោយកំណើតទៅ embryon?",
+    "choices": [
+      "កោសិកាតូចៗសំប៉ែតរាងពហុកោណនៅមុខក្រោមរបស់ bouton embryonnaire អោយជា ectoderme",
+      "កោសិកា cylindrique ខ្ពស់ៗនៅជាប់នឹង trophoblastes អោយជា épiblastes",
+      "កោសិកានៅមុខក្រោមរបស់ bouton embryonnaire សំប៉ែតតូចៗរាងពហុកោណអោយជា endoderme",
+      "កោសិកាខ្ពស់ៗរាង cylindrique នៅជាប់នឹង trophoblastes អោយជា amnios"
+    ],
+    "correct_answer": "កោសិកានៅមុខក្រោមរបស់ bouton embryonnaire សំប៉ែតតូចៗរាងពហុកោណអោយជា endoderme"
+  },
+  {
+    "id": "question277",
+    "question": "ការកើតឡើងនូវ disque embryonnaire didermique ផ្តល់កំណើតអោយអ្វីខ្លះ?",
+    "choices": [
+      "Cavité de segmentation, ectoderme, bouton embryonnaire",
+      "Ectoderme, endoderme, cavité amniotique, mésenchyme extra embryonnaire",
+      "Cavité amniotique, cavité vitelline, ectoderme, endoderme, mésenchyme និង cœlome extra embryonnaire",
+      "Lécithocèle, cavité de segmentation, allantoide, pédicule embryonnaire."
+    ],
+    "correct_answer": "Cavité amniotique, cavité vitelline, ectoderme, endoderme, mésenchyme និង cœlome extra embryonnaire"
+  },
+  {
+    "id": "question278",
+    "question": "La ligne primitive មានប្រភពពីណាឃើញច្បាស់នៅថ្ងៃទីប៉ុន្មាន?",
+    "choices": [
+      "Ligne primitive គឺជា ligne médiane មើលឃើញច្បាស់នៅចុងសប្តាហ៍ទី២",
+      "Ligne primitive មានប្រភពមកពី mésoderme មើលឃើញច្បាស់នៅចុងសប្តាហ៍ទី២",
+      "Ligne primitive មានប្រភពមកពី endoderme ដែលធ្វើដំណើរលើ Ligne médiane ឃើញច្បាស់នៅថ្ងៃទី១៥ទៅទី១៦",
+      "Ligne primitive មានប្រភពមកពីកោសិកា ectodermique modifiée ចេញពីផ្នែក caudale ធ្វើដំណើរទៅលើ ligne médiane ឃើញច្បាស់នៅថ្ងៃទី១៥ទៅទី១៦"
+    ],
+    "correct_answer": "Ligne primitive មានប្រភពមកពីកោសិកា ectodermique modifiée ចេញពីផ្នែក caudale ធ្វើដំណើរទៅលើ ligne médiane ឃើញច្បាស់នៅថ្ងៃទី១៥ទៅទី១៦"
+  },
+  {
+    "id": "question279",
+    "question": "Nœud de Hensen ជាអ្វី? តើវាផ្តល់កំណើតអោយអ្វីខ្លះ?",
+    "choices": [
+      "Nœud de Hensen គឺជាដុំក្រាស់មួយដែលមានរន្ធមួយចំកណ្តាលវាផ្តល់កំណើតអោយ prolongement céphalique de la ligne primitive ដូចជា canal cordal, plaque cordale, corde dorsale",
+      "Nœud de Hensen គឺជាដុំក្រាស់មួយដែលមានរន្ធមួយចំកណ្តាលវាស្ថិតនៅ extrémité céphalique របស់ ligne primitive វាផ្តល់កំណើតអោយ la ligne médiane, plaque neurale, canal neurentérique",
+      "Nœud de Hensen គឺជាដុំក្រាស់មួយដែលមានរន្ធមួយចំកណ្តាលវាផ្តល់កំណើតអោយ la ligne primitive, tube neural, plaque neurale, canal vitellin",
+      "Nœud de Hensen គឺជាដុំក្រាស់មួយដែលមានរន្ធមួយចំកណ្តាលវាផ្តល់កំណើតអោយ cordon cellulaire plein, canal cordal, និង plaque neurale."
+    ],
+    "correct_answer": "Nœud de Hensen គឺជាដុំក្រាស់មួយដែលមានរន្ធមួយចំកណ្តាលវាផ្តល់កំណើតអោយ prolongement céphalique de la ligne primitive ដូចជា canal cordal, plaque cordale, corde dorsale"
+  },
+  {
+    "id": "question280",
+    "question": "តើ corde dorsale មានប្រភពពី",
+    "choices": [
+      "កើតចេញពី canal cordal",
+      "កើតចេញពី cordon cellulaire plein",
+      "កើតចេញពី prolongement céphalique de la ligne primitive",
+      "កើតឡើងពីការវិវត្តន៍របស់ plaque cordale ទៅជា cordon cylindrique មួយ"
+    ],
+    "correct_answer": "កើតឡើងពីការវិវត្តន៍របស់ plaque cordale ទៅជា cordon cylindrique មួយ"
+  },
+  {
+    "id": "question281",
+    "question": "ក្នុងដំណាក់កាល embryon tridermique តើ extrémités ទាំងពីរ céphalique និង caudale ផ្តល់កំនើតអោយអ្វីខ្លះ?",
+    "choices": [
+      "Membrane pharyngienne et membrane cloacale",
+      "Plaque protocordale et pédicule embryonnaire",
+      "Stomodéum et sinus urogénital",
+      "Prosencéphale et le cloaque"
+    ],
+    "correct_answer": "Membrane pharyngienne et membrane cloacale"
+  },
+  {
+    "id": "question282",
+    "question": "តើពេលណាទើបគេហៅថា embryon tridermique",
+    "choices": [
+      "គឺនៅពេលមាន feuillet, épidermique, ectodermique, endodermiques",
+      "គឺនៅពេលមាន feuillet, épiblaste, ectoblaste, endoblaste",
+      "គឺនៅពេលមាន embryon didermique និង endoblaste",
+      "គឺនៅពេលមាន feuillet: ectoblaste, mésoblaste, endoblaste"
+    ],
+    "correct_answer": "គឺនៅពេលមាន feuillet: ectoblaste, mésoblaste, endoblaste"
+  },
+  {
+    "id": "question283",
+    "question": "Plaque neurale ជាអ្វី? វាអោយកំនើតទៅអ្វី?",
+    "choices": [
+      "Plaque neurale គឺជា épaississement មួយផ្នែករបស់ ectoblaste វាអោយកំណើតទៅ épiblaste, crête neurale និង bandelette ganglionnaire",
+      "Plaque neurale គឺជា épaississement មួយផ្នែករបស់ ectoblaste វាអោយកំណើតទៅ gouttière neurale, tube neurale និង crêtes neurales",
+      "Plaque neurale គឺជា épaississement មួយផ្នែករបស់ ectoblaste វាអោយកំណើតទៅ gouttière neurale វាអោយកំណើត bandelette ganglionnaire",
+      "Plaque neurale គឺជា épaississement មួយផ្នែករបស់ ectoblaste វាអោយកំណើតទៅ canal neurentérique"
+    ],
+    "correct_answer": "Plaque neurale គឺជា épaississement មួយផ្នែករបស់ ectoblaste វាអោយកំណើតទៅ gouttière neurale, tube neurale និង crêtes neurales"
+  },
+  {
+    "id": "question284",
+    "question": "Somite ពី៣ទៅ៥គូលេចរូបរាងនៅថ្ងៃទីប៉ុន្មាន?",
+    "choices": [
+      "នៅថ្ងៃទី២០",
+      "នៅថ្ងៃទី២១",
+      "នៅថ្ងៃទី២២",
+      "នៅថ្ងៃទី១៩"
+    ],
+    "correct_answer": "នៅថ្ងៃទី២០"
+  },
+  {
+    "id": "question285",
+    "question": "តើប្រវែងរបស់ embryon មានប៉ុន្មាន? ពេល Somite មាន៣៨គូ ?",
+    "choices": [
+      "1,5mm",
+      "2 mm",
+      "2,5mm",
+      "6 mm"
+    ],
+    "correct_answer": "6 mm"
+  },
+  {
+    "id": "question286",
+    "question": "Mésoblaste intermédiaire បង្កើតជា cordon symétrique ហើយ cordon នីមួយៗចែកចេញជាបី secteur តើ secteur មួយណាដែលមិនមានការវិវត្តន៍ ?",
+    "choices": [
+      "Secteur sacré",
+      "Secteur dorso- lombaire",
+      "Secteur cervico dorsal",
+      "Secteur cervico-sacré"
+    ],
+    "correct_answer": "Secteur cervico dorsal"
+  },
+  {
+    "id": "question287",
+    "question": "Lécithocèle secondaire ក្នុងអនាគតអោយទៅជាអ្វីខ្លះ?",
+    "choices": [
+      "Intestin antérieur, canal ombilical, intestin postérieur",
+      "Intestin antérieur, ébauche hépatique និង pancréatique",
+      "Intestin antérieur, appareil broncho pulmonaire",
+      "Intestin antérieur, moyen, postérieur"
+    ],
+    "correct_answer": "Intestin antérieur, moyen, postérieur"
+  },
+  {
+    "id": "question288",
+    "question": "Membrane cloacale បំបែកចេញជាអ្វីខ្លះដោយសារ éperon périnéal ?",
+    "choices": [
+      "វាបំបែកចេញជា membrane anale និង membrane uro génitale",
+      "វាបំបែកចេញជា membrane anale និង allantoïde",
+      "វាបំបែកចេញជា membrane uro-génitale និង canal allantoïdien",
+      "វាបំបែកចេញជា membrane uro-génitale និង membrane pharyngienne"
+    ],
+    "correct_answer": "វាបំបែកចេញជា membrane anale និង membrane uro génitale"
+  },
+  {
+    "id": "question289",
+    "question": "Le stomodéum ឬ bouche primitive កើតនៅសប្តាហ៍ទីប៉ុន្មាន?",
+    "choices": [
+      "Le stomodaeum កើតនៅសប្តាហ៍ទី៣",
+      "Le stomodaeum កើតនៅសប្តាហ៍ទី៤",
+      "Le stomodaeum កើតនៅសប្តាហ៍ទី៥",
+      "Le stomodaeum កើតមាននៅដើមសប្តាហ៍ទី៣"
+    ],
+    "correct_answer": "Le stomodaeum កើតនៅសប្តាហ៍ទី៤"
+  },
+  {
+    "id": "question290",
+    "question": "តើ morula បេស់មនុស្សមាន blastomère ប៉ុន្មាន?",
+    "choices": [
+      "12 blastomères",
+      "12 macromères",
+      "12 micromères",
+      "12 blatocystes"
+    ],
+    "correct_answer": "12 blastomères"
+  },
+  {
+    "id": "question291",
+    "question": "Morula ផ្សំឡើងពីកោសិកាអ្វី?",
+    "choices": [
+      "Macromère",
+      "Micromère",
+      "Blastomère",
+      "Trophoblaste"
+    ],
+    "correct_answer": "Blastomère"
+  },
+  {
+    "id": "question292",
+    "question": "កោសិកានៅបរិវេនជុំវិញបេស់ Morula ផ្តល់កំណើតជាកោសិកាអ្វី?",
+    "choices": [
+      "Trophobiste",
+      "Macromère",
+      "Micromère",
+      "Cytotrphoblaste"
+    ],
+    "correct_answer": "Trophobiste"
+  },
+  {
+    "id": "question293",
+    "question": "ដើម្បីពិនិត្យមើល points d'ossification សំរាប់កំណត់ l'âge osseux យើងត្រូវធ្វើ IX-ray",
+    "choices": [
+      "le genou et tibia",
+      "la main et du poignet",
+      "la main et les pieds",
+      "le cheville et du poignet"
+    ],
+    "correct_answer": "la main et du poignet"
+  },
+  {
+    "id": "question294",
+    "question": "និយមន័យនៃ Phocomélie :",
+    "choices": [
+      "លើសម្រាមដៃ និង ម្រាមជើង",
+      "មិនមានឆ្អឹងវែង និង កំណាត់ខាងចុងនៃអ យ ភ្ជាប់មកដងខ្លួនតែម្តង",
+      "មិនមានអ យវៈទាំងអស់",
+      "អ យ មានទាំងអស់ តែមានប្រវែងខ្លី"
+    ],
+    "correct_answer": "មិនមានឆ្អឹងវែង និង កំណាត់ខាងចុងនៃអ យ ភ្ជាប់មកដងខ្លួនតែម្តង"
+  },
+  {
+    "id": "question295",
+    "question": "និយមន័យនៃ Micromélie :",
+    "choices": [
+      "លើសម្រាមដៃនិងម្រាមជើង",
+      "អ យ មានទាំងអស់តែមានប្រវែងខ្លី",
+      "មិនមានអ យវៈទាំងអស់",
+      "មិនមានឆ្អឹងវែង"
+    ],
+    "correct_answer": "អ យ មានទាំងអស់តែមានប្រវែងខ្លី"
+  },
+  {
+    "id": "question296",
+    "question": "ពេលដែលផុយស្រួយ ក្នុងការកកើត ភាពមិនប្រក្រតី នៃអវៈយវៈគឺនៅពេល :",
+    "choices": [
+      "សប្តាហ៍ទី៨និងទី១២នៃការវិវឌ្ឍន៍",
+      "សប្តាហ៍ទី៤និងទី៥នៃការវិវឌ្ឍន៍",
+      "សប្តាហ៍ទី៤និងទី៧នៃការវិវឌ្ឍន៍",
+      "សប្តាហ៍ទី៣និងទី៥នៃការវិវឌ្ឍន៍"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៤និងទី៧នៃការវិវឌ្ឍន៍"
+  },
+  {
+    "id": "question297",
+    "question": "និយមន័យនៃ Polydactylie :",
+    "choices": [
+      "មិនមានអ យវៈទាំងអស់",
+      "លើសម្រាមដៃនិងម្រាមជើង",
+      "មិនមានឆ្អឹងវែង",
+      "លើសឆ្អឹង carps"
+    ],
+    "correct_answer": "លើសម្រាមដៃនិងម្រាមជើង"
+  },
+  {
+    "id": "question298",
+    "question": "និយមន័យនៃ Brachydactylie",
+    "choices": [
+      "ម្រាមដៃខ្លី",
+      "លើសម្រាមដៃនិងម្រាមជើង",
+      "មិនមានឆ្អឹងវែង",
+      "លើសឆ្អឹង carps"
+    ],
+    "correct_answer": "ម្រាមដៃខ្លី"
+  },
+  {
+    "id": "question299",
+    "question": "និយមន័យនៃ L'ostéogenèse imparfaite គឺជា",
+    "choices": [
+      "Maladie de Marfan",
+      "Maladie de os de verre",
+      "Malformation en Pince de Homard",
+      "Causé par Thalidomide"
+    ],
+    "correct_answer": "Maladie de os de verre"
+  },
+  {
+    "id": "question300",
+    "question": "Malformation en Pince de Homardគឺជា",
+    "choices": [
+      "មិនមានអ យវៈទាំងអស់",
+      "ឆ្អឹងទី៣ (រួមមាន métacarpien et les phalanges du doigt) តែងតែមិនមាន",
+      "មិនមានឆ្អឹងវែង",
+      "លើសឆ្អឹង carps"
+    ],
+    "correct_answer": "ឆ្អឹងទី៣ (រួមមាន métacarpien et les phalanges du doigt) តែងតែមិនមាន"
+  },
+  {
+    "id": "question301",
+    "question": "Les Brides amniotiques បណ្តាលអោយមាន",
+    "choices": [
+      "Malformation en Pince de Homard",
+      "contrictions: amputation des membres ou des doigts",
+      "lesion de la zone ectoblastique apicale",
+      "Maladie de os de verre"
+    ],
+    "correct_answer": "contrictions: amputation des membres ou des doigts"
+  },
+  {
+    "id": "question302",
+    "question": "Blastocyste ជាអ្វី?",
+    "choices": [
+      "ពេលកកើត entoderme",
+      "Blastcyste ជា oeuf ដែលមាន cavité de segmentation",
+      "Blastocyste ជា blatocèle",
+      "Blastocyste ជា morula"
+    ],
+    "correct_answer": "Blastcyste ជា oeuf ដែលមាន cavité de segmentation"
+  },
+  {
+    "id": "question303",
+    "question": "ការកំណត់ Pôle របស់ embryon ធ្វើឡើងនៅពេលណា?",
+    "choices": [
+      "ពេលកកើត cavité de segmentation",
+      "ពេលកកើត ectoderme",
+      "ពេលកកើត entoderme",
+      "ពេលកកើតនូវ bouton embryonnaire"
+    ],
+    "correct_answer": "ពេលកកើតនូវ bouton embryonnaire"
+  },
+  {
+    "id": "question304",
+    "question": "តើ ectoderme កើតឡើងនៅសប្តាហ៍ទីប៉ុន្មាន?",
+    "choices": [
+      "សប្តាហ៍ទី២",
+      "នៅចុងសប្តាហ៍ទី១",
+      "នៅសប្តាហ៍ទី៣",
+      "នៅសប្តាហ៍ទី៤"
+    ],
+    "correct_answer": "នៅសប្តាហ៍ទី៣"
+  },
+  {
+    "id": "question305",
+    "question": "តើ mésoderme កើតឡើងនៅសប្តាហ៍ទីប៉ុន្មាន?",
+    "choices": [
+      "សប្តាហ៍ទី២",
+      "សប្តាហ៍ទី១",
+      "សប្តាហ៍ទី៣",
+      "សប្តាហ៍ទី៤"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៣"
+  },
+  {
+    "id": "question306",
+    "question": "ក្នុងអំបូរ trophoblastes តើ កោសិកាមួយណា ដែលមិនធ្វើកំណើន?",
+    "choices": [
+      "កោសិកា syncytiotrophoblaste",
+      "កោសិកា cytotrophoblaste",
+      "កោសិកា blastomère",
+      "កោសិកា micromère"
+    ],
+    "correct_answer": "កោសិកា syncytiotrophoblaste"
+  },
+  {
+    "id": "question307",
+    "question": "ការកកើតនៃ entoderme et ectoderme ធ្វើឡើងនៅឯណា?",
+    "choices": [
+      "នៅហ្នឹង bouton embryonnaire",
+      "នៅហ្នឹង lécithocèle",
+      "នៅហ្នឹង blastocyte",
+      "នៅហ្នឹង cavité de segmentation"
+    ],
+    "correct_answer": "នៅហ្នឹង bouton embryonnaire"
+  },
+  {
+    "id": "question308",
+    "question": "នៅពេលណាដែលគេឱ្យឈ្មោះថា disque embryonnaire didermique ?",
+    "choices": [
+      "ពេលកកើតនូវ feuillet ectodermique et endodermique",
+      "ពេលកកើត morula",
+      "ពេលកកើត blastocyste",
+      "ពេលកកើត blastocèle"
+    ],
+    "correct_answer": "ពេលកកើតនូវ feuillet ectodermique et endodermique"
+  },
+  {
+    "id": "question309",
+    "question": "Amnios ផ្សំឡើងពីកោសិកាអ្វីខ្លះ?",
+    "choices": [
+      "ផ្សំពី amnioblastes",
+      "ផ្សំពី macromères",
+      "ផ្សំពី cellules mésothéliales",
+      "ផ្សំពី cytotrophoblastes"
+    ],
+    "correct_answer": "ផ្សំពី amnioblastes"
+  },
+  {
+    "id": "question310",
+    "question": "Disque embryonnaire didermique មាន feuillet អ្វីខ្លះ?",
+    "choices": [
+      "មាន feuillet ពីរ",
+      "Ectoderme et endoderme",
+      "Ectoderme et mésoderme",
+      "Endoderme et mésoderme"
+    ],
+    "correct_answer": "Ectoderme et endoderme"
+  },
+  {
+    "id": "question311",
+    "question": "Amnioblaste មានប្រភពមកពីណា?",
+    "choices": [
+      "ectoderme + endoderme",
+      "Endoderme",
+      "Mésoderme",
+      "Ectoderme"
+    ],
+    "correct_answer": "Ectoderme"
+  },
+  {
+    "id": "question312",
+    "question": "តើដំបូលរបស់ cavité vitelline primitive ធ្វើឡើងពីអ្វី?",
+    "choices": [
+      "Feuillet entodermique",
+      "Feuillet ectodermique",
+      "Feuillet mésodermique",
+      "Feuillet mésoblastique"
+    ],
+    "correct_answer": "Feuillet entodermique"
+  },
+  {
+    "id": "question313",
+    "question": "តើកំរាលរបស់ cavité vitelline primitive ធ្វើឡើងពីអ្វី?",
+    "choices": [
+      "Membrane cloacale",
+      "Membrane de Heuser",
+      "Membrane pharyngienne",
+      "Membrane mésothéliale"
+    ],
+    "correct_answer": "Membrane de Heuser"
+  },
+  {
+    "id": "question314",
+    "question": "Cavité vitelline primitive កើតឡើងនៅថ្ងៃទីប៉ុន្មាន?",
+    "choices": [
+      "ថ្ងៃទី៩",
+      "ថ្ងៃទី៨",
+      "ថ្ងៃទី៧",
+      "ថ្ងៃទី១០"
+    ],
+    "correct_answer": "ថ្ងៃទី៩"
+  },
+  {
+    "id": "question315",
+    "question": "Mésenchyme extra-embryonnaire ជាអ្វី?",
+    "choices": [
+      "ជាជាលិកា",
+      "ជាកោសិកា",
+      "ជាសរីរៈ",
+      "ជាសរីរាង្គ"
+    ],
+    "correct_answer": "ជាជាលិកា"
+  },
+  {
+    "id": "question316",
+    "question": "Coelone extra-embryonnaire នៅឯណា?",
+    "choices": [
+      "Lécithocèle",
+      "នៅក្នុង mésenchyme extra-embryonnaire",
+      "Amnios",
+      "Cavité de segmentation"
+    ],
+    "correct_answer": "នៅក្នុង mésenchyme extra-embryonnaire"
+  },
+  {
+    "id": "question317",
+    "question": "តើ Somatopleure extra-embryonnaire ជាអ្វី ?",
+    "choices": [
+      "ជាផ្នែកមួយរបស់ mésenchyme extra-embryonnaire ដែលក្រាលលើ amnios",
+      "mésenchyme extra-embryonnaire ដែលក្រាលលើ cytotrophoblaste",
+      "membrane de Heuser",
+      "ជាផ្នែកមួយរបស់ mésenchyme extra-embryonnaire ដែលក្រាលលើlécithocèle"
+    ],
+    "correct_answer": "ជាផ្នែកមួយរបស់ mésenchyme extra-embryonnaire ដែលក្រាលលើ amnios"
+  },
+  {
+    "id": "question318",
+    "question": "Mésenchyme extra-embryonnaire ពាសលើ amnios ឈ្មោះអ្វី?",
+    "choices": [
+      "Somatopleure extra-embryonnaire",
+      "Somatopleure intra-embryonnaire",
+      "Splanschnopleure-extra-embryonnaire",
+      "Splanschnopleure intra-embryonnaire"
+    ],
+    "correct_answer": "Somatopleure extra-embryonnaire"
+  },
+  {
+    "id": "question319",
+    "question": "Membrane de Heuser កើតឡើងនៅថ្ងៃទីប៉ុន្មាន?",
+    "choices": [
+      "ថ្ងៃទី១២",
+      "ថ្ងៃទី១០",
+      "ថ្ងៃទី០៩",
+      "ថ្ងៃទី១១"
+    ],
+    "correct_answer": "ថ្ងៃទី០៩"
+  },
+  {
+    "id": "question320",
+    "question": "Cavité vitelline secondaire មានឈ្មោះមួយទៀតហៅថាអ្វី?",
+    "choices": [
+      "Cavité vitelline primitive",
+      "Lécithocèle",
+      "Cavité amniotique",
+      "Cavité de segmentation"
+    ],
+    "correct_answer": "Lécithocèle"
+  },
+  {
+    "id": "question321",
+    "question": "Placenta មាន face fætale កំណត់សំគាល់ដោយ?",
+    "choices": [
+      "Plaque basale",
+      "Plaque choriale",
+      "Plaque maternelle",
+      "Implantation du cordon ombilical"
+    ],
+    "correct_answer": "Plaque choriale"
+  },
+  {
+    "id": "question322",
+    "question": "Plaque protocordale ធ្វើឡើងពីកោសិកាដូចម្តេច?",
+    "choices": [
+      "កោសិកា cylindrique",
+      "កោសិកា cubique",
+      "កោសិកា polyédrique",
+      "កោសិកា aplatie"
+    ],
+    "correct_answer": "កោសិកា cylindrique"
+  },
+  {
+    "id": "question323",
+    "question": "ផ្នែកក្បាលរបស់ embryon tridermique កំណត់ដោយសារអ្វី?",
+    "choices": [
+      "វត្តមានរបស់ plaque protochordale",
+      "Membrane pharyngienne",
+      "Noeud de Hensen",
+      "Prolongement céphalique de la ligne primitive"
+    ],
+    "correct_answer": "Membrane pharyngienne"
+  },
+  {
+    "id": "question324",
+    "question": "ទំនាក់ទំនងរវាង cavité amniotique ជាមួយ lécithocèle ធ្វើឡើងដោយសារអ្វី?",
+    "choices": [
+      "Canal cordal",
+      "Gouttière cordale",
+      "Canal neurentérique",
+      "Gouttière neurale"
+    ],
+    "correct_answer": "Canal neurentérique"
+  },
+  {
+    "id": "question325",
+    "question": "Gouttière cordale កើតចេញពីអ្វី?",
+    "choices": [
+      "ពី canal cordal",
+      "Canal neurentérique",
+      "Canal de Lieberkühn",
+      "Corde dorsale"
+    ],
+    "correct_answer": "ពី canal cordal"
+  },
+  {
+    "id": "question326",
+    "question": "Membrane cloacale កើតឡើងនៅឯណា?",
+    "choices": [
+      "ផ្នែក pédicule de fixation",
+      "ចំពីក្រោយ la ligne primitive",
+      "ក្នុង pédicule embryonnaire",
+      "ជាប់ allantoïde"
+    ],
+    "correct_answer": "ចំពីក្រោយ la ligne primitive"
+  },
+  {
+    "id": "question327",
+    "question": "Membrane pharyngienne កើតនៅសប្តាហ៍ទីប៉ុន្មាន?",
+    "choices": [
+      "ពាក់កណ្តាលសប្តាហ៍ទី៣",
+      "ផ្នែក céphalique",
+      "Plaque protocordale",
+      "Noeud de Hensen"
+    ],
+    "correct_answer": "ពាក់កណ្តាលសប្តាហ៍ទី៣"
+  },
+  {
+    "id": "question328",
+    "question": "Pédicule embryonnaire ផ្សំឡើងពីអ្វី?",
+    "choices": [
+      "ផ្សំពី Mésenchyme extra-embryonnaire",
+      "Amnios et trophoblaste",
+      "Vésicule vitelline",
+      "Mésenchyme extra-embryonnaire, Amnios et trophoblaste, Vésicule vitelline"
+    ],
+    "correct_answer": "Mésenchyme extra-embryonnaire, Amnios et trophoblaste, Vésicule vitelline"
+  },
+  {
+    "id": "question329",
+    "question": "Allantoïde មានប្រភពចេញមកពីណា?",
+    "choices": [
+      "ពី mésenchyme extra-embryonnaire",
+      "ពី entoderme",
+      "ពី paroi postérieure របស់ cavité vitelline secondaire",
+      "ពី lécithocèle"
+    ],
+    "correct_answer": "ពី paroi postérieure របស់ cavité vitelline secondaire"
+  },
+  {
+    "id": "question330",
+    "question": "Canal allantoïdien លេចចេញជារូបរាងនៅឯណា?",
+    "choices": [
+      "ចេញជារូបរាងនៅថ្ងៃទី១៦",
+      "នៅក្នុង pédicule embryonnaire",
+      "នៅក្នុង cloaque",
+      "នៅថ្ងៃទី១៨"
+    ],
+    "correct_answer": "នៅក្នុង pédicule embryonnaire"
+  },
+  {
+    "id": "question331",
+    "question": "La ligne primitive et noeud de Hensen រលុបបាត់នៅសប្តាហ៍ទីប៉ុន្មាន?",
+    "choices": [
+      "នៅក្នុងសប្តាហ៍ទី៤",
+      "នៅដើមសប្តាហ៍ទី៤",
+      "នៅចុងសប្តាហ៍ទី៤",
+      "នៅដើមសប្តាហ៍ទី៥"
+    ],
+    "correct_answer": "នៅចុងសប្តាហ៍ទី៤"
+  },
+  {
+    "id": "question332",
+    "question": "Epiblaste អោយកំណើតជាអ្វីខ្លះនៅពេលក្រោយ?",
+    "choices": [
+      "បង្កើតជា épiderme",
+      "បង្កើតជា derme",
+      "បង្កើតជា hypoderme",
+      "បង្កើតជា mésoderme"
+    ],
+    "correct_answer": "បង្កើតជា épiderme"
+  },
+  {
+    "id": "question333",
+    "question": "Plaque neurale ជាអ្វី ?",
+    "choices": [
+      "ជា épaississement មួយផ្នែករបស់ ectoblaste",
+      "ជា épaississement របស់ mésoblaste",
+      "ជាépaississement របស់ entoblaste",
+      "ជា épaississement របស់ mésoderme"
+    ],
+    "correct_answer": "ជា épaississement មួយផ្នែករបស់ ectoblaste"
+  },
+  {
+    "id": "question334",
+    "question": "Plaque neurale ស្ថិតនៅឯណា?",
+    "choices": [
+      "ទល់នឹងគែមខាងមុខរបស់ canal de Lieberkühn",
+      "ខាងក្រោយ membrane pharyngienne និង ខាងមុខរបស់ canal de Lieberkühn",
+      "នៅពីក្រោម ectoblaste",
+      "នៅពីលើ entoderme"
+    ],
+    "correct_answer": "ខាងក្រោយ membrane pharyngienne និង ខាងមុខរបស់ canal de Lieberkühn"
+  },
+  {
+    "id": "question335",
+    "question": "Vésicule cérébrale primitive ដំបូងកើតចេញពីណា?",
+    "choices": [
+      "Rhombencéphale",
+      "Tube neural de la région encéphalique",
+      "Mésencéphale",
+      "Prosencéphale"
+    ],
+    "correct_answer": "Tube neural de la région encéphalique"
+  },
+  {
+    "id": "question336",
+    "question": "Mésoblaste para-axial អោយកំណើតទៅជាអ្វីខ្លះ?",
+    "choices": [
+      "Cordon néphrogène",
+      "Sclérotome",
+      "គូនៃ somite",
+      "Dermatome"
+    ],
+    "correct_answer": "គូនៃ somite"
+  },
+  {
+    "id": "question337",
+    "question": "Rein définitif មានប្រភពមកពីណា?",
+    "choices": [
+      "Cordon néphrogène",
+      "Pronéphros",
+      "Métanéphros",
+      "Mésonéphros"
+    ],
+    "correct_answer": "Métanéphros"
+  },
+  {
+    "id": "question338",
+    "question": "នៅពេលកើតតើ amnios មានតួនាទីជាអ្វី?",
+    "choices": [
+      "ថង់ទឹកភ្លោះការពារ",
+      "ជា paroi interne របស់ poche des eaux",
+      "ដំបូលរបស់ cavité amniotique",
+      "សំបកក្រៅរបស់ chorion"
+    ],
+    "correct_answer": "ជា paroi interne របស់ poche des eaux"
+  },
+  {
+    "id": "question339",
+    "question": "Cordon ombilical មាន vaisseaux អ្វីខ្លះ?",
+    "choices": [
+      "Artères 1et veine 1",
+      "Artère 2 et veine 1",
+      "Veines 2 et artère 1",
+      "Artères 3 et veine 1"
+    ],
+    "correct_answer": "Artère 2 et veine 1"
+  },
+  {
+    "id": "question340",
+    "question": "ការវិវត្តន៍ចុងក្រោយបង្អស់របស់ vésicule ombilicale អោយទៅជាអ្វី?",
+    "choices": [
+      "Cordon ombilical",
+      "Canal vitellin",
+      "Intestin grêle",
+      "រលុបបាត់អស់"
+    ],
+    "correct_answer": "រលុបបាត់អស់"
+  },
+  {
+    "id": "question341",
+    "question": "La partie proximale របស់ allantoide ក្នុងពេលក្រោយអោយកំណើតអ្វីសំរាប់កំណត់ភេទ ?",
+    "choices": [
+      "Sinus uro-génital",
+      "Gonocytes primordiaux",
+      "Ebauche de la vessie",
+      "Ouraque"
+    ],
+    "correct_answer": "Ebauche de la vessie"
+  },
+  {
+    "id": "question342",
+    "question": "Caduque ជាអ្វី ?",
+    "choices": [
+      "កោសិកា mésenchymateuse",
+      "កោសិកា cylindrique របស់ ectoderme",
+      "ជាលិកា modifié នៃ endomètre របស់ម្តាយ",
+      "កោសិកា mésoblastique"
+    ],
+    "correct_answer": "ជាលិកា modifié នៃ endomètre របស់ម្តាយ"
+  },
+  {
+    "id": "question343",
+    "question": "Caduque អោយកំណើតទៅ placenta គឺ",
+    "choices": [
+      "Caduque superficielle",
+      "Caduque basilaire",
+      "Caduque ovulaire",
+      "Caduque pariétale"
+    ],
+    "correct_answer": "Caduque basilaire"
+  },
+  {
+    "id": "question344",
+    "question": "តើរចនាសម្ព័ន្ធជាមូលដ្ឋានរ បស់ villosité à terme តូចជាងគេមានអ្វីខ្លះ?",
+    "choices": [
+      "Axe mésenchymateux ព្រមទាំង capillaire",
+      "ស្រទាប់ក្នុង cytotrophoblaste",
+      "Endothélium membrane basale ព្រមទាំង syncytiotrophoblaste",
+      "ស្រទាប់ក្រៅ syncytiotrophoblaste"
+    ],
+    "correct_answer": "Axe mésenchymateux ព្រមទាំង capillaire"
+  },
+  {
+    "id": "question345",
+    "question": "ប្រភពរបស់សារធាតុ éosinophile នៃ strie de Nitabuch ប្រហែលមកពី",
+    "choices": [
+      "Syncytiotrophoblaste",
+      "Cytotrophoblaste",
+      "Mésenchyme extra embryonnaire",
+      "Trophoblaste"
+    ],
+    "correct_answer": "Syncytiotrophoblaste"
+  },
+  {
+    "id": "question346",
+    "question": "កំរាស់របស់ Barrière placentairels foetus à terme មានកំរាស",
+    "choices": [
+      "2 microns",
+      "3 microns",
+      "4 microns",
+      "5 microns"
+    ],
+    "correct_answer": "2 microns"
+  },
+  {
+    "id": "question347",
+    "question": "អរម៉ូន HCG នៃ placenta បញ្ជាក់ថាមានផ្ទៃពោះ បញ្ចេញចាប់ពីថ្ងៃទី",
+    "choices": [
+      "៤-៥ នៃការបង្កកំណើត",
+      "៥-៦ នៃការបង្កកំណើត",
+      "៦-៧ នៃការបង្កកំណើត",
+      "៨-៩ នៃការបង្កកំណើត"
+    ],
+    "correct_answer": "៨-៩ នៃការបង្កកំណើត"
+  },
+  {
+    "id": "question348",
+    "question": "ឈាមកូនត្រូវបានដឹកនាំដោយ",
+    "choices": [
+      "Réseau vitellin",
+      "Réseau capillaire villositaire",
+      "Vaisseaux utéro-placentaire",
+      "Artères utérines maternelles"
+    ],
+    "correct_answer": "Réseau capillaire villositaire"
+  },
+  {
+    "id": "question349",
+    "question": "ឈាមម្តាយត្រូវបានដឹកនាំដោយ",
+    "choices": [
+      "Réseau vitellin",
+      "Réseau ombilical",
+      "Réseau capillaire villositaire",
+      "Vaisseaux utéro-placentaire"
+    ],
+    "correct_answer": "Vaisseaux utéro-placentaire"
+  },
+  {
+    "id": "question350",
+    "question": "សំពាធ hydrostatique នៃ sang fœtal ក្នុង capillaires villositaires គឺ",
+    "choices": [
+      "10 mmHg",
+      "20 mmHg",
+      "30 mmHg",
+      "40 mmHg"
+    ],
+    "correct_answer": "30 mmHg"
+  },
+  {
+    "id": "question351",
+    "question": "សំពាធ hydrostatique នៃ sang maternel ក្នុង chambre intervilleuse គឺ",
+    "choices": [
+      "10 mmHg",
+      "20 mmHg",
+      "30 mmHg",
+      "40 mmHg"
+    ],
+    "correct_answer": "10 mmHg"
+  },
+  {
+    "id": "question352",
+    "question": "Placenta មានរាងដូចថាស មានអង្កត់ផ្ចិតប្រមាណ",
+    "choices": [
+      "10-20 cm",
+      "20-25 cm",
+      "30-40 cm",
+      "40-50 cm"
+    ],
+    "correct_answer": "10-20 cm"
+  },
+  {
+    "id": "question353",
+    "question": "Stade trabéculaire du trophoblaste កើតនៅថ្ងៃទី",
+    "choices": [
+      "13",
+      "15",
+      "18",
+      "21"
+    ],
+    "correct_answer": "13"
+  },
+  {
+    "id": "question354",
+    "question": "Villosité primaire កើតនៅថ្ងៃទី",
+    "choices": [
+      "13",
+      "15",
+      "18",
+      "21"
+    ],
+    "correct_answer": "13"
+  },
+  {
+    "id": "question355",
+    "question": "Villosité secondaire កើតនៅថ្ងៃទី",
+    "choices": [
+      "13",
+      "15",
+      "18",
+      "21"
+    ],
+    "correct_answer": "15"
+  },
+  {
+    "id": "question356",
+    "question": "Villosité tertiaire កើតនៅថ្ងៃទី",
+    "choices": [
+      "13",
+      "15",
+      "18",
+      "21"
+    ],
+    "correct_answer": "21"
+  },
+  {
+    "id": "question357",
+    "question": "Gonocytes primordiaux ធ្វើដំណើរទៅកាន់ crête génitale នៅសប្តាហ៍ទី",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "5"
+  },
+  {
+    "id": "question358",
+    "question": "Chondrification សូន្យជា cartilage នៅសប្តាហ៍ទី",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct_answer": "7"
+  },
+  {
+    "id": "question359",
+    "question": "Ossification primaire សូន្យជា os នៅសប្តាហ៍ទី",
+    "choices": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct_answer": "12"
+  },
+  {
+    "id": "question360",
+    "question": "Délimitation antérieure កើតមាននៅចន្លោះ",
+    "choices": [
+      "20-25",
+      "27-30",
+      "30-40",
+      "40-45"
+    ],
+    "correct_answer": "20-25"
+  },
+  {
+    "id": "question361",
+    "question": "Membrane cloacale នឹងរលុបបាត់នៅបំនាច់ខែទី",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "id": "question362",
+    "question": "ក្រពេញ Thyroïde មានប្រភពមកពី",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពីintestin primitif postérieur",
+      "ចេញពី intestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif antérieur"
+  },
+  {
+    "id": "question363",
+    "question": "ក្រពេញ Parathyroïde មានប្រភពមកពី:",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពី intestin primitif postérieur",
+      "ចេញពីintestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif antérieur"
+  },
+  {
+    "id": "question364",
+    "question": "Jéjunum មានប្រភពមកពី",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពីintestin primitif postérieur",
+      "ចេញពីintestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif moyen"
+  },
+  {
+    "id": "question365",
+    "question": "Iléon មានប្រភពមកពី:",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពី intestin primitif moyen",
+      "ចេញពីintestin primitif postérieur",
+      "ចេញពីintestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពី intestin primitif moyen"
+  },
+  {
+    "id": "question366",
+    "question": "Caecum មានប្រភពមកពី",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពីintestin primitif postérieur",
+      "ចេញពីintestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif moyen"
+  },
+  {
+    "id": "question367",
+    "question": "Pancréas មានប្រភពមកពី",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពីintestin primitif postérieur",
+      "ចេញពីintestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif antérieur"
+  },
+  {
+    "id": "question368",
+    "question": "Canal thyroglosse ជាសំណល់អោយជា kyste thyroglosse មានប្រភពមកពី:",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពីintestin primitif postérieur",
+      "ចេញពីintestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif antérieur"
+  },
+  {
+    "id": "question369",
+    "question": "Morphogenèse នៃតំបន់ branchiale:",
+    "choices": [
+      "ចេញពីintestin primitif antérieur",
+      "ចេញពីintestin primitif moyen",
+      "ចេញពីintestin primitif postérieur",
+      "ចេញពីintestin primitif ទាំងបី"
+    ],
+    "correct_answer": "ចេញពីintestin primitif antérieur"
+  },
+  {
+    "id": "question370",
+    "question": "Système nerveux ទាំងអស់ មានប្រភពមកពី :",
+    "choices": [
+      "Epiblaste",
+      "Neurectoblaste",
+      "Ectoblaste",
+      "Entoblaste"
+    ],
+    "correct_answer": "Neurectoblaste"
+  },
+  {
+    "id": "question371",
+    "question": "Les séreuses ទាំងអស់ មានប្រភពមកពី :",
+    "choices": [
+      "Epiblaste",
+      "Ectoblaste",
+      "Entoblaste",
+      "Mésoblaste"
+    ],
+    "correct_answer": "Mésoblaste"
+  },
+  {
+    "id": "question372",
+    "question": "Les glandes génitales មានប្រភពមកពី :",
+    "choices": [
+      "Epiblaste",
+      "Ectoblaste",
+      "Entoblaste",
+      "Mésoblaste"
+    ],
+    "correct_answer": "Mésoblaste"
+  },
+  {
+    "id": "question373",
+    "question": "L'adénohypophyse មានប្រភពមកពី :",
+    "choices": [
+      "Epiblaste",
+      "Ectoblaste",
+      "Entoblaste",
+      "Mésoblaste"
+    ],
+    "correct_answer": "Ectoblaste"
+  },
+  {
+    "id": "question374",
+    "question": "Noeud de Hensen កើតមាននៅថ្ងៃទី:",
+    "choices": [
+      "ថ្ងៃទី15",
+      "ថ្ងៃទី16",
+      "ថ្ងៃទី17",
+      "ថ្ងៃទី18"
+    ],
+    "correct_answer": "ថ្ងៃទី15"
+  },
+  {
+    "id": "question375",
+    "question": "Canal de Müller អោយកំណើតទៅជា :",
+    "choices": [
+      "Epididyme",
+      "Canal déférent",
+      "Utérus",
+      "Vésicules séminales"
+    ],
+    "correct_answer": "Utérus"
+  },
+  {
+    "id": "question376",
+    "question": "Canal de Wolff អោយកំណើតទៅជា :",
+    "choices": [
+      "Trompes utérines",
+      "Voies spermatiques",
+      "Utérus",
+      "Une partie du vagin"
+    ],
+    "correct_answer": "Voies spermatiques"
+  },
+  {
+    "id": "question377",
+    "question": "Chorion អោយកំណើតទៅជាស្រោមទឹកភ្លោះខាងក្រៅគឺ :",
+    "choices": [
+      "Chorion chevelu",
+      "Chorion lisse",
+      "Chorion villeux",
+      "Lame choriale"
+    ],
+    "correct_answer": "Chorion lisse"
+  },
+  {
+    "id": "question378",
+    "question": "Neuropore antérieur បិទ :",
+    "choices": [
+      "ថ្ងៃទី២៥",
+      "ថ្ងៃទី២៦",
+      "ថ្ងៃទី២៧",
+      "ថ្ងៃទី២៨"
+    ],
+    "correct_answer": "ថ្ងៃទី២៥"
+  },
+  {
+    "id": "question379",
+    "question": "គេចែក Caduque ជា៣យ៉ាង :",
+    "choices": [
+      "Caduque basilaire, ovulaire, capsulaire",
+      "Caduque basilaire, réfléchie, capsulaire",
+      "Caduque basilaire, pariétale, utérine",
+      "Caduque basilaire, ovulaire, pariétale"
+    ],
+    "correct_answer": "Caduque basilaire, ovulaire, pariétale"
+  },
+  {
+    "id": "question380",
+    "question": "មួយណាមិនមែនជាមុខងាររបស់ Placenta :",
+    "choices": [
+      "មុខងារ barrière protectrice du fœtus",
+      "មុខងារ endocrine (sécrétion d'hormones)",
+      "មុខងារ filtration du liquide amniotique",
+      "មុខងារ métabolique (respiration, nutrition, excrétion)"
+    ],
+    "correct_answer": "មុខងារ filtration du liquide amniotique"
+  },
+  {
+    "id": "question381",
+    "question": "ផ្ទៃនៃ villositéដែលសកម្មគឺឃើញនៅដំណាក់កាលចុងក្រោយនៃការមានផ្ទៃពោះមានពី :",
+    "choices": [
+      "8-10 ម៉ែត្រការេ",
+      "10-12 ម៉ែត្រការេ",
+      "12-14 ម៉ែត្រការេ",
+      "14-16 ម៉ែត្រការេ"
+    ],
+    "correct_answer": "12-14 ម៉ែត្រការេ"
+  },
+  {
+    "id": "question382",
+    "question": "Hématoses sang foetal ធ្វើឡើងតាមរយះ",
+    "choices": [
+      "Lacune syncytiotrophoblastique",
+      "Villosité choriale",
+      "Membrane placentaire",
+      "Cytotrophoblastes"
+    ],
+    "correct_answer": "Membrane placentaire"
+  },
+  {
+    "id": "question383",
+    "question": "មួយណាមិនមានក្នុងរចនាសម្ពន្ធ័របស់ Villosité secondaire :",
+    "choices": [
+      "Axe mésenchymateux",
+      "Capillaire villositaire",
+      "Cytotrophoblaste",
+      "Syncytiotrophoblaste"
+    ],
+    "correct_answer": "Capillaire villositaire"
+  },
+  {
+    "id": "question384",
+    "question": "Placenta គឺជាសរីរះមួយ ដែលកើតមកពី :",
+    "choices": [
+      "ជាលិកាម្តាយតែមួយ",
+      "ជាលិកាម្តាយ និង ជាលិកាកូន",
+      "ជាលិកាកូនតែមួយ",
+      "ជាលិកា endomètre"
+    ],
+    "correct_answer": "ជាលិកាម្តាយ និង ជាលិកាកូន"
+  },
+  {
+    "id": "question385",
+    "question": "ជាលិកាម្តាយ ដែលចូលរួមបង្កើត Placenta គឺ :",
+    "choices": [
+      "Caduque capsulaire",
+      "Caduque ovulaire",
+      "Caduque basilaire",
+      "Caduque uterine"
+    ],
+    "correct_answer": "Caduque basilaire"
+  },
+  {
+    "id": "question386",
+    "question": "ជាលិកាកូន ដែលចូលរួមបង្កើត Placenta គឺ :",
+    "choices": [
+      "Cytotrophoblaste",
+      "Sphère choriale",
+      "Amnios et cytotrophoblaste",
+      "Mésenchyme extra embryonnaire"
+    ],
+    "correct_answer": "Sphère choriale"
+  },
+  {
+    "id": "question387",
+    "question": "Transformation déciduale de la muqueuse utérine កើតមាន :",
+    "choices": [
+      "តាំងពីពេល fécondation",
+      "តាំងពីពេល segmentation",
+      "តាំងពីពេល implantation",
+      "តាំងពីពេល gastrulation"
+    ],
+    "correct_answer": "តាំងពីពេល implantation"
+  },
+  {
+    "id": "question388",
+    "question": "Plaque neurale លេចចេញនៅ :",
+    "choices": [
+      "ថ្ងៃទី១៨",
+      "ថ្ងៃទី១៩",
+      "ថ្ងៃទី២០",
+      "ថ្ងៃទី២១"
+    ],
+    "correct_answer": "ថ្ងៃទី១៩"
+  },
+  {
+    "id": "question389",
+    "question": "Cerveau កើតចេញមកពី :",
+    "choices": [
+      "Prosencéphale",
+      "Mésencéphale",
+      "Rhombencéphale",
+      "3 vésicules cérébrales primitives"
+    ],
+    "correct_answer": "3 vésicules cérébrales primitives"
+  },
+  {
+    "id": "question390",
+    "question": "សរីរាង្គខាងក្រោម មួយណាដែលមានប្រភពមកពី Ectoblaste:",
+    "choices": [
+      "Reins et vessie",
+      "Organes des sens",
+      "Epithélium du tube digestif",
+      "Foie et pancréas"
+    ],
+    "correct_answer": "Organes des sens"
+  },
+  {
+    "id": "question391",
+    "question": "សរីរាង្គខាងក្រោម មួយណាដែលមានប្រភពមកពី Ectoblaste:",
+    "choices": [
+      "Epithélium de bas appareil urinaire",
+      "Epithélium de l'appareil respiratoire",
+      "Epithélium du tube digestif",
+      "Système nerveux ទាំងអស់"
+    ],
+    "correct_answer": "Système nerveux ទាំងអស់"
+  },
+  {
+    "id": "question392",
+    "question": "សរីរាង្គខាងក្រោម មួយណាដែលមានប្រភពមកពី Entoblaste:",
+    "choices": [
+      "Organes des sens",
+      "Foie et pancréas",
+      "Vaisseaux sanguins",
+      "Système nerveux ទាំងអស់"
+    ],
+    "correct_answer": "Foie et pancréas"
+  },
+  {
+    "id": "question393",
+    "question": "សរីរាង្គខាងក្រោម មួយណាដែលមានប្រភពមកពី Entoblaste:",
+    "choices": [
+      "Vaisseaux sanguins",
+      "Tissu conjonctif ទាំងអស់",
+      "Epithélium du tube digestif",
+      "Système nerveux ទាំងអស់"
+    ],
+    "correct_answer": "Epithélium du tube digestif"
+  },
+  {
+    "id": "question394",
+    "question": "សរីរាង្គខាងក្រោម មួយណាដែលមានប្រភពមកពី Mésoblaste:",
+    "choices": [
+      "Vaisseaux sanguins",
+      "Organes des sens",
+      "Epithélium du tube digestif",
+      "Système nerveux ទាំងអស់"
+    ],
+    "correct_answer": "Vaisseaux sanguins"
+  },
+  {
+    "id": "question395",
+    "question": "សរីរាង្គខាងក្រោម មួយណាដែលមានប្រភពមកពី Mésoblaste:",
+    "choices": [
+      "Organes des sens",
+      "Tissu conjonctif ទាំងអស់",
+      "Epithélium du tube digestif",
+      "Système nerveux ទាំងអស់"
+    ],
+    "correct_answer": "Tissu conjonctif ទាំងអស់"
+  },
+  {
+    "id": "question396",
+    "question": "Crêtes neurales គឺជាប្រភពនៃរចនាសម្ពន្ធ័ដូចតទៅ",
+    "choices": [
+      "កោសិកា pigmentaires",
+      "Dure-mère",
+      "Ganglion nerveux",
+      "Nerf optique"
+    ],
+    "correct_answer": "Ganglion nerveux"
+  },
+  {
+    "id": "question397",
+    "question": "សរីរាង្គរី ជាលិកាខាងក្រោម មួយណាដែលមានប្រភពមកពី Entoblaste:",
+    "choices": [
+      "La vessie",
+      "Le tissu conjonctif",
+      "Les dents",
+      "Les vaisseaux sanguins"
+    ],
+    "correct_answer": "La vessie"
+  },
+  {
+    "id": "question398",
+    "question": "ជាលិកាណាមួយខាងក្រោម ចូលរួមបង្កើត villosité primaire:",
+    "choices": [
+      "Le chorion utérin",
+      "Le cytotrophoblaste",
+      "Les vaisseaux sanguins foetaux",
+      "Le mésoblaste extra embryonnaire"
+    ],
+    "correct_answer": "Le cytotrophoblaste"
+  },
+  {
+    "id": "question399",
+    "question": "ជាលិកាណាមួយខាងក្រោម ចូលរួមបង្កើត villosité primaire:",
+    "choices": [
+      "Le chorion utérin",
+      "Les vaisseaux sanguins foetaux",
+      "Le mésoblaste extra embryonnaire",
+      "Le syncytiotrophoblaste"
+    ],
+    "correct_answer": "Le syncytiotrophoblaste"
+  },
+  {
+    "id": "question400",
+    "question": "Plaque protocordale កើតនៅសប្តាហ៍៖",
+    "choices": [
+      "ដើមសប្តាហ៍ទី២",
+      "ពាក់កណ្តាលសប្តាហ៍ទី២",
+      "ចុងសប្តាហ៍ទី២",
+      "ដើមសប្តាហ៍ទី៣"
+    ],
+    "correct_answer": "ពាក់កណ្តាលសប្តាហ៍ទី២"
+  },
+  {
+    "id": "question401",
+    "question": "Epéron périnéal កើតនៅសប្តាហ៍៖",
+    "choices": [
+      "សប្តាហ៍ទី២",
+      "សប្តាហ៍ទី៣",
+      "សប្តាហ៍ទី៤",
+      "សប្តាហ៍ទី៥"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៤"
+  },
+  {
+    "id": "question402",
+    "question": "Cloaque et membrane cloacale នឹងផ្តាច់ជាពីរដោយ éperon périnéal នៅសប្តាហ៍៖",
+    "choices": [
+      "សប្តាហ៍ទី៤",
+      "សប្តាហ៍ទី៥",
+      "សប្តាហ៍ទី៦",
+      "សប្តាហ៍ទី៧"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៧"
+  },
+  {
+    "id": "question403",
+    "question": "រចនាសម្ពន្ធ័នៅកណ្តាលនៃបន្ទះអំប្រ៊ីយ៉ុង នៅសប្តាហ៍ទី៤គឺ ៖",
+    "choices": [
+      "Mésoblaste para axial",
+      "Mésoblaste intermédiaire",
+      "Mésoblaste latéral",
+      "Tube neural"
+    ],
+    "correct_answer": "Tube neural"
+  },
+  {
+    "id": "question404",
+    "question": "Séreuse pariétale កើតចេញពី៖",
+    "choices": [
+      "Splanchnopleure intra-embryonnaire",
+      "Somatopleure intra-embryonnaire",
+      "Splanchnopleure extra-embryonnaire",
+      "Somatopleure extra-embryonnaire"
+    ],
+    "correct_answer": "Somatopleure intra-embryonnaire"
+  },
+  {
+    "id": "question405",
+    "question": "Eperon périnéal នឹងផ្តាច់ Cloaque ជាពីរនៅ ៖",
+    "choices": [
+      "សប្តាហ៍ទី៤",
+      "សប្តាហ៍ទី៧",
+      "សប្តាហ៍ទី៨",
+      "សប្តាហ៍ទី៩"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៧"
+  },
+  {
+    "id": "question406",
+    "question": "Membrane cloacale វានឹងរលុបបាត់នៅ៖",
+    "choices": [
+      "បំនាច់ខែទី១",
+      "បំនាច់ខែទី២",
+      "បំនាច់ខែទី៣",
+      "បំនាច់ខែទី៤"
+    ],
+    "correct_answer": "បំនាច់ខែទី២"
+  },
+  {
+    "id": "question407",
+    "question": "Membrane cloacale បង្វិលបានមុំ ៖",
+    "choices": [
+      "១៨០ដឺក្រេ",
+      "២៧០ដឺក្រេ",
+      "៩០ដឺក្រេ",
+      "៣៦០ដឺក្រេ"
+    ],
+    "correct_answer": "១៨០ដឺក្រេ"
+  },
+  {
+    "id": "question408",
+    "question": "Membrane pharyngienne បង្វិលបានមុំ៖",
+    "choices": [
+      "១៨០ដឺក្រេ",
+      "២៧០ដឺក្រេ",
+      "៩០ដឺក្រេ",
+      "៣៦០ដឺក្រេ"
+    ],
+    "correct_answer": "១៨០ដឺក្រេ"
+  },
+  {
+    "id": "question409",
+    "question": "Replis amniotique កើតនៅ៖",
+    "choices": [
+      "សប្តាហ៍ទី៧",
+      "សប្តាហ៍ទី៤",
+      "សប្តាហ៍ទី៥",
+      "សប្តាហ៍ទី៦"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៤"
+  },
+  {
+    "id": "question410",
+    "question": "Gouttière amniotique កើតនៅ៖",
+    "choices": [
+      "សប្តាហ៍ទី៤",
+      "សប្តាហ៍ទី៣",
+      "សប្តាហ៍ទី៥",
+      "សប្តាហ៍ទី៦"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៤"
+  },
+  {
+    "id": "question411",
+    "question": "Jonction amnio-ectodermique កើតនៅ៖",
+    "choices": [
+      "សប្តាហ៍ទី៣",
+      "សប្តាហ៍ទី២",
+      "សប្តាហ៍ទី៤",
+      "សប្តាហ៍ទី៥"
+    ],
+    "correct_answer": "សប្តាហ៍ទី២"
+  },
+  {
+    "id": "question412",
+    "question": "Jonction épiblaste et amnios កើតនៅ៖",
+    "choices": [
+      "សប្តាហ៍ទី៤",
+      "សប្តាហ៍ទី៥",
+      "សប្តាហ៍ទី៣",
+      "សប្តាហ៍ទី៦"
+    ],
+    "correct_answer": "សប្តាហ៍ទី៣"
+  },
+  {
+    "id": "question413",
+    "question": "បណ្តូលនៃអ យ ខាងលើ (Les bourgeons des membres supérieurs) កើតមុន។ ចំណែកបណ្តូលនៃអ យវៈខាងក្រោម (Les bourgeons membres inférieurs) កើតក្រោយ :",
+    "choices": [
+      "បីថ្ងៃទៅបួនថ្ងៃបន្ទាប់",
+      "មួយថ្ងៃទៅពីរថ្ងៃបន្ទាប់",
+      "ប្រាំថ្ងៃទៅប្រាំមួយថ្ងៃបន្ទាប់",
+      "ថ្ងៃតែមួយ"
+    ],
+    "correct_answer": "មួយថ្ងៃទៅពីរថ្ងៃបន្ទាប់"
+  },
+  {
+    "id": "question414",
+    "question": "ផ្នែកខាងចុងនៃបណ្តូលអ យ (Extrémité distale du bourgeon)មានការកកើតឡើងនៃ :",
+    "choices": [
+      "សាច់ដុំ apical",
+      "la crête ectoblastique apical",
+      "la somite",
+      "តំបន់ចន្លោះសន្លាក់ (la region inter-articulaire)"
+    ],
+    "correct_answer": "la crête ectoblastique apical"
+  },
+  {
+    "id": "question415",
+    "question": "ក្នុងការវិវឌ្ឍន៍នៃអ យ មានការបែងចែកអ យវៈជា :",
+    "choices": [
+      "បួនកំណាត់: stylopode, deux zeugopodes et autopode",
+      "បីកំណាត់: stylopode, zeugopode, et autopode",
+      "ពីរកំណាត់: stylopode et autopode",
+      "បីកំណាត់: antérieur, médiale et postérieur"
+    ],
+    "correct_answer": "បីកំណាត់: stylopode, zeugopode, et autopode"
+  },
+  {
+    "id": "question416",
+    "question": "នៅអាទិត្យទី៦ ផ្នែកខាងចុង នៃបណ្តូលអ យវៈ (l'extrémité du bourgeon) បានបង្រាបខ្លួន ដើម្បីបង្កើត ជា :",
+    "choices": [
+      "បណ្តាលនៃប្រអប់ដៃនិងប្រអប់ជើង (les bourgeons des mains et des pieds)",
+      "បន្ទះនៃប្រអប់ដៃនិងប្រអប់ជើង (les palettes des mains et des pieds)",
+      "ឆ្អឹងនៃប្រអប់ដៃនិងប្រអប់ជើង (les os des mains et des pieds)",
+      "សាច់ដុំនៃប្រអប់ដៃនិងប្រអប់ជើង (les muscles des mains et des pieds)"
+    ],
+    "correct_answer": "បន្ទះនៃប្រអប់ដៃនិងប្រអប់ជើង (les palettes des mains et des pieds)"
+  },
+  {
+    "id": "question417",
+    "question": "Les crête ectoblastique ត្រូវបានបែងចែកជា",
+    "choices": [
+      "6élements par des phénomènes de mort cellulaire",
+      "5élements par des phénomènes de mort cellulaire",
+      "4élements par des phénomènes de mort cellulaire",
+      "10élements par des phénomènes de mort cellulaire"
+    ],
+    "correct_answer": "5élements par des phénomènes de mort cellulaire"
+  },
+  {
+    "id": "question418",
+    "question": "អ យ ខាងលើ បត់៩០ដឺក្រេតាមទិសដៅ latérale, ដែលធ្វើអោយមេដៃស្ថិតនៅទីតាំង :",
+    "choices": [
+      "antérieur",
+      "postéro-latérale",
+      "latérale",
+      "mediale"
+    ],
+    "correct_answer": "latérale"
+  },
+  {
+    "id": "question419",
+    "question": "អ យវៈខាងក្រោម បត់៩០ដឺក្រេតាមទិសដៅ médiale, ដែលធ្វើអោយមេជើង ស្ថិតនៅទីតាំង :",
+    "choices": [
+      "postéro-latérale",
+      "antérieur",
+      "latérale",
+      "mediale"
+    ],
+    "correct_answer": "mediale"
+  },
+  {
+    "id": "question420",
+    "question": "L'ossification des os des membres par ossification endochondrale ចាប់ផ្តើមនៅពេល :",
+    "choices": [
+      "ការចាប់ផ្តើមនៃ période embryonnaire",
+      "ចុងបញ្ចប់នៃ période embryonnaire",
+      "ក្នុងពេលនៃ période embryonnaire",
+      "ចុងបញ្ចប់នៃ période foetale"
+    ],
+    "correct_answer": "ចុងបញ្ចប់នៃ période embryonnaire"
+  },
+  {
+    "id": "question421",
+    "question": "Cartilage de conjugaison ou de croissance ស្ថិតនៅបណ្តោះអាសន្ននៅចន្លោះ les centres d'ossification diaphysaire et épiphysaire ដែលវាស្ថិតនៅ :",
+    "choices": [
+      "ផ្នែកកណ្តាលនៃឆ្អឹងវែង",
+      "ចុងសងខាងនៃឆ្អឹងវែង",
+      "ចុងខាងលើនៃឆ្អឹងវែង",
+      "ចុងខាងក្រោមនៃឆ្អឹងវែង"
+    ],
+    "correct_answer": "ចុងសងខាងនៃឆ្អឹងវែង"
+  },
+  {
+    "id": "question422",
+    "question": "សាច់ដុំនៃអវៈយ មានប្រភពមកពី",
+    "choices": [
+      "Mesoderm",
+      "cellules ventro latérales du somite",
+      "cellules de la crête ectoblaste apical",
+      "cellules de la plaque neural"
+    ],
+    "correct_answer": "cellules ventro latérales du somite"
+  },
+  {
+    "id": "question423",
+    "question": "បណ្តូលនៃអវៈយវៈខាងលើ (Le bourgeon des membres supérieurs) មានសាច់ដុំដែលមានប្រភពពី :",
+    "choices": [
+      "5 derniers segments métamériques cervicaux et des 3 premiers thoraciques",
+      "5 derniers segments métamériques cervicaux et des 2 premiers thoraciques",
+      "4 derniers segments métamériques cervicaux et des 2 premiers thoraciques",
+      "4 derniers segments métamériques cervicaux et des 3 premiers thoraciques"
+    ],
+    "correct_answer": "5 derniers segments métamériques cervicaux et des 2 premiers thoraciques"
+  },
+  {
+    "id": "question424",
+    "question": "បណ្តូលនៃអ យវះខាងក្រោម (Le bourgeon des membres inférieur) មានសាច់ដុំដែលមាន ប្រភពពី :",
+    "choices": [
+      "4 derniers segments lombaires et des 1 premiers sacrés",
+      "4 derniers segments lombaires et des 2 premiers sacrés",
+      "4 derniers segments lombaires et des 3 premiers sacrés",
+      "5 derniers segments lombaires et des 2 premiers sacrés"
+    ],
+    "correct_answer": "4 derniers segments lombaires et des 2 premiers sacrés"
+  }
+]

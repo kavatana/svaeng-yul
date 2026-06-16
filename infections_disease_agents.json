@@ -1,0 +1,4844 @@
+[
+{
+"id": "question1",
+"question": "Which of the following correctly describes members of the Enterobacteriaceae family? ",
+"choices": [
+"Large, gram-positive cocci that form endospores ",
+"Small, gram-negative rods measuring approximately 2-5x0.5 um ",
+"Spiral-shaped, gram-variable bacteria with flagella at both poles ",
+"Acid-fast bacilli that contain mycolic acids in their cell wall "
+],
+"correct_answer": "Small, gram-negative rods measuring approximately 2-5x0.5 um "
+},
+{
+"id": "question2",
+"question": "Which bacterial family is most commonly associated with gram-negative, facultative anaerobic, non-spore-forming rods? ",
+"choices": [
+"Bacillaceae ",
+"Enterobacteriaceae ",
+"Mycobacteriaceae ",
+"Streptococcaceae "
+],
+"correct_answer": "Enterobacteriaceae "
+},
+{
+"id": "question3",
+"question": "Which Salmonella species is most frequently associated with foodborne gastroenteritis, especially from contaminated poultry and eggs? ",
+"choices": [
+"Salmonella typhimurium ",
+"Salmonella enteritidis ",
+"Salmonella typhi ",
+"Salmonella paratyphi A "
+],
+"correct_answer": "Salmonella enteritidis "
+},
+{
+"id": "question4",
+"question": "What is the gold standard for the diagnosis of Salmonella infections such as typhoid fever? ",
+"choices": [
+"Urine test ",
+"Blood culture ",
+"Widal test ",
+"Stool microscopy "
+],
+"correct_answer": "Blood culture "
+},
+{
+"id": "question5",
+"question": "The Widal test detects which of the following in a patient's serum? ",
+"choices": [
+"Bacterial toxins ",
+"Antibodies against Salmonella antigens ",
+"Salmonella DNA ",
+"White blood cell response "
+],
+"correct_answer": "Antibodies against Salmonella antigens "
+},
+{
+"id": "question6",
+"question": "What is the most effective way to prevent the spread of Salmonella infection? ",
+"choices": [
+"Avoiding antibiotics ",
+"Regular handwashing and proper food handling ",
+"Taking vitamins ",
+"Using insect repellents "
+],
+"correct_answer": "Regular handwashing and proper food handling "
+},
+{
+"id": "question7",
+"question": "Which of the following helps prevent Salmonella foodborne infections? ",
+"choices": [
+"Eating raw eggs and undercooked poultry ",
+"Storing food at room temperature ",
+"Cooking food thoroughly and refrigerating promptly ",
+"Avoiding all fruits and vegetables "
+],
+"correct_answer": "Cooking food thoroughly and refrigerating promptly "
+},
+{
+"id": "question8",
+"question": "Which of the following best describes protozoa? ",
+"choices": [
+"Multicellular prokaryotes ",
+"Unicellular eukaryotes ",
+"Multicellular eukaryotes ",
+"Unicellular prokaryotes "
+],
+"correct_answer": "Unicellular eukaryotes "
+},
+{
+"id": "question9",
+"question": "Protozoa reproduce by which of the following methods? ",
+"choices": [
+"Only sexual reproduction ",
+"Only asexual reproduction ",
+"Both asexual and sexual reproduction ",
+"By forming spores only "
+],
+"correct_answer": "Both asexual and sexual reproduction "
+},
+{
+"id": "question10",
+"question": "Protozoa can live and multiply: ",
+"choices": [
+"Only on the skin surface ",
+"Only inside host cells (intracellular) ",
+"Both inside and outside host cells (intracellular and extracellular) ",
+"Only in the environment "
+],
+"correct_answer": "Both inside and outside host cells (intracellular and extracellular) "
+},
+{
+"id": "question11",
+"question": "Which of the following protozoal diseases is transmitted by a vector? ",
+"choices": [
+"Giardiasis ",
+"Malaria ",
+"Amebiasis ",
+"Toxoplasmosis (ingestion) "
+],
+"correct_answer": "Malaria "
+},
+{
+"id": "question12",
+"question": "Which of the following is the best method to prevent malaria, a vector-borne protozoal disease? ",
+"choices": [
+"Avoiding dairy products ",
+"Using insecticide-treated bed nets ",
+"Taking antibiotics regularly ",
+"Wearing thick clothing indoors "
+],
+"correct_answer": "Using insecticide-treated bed nets "
+},
+{
+"id": "question13",
+"question": "Which of the following food-handling practices helps prevent protozoal infection? ",
+"choices": [
+"Eating raw vegetables without washing ",
+"Cooking meat thoroughly before eating ",
+"Storing food at room temperature ",
+"Avoiding all fruit intake "
+],
+"correct_answer": "Cooking meat thoroughly before eating "
+},
+{
+"id": "question14",
+"question": "Which of the following personal habits can help reduce the risk of protozoal infections? ",
+"choices": [
+"Washing hands before eating and after handling pets ",
+"Sharing eating utensils ",
+"Drinking untreated water ",
+"Sleeping without mosquito protection "
+],
+"correct_answer": "Washing hands before eating and after handling pets "
+},
+{
+"id": "question15",
+"question": "What is the definition of bacteria? ",
+"choices": [
+"Presence of mitochondria in prokaryotes ",
+"Prokaryotes lack a true nucleus ",
+"Eukaryotes lack ribosomes ",
+"Prokaryotes have membrane-bound organelles "
+],
+"correct_answer": "Prokaryotes lack a true nucleus "
+},
+{
+"id": "question16",
+"question": "Which bacterial structure is primarily responsible for motility? ",
+"choices": [
+"Capsule ",
+"Pili ",
+"Flagella ",
+"Ribosomes "
+],
+"correct_answer": "Flagella "
+},
+{
+"id": "question17",
+"question": "Which of the following is unique to bacterial cell walls? ",
+"choices": [
+"Cellulose ",
+"Chitin ",
+"Peptidoglycan ",
+"Lipopolysaccharide "
+],
+"correct_answer": "Peptidoglycan "
+},
+{
+"id": "question18",
+"question": "Binary fission in bacteria refers to: ",
+"choices": [
+"Sexual reproduction ",
+"Spore formation ",
+"Asexual reproduction by simple division ",
+"Genetic recombination "
+],
+"correct_answer": "Asexual reproduction by simple division "
+},
+{
+"id": "question19",
+"question": "Which group of bacteria can grow in both the presence and absence of oxygen? ",
+"choices": [
+"Facultative anaerobes ",
+"Obligate aerobes ",
+"Obligate anaerobes ",
+"Microaerophiles "
+],
+"correct_answer": "Facultative anaerobes "
+},
+{
+"id": "question20",
+"question": "In the Gram stain, Gram-negative bacteria appear: ",
+"choices": [
+"Purple/blue ",
+"Green ",
+"Red/pink ",
+"Colorless "
+],
+"correct_answer": "Red/pink "
+},
+{
+"id": "question21",
+"question": "Which bacterial structure is important for adherence to surfaces and host tissues? ",
+"choices": [
+"Capsule ",
+"Flagella ",
+"Endospore ",
+"Pili (fimbriae) "
+],
+"correct_answer": "Pili (fimbriae) "
+},
+{
+"id": "question22",
+"question": "The species name in Staphylococcus aureus is: ",
+"choices": [
+"Staphylococcus ",
+"aureus ",
+"Staphylococcus aureus ",
+"Aureus Staphylococcus "
+],
+"correct_answer": "aureus "
+},
+{
+"id": "question23",
+"question": "Which type of bacteria has a thick peptidoglycan layer and no outer membrane? ",
+"choices": [
+"Gram-negative ",
+"Gram-positive ",
+"Acid-fast ",
+"Mycoplasma "
+],
+"correct_answer": "Gram-positive "
+},
+{
+"id": "question24",
+"question": "Which term describes bacteria that require oxygen at high concentrations for growth? ",
+"choices": [
+"Obligate anaerobes ",
+"Obligate aerobes ",
+"Microaerophiles ",
+"Aerotolerant anaerobes "
+],
+"correct_answer": "Obligate aerobes "
+},
+{
+"id": "question25",
+"question": "The gold standard for bacterial diagnosis is: ",
+"choices": [
+"Microscopy ",
+"Culture ",
+"PCR ",
+"Serology "
+],
+"correct_answer": "Culture "
+},
+{
+"id": "question26",
+"question": "Which bacterial disease has an available vaccine? ",
+"choices": [
+"Tuberculosis ",
+"Cholera ",
+"Plague ",
+"Tuberculosis, Cholera, Plague "
+],
+"correct_answer": "Tuberculosis, Cholera, Plague "
+},
+{
+"id": "question27",
+"question": "Which factor is NOT a chemical requirement for bacterial growth? ",
+"choices": [
+"Nitrogen ",
+"Sulfur ",
+"Phosphorus ",
+"Osmotic pressure "
+],
+"correct_answer": "Osmotic pressure "
+},
+{
+"id": "question28",
+"question": "During which bacterial growth phase are antibiotics most effective? ",
+"choices": [
+"Lag phase ",
+"Log (exponential) phase ",
+"Stationary phase ",
+"Death phase "
+],
+"correct_answer": "Log (exponential) phase "
+},
+{
+"id": "question29",
+"question": "In bacterial nomenclature, the genus name is: ",
+"choices": [
+"Lowercase, abbreviated ",
+"Uppercase, italicized ",
+"Uppercase, not italicized ",
+"Lowercase, underlined "
+],
+"correct_answer": "Uppercase, italicized "
+},
+{
+"id": "question30",
+"question": "Which colour of Gram-positive bacteria appear after Gram staining? ",
+"choices": [
+"Red ",
+"Pink ",
+"Purple ",
+"Colorless "
+],
+"correct_answer": "Purple "
+},
+{
+"id": "question31",
+"question": "Endotoxins are mainly associated with: ",
+"choices": [
+"Gram-positive bacteria ",
+"Gram-negative bacteria ",
+"Both Gram-positive and Gram-negative ",
+"Fungi "
+],
+"correct_answer": "Gram-negative bacteria "
+},
+{
+"id": "question32",
+"question": "Exotoxins are typically: ",
+"choices": [
+"Lipid components of cell walls ",
+"Secreted proteins ",
+"Genetic material ",
+"Capsule polysaccharides "
+],
+"correct_answer": "Secreted proteins "
+},
+{
+"id": "question33",
+"question": "Most bacteria prefer which pH for optimal growth? ",
+"choices": [
+"4.5 ",
+"5.5 ",
+"7.0 ",
+"9.0 "
+],
+"correct_answer": "7.0 "
+},
+{
+"id": "question34",
+"question": "Which bacterial growth phase shows no cell division, only adaptation? ",
+"choices": [
+"Lag phase ",
+"Log phase ",
+"Stationary phase ",
+"Death phase "
+],
+"correct_answer": "Lag phase "
+},
+{
+"id": "question35",
+"question": "Which of the following is a general feature of Enterobacteriaceae? ",
+"choices": [
+"Gram-positive cocci ",
+"Oxidase-positive ",
+"Ferment glucose ",
+"Non-nitrate reducers "
+],
+"correct_answer": "Ferment glucose "
+},
+{
+"id": "question36",
+"question": "The endotoxin of Gram-negative Enterobacteriaceae is mainly composed of: ",
+"choices": [
+"Lipopolysaccharide (LPS) ",
+"Peptidoglycan ",
+"Teichoic acid ",
+"Mycolic acid "
+],
+"correct_answer": "Lipopolysaccharide (LPS) "
+},
+{
+"id": "question37",
+"question": "Which of the following is TRUE for all Enterobacteriaceae? ",
+"choices": [
+"Gram-positive, oxidase-positive ",
+"Gram-negative, oxidase-negative ",
+"Gram-negative, oxidase-positive ",
+"Gram-positive, catalase-negative "
+],
+"correct_answer": "Gram-negative, oxidase-negative "
+},
+{
+"id": "question38",
+"question": "Which of the following is the main component responsible for septic shock in Enterobacteriaceae? ",
+"choices": [
+"Capsule polysaccharide ",
+"Lipopolysaccharide (endotoxin) ",
+"Peptidoglycan fragments ",
+"Pili proteins "
+],
+"correct_answer": "Lipopolysaccharide (endotoxin) "
+},
+{
+"id": "question39",
+"question": "The O antigen in Enterobacteriaceae refers to: ",
+"choices": [
+"Flagellar antigen ",
+"Capsular antigen ",
+"Somatic cell wall antigen ",
+"Exotoxin component "
+],
+"correct_answer": "Somatic cell wall antigen "
+},
+{
+"id": "question40",
+"question": "Among Enterobacteriaceae, H antigen is present only: ",
+"choices": [
+"Non-motile species ",
+"Flagellated (motile) species ",
+"Capsule-producing species ",
+"Spore-forming species "
+],
+"correct_answer": "Flagellated (motile) species "
+},
+{
+"id": "question41",
+"question": "A hospitalized patient with 'currant jelly sputum' is most likely infected with: ",
+"choices": [
+"Escherichia coli ",
+"Klebsiella pneumoniae ",
+"Proteus mirabilis ",
+"Yersinia pestis "
+],
+"correct_answer": "Klebsiella pneumoniae "
+},
+{
+"id": "question42",
+"question": "The genus Klebsiella was named after: ",
+"choices": [
+"Alexandre Yersin ",
+"Gustav Hauser ",
+"Edwin Klebs ",
+"Robert Koch "
+],
+"correct_answer": "Edwin Klebs "
+},
+{
+"id": "question43",
+"question": "Klebsiella is best known for being: ",
+"choices": [
+"Motile and spore-forming ",
+"Non-motile and capsulated ",
+"Swarming on agar ",
+"Oxidase positive "
+],
+"correct_answer": "Non-motile and capsulated "
+},
+{
+"id": "question44",
+"question": "Which patient group is most at risk for Klebsiella pneumoniae pneumonia? ",
+"choices": [
+"Young children in daycare ",
+"Alcoholics and diabetics ",
+"Healthy adolescents with daily coffee drinking ",
+"Patients with viral hepatitis "
+],
+"correct_answer": "Alcoholics and diabetics "
+},
+{
+"id": "question45",
+"question": "In Klebsiella pneumonia, the characteristic sputum is: ",
+"choices": [
+"Rust-colored ",
+"Frothy and yellow ",
+"Currant jelly-like ",
+"Purulent green "
+],
+"correct_answer": "Currant jelly-like "
+},
+{
+"id": "question46",
+"question": "Klebsiella pneumoniae can be identified in the lab by: ",
+"choices": [
+"Bipolar staining ",
+"Urease positivity and lactose fermentation (pink colonies on MacConkey) ",
+"Swarming motility ",
+"H2S positivity on TSI agar "
+],
+"correct_answer": "Urease positivity and lactose fermentation (pink colonies on MacConkey) "
+},
+{
+"id": "question47",
+"question": "Which of the following is a hallmark of Proteus on culture plates? ",
+"choices": [
+"Bipolar safety-pin appearance ",
+"Swarming motility ",
+"Currant jelly colonies ",
+"Mucoid colonies "
+],
+"correct_answer": "Swarming motility "
+},
+{
+"id": "question48",
+"question": "Proteus infections are commonly associated with: ",
+"choices": [
+"Bacterial meningitis ",
+"Kidney stone formation (struvite) ",
+"Tuberculosis-like lesions ",
+"Plague outbreaks "
+],
+"correct_answer": "Kidney stone formation (struvite) "
+},
+{
+"id": "question49",
+"question": "On MacConkey agar, Proteus appears as: ",
+"choices": [
+"Lactose fermenter (pink colonies) ",
+"Non-lactose fermenter (pale colonies) ",
+"Bipolar safety-pin appearance ",
+"Black colonies "
+],
+"correct_answer": "Non-lactose fermenter (pale colonies) "
+},
+{
+"id": "question50",
+"question": "A catheterized patient develops fever and alkaline urine. Which enzyme produced by Proteus is responsible? ",
+"choices": [
+"Catalase ",
+"Urease ",
+"Oxidase ",
+"Hemolysin "
+],
+"correct_answer": "Urease "
+},
+{
+"id": "question51",
+"question": "The plague pathogen is:",
+"choices": [
+"Yersinia enterocolitica",
+"Yersinia pseudotuberculosis",
+"Yersinia pestis",
+"Klebsiella pestis"
+],
+"correct_answer": "Yersinia pestis"
+},
+{
+"id": "question52",
+"question": "Which transmission route is typical for bubonic plague?",
+"choices": [
+"Inhalation of aerosols",
+"Flea bites from infected rodents",
+"Contaminated food",
+"Person-to-person sexual contact"
+],
+"correct_answer": "Flea bites from infected rodents"
+},
+{
+"id": "question53",
+"question": "The clinical hallmark of bubonic plague is:",
+"choices": [
+"Hemoptysis",
+"Buboes (painful swollen lymph nodes)",
+"Bloody diarrhea",
+"Currant jelly sputum"
+],
+"correct_answer": "Buboes (painful swollen lymph nodes)"
+},
+{
+"id": "question54",
+"question": "Yersinia pestis appears in microscopy with:",
+"choices": [
+"Swarming motility",
+"Safety-pin bipolar staining",
+"Capsule visible by Quellung",
+"Pink lactose-fermenting colonies"
+],
+"correct_answer": "Safety-pin bipolar staining"
+},
+{
+"id": "question55",
+"question": "What is parasitology?",
+"choices": [
+"The study of parasites, their hosts, and their relationships",
+"The study of bacteria and fungi",
+"The study of viruses and vectors",
+"The study of animal physiology"
+],
+"correct_answer": "The study of parasites, their hosts, and their relationships"
+},
+{
+"id": "question56",
+"question": "Which of the following best defines a parasite?",
+"choices": [
+"An organism that lives independently from others",
+"An organism that benefits while harming its host",
+"A microorganism causing viral infections",
+"A non-living infectious particle"
+],
+"correct_answer": "An organism that benefits while harming its host"
+},
+{
+"id": "question57",
+"question": "Which of the following is a protozoan parasite?",
+"choices": [
+"Ascaris lumbricoides",
+"Plasmodium falciparum",
+"Taenia saginata",
+"Schistosoma mekongi"
+],
+"correct_answer": "Plasmodium falciparum"
+},
+{
+"id": "question58",
+"question": "Which parasite causes ascariasis?",
+"choices": [
+"Plasmodium vivax",
+"Giardia lamblia",
+"Ascaris lumbricoides",
+"Entamoeba histolytica"
+],
+"correct_answer": "Ascaris lumbricoides"
+},
+{
+"id": "question59",
+"question": "The transmission of Ascaris lumbricoides occurs mainly through:",
+"choices": [
+"Mosquito bite",
+"Skin penetration",
+"Blood transfusion",
+"Fecal-oral route via contaminated soil"
+],
+"correct_answer": "Fecal-oral route via contaminated soil"
+},
+{
+"id": "question60",
+"question": "Which of the following pairs is correct?",
+"choices": [
+"Taenia saginata - waterborne",
+"Plasmodium spp. - mosquito bite",
+"Schistosoma mekongi - ingestion of raw meat",
+"Entamoeba histolytica - inhalation"
+],
+"correct_answer": "Plasmodium spp. - mosquito bite"
+},
+{
+"id": "question61",
+"question": "Schistosoma mekongi infection occurs mainly through:",
+"choices": [
+"Eating unwashed vegetables",
+"Drinking contaminated water",
+"Skin contact with infested water",
+"Mosquito bite"
+],
+"correct_answer": "Skin contact with infested water"
+},
+{
+"id": "question62",
+"question": "Ectoparasites are characterized by:",
+"choices": [
+"Living inside the host's body",
+"Requiring multiple hosts to complete life cycle",
+"Living on the surface of the host",
+"Having no vector role"
+],
+"correct_answer": "Living on the surface of the host"
+},
+{
+"id": "question63",
+"question": "Which of the following is an example of an arthropod vector?",
+"choices": [
+"Hookworm",
+"Mosquito",
+"Ascaris",
+"Taenia"
+],
+"correct_answer": "Mosquito"
+},
+{
+"id": "question64",
+"question": "Plasmodium vivax is transmitted by which vector?",
+"choices": [
+"Aedes mosquito",
+"Anopheles mosquito",
+"Tsetse fly",
+"Flea"
+],
+"correct_answer": "Anopheles mosquito"
+},
+{
+"id": "question65",
+"question": "Which of the following is a nematode (roundworm)?",
+"choices": [
+"Ascaris lumbricoides",
+"Taenia saginata",
+"Schistosoma mekongi",
+"Entamoeba histolytica"
+],
+"correct_answer": "Ascaris lumbricoides"
+},
+{
+"id": "question66",
+"question": "The definitive host is defined as:",
+"choices": [
+"Host where parasite reproduces sexually",
+"Host that provides temporary shelter",
+"Host transmitting the infection",
+"Host that carries larval stage"
+],
+"correct_answer": "Host where parasite reproduces sexually"
+},
+{
+"id": "question67",
+"question": "The main cause of malaria in Cambodia is:",
+"choices": [
+"Wuchereria bancrofti",
+"Plasmodium falciparum",
+"Entamoeba histolytica",
+"Giardia lamblia"
+],
+"correct_answer": "Plasmodium falciparum"
+},
+{
+"id": "question68",
+"question": "In Cambodia, filariasis is transmitted by:",
+"choices": [
+"Ticks",
+"Fleas",
+"Mosquitoes",
+"Lice"
+],
+"correct_answer": "Mosquitoes"
+},
+{
+"id": "question69",
+"question": "Which is NOT a mode of transmission of parasitic infections?",
+"choices": [
+"Ingestion",
+"Inhalation",
+"Direct contact",
+"Magnetic radiation"
+],
+"correct_answer": "Magnetic radiation"
+},
+{
+"id": "question70",
+"question": "The most common diagnostic method for intestinal parasites is:",
+"choices": [
+"MRI",
+"Stool microscopy",
+"Chest X-ray",
+"ECG"
+],
+"correct_answer": "Stool microscopy"
+},
+{
+"id": "question71",
+"question": "Which of the following measures is primary prevention against Ascaris infection?",
+"choices": [
+"Deworming every six months",
+"Health education and sanitation improvement",
+"Nutritional rehabilitation",
+"Stool examination"
+],
+"correct_answer": "Health education and sanitation improvement"
+},
+{
+"id": "question72",
+"question": "What is the main effect of parasitic infection on the host?",
+"choices": [
+"Improved immunity",
+"Nutritional depletion and tissue damage",
+"Muscle hypertrophy",
+"Increased metabolism"
+],
+"correct_answer": "Nutritional depletion and tissue damage"
+},
+{
+"id": "question73",
+"question": "Which parasite is transmitted via contaminated water and causes diarrhea?",
+"choices": [
+"Giardia lamblia",
+"Taenia saginata",
+"Schistosoma mekongi",
+"Wuchereria bancrofti"
+],
+"correct_answer": "Giardia lamblia"
+},
+{
+"id": "question74",
+"question": "Which statement best describes the Cambodian context of parasitic diseases?",
+"choices": [
+"Mostly eradicated due to urbanization",
+"Rare due to high socioeconomic status",
+"Common due to tropical climate and poor sanitation",
+"Found only among travelers"
+],
+"correct_answer": "Common due to tropical climate and poor sanitation"
+},
+{
+"id": "question75",
+"question": "Which of the following best defines Hypereosinophilic Syndrome (HES)?",
+"choices": [
+"Any eosinophil count above 500/uL once",
+"Eosinophilia due to allergic rhinitis",
+"Persistent eosinophil count >1,500/uL with organ damage",
+"Elevated WBC count due to bacterial infection"
+],
+"correct_answer": "Persistent eosinophil count >1,500/uL with organ damage"
+},
+{
+"id": "question76",
+"question": "Which of the following parasitic infections is MOST commonly associated with hypereosinophilia in Cambodia?",
+"choices": [
+"Entamoeba histolytica",
+"Schistosoma japonicum",
+"Plasmodium falciparum",
+"Giardia lamblia"
+],
+"correct_answer": "Schistosoma japonicum"
+},
+{
+"id": "question77",
+"question": "What is the main immune mechanism responsible for eosinophilia in parasitic infections?",
+"choices": [
+"Increased IgM antibodies",
+"Interleukin-5 (IL-5) stimulation",
+"T-cell suppression",
+"Complement activation"
+],
+"correct_answer": "Interleukin-5 (IL-5) stimulation"
+},
+{
+"id": "question78",
+"question": "In Hypereosinophilic Syndrome, which organ is most at risk of life-threatening damage?",
+"choices": [
+"Heart",
+"Skin",
+"Kidney",
+"Eyes"
+],
+"correct_answer": "Heart"
+},
+{
+"id": "question79",
+"question": "Which of the following investigations helps confirm a parasitic cause of HES?",
+"choices": [
+"Serum creatinine",
+"ECG",
+"Chest percussion",
+"Stool examination for ova and parasites"
+],
+"correct_answer": "Stool examination for ova and parasites"
+},
+{
+"id": "question80",
+"question": "A 27-year-old Cambodian farmer presents with fever, hepatomegaly, and eosinophil count of 4,800/uL. Stool exam shows Schistosoma eggs. What type of HES is this?",
+"choices": [
+"Primary (clonal)",
+"Secondary (reactive)",
+"Idiopathic",
+"Familial"
+],
+"correct_answer": "Secondary (reactive)"
+},
+{
+"id": "question81",
+"question": "Which cytokine primarily drives eosinophil overproduction in parasitic infections?",
+"choices": [
+"IL-5",
+"IL-1",
+"TNF-α",
+"IFN-Y"
+],
+"correct_answer": "IL-5"
+},
+{
+"id": "question82",
+"question": "Which of the following is the most likely non-parasitic cause of secondary eosinophilia?",
+"choices": [
+"Allergic rhinitis",
+"Ascaris lumbricoides infection",
+"Strongyloides stercoralis infection",
+"Schistosoma mekongi infection"
+],
+"correct_answer": "Allergic rhinitis"
+},
+{
+"id": "question83",
+"question": "In endemic settings like Cambodia, what is the public-health importance of identifying eosinophilia early?",
+"choices": [
+"To detect viral epidemics early",
+"To prevent transmission of bacterial diseases",
+"To control parasitic infections and prevent chronic organ damage",
+"To promote antibiotic use in communities"
+],
+"correct_answer": "To control parasitic infections and prevent chronic organ damage"
+},
+{
+"id": "question84",
+"question": "A patient with chronic eosinophilia after river exposure in Kratie Province most likely has which infection?",
+"choices": [
+"Trichinella spiralis",
+"Schistosoma mekongi",
+"Giardia lamblia",
+"Toxoplasma gondii"
+],
+"correct_answer": "Schistosoma mekongi"
+},
+{
+"id": "question85",
+"question": "Hypereosinophilia is defined as:",
+"choices": [
+">500 cells/uL once",
+">500 cells/uL twice",
+">1,500 cells/uL on 2 occasions",
+">5,000 cells/uL once"
+],
+"correct_answer": ">1,500 cells/uL on 2 occasions"
+},
+{
+"id": "question86",
+"question": "What is the normal eosinophil count in peripheral blood?",
+"choices": [
+"<100 cells/uL",
+"<500 cells/uL",
+"<1,500 cells/uL",
+"<5,000 cells/uL"
+],
+"correct_answer": "<500 cells/uL"
+},
+{
+"id": "question87",
+"question": "Which parasitic group is most commonly associated with eosinophilia?",
+"choices": [
+"Protozoa",
+"Cestodes",
+"Nematodes",
+"Viruses"
+],
+"correct_answer": "Nematodes"
+},
+{
+"id": "question88",
+"question": "A Cambodian patient living near the Mekong River develops marked eosinophilia. The likely infection is:",
+"choices": [
+"Giardiasis",
+"Malaria",
+"Amebiasis",
+"Schistosomiasis japonicum"
+],
+"correct_answer": "Schistosomiasis japonicum"
+},
+{
+"id": "question89",
+"question": "Which test confirms presence of parasitic infection in eosinophilia?",
+"choices": [
+"CBC",
+"Stool Ova & Parasite exam",
+"Liver enzymes",
+"ECG"
+],
+"correct_answer": "Stool Ova & Parasite exam"
+},
+{
+"id": "question90",
+"question": "First step in evaluating suspected parasitic HES:",
+"choices": [
+"Biopsy",
+"Bone-marrow exam",
+"Detailed travel and exposure history",
+"CT scan"
+],
+"correct_answer": "Detailed travel and exposure history"
+},
+{
+"id": "question91",
+"question": "First-line therapy for parasitic HES:",
+"choices": [
+"Chemotherapy",
+"Antibiotics",
+"Anti-parasitic agents (e.g., albendazole, ivermectin, praziquantel)",
+"Immunotherapy"
+],
+"correct_answer": "Anti-parasitic agents (e.g., albendazole, ivermectin, praziquantel)"
+},
+{
+"id": "question92",
+"question": "When organ damage is present, adjunctive treatment should include:",
+"choices": [
+"Corticosteroids",
+"Paracetamol",
+"Antihistamines",
+"Antihypertensions"
+],
+"correct_answer": "Corticosteroids"
+},
+{
+"id": "question93",
+"question": "Which statement about HES types is correct?",
+"choices": [
+"Primary HES is due to parasitic infection",
+"Secondary HES is reactive to infection or allergy",
+"Idiopathic HES is always malignant",
+"Clonal HES is always caused by drugs"
+],
+"correct_answer": "Secondary HES is reactive to infection or allergy"
+},
+{
+"id": "question94",
+"question": "What is Mycology?",
+"choices": [
+"The study of bacteria",
+"The study of viruses",
+"The study of fungi",
+"The study of parasites"
+],
+"correct_answer": "The study of fungi"
+},
+{
+"id": "question95",
+"question": "Which of the following best describes yeasts?",
+"choices": [
+"Multicellular organisms forming hyphae",
+"Unicellular fungi reproducing by budding",
+"Filamentous fungi reproducing by spores",
+"Obligate intracellular organisms"
+],
+"correct_answer": "Unicellular fungi reproducing by budding"
+},
+{
+"id": "question96",
+"question": "The main component of the fungal cell wall is:",
+"choices": [
+"Peptidoglycan",
+"Lipopolysaccharide",
+"Chitin",
+"Mycolic acid"
+],
+"correct_answer": "Chitin"
+},
+{
+"id": "question97",
+"question": "Candida albicans can form pseudohyphae because:",
+"choices": [
+"Some budding cells fail to detach and elongate",
+"It reproduces sexually",
+"It forms septate hyphae",
+"It grows only at 37°C"
+],
+"correct_answer": "Some budding cells fail to detach and elongate"
+},
+{
+"id": "question98",
+"question": "Fungi that grow as molds at 25°C and as yeasts at 37°C are called:",
+"choices": [
+"Thermophilic",
+"Dimorphic",
+"Saprophytic",
+"Opportunistic"
+],
+"correct_answer": "Dimorphic"
+},
+{
+"id": "question99",
+"question": "Which of the following is NOT a component of the fungal cell wall?",
+"choices": [
+"Chitin",
+"Glucans",
+"Peptidoglycan",
+"Mannoprotein"
+],
+"correct_answer": "Peptidoglycan"
+},
+{
+"id": "question100",
+"question": "Cryptococcus neoformans causes meningitis primarily in:",
+"choices": [
+"HIV/AIDS patients",
+"Children",
+"Diabetics",
+"Healthy adults"
+],
+"correct_answer": "HIV/AIDS patients"
+},
+{
+"id": "question101",
+"question": "India ink stain is used to identify:",
+"choices": [
+"Cryptococcus neoformans",
+"Candida albicans",
+"Aspergillus fumigatus",
+"Mucor spp."
+],
+"correct_answer": "Cryptococcus neoformans"
+},
+{
+"id": "question102",
+"question": "Which fungal infection is associated with pigeon droppings?",
+"choices": [
+"Aspergillosis",
+"Cryptococcosis",
+"Mucormycosis",
+"Histoplasmosis"
+],
+"correct_answer": "Cryptococcosis"
+},
+{
+"id": "question103",
+"question": "Fungal infections limited to skin, hair, or nails are called:",
+"choices": [
+"Subcutaneous mycoses",
+"Cutaneous mycoses",
+"Systemic mycoses",
+"Opportunistic mycoses"
+],
+"correct_answer": "Cutaneous mycoses"
+},
+{
+"id": "question104",
+"question": "Which stain is best for detecting fungi in histopathology?",
+"choices": [
+"PAS or GMS stain",
+"Gram stain",
+"Ziehl-Neelsen stain",
+"Acid-fast stain"
+],
+"correct_answer": "PAS or GMS stain"
+},
+{
+"id": "question105",
+"question": "The asexual reproductive form of fungi is known as:",
+"choices": [
+"Teleomorph",
+"Anamorph",
+"Basidiospore",
+"Zygospore"
+],
+"correct_answer": "Anamorph"
+},
+{
+"id": "question106",
+"question": "Mucor and Rhizopus typically infect which group?",
+"choices": [
+"Diabetics in ketoacidosis",
+"Healthy individuals",
+"Children",
+"Travelers"
+],
+"correct_answer": "Diabetics in ketoacidosis"
+},
+{
+"id": "question107",
+"question": "Which is NOT a true antifungal mechanism?",
+"choices": [
+"Inhibiting ergosterol synthesis",
+"Binding ergosterol",
+"Blocking peptidoglycan synthesis",
+"Inhibiting β-glucan synthesis"
+],
+"correct_answer": "Blocking peptidoglycan synthesis"
+},
+{
+"id": "question108",
+"question": "The fungal cell membrane contains which sterol?",
+"choices": [
+"Cholesterol",
+"Ergosterol",
+"Lanosterol",
+"Sitosterol"
+],
+"correct_answer": "Ergosterol"
+},
+{
+"id": "question109",
+"question": "Yeasts reproduce primarily by:",
+"choices": [
+"Binary fission",
+"Budding",
+"Spore fusion",
+"Fragmentation"
+],
+"correct_answer": "Budding"
+},
+{
+"id": "question110",
+"question": "The fungus that causes meningitis in HIV/AIDS patients is:",
+"choices": [
+"Aspergillus fumigatus",
+"Cryptococcus neoformans",
+"Candida tropicalis",
+"Mucor spp."
+],
+"correct_answer": "Cryptococcus neoformans"
+},
+{
+"id": "question111",
+"question": "Which statement best describes fungi?",
+"choices": [
+"Prokaryotic organisms",
+"Eukaryotic organisms",
+"Contain chlorophyll",
+"Do not have nuclei"
+],
+"correct_answer": "Eukaryotic organisms"
+},
+{
+"id": "question112",
+"question": "What is the branch of microbiology that studies fungi?",
+"choices": [
+"Bacteriology",
+"Mycology",
+"Virology",
+"Parasitology"
+],
+"correct_answer": "Mycology"
+},
+{
+"id": "question113",
+"question": "Which preventive measure is most important to reduce fungal infections?",
+"choices": [
+"Daily antifungal prophylaxis",
+"Avoiding contact with water",
+"High-protein diet",
+"Control of diabetes and immunosuppression"
+],
+"correct_answer": "Control of diabetes and immunosuppression"
+},
+{
+"id": "question114",
+"question": "Quel est le phylum des nématodes?",
+"choices": [
+"Platyhelminthes",
+"Annelida",
+"Nematoda",
+"Arthropoda"
+],
+"correct_answer": "Nematoda"
+},
+{
+"id": "question115",
+"question": "Quelle est la forme caractéristique du corps des nématodes ?",
+"choices": [
+"Segmentée",
+"Cylindrique non segmentée",
+"Plate",
+"En spirale"
+],
+"correct_answer": "Cylindrique non segmentée"
+},
+{
+"id": "question116",
+"question": "Quel nématode intestinal est responsable de l'ascaridiose?",
+"choices": [
+"Enterobius vermicularis",
+"Trichuris trichiura",
+"Strongyloides stercoralis",
+"Ascaris lumbricoides"
+],
+"correct_answer": "Ascaris lumbricoides"
+},
+{
+"id": "question117",
+"question": "Quel est le mode principal de transmission de l'ascaridiose?",
+"choices": [
+"Piqûre de moustique",
+"Ingestion d'œufs embryonnés",
+"Contact cutané",
+"Transmission sexuelle"
+],
+"correct_answer": "Ingestion d'œufs embryonnés"
+},
+{
+"id": "question118",
+"question": "Quel nématode est la cause principale de l'oxyurose?",
+"choices": [
+"Ascaris lumbricoides",
+"Enterobius vermicularis",
+"Trichuris trichiura",
+"Strongyloides stercoralis"
+],
+"correct_answer": "Enterobius vermicularis"
+},
+{
+"id": "question119",
+"question": "Quel symptôme est typique de l'infection par Enterobius vermicularis ?",
+"choices": [
+"Diarrhée sévère",
+"Prurit anal vespéral",
+"Ascite",
+"Fièvre élevée"
+],
+"correct_answer": "Prurit anal vespéral"
+},
+{
+"id": "question120",
+"question": "Quel test est principalement utilisé pour diagnostiquer l'oxyurose ?",
+"choices": [
+"Examen des selles par coloration",
+"Test de Graham (adhésif sur marge anale)",
+"Biopsie intestinale",
+"Sérologie"
+],
+"correct_answer": "Test de Graham (adhésif sur marge anale)"
+},
+{
+"id": "question121",
+"question": "Quelle est la principale caractéristique des œufs d'Ascaris lumbricoides ?",
+"choices": [
+"Asymétriques et lisses",
+"Ovoïdes avec coque brunâtre mamelonnée",
+"Transparente sans coque",
+"Ovalaire asymétrique et lisse"
+],
+"correct_answer": "Ovoïdes avec coque brunâtre mamelonnée"
+},
+{
+"id": "question122",
+"question": "Où vivent principalement les nématodes filaires?",
+"choices": [
+"Intestin grêle",
+"Vaisseaux lymphatiques et tissus sous-cutanés",
+"Poumons",
+"Foie"
+],
+"correct_answer": "Vaisseaux lymphatiques et tissus sous-cutanés"
+},
+{
+"id": "question123",
+"question": "Quel insecte transmet Wuchereria bancrofti ?",
+"choices": [
+"Papillon",
+"Puce",
+"Moustique",
+"Tique"
+],
+"correct_answer": "Moustique"
+},
+{
+"id": "question124",
+"question": "Quelle maladie est provoquée par Onchocerca volvulus ?",
+"choices": [
+"Dracunculose",
+"Filariose lymphatique",
+"Cécité des rivières (Onchocercose)",
+"Ankylostomose"
+],
+"correct_answer": "Cécité des rivières (Onchocercose)"
+},
+{
+"id": "question125",
+"question": "Quelle est la caractéristique principale de la larve de Strongyloides stercoralis chez l'homme ?",
+"choices": [
+"Seulement mâles adultes présents",
+"Seules les femelles parthénogénétiques adultes sont présentes",
+"Cycle uniquement externe",
+"Larves incapables de pénétrer la peau"
+],
+"correct_answer": "Seules les femelles parthénogénétiques adultes sont présentes"
+},
+{
+"id": "question126",
+"question": "Quelle molécule est recommandée en dose unique pour le traitement de l'ascaridiose ?",
+"choices": [
+"Mébendazole 400 mg",
+"Albendazole 400 mg",
+"Pamoate de pyrantel",
+"Diéthylcarbamazine"
+],
+"correct_answer": "Albendazole 400 mg"
+},
+{
+"id": "question127",
+"question": "Quelle est la principale voie de contamination de l'ankylostomose (anguillulose)?",
+"choices": [
+"Ingestion d'eau contaminée",
+"Piqûre d'insecte",
+"Marche pieds nus sur sol contaminé",
+"Contact sexuel"
+],
+"correct_answer": "Marche pieds nus sur sol contaminé"
+},
+{
+"id": "question128",
+"question": "Quelle est la période pendant laquelle la recherche des microfilaires doit être effectuée pour Wuchereria bancrofti?",
+"choices": [
+"Le matin",
+"En soirée",
+"De nuit",
+"À midi"
+],
+"correct_answer": "De nuit"
+},
+{
+"id": "question129",
+"question": "Quel est le rôle principal des crustacés du genre Cyclops dans la dracunculose ?",
+"choices": [
+"Hôte secondaire",
+"Hôte définitif",
+"Hôte intermédiaire",
+"Vecteur de transmission par piqûre"
+],
+"correct_answer": "Hôte intermédiaire"
+},
+{
+"id": "question130",
+"question": "Quelle est la complication majeure de la filariose lymphatique?",
+"choices": [
+"Ulcères cutanés",
+"Anémie sévère",
+"Éléphantiasis",
+"Kystes ovariens"
+],
+"correct_answer": "Éléphantiasis"
+},
+{
+"id": "question131",
+"question": "Quel est le principal symptôme clinique du passage de Loa loa sous la conjonctive?",
+"choices": [
+"Photophobie et œdème péri-orbitaire",
+"Diarrhée",
+"Toux sèche",
+"Douleur articulaire"
+],
+"correct_answer": "Photophobie et œdème péri-orbitaire"
+},
+{
+"id": "question132",
+"question": "Quel traitement est indiqué pour la filariose à Loa loa, en prenant en compte l'hyperinfestation?",
+"choices": [
+"Albendazole seule",
+"Diéthylcarbamazine (DEC)",
+"Ivermectine seule",
+"Pamoate de pyrantel"
+],
+"correct_answer": "Diéthylcarbamazine (DEC)"
+},
+{
+"id": "question133",
+"question": "Quelle technique est la meilleure pour détecter les microfilaires d'onchocercose ?",
+"choices": [
+"Test sanguin en journée",
+"Test de Graham (cellophane)",
+"Biopsie cutanée (scarification)",
+"Radiographie"
+],
+"correct_answer": "Biopsie cutanée (scarification)"
+},
+{
+"id": "question134",
+"question": "Quelle mesure préventive est recommandée pour éviter les infections à nématodes intestinaux ?",
+"choices": [
+"Vaccination",
+"Lavage fréquent des mains avec savon",
+"Antibiothérapie prophylactique",
+"Usage de moustiquaires"
+],
+"correct_answer": "Lavage fréquent des mains avec savon"
+},
+{
+"id": "question135",
+"question": "Quel est le principal vecteur de la filariose lymphatique?",
+"choices": [
+"Puce",
+"Mouche tsé-tsé",
+"Moustique",
+"Chrysops"
+],
+"correct_answer": "Moustique"
+},
+{
+"id": "question136",
+"question": "Quelle est la forme infectante des nématodes filaires dans le sang ou les tissus?",
+"choices": [
+"Œufs",
+"Larves rhabditoïdes",
+"Microfilaires",
+"Adultes mâles"
+],
+"correct_answer": "Microfilaires"
+},
+{
+"id": "question137",
+"question": "Quelles recommandations font partie de la prévention contre la filariose lymphatique ?",
+"choices": [
+"Port régulier de chaussures",
+"Traitement annuel combiné Albendazole + Ivermectine/DEC",
+"Usage d'antibiotiques",
+"Hygiène alimentaire stricte"
+],
+"correct_answer": "Traitement annuel combiné Albendazole + Ivermectine/DEC"
+},
+{
+"id": "question138",
+"question": "Laquelle des propositions définit le mieux un virus?",
+"choices": [
+"Cellule vivante",
+"Protéine infectieuse",
+"Agent infectieux acellulaire",
+"Organisme bactérien"
+],
+"correct_answer": "Agent infectieux acellulaire"
+},
+{
+"id": "question139",
+"question": "Quelle caractéristique commune partagent tous les virus ?",
+"choices": [
+"Génome d'ADN double brin",
+"Réplication uniquement dans le cytoplasme",
+"Paroi cellulaire rigide",
+"Parasite intracellulaire obligatoire"
+],
+"correct_answer": "Parasite intracellulaire obligatoire"
+},
+{
+"id": "question140",
+"question": "Les virus sont dépourvus de quelle structure cellulaire ?",
+"choices": [
+"ADN",
+"Ribosomes",
+"Génome",
+"Capside"
+],
+"correct_answer": "Ribosomes"
+},
+{
+"id": "question141",
+"question": "Qui a découvert le VIH comme cause du SIDA ?",
+"choices": [
+"Jonas Salk",
+"Albert Sabin",
+"Luc Montagnier et Françoise Barré-Sinoussi",
+"Robert Koch"
+],
+"correct_answer": "Luc Montagnier et Françoise Barré-Sinoussi"
+},
+{
+"id": "question142",
+"question": "A quel genre et à quelle famille appartient le VIH?",
+"choices": [
+"Enterovirus, Picornaviridae",
+"Lentivirus, Retroviridae",
+"Orthomyxovirus, Influenzae",
+"Herpesvirus, Herpesviridae"
+],
+"correct_answer": "Lentivirus, Retroviridae"
+},
+{
+"id": "question143",
+"question": "Quelle caractéristique distingue le VIH-2 du VIH-1?",
+"choices": [
+"Plus répandu dans le monde",
+"Virulence accrue",
+"Origine principalement en Afrique de l'Ouest",
+"Infecte uniquement les animaux"
+],
+"correct_answer": "Origine principalement en Afrique de l'Ouest"
+},
+{
+"id": "question144",
+"question": "Quel type d'acide nucléique est présent dans le VIH ?",
+"choices": [
+"ADN double brin",
+"ARN double brin",
+"ARN simple brin positif",
+"ARN simple brin négatif"
+],
+"correct_answer": "ARN simple brin positif"
+},
+{
+"id": "question145",
+"question": "Quelle protéine virale se lie au récepteur CD4?",
+"choices": [
+"gp41",
+"p24",
+"gp120",
+"RT"
+],
+"correct_answer": "gp120"
+},
+{
+"id": "question146",
+"question": "Quel est le rôle principal de la transcriptase inverse du VIH?",
+"choices": [
+"Assemblage des particules virales",
+"Intégration de l'ADN viral dans le génome hôte",
+"Synthèse des protéines virales",
+"Conversion de l'ARN viral en ADN"
+],
+"correct_answer": "Conversion de l'ARN viral en ADN"
+},
+{
+"id": "question147",
+"question": "Quelle voie n'est PAS un mode principal de transmission du VIH?",
+"choices": [
+"Rapport sexuel non protégé",
+"Transfusion sanguine",
+"Piqûre de moustique",
+"Transmission de la mère à l'enfant"
+],
+"correct_answer": "Piqûre de moustique"
+},
+{
+"id": "question148",
+"question": "Quel marqueur sanguin sert au dépistage précoce du VIH?",
+"choices": [
+"p17",
+"Antigène p24",
+"gp41",
+"VP3"
+],
+"correct_answer": "Antigène p24"
+},
+{
+"id": "question149",
+"question": "Quelle stratégie peut prévenir la transmission du VIH après une exposition?",
+"choices": [
+"Antibiotiques",
+"ART (Traitement antirétroviral)",
+"PEP (Prophylaxie post-exposition)",
+"Immunoglobulines"
+],
+"correct_answer": "PEP (Prophylaxie post-exposition)"
+},
+{
+"id": "question150",
+"question": "À quelle famille appartient le poliovirus ?",
+"choices": [
+"Flaviviridae",
+"Retroviridae",
+"Picornaviridae",
+"Hepadnaviridae"
+],
+"correct_answer": "Picornaviridae"
+},
+{
+"id": "question151",
+"question": "Quelle est la structure du poliovirus?",
+"choices": [
+"Virus à ARN enveloppé hélicoïdal",
+"Virus à ARN non enveloppé icosaédrique",
+"Virus à ADN circulaire enveloppé",
+"Virus à ARN enveloppé sphérique"
+],
+"correct_answer": "Virus à ARN non enveloppé icosaédrique"
+},
+{
+"id": "question152",
+"question": "Quel symptôme est caractéristique de la poliomyélite paralytique?",
+"choices": [
+"Éruption et fièvre",
+"Paralysie flasque",
+"Toux",
+"Convulsions"
+],
+"correct_answer": "Paralysie flasque"
+},
+{
+"id": "question153",
+"question": "Comment le poliovirus est-il principalement transmis ?",
+"choices": [
+"Gouttelettes aéroportées",
+"Contact sexuel",
+"Voie oro-fécale",
+"Morsures animales"
+],
+"correct_answer": "Voie oro-fécale"
+},
+{
+"id": "question154",
+"question": "Quelle protéine forme la partie interne de la capside du poliovirus ?",
+"choices": [
+"VP1",
+"VP2",
+"VP3",
+"VP4"
+],
+"correct_answer": "VP4"
+},
+{
+"id": "question155",
+"question": "Quel est le principal site initial de réplication du poliovirus?",
+"choices": [
+"Cellules du foie",
+"Reins",
+"Cellules épithéliales du tube digestif",
+"Cellules sanguines"
+],
+"correct_answer": "Cellules épithéliales du tube digestif"
+},
+{
+"id": "question156",
+"question": "Quelle méthode de diagnostic est la plus sensible au début de l'infection par poliovirus ?",
+"choices": [
+"Hémoculture",
+"Culture d'expectoration",
+"PCR sur selles",
+"Test urinaire"
+],
+"correct_answer": "PCR sur selles"
+},
+{
+"id": "question157",
+"question": "Quel vaccin antipoliomyélitique est administré par voie orale?",
+"choices": [
+"VPI (inactivé)",
+"Vaccin HPV",
+"Vaccin Hépatite B",
+"VPO (vivant atténué)"
+],
+"correct_answer": "VPO (vivant atténué)"
+},
+{
+"id": "question158",
+"question": "L'entérovirus 71 provoque le plus souvent quel syndrome clinique ?",
+"choices": [
+"Herpangine",
+"Maladie pieds-mains-bouche",
+"Hépatite",
+"Grippe"
+],
+"correct_answer": "Maladie pieds-mains-bouche"
+},
+{
+"id": "question159",
+"question": "Quelle complication grave EV71 peut-il causer chez le jeune enfant ?",
+"choices": [
+"Encéphalite et atteinte du tronc cérébral",
+"Tuberculose",
+"Diabète",
+"Infarctus du myocarde"
+],
+"correct_answer": "Encéphalite et atteinte du tronc cérébral"
+},
+{
+"id": "question160",
+"question": "Quel type d'acide nucléique possède EV71?",
+"choices": [
+"ADN double brin",
+"ARN simple brin positif",
+"ADN simple brin négatif",
+"ARN double brin"
+],
+"correct_answer": "ARN simple brin positif"
+},
+{
+"id": "question161",
+"question": "Quel tissu EV71 infecte-t-il initialement ?",
+"choices": [
+"Cœur",
+"Moelle osseuse",
+"Épithélium buccal et intestinal",
+"Foie"
+],
+"correct_answer": "Épithélium buccal et intestinal"
+},
+{
+"id": "question162",
+"question": "Quelle est une stratégie clé pour prévenir l'infection par EV71 ?",
+"choices": [
+"Vaccination uniquement",
+"Hygiène des mains et désinfection des surfaces",
+"Port de masque",
+"Isolement en salle à pression négative"
+],
+"correct_answer": "Hygiène des mains et désinfection des surfaces"
+},
+{
+"id": "question163",
+"question": "Laquelle n'est PAS une méthode reconnue pour diagnostiquer EV71?",
+"choices": [
+"PCR",
+"Culture de prélèvements cliniques",
+"Sérologie des anticorps",
+"Radiographie thoracique"
+],
+"correct_answer": "Radiographie thoracique"
+},
+{
+"id": "question164",
+"question": "Où EV71 se transmet-il le plus facilement?",
+"choices": [
+"Fermes rurales",
+"Maisons de retraite",
+"Crèches et écoles",
+"Villages isolés"
+],
+"correct_answer": "Crèches et écoles"
+},
+{
+"id": "question165",
+"question": "Lequel de ces virus possède une enveloppe ?",
+"choices": [
+"Poliovirus",
+"EV71",
+"VIH",
+"Tous sont enveloppés"
+],
+"correct_answer": "VIH"
+},
+{
+"id": "question166",
+"question": "Quel virus est le plus neurotrope, causant fréquemment des complications au niveau du SNC?",
+"choices": [
+"VIH",
+"Virus influenza",
+"Poliovirus",
+"Entérovirus 71"
+],
+"correct_answer": "Entérovirus 71"
+},
+{
+"id": "question167",
+"question": "Quel prélèvement est préférable pour la détection précoce du poliovirus ?",
+"choices": [
+"Sang",
+"Urine",
+"Selles",
+"Grattage cutané"
+],
+"correct_answer": "Selles"
+},
+{
+"id": "question168",
+"question": "ដូចម្តេចហៅថា virus ?",
+"choices": [
+"ជាកោសិការ",
+"virusធ្វើការចែកខ្លួន (mitose) ដើម្បីបង្កើតកូនចៅវា",
+"virusមិនត្រូវការកោសិការទេ ដើម្បីបង្កើតកូនចៅវា",
+"virusជា parasite នៅក្នុងកោសិការ, ត្រូវការកោសិការ ដើម្បីបង្កើតកូនចៅវា"
+],
+"correct_answer": "virusជា parasite នៅក្នុងកោសិការ, ត្រូវការកោសិការ ដើម្បីបង្កើតកូនចៅវា"
+},
+{
+"id": "question169",
+"question": "រូបរាង, ទ្រង់ទ្រាយរបស់ virus មានអ្វីខ្លះ?",
+"choices": [
+"មិនមានហ្សែន (genome) ជា nucleic acid RNA ឬ DNA",
+"មិនមាន capsid ព័ទ្ធជុំវិញ genome",
+"ចំពោះ virus ដែលមិនមានសំបកវាមានenvelopព័ទ្ធជុំវិញcapsidទៀត",
+"មានហ្សែនជា RNA ឬ DNA មានcapsid ចំពោះ virus ដែលមានសំបកវាមានសំបកព័ទ្ធជុំវិញcapsid ទៀត"
+],
+"correct_answer": "មានហ្សែនជា RNA ឬ DNA មានcapsid ចំពោះ virus ដែលមានសំបកវាមានសំបកព័ទ្ធជុំវិញcapsid ទៀត"
+},
+{
+"id": "question170",
+"question": "រូបរាង, ទ្រង់ទ្រាយរបស់ virus មានអ្វីខ្លះ? (សំណួរស្រដៀង)",
+"choices": [
+"មានgenome ជាnucleic acid RNA ឬ DNA, មាន capsid ព័ទ្ធជុំវិញgenome, ចំពោះ virus ដែលមានសំបកវាមានសំបកព័ទ្ធជុំវិញcapsidទៀត",
+"មានសីតូប្លាស (cytoplasm) និងណៃយ៉ូ (nucleus)",
+"virus ដែលមានសំបក មាន genome ជា nucleic acid ប្រភេទ DNA",
+"virus ដែល គ្មានសំបក មាន genome ជា nucleic acid ប្រភេទ RNA"
+],
+"correct_answer": "មានgenome ជាnucleic acid RNA ឬ DNA, មាន capsid ព័ទ្ធជុំវិញgenome, ចំពោះ virus ដែលមានសំបកវាមានសំបកព័ទ្ធជុំវិញcapsidទៀត"
+},
+{
+"id": "question171",
+"question": "ទ្រង់ទ្រាយ capsid របស់ virus មានអ្វីខ្លះ?",
+"choices": [
+"capsidរាង helical virusមានរាងមូល",
+"capsid មានរាងបំពងទ្រវែង (helical symmetry) ហៅថាcapsid icosahedral",
+"capsidរាង icosahedral virusមានរាងបំពងទ្រវែង",
+"capsid មានរាងគូប(cubic symmetry) ហៅថាcapsid icosahedral"
+],
+"correct_answer": "capsid មានរាងគូប(cubic symmetry) ហៅថាcapsid icosahedral"
+},
+{
+"id": "question172",
+"question": "Virus មានសំបកនិង virus គ្មានសំបក, ចូរជ្រើសរើសចំលើយត្រឹមត្រូវតែមួយ",
+"choices": [
+"virusមានសំបកធនទ្រាំបានល្អនឹងភាពស្ងួត,កំដៅ,សារធាតុគីមី,អាស៊ីត",
+"virusគ្មានសំបក មិនធនទ្រាំបានល្អនឹងភាពស្ងួត,កំដៅ, សារធាតុគីមី,អាសីត",
+"virusគ្មានសំបកធនទ្រាំបាននឹង អាស៊ីត ហើយអាចរស់បានក្នុង ក្រពះ, ពោះវៀន",
+"virusមានសំបកធនទ្រាំបាននឹង អាស៊ីត ហើយអាចរស់បានក្នុង ក្រពះ, ពោះវៀន"
+],
+"correct_answer": "virusគ្មានសំបកធនទ្រាំបាននឹង អាស៊ីត ហើយអាចរស់បានក្នុង ក្រពះ, ពោះវៀន"
+},
+{
+"id": "question173",
+"question": "DNA virus និង RNA virus, ចូរជ្រើសរើសចំលើយត្រឹមត្រូវតែមួយ",
+"choices": [
+"DNA virus ជា virus ដែលមានហ្សែន (genome) ជា Deoxyribonucleic acid",
+"DNA virus ជា virus ដែលមានហ្សែន (genome) ជា Ribonucleic acid",
+"DNA virus virus ដែលមានមានសំបក",
+"RNA virus ជា virus ដែលគ្មានសំបក"
+],
+"correct_answer": "DNA virus ជា virus ដែលមានហ្សែន (genome) ជា Deoxyribonucleic acid"
+},
+{
+"id": "question174",
+"question": "ដំណាក់កាលនៃការបង្កើតកូនចៅ virus ក្នុងកោសិការ (Steps of Viral replication in cells)",
+"choices": [
+"attachment គឺ virus ភ្ជាប់រឺតោងលើកោសិការ",
+"penetration គឺ virus បញ្ចេញ ខ្លួនមកក្រៅកោសិការ",
+"uncoating គឺ virus ភ្ជាប់រឺតោងលើកោសិការ",
+"replication គឺ virus ផ្សំផ្គុំរូបរាងឡើងវិញ"
+],
+"correct_answer": "attachment គឺ virus ភ្ជាប់រឺតោងលើកោសិការ"
+},
+{
+"id": "question175",
+"question": "ដំណាក់កាលនៃការបង្កើតកូនចៅ virus ក្នុងកោសិការ (ចំណុច penetration)",
+"choices": [
+"attachment គឺ virus បំបែកសំបក បំបែកcapsid បញ្ចេញ ហ្សែន",
+"penetration គឺ virus បញ្ចូលខ្លួនទៅក្នុងកោសិការ",
+"uncoating គឺ virus ភ្ជាប់រឺតោងលើកោសិការ",
+"replication គឺ virus ផ្សំផ្គុំរូបរាងឡើងវិញ"
+],
+"correct_answer": "penetration គឺ virus បញ្ចូលខ្លួនទៅក្នុងកោសិការ"
+},
+{
+"id": "question176",
+"question": "ចូរជ្រើសរើស ចំលើយត្រឹមត្រូវតែមួយ (Viral Infection)",
+"choices": [
+"Viral Infection: គឺ virus មិនចូលទៅបង្ករោគ មិនមានរោគសញ្ញា រឺ គ្មានរោគសញ្ញា",
+"Viral disease: គឺ virus មិនចូលទៅបង្ករោគ មិនបង្ករោគសញ្ញានិងមិនមានជំងឺ",
+"Virulence: virus មិនបង្កជំងឺ",
+"Viral Infection: គឺ virus ចូលទៅបង្ករោគ ទោះជាមានរោគសញ្ញា រឺ គ្មានរោគសញ្ញា"
+],
+"correct_answer": "Viral Infection: គឺ virus ចូលទៅបង្ករោគ ទោះជាមានរោគសញ្ញា រឺ គ្មានរោគសញ្ញា"
+},
+{
+"id": "question177",
+"question": "ចូរជ្រើសរើស ចំលើយត្រឹមត្រូវតែមួយ (Oncogenic Virus)",
+"choices": [
+"Viral Infection: គឺ virus មិនចូលទៅបង្ករោគ មិនរោគសញ្ញា",
+"Viral disease: គឺ virus ចូលទៅបង្ករោគ គ្មានរោគសញ្ញានិងមិនមានជំងឺ",
+"Oncogenic Virus គឺ virus ដែលមិនអាចបង្ក ជំងឺមហារីក",
+"Oncogenic Virus គឺ virus ដែលអាចបង្ក ជំងឺមហារីក"
+],
+"correct_answer": "Oncogenic Virus គឺ virus ដែលអាចបង្ក ជំងឺមហារីក"
+},
+{
+"id": "question178",
+"question": "ដំណាក់កាលនៃការបង្ករោគរបស់ Virus",
+"choices": [
+"Virus ចូលក្នុងខ្លួន, ប្រើពេលincubation, Virus រាតត្បាតទៅកាន់សរីរាង្គ (target organs), Virus បញ្ចេញមកក្រៅ (excretion)",
+"Virus ចូលក្នុងខ្លួន, Virus បញ្ចេញមកក្រៅ (excretion)",
+"Virus ចូលក្នុងខ្លួន, មិនប្រើពេល incubation, Virusបញ្ចេញមកក្រៅ (excretion)",
+"Virusរាតត្បាតទៅកាន់សរីរាង្គ (target organs), Virusមិនបញ្ចេញមកក្រៅ(excretion)"
+],
+"correct_answer": "Virus ចូលក្នុងខ្លួន, ប្រើពេលincubation, Virus រាតត្បាតទៅកាន់សរីរាង្គ (target organs), Virus បញ្ចេញមកក្រៅ (excretion)"
+},
+{
+"id": "question179",
+"question": "Virus អាចចូល ទៅក្នុងខ្លួនមនុស្ស តាមផ្លូវណា?",
+"choices": [
+"Virus មិនដែលអាចចូលតាមផ្លូវដង្ហើម",
+"Virus មិនដែលអាចចូលតាមផ្លូវអាហារ",
+"Virus មិនដែលអាចចូលតាមភ្នែក",
+"Virusអាចចូលតាមផ្លូវដង្ហើម"
+],
+"correct_answer": "Virusអាចចូលតាមផ្លូវដង្ហើម"
+},
+{
+"id": "question180",
+"question": "ការសាយភាយ រឺ រាតត្បាតនៃ Virus ទៅតាមណា?",
+"choices": [
+"Virus មិនអាចសាយភាយ រឺ រាតត្បាតទៅតាមក្រោមស្រទាប់ mucus",
+"Virus មិនអាចសាយភាយ រឺ រាតត្បាតទៅតាមសសៃឈាម,តាមសសៃ lymph",
+"Virus មិនអាចសាយភាយ រឺ រាតត្បាតទៅតាមសសៃប្រាសាទ nerve",
+"Virus អាចសាយភាយ រឺ រាតត្បាតទៅតាមសសៃឈាម,តាមសសៃ lymph"
+],
+"correct_answer": "Virus អាចសាយភាយ រឺ រាតត្បាតទៅតាមសសៃឈាម,តាមសសៃ lymph"
+},
+{
+"id": "question181",
+"question": "កត្តាអ្វីខ្លះកំណត់ភាពធ្ងន់ រឺស្រាលនៃជំងឺបង្កដោយ Virus?",
+"choices": [
+"មិនមានកត្តា Virus",
+"មិនមានកត្តា host",
+"កត្តាបរិស្ថាន",
+"កត្តា Virus: បរិមាណ Virus, ផ្លូវ Virus ចូលបង្ករោគ, ភាពសាហាវរបស់ Virus"
+],
+"correct_answer": "កត្តា Virus: បរិមាណ Virus, ផ្លូវ Virus ចូលបង្ករោគ, ភាពសាហាវរបស់ Virus"
+},
+{
+"id": "question182",
+"question": "កត្តាណា ខ្លះជាកត្តា host(អ្នកទទួល Virus) ដែលកំណត់ភាពធ្ងន់ រឺស្រាលនៃជំងឺបង្កដោយ Virus",
+"choices": [
+"អាយុរបស់ host",
+"បរិមាណនៃ Virus ដែលចូលមកបង្ករោគ (Virus quantity)",
+"ផ្លូវដែល Virus ចូលបង្ករោគ(Route of virus entry)",
+"ភាពសាហាវ របស់ Virus (Virulence of virus)"
+],
+"correct_answer": "អាយុរបស់ host"
+},
+{
+"id": "question183",
+"question": "តើ Virus បញ្ចេញ មកក្រៅខ្លួនមនុស្ស តាមផ្លូវណា?",
+"choices": [
+"មិនដែលមាន Virus បញ្ចេញតាមទឹកដោះ",
+"មិនដែលមាន Virus បញ្ចេញតាមទឹកមាត់",
+"មិនដែលមាន Virus បញ្ចេញតាមទឹកភ្នែក",
+"មានVirus បញ្ចេញតាមដំណក់ទឹកចេញតាមផ្លូវដង្ហើម"
+],
+"correct_answer": "មានVirus បញ្ចេញតាមដំណក់ទឹកចេញតាមផ្លូវដង្ហើម"
+},
+{
+"id": "question184",
+"question": "ការវិវត្តទៅនៃរោគបង្កដោយ Virus (Evolution of viral infection)?",
+"choices": [
+"chronic viral infectionគឺ Virus អាចបង្ករោគភ្លាមៗមានលក្ខណះស្រួចស្រាវ",
+"persistance infection គឺVirus អាចបង្ករោគភ្លាមៗ នៅនឹងកន្លែងច្រកចូល",
+"localized infectionគឺ Virus អាចបង្ករោគភ្លាមៗ សាយភាយទៅសរីរាង្គនៅកន្លែងឆ្ងាយៗ",
+"Acute infection:គឺ Virus បង្ករោគភ្លាមៗ មានលក្ខណះស្រួចស្រាវ"
+],
+"correct_answer": "Acute infection:គឺ Virus បង្ករោគភ្លាមៗ មានលក្ខណះស្រួចស្រាវ"
+},
+{
+"id": "question185",
+"question": "Virus នៅបង្ករោគជាប្រចាំក្នុងខ្លួន (persistence infection)?",
+"choices": [
+"Persistance infection គឺ Virus អាចបង្ករោគភ្លាមៗ មានលក្ខណះស្រួចស្រាវ",
+"Chronic infection: Virus នៅសំងំក្នុងខ្លួនតែមិនបង្កើតកូនចៅ (virus persists in form non-replicative)",
+"Latent infection: Virus នៅសំងំក្នុងខ្លួនហើយបង្កើតកូនចៅជាច្រើនបង្កជំងឺរាំរៃ (virus persists in form replicative)",
+"Persistence infection ដោយសារប្រព័ន្ធការពាររាងកាយមិនអាចកំចាត់ Virus ចេញអស់ពីរាងកាយ"
+],
+"correct_answer": "Persistence infection ដោយសារប្រព័ន្ធការពាររាងកាយមិនអាចកំចាត់ Virus ចេញអស់ពីរាងកាយ"
+},
+{
+"id": "question186",
+"question": "តើវត្ថុវិភាគ អ្វីខ្លះអាចយកមក ពិនិត្យរក Virus?",
+"choices": [
+"ឈាមមិនអាចយកមក ពិនិត្យរក Virus",
+"តម្បារន្ធច្រមុះ មិនអាចយកមក ពិនិត្យរក Virus",
+"តម្បាបំពងកមិនអាចយកមក ពិនិត្យរក Virus",
+"ទឹកមាត់ ទឹកភ្នែក ទឹកនោមអាចយកមក ពិនិត្យរក Virus"
+],
+"correct_answer": "ទឹកមាត់ ទឹកភ្នែក ទឹកនោមអាចយកមក ពិនិត្យរក Virus"
+},
+{
+"id": "question187",
+"question": "ការពិនិត្យរក Virus?",
+"choices": [
+"ការពិនិត្យរក Virusដោយផ្ទាល់ (Direct diagnosis)គឺជាការពិនិត្យរកឃើញអង់ទីគ័រ (antibody)",
+"ការពិនិត្យរក Virusដោយផ្ទាល់(Direct diagnosis) គឺជាការរកឃើញ Virusទាំងមូល រឺ រកឃើញហ្សែន របស់ Virus រឺ រកឃើញបំណែករបស់ Virusដូចជា viral antigen រឺ viral protein",
+"ការពិនិត្យរក Virusដោយមិនផ្ទាល់ (Indirect diagnosis) គឺជាការពិនិត្យរកឃើញ Virusទាំងមូល រឺ រក ឃើញហ្សែនរបស់ Virus",
+"ការពិនិត្យរក Virusដោយផ្ទាល់ (Direct diagnosis) គឺជាការរកមិនឃើញVirus"
+],
+"correct_answer": "ការពិនិត្យរក Virusដោយផ្ទាល់(Direct diagnosis) គឺជាការរកឃើញ Virusទាំងមូល រឺ រកឃើញហ្សែន របស់ Virus រឺ រកឃើញបំណែករបស់ Virusដូចជា viral antigen រឺ viral protein"
+},
+{
+"id": "question188",
+"question": "ដូចម្តេចហៅថារ៉ាក់សាំង ?",
+"choices": [
+"ជាជំងឺបង្កដោយ virus",
+"ពេលដែលយើងចាក់វាទៅក្នុងខ្លួនយើងធ្វើអោយមានជំងឺធ្ងន់ធ្ងរ",
+"ជាល្បាយដែលមានមេរោគ ពេលដែលយើងចាក់វាទៅក្នុងខ្លួនយើង វាជំរុញ ខ្លួនយើងអោយបង្កើតអង់ទីគ័រ (antibody)",
+"គឺការចាក់ antibiotic"
+],
+"correct_answer": "ជាល្បាយដែលមានមេរោគ ពេលដែលយើងចាក់វាទៅក្នុងខ្លួនយើង វាជំរុញ ខ្លួនយើងអោយបង្កើតអង់ទីគ័រ (antibody)"
+},
+{
+"id": "question189",
+"question": "ប្រភេទវ៉ាក់សាំងមានអ្វីខ្លះ?",
+"choices": [
+"វ៉ាក់សាំងធ្វើពី virus ត្រូវបានសំលាប់ហៅថា Live attenuated vaccine",
+"វ៉ាក់សាំងធ្វើពី virusនៅរស់តែបន្ថយភាពសាហាវរបស់វាហៅថា Inactivated vaccine",
+"វ៉ាក់សាំងធ្វើពីបំណែកនៃ virus ហៅថា Live attenuated vaccine",
+"Live attenuated vaccine វ៉ាក់សាំងធ្វើពី virusនៅរស់តែបន្ថយភាពសាហាវរបស់វា"
+],
+"correct_answer": "Live attenuated vaccine វ៉ាក់សាំងធ្វើពី virusនៅរស់តែបន្ថយភាពសាហាវរបស់វា"
+},
+{
+"id": "question190",
+"question": "មេរោគ កញ្ជ្រោល (measles virus)",
+"choices": [
+"ជាមេរោគ ដែលមិនមានសំបក (Non-Enveloped virus)",
+"មានហ្សែនជា nucleic acid ប្រភេទDNAតែមួយខ្សែ (single-stranded DNA)",
+"មានហ្សែនជា nucleic acid ប្រភេទDNA. (double-stranded DNA)",
+"ជាមេរោគ ដែលមានសំបក (Enveloped virus)"
+],
+"correct_answer": "ជាមេរោគ ដែលមានសំបក (Enveloped virus)"
+},
+{
+"id": "question191",
+"question": "មេរោគ កញ្ជ្រោល (measles virus) ចំលងតាមផ្លូវណា?",
+"choices": [
+"មិនមានមនុស្ស ដែលផ្ទុកមេរោគកញ្ជ្រោលទេ",
+"មានតែសត្វ ដែលផ្ទុកមេរោគកញ្ជ្រោល",
+"មេរោគកញ្ជ្រោលមិនមានការឆ្លងខ្លាំង",
+"ការចំលងមេរោគកញ្ជ្រោល តាមផ្លូវដង្ហើម តាមការក្អករឹកណ្តាស់"
+],
+"correct_answer": "ការចំលងមេរោគកញ្ជ្រោល តាមផ្លូវដង្ហើម តាមការក្អករឹកណ្តាស់"
+},
+{
+"id": "question192",
+"question": "មេរោគ ស្រឡទែន (mumps virus)",
+"choices": [
+"មិនមានមនុស្ស ដែលផ្ទុកមេរោគស្រឡទែនទេ",
+"ជំងឺស្រឡទែនមិនមានការឆ្លងខ្លាំង",
+"មេរោគស្រឡទែន បង្ករោគតែលើសត្វ",
+"មានតែមនុស្ស ដែលផ្ទុកមេរោគស្រឡទែន គ្មានសត្វណាដែលផ្ទុកមេរោគនេះទេ"
+],
+"correct_answer": "មានតែមនុស្ស ដែលផ្ទុកមេរោគស្រឡទែន គ្មានសត្វណាដែលផ្ទុកមេរោគនេះទេ"
+},
+{
+"id": "question193",
+"question": "មេរោគ ស្រឡទែន (mumps virus) ចូលចិត្តបង្ករោគនៅណា?",
+"choices": [
+"មេរោគនេះមិនបង្ករោគ នៅក្រពេញទឹកមាត់ទេ",
+"មេរោគស្រឡទែន មិនមានការឆ្លងខ្លាំងតាមទឹកមាត់ទេ",
+"មេរោគស្រឡទែន មិនដែលបង្ករោគនៅក្រពេញផ្សេងៗ ដូចជានៅ លំពែង, ពងស្វាស, អូវែរ ទេ",
+"មេរោគនេះចូលចិត្តបង្ករោគ នៅក្រពេញ(glandular tropism) ពិសេសនៅក្រពេញទឹកមាត់"
+],
+"correct_answer": "មេរោគនេះចូលចិត្តបង្ករោគ នៅក្រពេញ(glandular tropism) ពិសេសនៅក្រពេញទឹកមាត់"
+},
+{
+"id": "question194",
+"question": "មេរោគស្ដួច (Rubella virus)",
+"choices": [
+"ជាមេរោគដែលមិនមានសំបក (Non-Enveloped virus)",
+"មានហ្សែនជា nucleic acid ប្រភេទDNAតែមួយខ្សែ (single-stranded DNA)",
+"មិននៅក្នុងគ្រួសារ Togaviridae និង genus Rubivirus",
+"មានហ្សែនជា nucleic acid ប្រភេទRNA តែមួយខ្សែ (single-stranded RNA)"
+],
+"correct_answer": "មានហ្សែនជា nucleic acid ប្រភេទRNA តែមួយខ្សែ (single-stranded RNA)"
+},
+{
+"id": "question195",
+"question": "មេរោគស្ដួច (Rubella virus) អាចបង្កផលវិបាកអ្វីចំពោះស្ត្រីមានផ្ទៃពោះ?",
+"choices": [
+"ចំពោះស្ត្រីមានផ្ទៃពោះមេរោគស្ដួចអាចឆ្លងដល់ទារកក្នុងផ្ទៃធ្វើអោយទារកមិនគ្រប់លក្ខណះ (malformation foectal)",
+"មិនមានវ៉ាក់សាំងសំរាប់ការពារជំងឺស្ទូចទេ",
+"ជំងឺស្ទូចមិនមានឆ្លងពីម្តាយទៅទារកក្នុងផ្ទៃទេ",
+"ជំងឺស្ទូចជាជំងឺមិនអាចឆ្លងតាមផ្លូវដង្ហើម"
+],
+"correct_answer": "ចំពោះស្ត្រីមានផ្ទៃពោះមេរោគស្ដួចអាចឆ្លងដល់ទារកក្នុងផ្ទៃធ្វើអោយទារកមិនគ្រប់លក្ខណះ (malformation foectal)"
+},
+{
+"id": "question196",
+"question": "មេរោគខាងក្រោមនេះ តើមេរោគមួយណាចូលចិត្តបង្ករោគនៅក្រពេញ(glandular tropism)?",
+"choices": [
+"មេរោគកញ្ជ្រោល measles virus",
+"មេរោគស្ដួច rubella virus",
+"មេរោគស្រឡទែន mumps virus",
+"មេរោគមេរោគផ្តាសាយ Influenzavirus"
+],
+"correct_answer": "មេរោគស្រឡទែន mumps virus"
+},
+{
+"id": "question197",
+"question": "មេរោគ Rotavirus",
+"choices": [
+"ជាមេរោគដែលមានសំបក (Enveloped virus)",
+"មានហ្សែនជា nucleic acid ប្រភេទDNA ពីរខ្សែ (double-stranded DNA)",
+"ជាមេរោគផ្លូវដង្ហើម",
+"នៅក្នុងគ្រួសារ Reoviridae"
+],
+"correct_answer": "នៅក្នុងគ្រួសារ Reoviridae"
+},
+{
+"id": "question198",
+"question": "មេរោគ Rotavirus បង្ករោគនៅឯណា?",
+"choices": [
+"មេរោគRotavirus បង្ករោគនៅផ្លូវដង្ហើម",
+"មេរោគ Rotavirus មិនបង្កជំងឺរាគលើកូនក្មេង",
+"មេរោគ Rotavirus មិនចំលងតាមផ្លូវលាមក មកមាត់",
+"មេរោគ Rotavirus បង្ករោគនៅពោះវៀន"
+],
+"correct_answer": "មេរោគ Rotavirus បង្ករោគនៅពោះវៀន"
+},
+{
+"id": "question199",
+"question": "មេរោគផ្តាសាយ Influenzavirus",
+"choices": [
+"ជាមេរោគដែលគ្មានសំបក (Non-Enveloped virus)",
+"ជាមេរោគដែលមានសំបក (Enveloped virus)",
+"បង្ករោគនៅក្នុងពោះវៀន",
+"មិនបង្កជំងឺផ្លូវដង្ហើម"
+],
+"correct_answer": "ជាមេរោគដែលមានសំបក (Enveloped virus)"
+},
+{
+"id": "question200",
+"question": "មេរោគផ្តាសាយ Influenzavirus មានប៉ុន្មានប្រភេទ?",
+"choices": [
+"មេរោគផ្តាសាយមានប្រាំប្រភេទគឺ A, B, C, D, និង E.",
+"មេរោគផ្តាសាយមានបួនប្រភេទគឺ A, B, C, និង D.",
+"មេរោគផ្តាសាយមានបីប្រភេទគឺ A, B, និង C",
+"មេរោគផ្តាសាយមានពីរប្រភេទគឺ A, និង B"
+],
+"correct_answer": "មេរោគផ្តាសាយមានបួនប្រភេទគឺ A, B, C, និង D."
+},
+{
+"id": "question201",
+"question": "មេរោគផ្តាសាយ Influenzavirus ប្រើប្រាស់អ្វីដើម្បីភ្ជាប់កោសិកា?",
+"choices": [
+"ចំពោះមេរោគផ្តាសាយប្រភេទA មានហ្សែនNA (Neuraminidae) ១៧ប្រភេទផ្សេងគ្នា",
+"NA សំរាប់អោយមេរោគផ្តាសាយតោងរឺភ្ជាប់ខ្លួនទៅលើសំបកកោសិកា",
+"គេថាNAជាកូនសោសំរាប់ចាក់អោយមេរោគផ្តាសាយចូលក្នុងកោសិកា 'input key'",
+"HA សំរាប់អោយមេរោគផ្តាសាយតោងរឺភ្ជាប់ខ្លួនទៅលើសំបកកោសិកា"
+],
+"correct_answer": "HA សំរាប់អោយមេរោគផ្តាសាយតោងរឺភ្ជាប់ខ្លួនទៅលើសំបកកោសិកា"
+},
+{
+"id": "question202",
+"question": "អ្នកផ្ទុកមេរោគផ្តាសាយ Reservoir of Influenzavirus",
+"choices": [
+"មនុស្សមិនដែលមានផ្ទុកមេរោគផ្តាសាយទេ",
+"បក្សី (មាន់ ទា ក្ងាន...)មិនដែលមានផ្ទុកមេរោគផ្តាសាយទេ",
+"សត្វពាហនះ(ជ្រូក សេះ...) មិនដែលមានផ្ទុកមេរោគផ្តាសាយទេ",
+"មានមនុស្ស និងសត្វជាច្រើន"
+],
+"correct_answer": "មានមនុស្ស និងសត្វជាច្រើន"
+},
+{
+"id": "question203",
+"question": "មេរោគផ្តាសាយ Influenzavirus អាចបង្កជំងឺធ្ងន់ធ្ងរដែរឬទេ?",
+"choices": [
+"ជំងឺផ្តាសាយមិនឆ្លងទេ",
+"មេរោគផ្តាសាយមនុស្ស human influenza ច្រើនបង្កជំងឺផ្តាសាយធ្ងន់ធ្ងរ",
+"មេរោគផ្តាសាយបក្សី avian influenza ច្រើនបង្កជំងឺផ្តាសាយធ្ងន់ធ្ងរ",
+"មេរោគផ្តាសាយបក្សី avian influenza មិនអាចបង្កជំងឺផ្តាសាយធ្ងន់ធ្ងរលើមនុស្សទេ"
+],
+"correct_answer": "មេរោគផ្តាសាយមនុស្ស human influenza ច្រើនបង្កជំងឺផ្តាសាយធ្ងន់ធ្ងរ"
+},
+{
+"id": "question204",
+"question": "មេរោគ Coronavirus",
+"choices": [
+"ជាមេរោគដែលមិនមានសំបក (Non-Enveloped virus)",
+"មានហ្សែនជា nucleic acid ប្រភេទDNAតែមួយខ្សែ (single-stranded DNA)",
+"នៅក្នុងគ្រួសារ Herpesviridae",
+"នៅក្នុងគ្រួសារ Coronaviridae"
+],
+"correct_answer": "នៅក្នុងគ្រួសារ Coronaviridae"
+},
+{
+"id": "question205",
+"question": "អ្នកផ្ទុកមេរោគ Coronavirus (Reservoir of Coronavirus)",
+"choices": [
+"បង្ករោគតែលើមនុស្ស",
+"បង្ករោគតែលើបក្សី (មាន់ ទា ក្ងាន...)",
+"បង្ករោគតែលើសត្វពាហនះ(ជ្រូក សេះ គោ...)",
+"បង្ករោគលើមនុស្សនិងសត្វជាច្រើន"
+],
+"correct_answer": "បង្ករោគលើមនុស្សនិងសត្វជាច្រើន"
+},
+{
+"id": "question206",
+"question": "មេរោគ Coronavirus (SARS-CoV1)",
+"choices": [
+"SARS-CoV1 មិនមែនជាមេរោគបង្កជំងឺលើមនុស្សទេ",
+"SARS-CoV1 ជាមេរោគមិនដែលបង្កជំងឺផ្លូវដង្ហើមទេ",
+"មានវ៉ាក់សាំងសំរាប់ការពារជំងឺផ្លូវដង្ហើមបង្កដោយមេរោគ SARS-CoV1",
+"SARS-CoV1 ជាមេរោគបង្កជំងឺលើមនុស្ស អាចបង្កជំងឺផ្លូវដង្ហើមធ្ងន់ធ្ងរ គឺជំងឺ SARS"
+],
+"correct_answer": "SARS-CoV1 ជាមេរោគបង្កជំងឺលើមនុស្ស អាចបង្កជំងឺផ្លូវដង្ហើមធ្ងន់ធ្ងរ គឺជំងឺ SARS"
+},
+{
+"id": "question207",
+"question": "មេរោគក្នុងគ្រួសារ Herpesviridae",
+"choices": [
+"ជាមេរោគដែលមិនមានសំបក (Non-Enveloped virus)",
+"មានហ្សែនជា nucleic acid ប្រភេទ RNA ពីរខ្សែ (double-stranded RNA)",
+"មិនបង្ករោគលើមនុស្ស បង្ករោគតែលើសត្វ",
+"មានហ្សែនជា nucleic acid ប្រភេទ DNA ពីរខ្សែ (double-stranded DNA)"
+],
+"correct_answer": "មានហ្សែនជា nucleic acid ប្រភេទ DNA ពីរខ្សែ (double-stranded DNA)"
+},
+{
+"id": "question208",
+"question": "មេរោគ Herpes simplex virus (HSV)",
+"choices": [
+"ជាមេរោគមិននៅក្នុងគ្រួសារHerpesviridaeទេ",
+"មេរោគ Herpes simplex virus មាន១ប្រភេទ HSV-1",
+"មានសត្វជាច្រើនដែលផ្ទុកមេរោគ Herpes simplex virus",
+"មេរោគHerpes simplex virus មានពីរប្រភេទ HSV-1 និង HSV-2"
+],
+"correct_answer": "មេរោគHerpes simplex virus មានពីរប្រភេទ HSV-1 និង HSV-2"
+},
+{
+"id": "question209",
+"question": "មេរោគVirus Varicelle Zona (VZV) សំងំនៅឯណា?",
+"choices": [
+"បង្ករោគលើកទីមួយគឺបង្កជាជំងឺរើម (Zoster)",
+"មេរោគនៅសំងំនៅក្នុងកូនកណ្តុរ (sensory ganglia)",
+"មនុស្សឆ្លងមេរោគVZV ពីបក្សី",
+"មិនមានវ៉ាក់សាំងសំរាប់ការពារជំងឺអុតស្វាយទេ"
+],
+"correct_answer": "មេរោគនៅសំងំនៅក្នុងកូនកណ្តុរ (sensory ganglia)"
+},
+{
+"id": "question210",
+"question": "មេរោគបង្កជំងឺឆ្កែឆ្កួត Rabies virus",
+"choices": [
+"ជាមេរោគដែលមិនមានសំបក (Non-Enveloped virus)",
+"មានហ្សែនជា nucleic acid ប្រភេទ DNA មួយខ្សែ (single-stranded DNA)",
+"ជាមេរោគនៅក្នុងគ្រួសារHerpesviridae",
+"មានហ្សែនជា nucleic acid ប្រភេទ RNA មួយខ្សែ (single-stranded RNA)"
+],
+"correct_answer": "មានហ្សែនជា nucleic acid ប្រភេទ RNA មួយខ្សែ (single-stranded RNA)"
+},
+{
+"id": "question211",
+"question": "មេរោគបង្កជំងឺគ្រុនឈាម Dengue virus ស្ថិតក្នុងគ្រួសារណា?",
+"choices": [
+"មិនមែនជា arbovirus",
+"ជាមេរោគដែលមិនមានសំបក (Non-Enveloped virus)",
+"ជាមេរោគនៅក្នុង genus Alphavirus",
+"នៅក្នុងគ្រួសារFlaviviridae, genus Flavivirus"
+],
+"correct_answer": "នៅក្នុងគ្រួសារFlaviviridae, genus Flavivirus"
+},
+{
+"id": "question212",
+"question": "ការចំលងមេរោគបង្កជំងឺគ្រុនឈាម Dengue virus",
+"choices": [
+"ចំលងមកមនុស្សតាមរយះមូសមានមេរោគគ្រុនឈាមខាំ",
+"ចំលងមកមនុស្សតាមរយះឆ្កែខាំ",
+"ឆ្លងតាមផ្លូវដង្ហើម",
+"ឆ្លងតាមផ្លូវលាមក មក មាត់"
+],
+"correct_answer": "ចំលងមកមនុស្សតាមរយះមូសមានមេរោគគ្រុនឈាមខាំ"
+},
+{
+"id": "question213",
+"question": "មេរោគបង្កជំងឺរលាកខួរក្បាល Japanese Encephalitis Virus",
+"choices": [
+"ជា arbovirus ចំលងមកមនុស្សតាមរយះមូសខាំ",
+"ជា arbovirus ចំលងមកមនុស្សតាមរយះចែខាំ",
+"មិនមានវ៉ាក់សាំងសំរាប់ការពារទេ",
+"ចំលងតាមផ្លូវដង្ហើម"
+],
+"correct_answer": "ជា arbovirus ចំលងមកមនុស្សតាមរយះមូសខាំ"
+},
+{
+"id": "question214",
+"question": "តើភ្នាក់ងារចម្លងរោគរបស់ Viral HepatitisB គឺមេរោគឈ្មោះអ្វី?",
+"choices": [
+"HAV",
+"HBV",
+"HCV",
+"HDV"
+],
+"correct_answer": "HBV"
+},
+{
+"id": "question215",
+"question": "តើ Viral Hepatitis ណាខ្លះដែលឆ្លងតាមរយៈ លាមកមនុស្សចូលតាមមាត់ (fecal- oral route)?",
+"choices": [
+"Viral Hepatitis A និង E",
+"Viral Hepatitis B និង C",
+"Viral Hepatitis C និង D",
+"Viral Hepatitis D និង E"
+],
+"correct_answer": "Viral Hepatitis A និង E"
+},
+{
+"id": "question216",
+"question": "តើ incubation period របស់ Viral hepatitis B ជាទូទៅមានរយៈពេលប៉ុន្មាន?",
+"choices": [
+"10-15 សប្តាហ៍",
+"2-6 សប្តាហ៍",
+"4-8 សប្តាហ៍",
+"6-10 សប្តាហ៍"
+],
+"correct_answer": "10-15 សប្តាហ៍"
+},
+{
+"id": "question217",
+"question": "ប៉ារាសិតគឺៈ",
+"choices": [
+"ជាផ្នែកមួយ នៃសរីរាង្គមនុស្ស",
+"ជាផ្នែកមួយ នៃសរីរាង្គសត្វ",
+"ជាផ្នែកមួយ នៃសិរីរាង្គរុក្ខជាតិ",
+"ជាសរីរាង្គមួយរស់នៅលើសរីរាង្គមួយទៀត មានមនុស្សសត្វនិងរុក្ខជាតិ(Host)"
+],
+"correct_answer": "ជាសរីរាង្គមួយរស់នៅលើសរីរាង្គមួយទៀត មានមនុស្សសត្វនិងរុក្ខជាតិ(Host)"
+},
+
+{
+"id": "question218",
+"question": "តើ host ជាអ្វី?",
+"choices": [
+"ជាកោសិការបស់ virus",
+"ជាអ្នកផ្តល់ទីកន្លែងអោយប៉ារាសិតរស់នៅ និងផ្តល់អាហារសំរាប់ចិញ្ចឹមជីវិតប៉ារាសិត",
+"ជាប្រភេទបាក់តេរីម្យ៉ាង",
+"ជាថ្នាំសំលាប់ប៉ារាសិត"
+],
+"correct_answer": "ជាអ្នកផ្តល់ទីកន្លែងអោយប៉ារាសិតរស់នៅ និងផ្តល់អាហារសំរាប់ចិញ្ចឹមជីវិតប៉ារាសិត"
+},
+{
+"id": "question219",
+"question": "តើ Definitive Host (ម្ចាស់ផ្ទះចុងក្រោយ) ជាអ្វី?",
+"choices": [
+"ជា host ដែលផ្តល់ទីជំរកដល់ប៉ារាសិតក្នុងដំណាក់កាលលូតលាស់",
+"ជា host ដែលផ្ទុកប៉ារាសិតក្នុងដំណាក់កាលពេញវ័យ រឺ ដំណាក់កាលបន្តពូជដោយភេទ (Sexual stage)",
+"ជា host ដែលមិនរងគ្រោះថ្នាក់ពីប៉ារាសិត",
+"ជាសត្វល្អិតចម្លងរោគ"
+],
+"correct_answer": "ជា host ដែលផ្ទុកប៉ារាសិតក្នុងដំណាក់កាលពេញវ័យ រឺ ដំណាក់កាលបន្តពូជដោយភេទ (Sexual stage)"
+},
+{
+"id": "question220",
+"question": "តើ Intermediate Host (ម្ចាស់ផ្ទះកណ្តាល) ជាអ្វី?",
+"choices": [
+"ជា host ដែលផ្ទុកប៉ារាសិតក្នុងដំណាក់កាលពេញវ័យ",
+"ជា host ដែលផ្តល់ទីជំរកដល់ប៉ារាសិតក្នុងដំណាក់កាលជាដង្កូវ (Larval stage) រឺ ដំណាក់កាលមិនបន្តពូជដោយភេទ (Asexual stage)",
+"ជា host ចុងក្រោយបង្អស់",
+"ជាភ្នាក់ងារចម្លងរោគដោយផ្ទាល់"
+],
+"correct_answer": "ជា host ដែលផ្តល់ទីជំរកដល់ប៉ារាសិតក្នុងដំណាក់កាលជាដង្កូវ (Larval stage) រឺ ដំណាក់កាលមិនបន្តពូជដោយភេទ (Asexual stage)"
+},
+{
+"id": "question221",
+"question": "តើ Vector (ភ្នាក់ងារចម្លងរោគ) ជាអ្វី?",
+"choices": [
+"ជាប្រភេទដង្កូវព្រូន",
+"ជាសត្វល្អិត (Arthropod) ដែលដឹកជញ្ជូន រឺ ចម្លងមេរោគពី host មួយទៅ host មួយទៀត",
+"ជាកោសិកាឈាមស",
+"ជាអាហារដែលមានមេរោគ"
+],
+"correct_answer": "ជាសត្វល្អិត (Arthropod) ដែលដឹកជញ្ជូន រឺ ចម្លងមេរោគពី host មួយទៅ host មួយទៀត"
+},
+{
+"id": "question222",
+"question": "តើប៉ារាសិតអាចចែកចេញជាប៉ុន្មានក្រុមធំៗ?",
+"choices": [
+"២ ក្រុមគឺៈ Protozoa និង Bacteria",
+"៣ ក្រុមគឺៈ Protozoa, Helminths (ដង្កូវព្រូន) និង Arthropods (សត្វល្អិត)",
+"៤ ក្រុមគឺៈ Viruses, Fungi, Protozoa, Helminths",
+"៥ ក្រុម"
+],
+"correct_answer": "៣ ក្រុមគឺៈ Protozoa, Helminths (ដង្កូវព្រូន) និង Arthropods (សត្វល្អិត)"
+},
+{
+"id": "question223",
+"question": "តើលក្ខណៈពិសេសរបស់ Protozoa គឺអ្វី?",
+"choices": [
+"ជាសត្វដែលមានកោសិកាច្រើន (Multicellular)",
+"ជាសត្វដែលមានកោសិកាតែមួយ (Unicellular Eukaryote)",
+"ជាភ្នាក់ងារគ្មានកោសិកា (Acellular)",
+"ជាប្រភេទផ្សិត"
+],
+"correct_answer": "ជាសត្វដែលមានកោសិកាតែមួយ (Unicellular Eukaryote)"
+},
+{
+"id": "question224",
+"question": "តើ Helminths ចែកចេញជាប៉ុន្មានក្រុម?",
+"choices": [
+"២ ក្រុមគឺៈ Nematodes (ព្រូនមូល) និង Platyhelminths (ព្រូនសំប៉ែត)",
+"៣ ក្រុមគឺៈ Nematodes, Cestodes, Protozoa",
+"៤ ក្រុម",
+"៥ ក្រុម"
+],
+"correct_answer": "២ ក្រុមគឺៈ Nematodes (ព្រូនមូល) និង Platyhelminths (ព្រូនសំប៉ែត)"
+},
+{
+"id": "question225",
+"question": "តើព្រូនសំប៉ែត (Platyhelminths) រួមមានអ្វីខ្លះ?",
+"choices": [
+"Nematodes និង Cestodes",
+"Cestodes (តេនញ៉ា) និង Trematodes (ព្រូនស្លឹកឈើ)",
+"Ascaris និង Oxyure",
+"Protozoa និង Fungi"
+],
+"correct_answer": "Cestodes (តេនញ៉ា) និង Trematodes (ព្រូនស្លឹកឈើ)"
+},
+{
+"id": "question226",
+"question": "តើប៉ារាសិតប្រភេទណាដែលរស់នៅលើស្បែក រឺ សក់ របស់មនុស្ស?",
+"choices": [
+"Endoparasites",
+"Ectoparasites (ដូចជា ចៃ, អង្គែ, ចៃឡាន)",
+"Intracellular parasites",
+"Protozoa"
+],
+"correct_answer": "Ectoparasites (ដូចជា ចៃ, អង្គែ, ចៃឡាន)"
+},
+{
+"id": "question227",
+"question": "តើប៉ារាសិតប្រភេទណាដែលរស់នៅក្នុងសរីរាង្គខាងក្នុងរបស់មនុស្ស?",
+"choices": [
+"Ectoparasites",
+"Endoparasites (ដូចជា ព្រូនក្នុងពោះវៀន, គ្រុនចាញ់ក្នុងឈាម)",
+"Epiphytes",
+"Saprophytes"
+],
+"correct_answer": "Endoparasites (ដូចជា ព្រូនក្នុងពោះវៀន, គ្រុនចាញ់ក្នុងឈាម)"
+},
+{
+"id": "question228",
+"question": "តើការចម្លងរោគរបស់ប៉ារាសិតអាចតាមផ្លូវណាខ្លះ?",
+"choices": [
+"តាមផ្លូវមាត់ (Ingestion) តែមួយគត់",
+"តាមស្បែក (Skin penetration) តែមួយគត់",
+"តាមផ្លូវមាត់, តាមស្បែក, តាមរយៈវ៉ិចទ័រខាំ, និងពីម្តាយទៅកូន",
+"តាមផ្លូវដង្ហើមតែមួយគត់"
+],
+"correct_answer": "តាមផ្លូវមាត់, តាមស្បែក, តាមរយៈវ៉ិចទ័រខាំ, និងពីម្តាយទៅកូន"
+},
+{
+"id": "question229",
+"question": "តើជំងឺគ្រុនចាញ់បង្កឡើងដោយប៉ារាសិតក្រុមណា?",
+"choices": [
+"Nematodes",
+"Protozoa (ប្រភេទ Plasmodium)",
+"Cestodes",
+"Trematodes"
+],
+"correct_answer": "Protozoa (ប្រភេទ Plasmodium)"
+},
+{
+"id": "question230",
+"question": "តើដង្កូវព្រូនប្រភេទណាដែលមានរាងស៊ីឡាំង មិនកង់ៗ?",
+"choices": [
+"Cestodes",
+"Trematodes",
+"Nematodes (ព្រូនមូល)",
+"Platyhelminths"
+],
+"correct_answer": "Nematodes (ព្រូនមូល)"
+},
+{
+"id": "question231",
+"question": "តើវិធីសាស្ត្រមូលដ្ឋានក្នុងការការពារជំងឺព្រូនក្នុងពោះវៀនគឺអ្វី?",
+"choices": [
+"ការចាក់វ៉ាក់សាំងការពារ",
+"ការហូបថ្នាំផ្សះរាល់ថ្ងៃ",
+"អនាម័យខ្លួនប្រាណ, លាងដៃមុនបរិភោគ និងពិសារចំណីអាហារឆ្អិនល្អ",
+"ការជៀសវាងពន្លឺថ្ងៃ"
+],
+"correct_answer": "អនាម័យខ្លួនប្រាណ, លាងដៃមុនបរិភោគ និងពិសារចំណីអាហារឆ្អិនល្អ"
+},
+{
+"id": "question232",
+"question": "តើការធ្វើរោគវិនិច្ឆ័យរកព្រូនក្នុងពោះវៀន គេច្រើនធ្វើតាមវិធីណា?",
+"choices": [
+"ការថតកាំរស្មីអ៊ិច (X-ray)",
+"ការពិនិត្យលាមកស្វែងរកពង រឺ កូនព្រូន (Stool examination)",
+"ការពិនិត្យទឹកនោម",
+"ការវាស់ចង្វាក់បេះដូង"
+],
+"correct_answer": "ការពិនិត្យលាមកស្វែងរកពង រឺ កូនព្រូន (Stool examination)"
+},
+{
+"id": "question233",
+"question": "តើប្រភេទ Viral Hepatitis ណាខ្លះដែលវិវត្តទៅជាជំងឺរ៉ាំរ៉ៃ (Chronic) និងក្រិនថ្លើម?",
+"choices": [
+"Hepatitis A និង E",
+"Hepatitis B, C និង D",
+"Hepatitis A និង B",
+"Hepatitis E តែមួយគត់"
+],
+"correct_answer": "Hepatitis B, C និង D"
+},
+{
+"id": "question234",
+"question": "តើវ៉ាក់សាំងការពារជំងឺរលាកថ្លើមប្រភេទណាដែលមានប្រើប្រាស់ជាទូទៅក្នុងកម្មវិធីជាតិ?",
+"choices": [
+"វ៉ាក់សាំងរលាកថ្លើមប្រភេទ C",
+"វ៉ាក់សាំងរលាកថ្លើមប្រភេទ B",
+"វ៉ាក់សាំងរលាកថ្លើមប្រភេទ D",
+"មិនទាន់មានវ៉ាក់សាំងការពាររលាកថ្លើមទេ"
+],
+"correct_answer": "វ៉ាក់សាំងរលាកថ្លើមប្រភេទ B"
+},
+{
+"id": "question235",
+"question": "Pseudomonas គឺជាបាក់តេរីរស់នៅក្នុង៖",
+"choices": [
+"ទឹក",
+"ខ្យល់",
+"ទឹក និងដី",
+"រុក្ខជាតិនិងបន្លែផ្លែឈើ"
+],
+"correct_answer": "ទឹក និងដី"
+},
+{
+"id": "question236",
+"question": "នៅពេលគេធ្វើការបំពាក់ពណ៌ Gram Stain ពួក Pseudomonas ជាបាក់តេរីប្រភេទណា?",
+"choices": [
+"Bacillus Gram Positive rod",
+"Bacillus Gram Negative rod",
+"Cocci Gram Positive",
+"Cocci Gram Negative"
+],
+"correct_answer": "Bacillus Gram Negative rod"
+},
+{
+"id": "question237",
+"question": "តើបាក់តេរីប្រភេទ Pseudomonas aeruginosa អាចបណ្តាលអោយមាន Complication អ្វីខ្លះ?",
+"choices": [
+"Pneumonia",
+"Urinary tract infections",
+"Otitis",
+"Pneumonia, Urinary tract infection and ottitis"
+],
+"correct_answer": "Pneumonia, Urinary tract infection and ottitis"
+},
+{
+"id": "question238",
+"question": "Burkholderia pseudomallei គឺជាមេរោគដែលបណ្តាលអោយមានជំងឺអ្វី?",
+"choices": [
+"Melioidosis",
+"Encephalitis",
+"Meningitis",
+"Endocarditis"
+],
+"correct_answer": "Melioidosis"
+},
+{
+"id": "question239",
+"question": "តើ Burkholderia spp គឺជាបាក់តេរីដែលមានលក្ខណៈបែបណា?",
+"choices": [
+"Catalase Negative and Oxydase Positive",
+"Catalase Positive and Oxydase Positive",
+"Catalase Positive and Oxydase Negative",
+"Catalase Negative and Oxydase Negative"
+],
+"correct_answer": "Catalase Positive and Oxydase Positive"
+},
+{
+"id": "question240",
+"question": "តើបាក់តេរី B. pseudomallei អាចឆ្លងចូលមកមនុស្សតាមរយៈផ្លូវណាខ្លះ?",
+"choices": [
+"ការលេបចូលបាក់តេរី",
+"ការដាច់រលាត់ស្បែក",
+"ផ្លូវដង្ហើម",
+"ការលេបចូលបាក់តេរី និង ការដាច់រលាត់ស្បែក"
+],
+"correct_answer": "ការលេបចូលបាក់តេរី និង ការដាច់រលាត់ស្បែក"
+},
+{
+"id": "question241",
+"question": "តើបាក់តេរី Clostridium ភាគច្រើនមានចលនាដែរឬទេ? ហើយប្រភេទណាខ្លះដែលមានចលនា?",
+"choices": [
+"ភាគច្រើនមានចលនា ដូចជា C. perfringens",
+"ភាគច្រើនមិនមានចលនាទេ ប៉ុន្តែមាន C. clostridioforme និង C. tetani ដែលមានចលនា",
+"មិនមានចលនាទាំងអស់",
+"មានចលនាទាំងអស់"
+],
+"correct_answer": "ភាគច្រើនមិនមានចលនាទេ ប៉ុន្តែមាន C. clostridioforme និង C. tetani ដែលមានចលនា"
+},
+{
+"id": "question242",
+"question": "តើ Spore របស់បាក់តេរី C. perfringens មាននៅក្នុងទីកន្លែងណា?",
+"choices": [
+"ទឹក",
+"ដី",
+"ស្បែក",
+"ដី និង ស្បែក"
+],
+"correct_answer": "ដី និង ស្បែក"
+},
+{
+"id": "question243",
+"question": "តើរោគសញ្ញានៃជំងឺតេតានុស (Tetanus) មានដូចជាអ្វីខ្លះ?",
+"choices": [
+"ហើមភ្នែក",
+"រឹងថ្គាម",
+"រឹងខ្នង",
+"រឹងថ្គាម និង រឹងខ្នង"
+],
+"correct_answer": "រឹងថ្គាម និង រឹងខ្នង"
+},
+{
+"id": "question244",
+"question": "តើបាក់តេរី Chlamydia អាចឆ្លងតាមរយៈផ្លូវណាខ្លះ?",
+"choices": [
+"ផ្លូវដង្ហើម",
+"ផ្លូវបន្តពូជ",
+"ម្តាយមានមេរោគទៅទារកក្នុងផ្ទៃ",
+"ផ្លូវបន្តពូជ និង ម្តាយមានមេរោគទៅទារកក្នុងផ្ទៃ"
+],
+"correct_answer": "ផ្លូវបន្តពូជ និង ម្តាយមានមេរោគទៅទារកក្នុងផ្ទៃ"
+},
+{
+"id": "question245",
+"question": "តើបាក់តេរី Rickettsiae ឆ្លងទៅមនុស្សដោយសារមូលហេតុអ្វី?",
+"choices": [
+"សត្វល្អិតខាំឬទិច",
+"ពពួកសត្វចៃខាំ",
+"សត្វសេះខាំ",
+"សត្វឆ្កែខាំ"
+],
+"correct_answer": "សត្វល្អិតខាំឬទិច"
+},
+{
+"id": "question246",
+"question": "Neisseria gonorrhoeae ជាភ្នាក់ងារបង្កជំងឺដូចខាងក្រោម៖",
+"choices": [
+"Syphilis",
+"Gonorrhea",
+"Encephalitis",
+"Meningitis"
+],
+"correct_answer": "Gonorrhea"
+},
+{
+"id": "question247",
+"question": "Neisseria meningitidis ជាបាក់តេរីដែលឆ្លងតាមរយៈផ្លូវណា?",
+"choices": [
+"ការចាក់ម្ជុលសារាំងរួមគ្នា",
+"ការរួមភេទ",
+"ទឹករំអិលនៃផ្លូវដង្ហើម",
+"មូសខាំ"
+],
+"correct_answer": "ទឹករំអិលនៃផ្លូវដង្ហើម"
+},
+{
+"id": "question248",
+"question": "តើគ្រួសារបាក់តេរី Family Neisseriaceae មានរូបរាងនិងលក្ខណៈសម្គាល់ដូចម្តេច?",
+"choices": [
+"Gram Negative diplococcus",
+"Bean shape",
+"Non motile",
+"Gram Negative diplococcus, non motile and Bean shape"
+],
+"correct_answer": "Gram Negative diplococcus, non motile and Bean shape"
+},
+{
+"id": "question249",
+"question": "ជំងឺស្វាយ (Syphilis) បង្កឡើងដោយប្រភេទបាក់តេរីមួយណា?",
+"choices": [
+"Neisseria meningitidis",
+"Neisseria gonorrhoeae",
+"Treponema pallidum",
+"Nesseria gonorrhoeae & Treponma pallidum"
+],
+"correct_answer": "Treponema pallidum"
+},
+{
+"id": "question250",
+"question": "តើបាក់តេរី Treponema pallidum ងាយនឹងងាប់ទៅវិញក្រោមលក្ខខណ្ឌបែបណា?",
+"choices": [
+"សើម",
+"ក្តៅ",
+"ស្ងួត",
+"ក្តៅ និងស្ងួត"
+],
+"correct_answer": "ក្តៅ និងស្ងួត"
+},
+{
+"id": "question251",
+"question": "តើរោគសញ្ញាដំណាក់កាលទីពីរនៃជំងឺស្វាយ (Syphilis) មានលក្ខណៈដូចម្តេចខ្លះ?",
+"choices": [
+"ឈឺក្បាល",
+"មានគ្រុនក្តៅ",
+"ឈឺសាច់ដុំ",
+"ឈឺក្បាលនិងមានគ្រុនក្តៅ"
+],
+"correct_answer": "ឈឺក្បាលនិងមានគ្រុនក្តៅ"
+},
+{
+"id": "question252",
+"question": "តើដំណាក់កាលទី២ នៃជំងឺ Leptospirosis មានលេចចេញនូវចង្កោមរោគសញ្ញារាតត្បាតនៅលើសរីរាង្គណាខ្លះ?",
+"choices": [
+"តំរងនោម",
+"ថ្លើម",
+"ភាពស្លេកស្លាំង",
+"តំរងនោម ថ្លើមនិងភាពស្លេកស្លាំង"
+],
+"correct_answer": "តំរងនោម ថ្លើមនិងភាពស្លេកស្លាំង"
+},
+{
+"id": "question253",
+"question": "តើ Staphylococci ជាប្រភេទមេរោគអ្វី?",
+"choices": [
+"Gram Positive-cocci",
+"Gram Negative-cocci",
+"Parasite",
+"Fungi"
+],
+"correct_answer": "Gram Positive-cocci"
+},
+{
+"id": "question254",
+"question": "តើបាក់តេរី Staphylococci ភាគច្រើនបង្កជំងឺទៅលើផ្នែកណាខ្លះនៃរាងកាយ?",
+"choices": [
+"ស្បែក",
+"ថ្លើម",
+"តំរងនោម",
+"ពោះវៀន"
+],
+"correct_answer": "ស្បែក"
+},
+{
+"id": "question255",
+"question": "តើជំងឺពុលចំណីអាហារ (Food poisoning) បង្កដោយ Staphylococci ឆ្លងតាមរយៈអ្វី?",
+"choices": [
+"Local lesions Skin",
+"Deep abscesses",
+"Food poisoning (ជាតិពុលក្នុងចំណីអាហារ)",
+"Systemic infection"
+],
+"correct_answer": "Food poisoning (ជាតិពុលក្នុងចំណីអាហារ)"
+},
+{
+"id": "question256",
+"question": "តើបាក់តេរី Staphylococcus epidermidis ភាគច្រើនបង្កគ្រោះថ្នាក់បណ្តាលមកពីការប្រើប្រាស់អ្វី?",
+"choices": [
+"ការចូលចិត្តប្រើសារជាតិ Plastic",
+"លាងដៃមិនស្អាត",
+"ការកាន់វត្ថុសើម",
+"ប្រើសាប៊ូញឹកញាប់"
+],
+"correct_answer": "ការចូលចិត្តប្រើសារជាតិ Plastic"
+},
+{
+"id": "question257",
+"question": "តើបាក់តេរី Streptococci-pyogenes serogr. A ចូលចិត្តឆ្លងទៅកាន់សរីរាង្គណា?",
+"choices": [
+"បំពង់អាហារ (Pharyngitis)",
+"បំពង់ខ្យល់",
+"តំរងនោម",
+"ថ្លើម"
+],
+"correct_answer": "បំពង់អាហារ (Pharyngitis)"
+},
+{
+"id": "question258",
+"question": "តើបាក់តេរី Streptococci-agalactiae serogr. B បង្កជំងឺអ្វីខ្លះ?",
+"choices": [
+"បង្កជំងឺនៅបំពង់អាហារ",
+"Post partum sepsis",
+"តំរងនោម",
+"ក្រពះ"
+],
+"correct_answer": "Post partum sepsis"
+},
+{
+"id": "question259",
+"question": "តើបាក់តេរីប្រភេទណាបង្កើនចំនួនរបស់វាដោយវិធី Binary fission?",
+"choices": [
+"កោសិកាប្រភេទ Prokaryote",
+"កោសិកាប្រភេទ Eukaryote",
+"វីរុស",
+"ផ្សិត"
+],
+"correct_answer": "កោសិកាប្រភេទ Prokaryote"
+},
+{
+"id": "question260",
+"question": "តើបាក់តេរីក្រុម bacilli មានទំរង់រូបរាងសម្គាល់ដូចម្តេច?",
+"choices": [
+"រាងមូល",
+"រាងទ្រវែងដូចដំបង",
+"រាងអង្គុញ spiral",
+"រាងដូចខ្សែរ២វេញចូលគ្នា"
+],
+"correct_answer": "រាងទ្រវែងដូចដំបង"
+},
+{
+"id": "question261",
+"question": "តើកោសិកាប្រភេទណាដែលមាន Peptidoglycan នៅក្នុងភ្នាសកោសិកា (Cell Wall)?",
+"choices": [
+"Fungi",
+"Protozoa",
+"Bacteria",
+"Viruses"
+],
+"correct_answer": "Bacteria"
+},
+{
+"id": "question262",
+"question": "តើ Gram-Negative Bacteria បង្ហាញពណ៌អ្វីបន្ទាប់ពីការលាបពណ៌ Gram Stain រួច?",
+"choices": [
+"ពណ៌ស្វាយ (Purple)",
+"ពណ៌ខៀវ (Blue)",
+"ពណ៌ផ្កាឈូកឬក្រហម (Pink/Red)",
+"គ្មានពណ៌ (Colorless)"
+],
+"correct_answer": "ពណ៌ផ្កាឈូកឬក្រហម (Pink/Red)"
+},
+{
+"id": "question263",
+"question": "តើបាក់តេរីប្រភេទណាដែលមិនត្រូវការអុកស៊ីសែនទាល់តែសោះសម្រាប់ការលូតលាស់ ហើយអាចងាប់បានបើមានអុកស៊ីសែន?",
+"choices": [
+"Obligate Aerobes",
+"Obligate Anaerobes",
+"Facultative Anaerobes",
+"Microaerophiles"
+],
+"correct_answer": "Obligate Anaerobes"
+},
+{
+"id": "question264",
+"question": "តើដំណាក់កាលលូតលាស់របស់បាក់តេរី (Bacterial Growth Phase) ណាដែលចំនួនបាក់តេរីកើតឡើងលឿនបំផុត?",
+"choices": [
+"Lag phase",
+"Log or Exponential phase",
+"Stationary phase",
+"Death phase"
+],
+"correct_answer": "Log or Exponential phase"
+},
+{
+"id": "question265",
+"question": "ជាតិពុលប្រភេទ Endotoxin របស់បាក់តេរីច្រើនទាក់ទងនឹងពួកណា?",
+"choices": [
+"Gram-Positive Bacteria",
+"Gram-Negative Bacteria",
+"Fungi",
+"Parasites"
+],
+"correct_answer": "Gram-Negative Bacteria"
+},
+{
+"id": "question266",
+"question": "តើជំងឺគ្រុនពោះវៀន (Typhoid Fever) បង្កឡើងដោយបាក់តេរីមួយណា?",
+"choices": [
+"Salmonella typhi",
+"Escherichia coli",
+"Shigella dysenteriae",
+"Vibrio cholerae"
+],
+"correct_answer": "Salmonella typhi"
+},
+{
+"id": "question267",
+"question": "តើវិធីសាស្ត្រមាស (Gold Standard) ក្នុងការធ្វើរោគវិនិច្ឆ័យរកមេរោគ Salmonella typhi ក្នុងសប្តាហ៍ដំបូងនៃជំងឺគឺអ្វី?",
+"choices": [
+"Widal test",
+"Stool culture",
+"Blood culture",
+"Urine test"
+],
+"correct_answer": "Blood culture"
+},
+{
+"id": "question268",
+"question": "តើការធ្វើតេស្ត Widal (Widal test) ប្រើសម្រាប់ស្វែងរកអ្វីនៅក្នុងសេរ៉ូមរបស់អ្នកជំងឺ?",
+"choices": [
+"បំណែក DNA របស់បាក់តេរី",
+"អង់ទីគ័រប្រឆាំងនឹងអង់ទីហ្សែនរបស់ Salmonella",
+"ជាតិពុលរបស់បាក់តេរី",
+"ចំនួនគ្រាប់ឈាមស"
+],
+"correct_answer": "អង់ទីគ័រប្រឆាំងនឹងអង់ទីហ្សែនរបស់ Salmonella"
+},
+{
+"id": "question269",
+"question": "តើអាងស្តុកមេរោគ (Reservoir) តែមួយគត់របស់មេរោគ Salmonella typhi គឺអ្វី?",
+"choices": [
+"សត្វបក្សី",
+"សត្វជ្រូក",
+"មនុស្ស",
+"សត្វកណ្តុរ"
+],
+"correct_answer": "មនុស្ស"
+},
+{
+"id": "question270",
+"question": "តើបាក់តេរីប្រភេទណាដែលអាចបង្កជំងឺរលាកសួត ហើយមានលក្ខណៈសម្គាល់គឺស្លេស្មពណ៌ក្រហមដូចចាហួយ (Currant jelly sputum)?",
+"choices": [
+"Klebsiella pneumoniae",
+"Proteus mirabilis",
+"Escherichia coli",
+"Yersinia pestis"
+],
+"correct_answer": "Klebsiella pneumoniae"
+},
+{
+"id": "question271",
+"question": "តើបាក់តេរី Proteus mirabilis មានលក្ខណៈពិសេសអ្វីនៅលើ Plate វប្បកម្ម (Culture Media)?",
+"choices": [
+"បង្កើតពណ៌ខៀវ",
+"មានចលនាខ្លាំងបែប Swarming motility",
+"បង្កើតទម្រង់ដូចចាហួយ",
+"មិនលូតលាស់លើ MacConkey"
+],
+"correct_answer": "មានចលនាខ្លាំងបែប Swarming motility"
+},
+{
+"id": "question272",
+"question": "បាក់តេរី Proteus ច្រើនបង្កការឆ្លងរោគនៅផ្លូវនោម ហើយធ្វើអោយទឹកនោមមានលក្ខណៈបែបណា?",
+"choices": [
+"ទឹកនោមអាស៊ីតខ្លាំង",
+"ទឹកនោមអាល់កាឡាំង (Alkaline urine) ដោយសារអង់ស៊ីម Urease",
+"ទឹកនោមមានជាតិស្ករខ្ពស់",
+"ទឹកនោមគ្មានពណ៌"
+],
+"correct_answer": "ទឹកនោមអាល់កាឡាំង (Alkaline urine) ដោយសារអង់ស៊ីម Urease"
+},
+{
+"id": "question273",
+"question": "តើបាក់តេរីមួយណាជាភ្នាក់ងារបង្កជំងឺអាសន្នរោគ (Plague)?",
+"choices": [
+"Yersinia enterocolitica",
+"Yersinia pestis",
+"Yersinia pseudotuberculosis",
+"Klebsiella pneumoniae"
+],
+"correct_answer": "Yersinia pestis"
+},
+{
+"id": "question274",
+"question": "តើភ្នាក់ងារចម្លងរោគ (Vector) នៃជំងឺប៊ុបបូនិកផ្លាក (Bubonic Plague) ពីសត្វកណ្តុរមកមនុស្សគឺអ្វី?",
+"choices": [
+"មូសខាំ",
+"ចៃឆ្កែឬចៃកណ្តុរ (Flea)",
+"រុយផ្ទះ",
+"សត្វល្អិតទឹក"
+],
+"correct_answer": "ចៃឆ្កែឬចៃកណ្តុរ (Flea)"
+},
+{
+"id": "question275",
+"question": "ក្រោមការពិនិត្យមីក្រូទស្សន៍ តើ Yersinia pestis មានទម្រង់ពណ៌ដូចម្តេច?",
+"choices": [
+"រាងមូលដូចកូនបាល់",
+"រាងចង្កោមដុំៗ",
+"ពណ៌សងខាងចុងដូចកំប៉ាស់ខ្ទាស់អាវ (Safety-pin bipolar appearance)",
+"រាងដូចសរសៃសក់"
+],
+"correct_answer": "ពណ៌សងខាងចុងដូចកំប៉ាស់ខ្ទាស់អាវ (Safety-pin bipolar appearance)"
+},
+{
+"id": "question276",
+"question": "តើផ្សិត (Fungi) ជាប្រភេទកោសិកាអ្វី?",
+"choices": [
+"Prokaryote",
+"Eukaryote",
+"Acellular",
+"Protist គ្មានណ្វាយូ"
+],
+"correct_answer": "Eukaryote"
+},
+{
+"id": "question277",
+"question": "តើសមាសធាតុសំខាន់បំផុតនៅក្នុងភ្នាសកោសិកា (Cell Wall) របស់ផ្សិតគឺអ្វី?",
+"choices": [
+"Peptidoglycan",
+"Chitin",
+"Cellulose",
+"Lipopolysaccharide"
+],
+"correct_answer": "Chitin"
+},
+{
+"id": "question278",
+"question": "តើផ្សិតប្រភេទណាដែលលូតលាស់ជា Yeasts នៅសីតុណ្ហភាព 37°C និងលូតលាស់ជា Molds នៅសីតុណ្ហភាព 25°C?",
+"choices": [
+"Monomorphic Fungi",
+"Dimorphic Fungi",
+"Zygomycetes",
+"Ascomycetes"
+],
+"correct_answer": "Dimorphic Fungi"
+},
+{
+"id": "question279",
+"question": "តើផ្សិតប្រភេទណាដែលបង្កជំងឺរលាកស្រោមខួរ (Meningitis) ញឹកញាប់បំផុតលើអ្នកជំងឺ HIV/AIDS?",
+"choices": [
+"Candida albicans",
+"Cryptococcus neoformans",
+"Aspergillus fumigatus",
+"Mucor spp."
+],
+"correct_answer": "Cryptococcus neoformans"
+},
+{
+"id": "question280",
+"question": "តើគេប្រើប្រាស់ថ្នាំលាបពណ៌អ្វីដើម្បីមើលឃើញស្រោម (Capsule) របស់ Cryptococcus neoformans ក្នុងទឹកខួរឆ្អឹងកង?",
+"choices": [
+"Gram Stain",
+"India Ink",
+"Giemsa Stain",
+"Ziehl-Neelsen"
+],
+"correct_answer": "India Ink"
+},
+{
+"id": "question281",
+"question": "តើអាងស្តុកមេរោគធម្មជាតិរបស់ Cryptococcus neoformans ទាក់ទងនឹងអ្វីខ្លះ?",
+"choices": [
+"ទឹកដក់ក្នុងព្រៃ",
+"លាមកសត្វព្រាប (Pigeon droppings)",
+"ចំណីអាហារផ្អាប់",
+"សាច់គោឆៅ"
+],
+"correct_answer": "លាមកសត្វព្រាប (Pigeon droppings)"
+},
+{
+"id": "question282",
+"question": "តើផ្សិត Candida albicans បង្កើតទម្រង់អ្វីនៅពេលកោសិកាពន្លករបស់វាមិនដាច់ចេញពីគ្នាហើយពន្លូតវែង?",
+"choices": [
+"True hyphae",
+"Pseudohyphae",
+"Arthroconidia",
+"Zygospores"
+],
+"correct_answer": "Pseudohyphae"
+},
+{
+"id": "question283",
+"question": "តើដង្កូវព្រូនក្រុម Nematodes មានរូបរាងលក្ខណៈបែបណា?",
+"choices": [
+"រាងសំប៉ែតដូចស្លឹកឈើ",
+"រាងកង់ៗដូចតេនញ៉ា",
+"រាងស៊ីឡាំងវែងមិន segment ទេ (ព្រូនមូល)",
+"រាងមូលដូចកោសិកាតែមួយ"
+],
+"correct_answer": "រាងស៊ីឡាំងវែងមិន segment ទេ (ព្រូនមូល)"
+},
+{
+"id": "question284",
+"question": "តើព្រូនមូលប្រភេទណាដែលបង្កជំងឺអុកស៊ីយូរ៉ូស (Oxyuriasis) ដែលធ្វើអោយក្មេងរមាស់រន្ធគូទខ្លាំងនៅពេលយប់?",
+"choices": [
+"Ascaris lumbricoides",
+"Enterobius vermicularis",
+"Trichuris trichiura",
+"Strongyloides stercoralis"
+],
+"correct_answer": "Enterobius vermicularis"
+},
+{
+"id": "question285",
+"question": "តើគេប្រើប្រាស់វិធីសាស្ត្រអ្វីដើម្បីរកពងព្រូន Enterobius vermicularis នៅជុំវិញមាត់រន្ធគូទ?",
+"choices": [
+"Stool floatation",
+"Graham test (Scotch adhesive tape test)",
+"Blood smear",
+"Biopsy"
+],
+"correct_answer": "Graham test (Scotch adhesive tape test)"
+},
+{
+"id": "question286",
+"question": "តើពងព្រូន Ascaris lumbricoides មានលក្ខណៈសម្គាល់ដូចម្តេច?",
+"choices": [
+"មានរាងសំប៉ែតម្ខាង",
+"មាន coque ក្រាស់ និងមានលក្ខណៈ mamelonnée ពណ៌ត្នោត",
+"មានរាងដូចគ្រាប់អាល់ម៉ុន មានឆ្នូតកាត់",
+"មានកន្ទុយតូចមួយនៅខាងចុង"
+],
+"correct_answer": "មាន coque ក្រាស់ និងមានលក្ខណៈ mamelonnée ពណ៌ត្នោត"
+},
+{
+"id": "question287",
+"question": "តើព្រូនប្រភេទណាដែលដង្កូវរបស់វាអាចទម្លុះស្បែកជើង ឬស្បែកជើងទទេរបស់អ្នកដើរលើដីសើម (ដូចជាព្រូនជំពក់)?",
+"choices": [
+"Ankylostoma duodenale / Strongyloides",
+"Enterobius vermicularis",
+"Ascaris lumbricoides",
+"Trichuris trichiura"
+],
+"correct_answer": "Ankylostoma duodenale / Strongyloides"
+},
+{
+"id": "question288",
+"question": "តើជំងឺហ្វ៊ីឡារីយ៉ូសកូនកណ្តុរ (Lymphatic Filariasis) ដែលបណ្តាលអោយមានជំងឺជើងដំរី (Elephantiasis) បង្កដោយព្រូនមួយណា?",
+"choices": [
+"Onchocerca volvulus",
+"Wuchereria bancrofti",
+"Loa loa",
+"Dracunculus medinensis"
+],
+"correct_answer": "Wuchereria bancrofti"
+},
+{
+"id": "question289",
+"question": "តើពេលណាជាពេលវេលាល្អបំផុតក្នុងការបូមឈាមរក Microfilariae របស់ Wuchereria bancrofti ដោយសារវាមានលក្ខណៈ Nocturnal periodicity?",
+"choices": [
+"ពេលព្រឹកព្រលឹម",
+"ពេលថ្ងៃត្រង់",
+"ពេលយប់ (ចន្លោះម៉ោង ១០ យប់ ដល់ ម៉ោង ២ អាធ្រាត្រ)",
+"ពេលរសៀល"
+],
+"correct_answer": "ពេលយប់ (ចន្លោះម៉ោង ១០ យប់ ដល់ ម៉ោង ២ អាធ្រាត្រ)"
+},
+{
+"id": "question290",
+"question": "តើព្រូនហ្វ៊ីឡារីយ៉ូប្រភេទណាដែលដង្កូវរបស់វាធ្វើដំណើរឆ្លងកាត់ក្រោមភ្នាសកែវភ្នែក (Subconjunctiva)?",
+"choices": [
+"Wuchereria bancrofti",
+"Loa loa",
+"Onchocerca volvulus",
+"Mansonella perstans"
+],
+"correct_answer": "Loa loa"
+},
+{
+"id": "question291",
+"question": "តើជំងឺ Cécité des rivières (River Blindness) បង្កឡើងដោយព្រូនមួយណា?",
+"choices": [
+"Loa loa",
+"Onchocerca volvulus",
+"Wuchereria bancrofti",
+"Dracunculus medinensis"
+],
+"correct_answer": "Onchocerca volvulus"
+},
+{
+"id": "question292",
+"question": "តើជំងឺគ្រុនចាញ់ប្រភេទណាដែលអាចបង្កគ្រោះថ្នាក់ដល់ជីវិតលឿនបំផុត និងបង្កជាទម្រង់គ្រុនចាញ់ឡើងខួរក្បាល (Cerebral Malaria)?",
+"choices": [
+"Plasmodium vivax",
+"Plasmodium malariae",
+"Plasmodium falciparum",
+"Plasmodium ovale"
+],
+"correct_answer": "Plasmodium falciparum"
+},
+{
+"id": "question293",
+"question": "តើភ្នាក់ងារចម្លងរោគ (Vector) នៃជំងឺគ្រុនចាញ់គឺមូសប្រភេទណា?",
+"choices": [
+"មូសខ្លា (Aedes)",
+"មូសដែកគោល (Anopheles ញី)",
+"មូសណោម (Culex)",
+"មូសព្រៃ (Mansonia)"
+],
+"correct_answer": "មូសដែកគោល (Anopheles ញី)"
+},
+{
+"id": "question294",
+"question": "តើជំងឺ Schistosoma mekongi ឆ្លងមកមនុស្សតាមរយៈសកម្មភាពអ្វី?",
+"choices": [
+"ការបរិភោគសាច់ត្រីឆៅ",
+"ការប៉ះពាល់ឬហែលទឹកក្នុងទន្លេដែលមានដង្កូវ Cercariae ទម្លុះស្បែក",
+"ការបរិភោគសាច់ជ្រូកមិនឆ្អិន",
+"មូសខាំ"
+],
+"correct_answer": "ការប៉ះពាល់ឬហែលទឹកក្នុងទន្លេដែលមានដង្កូវ Cercariae ទម្លុះស្បែក"
+},
+{
+"id": "question295",
+"question": "តើកោសិកាឈាមសប្រភេទណាដែលកើនឡើងខ្ពស់ខុសធម្មតា (Hypereosinophilia) នៅពេលមានការឆ្លងដង្កូវព្រូន?",
+"choices": [
+"Neutrophils",
+"Lymphocytes",
+"Eosinophils",
+"Basophils"
+],
+"correct_answer": "Eosinophils"
+},
+{
+"id": "question296",
+"question": "តើកម្រិតចំនួន Eosinophils ប៉ុន្មានក្នុងឈាមដែលគេចាត់ទុកថាជា Hypereosinophilia (HES) ប្រសិនបើមានការខូចខាតសរីរាង្គនិងកើតមាន ២ ដង?",
+"choices": [
+"> 500 / uL",
+"> 1,000 / uL",
+"> 1,500 / uL",
+"> 2,000 / uL"
+],
+"correct_answer": "> 1,500 / uL"
+},
+{
+"id": "question297",
+"question": "តើ Cytokine មួយណាដែលដើរតួនាទីសំខាន់បំផុតក្នុងការជំរុញអោយខួរឆ្អឹងផលិត Eosinophils ច្រើន?",
+"choices": [
+"IL-1",
+"IL-2",
+"IL-5",
+"TNF-alpha"
+],
+"correct_answer": "IL-5"
+},
+{
+"id": "question298",
+"question": "តើវីរុស (Virus) មានលក្ខណៈទូទៅដូចម្តេច?",
+"choices": [
+"មានលក្ខណៈជាកោសិកាពេញលេញ",
+"ជាភ្នាក់ងារអសេលុល (Acellular) និងជាប៉ារាសិតដាច់ខាតក្នុងកោសិកា",
+"អាចរស់និងបង្កើតកូនចៅដោយខ្លួនឯងក្រៅកោសិកា",
+"មានទាំង DNA និង RNA ក្នុងពេលតែមួយជានិច្ច"
+],
+"correct_answer": "ជាភ្នាក់ងារអសេលុល (Acellular) និងជាប៉ារាសិតដាច់ខាតក្នុងកោសិកា"
+},
+{
+"id": "question299",
+"question": "តើអ្នកវិទ្យាសាស្ត្រណាខ្លះដែលបានរកឃើញវីរុស VIH (HIV) ដែលបង្កជំងឺអេដស៍?",
+"choices": [
+"Robert Koch",
+"Louis Pasteur",
+"Luc Montagnier និង Françoise Barré-Sinoussi",
+"Alexander Fleming"
+],
+"correct_answer": "Luc Montagnier និង Françoise Barré-Sinoussi"
+},
+{
+"id": "question300",
+"question": "តើវីរុស VIH ស្ថិតនៅក្នុងគ្រួសារ (Family) ណា?",
+"choices": [
+"Flaviviridae",
+"Retroviridae",
+"Picornaviridae",
+"Herpesviridae"
+],
+"correct_answer": "Retroviridae"
+},
+{
+"id": "question301",
+"question": "តើអង់ស៊ីមអ្វីរបស់វីរុស VIH ដែលបំប្លែង ARN (RNA) របស់វីរុសអោយទៅជា ADN (DNA)?",
+"choices": [
+"Integrase",
+"Protease",
+"Reverse Transcriptase (Transcriptase Inverse)",
+"RNA Polymerase"
+],
+"correct_answer": "Reverse Transcriptase (Transcriptase Inverse)"
+},
+{
+"id": "question302",
+"question": "តើ Glycoprotein មួយណាខ្ទាស់នៅលើសំបកវីរុស VIH ដែលប្រើសម្រាប់តោងភ្ជាប់ជាមួយ Receptor CD4 របស់កោសិកាមនុស្ស?",
+"choices": [
+"gp41",
+"p24",
+"gp120",
+"p17"
+],
+"correct_answer": "gp120"
+},
+{
+"id": "question303",
+"question": "តើអង់ទីហ្សែន (Antigen) មួយណាដែលគេប្រើសម្រាប់ធ្វើរោគវិនិច្ឆ័យរកការឆ្លងវីរុស VIH ក្នុងដំណាក់កាលដំបូង (Early detection)?",
+"choices": [
+"Antigène p24",
+"Antigène gp120",
+"Antigène gp41",
+"Antigène p17"
+],
+"correct_answer": "Antigène p24"
+},
+{
+"id": "question304",
+"question": "តើវីរុស Poliovirus បង្កជំងឺអ្វី?",
+"choices": [
+"ជំងឺគ្រុនឈាម",
+"ជំងឺស្វិតដៃជើង (Poliomyelitis)",
+"ជំងឺរលាកថ្លើម",
+"ជំងឺអេដស៍"
+],
+"correct_answer": "ជំងឺស្វិតដៃជើង (Poliomyelitis)"
+},
+{
+"id": "question305",
+"question": "តើ Poliovirus ឆ្លងតាមផ្លូវណាជាចម្បង?",
+"choices": [
+"ផ្លូវឈាម",
+"ផ្លូវដង្ហើម",
+"ផ្លូវលាមក-មាត់ (Fecal-oral route)",
+"ការរួមភេទ"
+],
+"correct_answer": "ផ្លូវលាមក-មាត់ (Fecal-oral route)"
+},
+{
+"id": "question306",
+"question": "តើវ៉ាក់សាំងការពារ Poliovirus ប្រភេទណាដែលផ្តល់តាមផ្លូវមាត់ (Oral Vaccine)?",
+"choices": [
+"VPI (Vaccin Poliomyélitique Inactivé)",
+"VPO (Vaccin Poliomyélitique Oral - វីរុសរស់បន្ថយភាពសាហាវ)",
+"BCG",
+"HBV vaccine"
+],
+"correct_answer": "VPO (Vaccin Poliomyélitique Oral - វីរុសរស់បន្ថយភាពសាហាវ)"
+},
+{
+"id": "question307",
+"question": "តើវីរុស Enterovirus 71 (EV71) ច្រើនបង្កជំងឺអ្វីខ្លះលើកុមារ?",
+"choices": [
+"ជំងឺកញ្ជ្រោល",
+"ជំងឺស្អូច",
+"ជំងឺពងបែកដៃជើងមាត់ (Hand, Foot, and Mouth Disease)",
+"ជំងឺអុតស្វាយ"
+],
+"correct_answer": "ជំងឺពងបែកដៃជើងមាត់ (Hand, Foot, and Mouth Disease)"
+},
+{
+"id": "question308",
+"question": "តើផលវិបាកធ្ងន់ធ្ងរឡើងខួរក្បាលបង្កដោយ EV71 លើកុមារតូចៗមានអ្វីខ្លះ?",
+"choices": [
+"រលាកថ្លើមធ្ងន់ធ្ងរ",
+"រលាកខួរក្បាលនិងដើមខួរក្បាល (Encephalitis / Brainstem involvement)",
+"ខ្សោយតម្រងនោម",
+"ខ្សោយសួតរ៉ាំរ៉ៃ"
+],
+"correct_answer": "រលាកខួរក្បាលនិងដើមខួរក្បាល (Encephalitis / Brainstem involvement)"
+},
+{
+"id": "question309",
+"question": "តើវីរុសកញ្ជ្រោល (Measles virus) ឆ្លងតាមផ្លូវណា?",
+"choices": [
+"តាមផ្លូវអាហារ",
+"តាមផ្លូវដង្ហើម (Droplets / Aerosols)",
+"តាមស្បែកដាច់រលាត់",
+"តាមសត្វល្អិតខាំ"
+],
+"correct_answer": "តាមផ្លូវដង្ហើម (Droplets / Aerosols)"
+},
+{
+"id": "question310",
+"question": "តើវីរុសស្រឡទែន (Mumps virus) មានលក្ខណៈពិសេសចូលចិត្តបង្កជំងឺនៅកន្លែងណា (Glandular tropism)?",
+"choices": [
+"ក្រពេញថ្លើម",
+"ក្រពេញទឹកមាត់ (ពិសេសក្រពេញ Parotid)",
+"ក្រពេញ adrenal",
+"ក្រពេញទីរ៉ូអ៊ីត"
+],
+"correct_answer": "ក្រពេញទឹកមាត់ (ពិសេសក្រពេញ Parotid)"
+},
+
+{
+"id": "question311",
+"question": "តើវីរុសស្អូច (Rubella virus) ស្ថិតក្នុងគ្រួសារ (Family) ណា?",
+"choices": [
+"Flaviviridae",
+"Togaviridae",
+"Picornaviridae",
+"Coronaviridae"
+],
+"correct_answer": "Togaviridae"
+},
+{
+"id": "question312",
+"question": "តើផលវិបាកដ៏ធ្ងន់ធ្ងរបំផុតនៃការឆ្លងវីរុសស្អូច (Rubella) លើស្ត្រីមានផ្ទៃពោះក្នុងត្រីមាសទី១ គឺអ្វី?",
+"choices": [
+"ការខូចខាតថ្លើមរបស់ម្តាយ",
+"ទារកកើតមកមានពិការភាពពីកំណើត (Congenital Rubella Syndrome)",
+"ជំងឺរាករូសធ្ងន់ធ្ងរលើម្តាយ",
+"ការខូចតម្រងនោមទារក"
+],
+"correct_answer": "ទារកកើតមកមានពិការភាពពីកំណើត (Congenital Rubella Syndrome)"
+},
+{
+"id": "question313",
+"question": "តើវីរុស Rotavirus គឺជាភ្នាក់ងារចម្បងបង្កជំងឺអ្វីលើកុមារអាយុក្រោម ៥ ឆ្នាំ?",
+"choices": [
+"ជំងឺរលាកផ្លូវដង្ហើមធ្ងន់ធ្ងរ",
+"ជំងឺរាករូសបាត់បង់ជាតិទឹកខ្លាំង (Gastroenteritis / Severe Diarrhea)",
+"ជំងឺរលាកខួរក្បាល",
+"ជំងឺស្បែកពងបែក"
+],
+"correct_answer": "ជំងឺរាករូសបាត់បង់ជាតិទឹកខ្លាំង (Gastroenteritis / Severe Diarrhea)"
+},
+{
+"id": "question314",
+"question": "តើវីរុស Rotavirus ស្ថិតនៅក្នុងគ្រួសារ (Family) ណា?",
+"choices": [
+"Reoviridae",
+"Coronaviridae",
+"Picornaviridae",
+"Caliciviridae"
+],
+"correct_answer": "Reoviridae"
+},
+{
+"id": "question315",
+"question": "តើវីរុសផ្តាសាយ (Influenzavirus) មានសំបកព័ទ្ធជុំវិញ (Enveloped) ឬទេ? ហើយមានហ្សែនជាអ្វី?",
+"choices": [
+"គ្មានសំបក, ហ្សែនជា DNA",
+"មានសំបក (Enveloped), ហ្សែនជា RNA ជាកង់ៗ (Segmented RNA)",
+"គ្មានសំបក, ហ្សែនជា RNA",
+"មានសំបក, ហ្សែនជា DNA ពីរខ្សែ"
+],
+"correct_answer": "មានសំបក (Enveloped), ហ្សែនជា RNA ជាកង់ៗ (Segmented RNA)"
+},
+{
+"id": "question316",
+"question": "តើ Influenzavirus ចែកចេញជាប៉ុន្មានប្រភេទ (Types) ចម្បង?",
+"choices": [
+"២ ប្រភេទគឺ A និង B",
+"៣ ប្រភេទគឺ A, B និង C",
+"៤ ប្រភេទគឺ A, B, C និង D",
+"៥ ប្រភេទ"
+],
+"correct_answer": "៤ ប្រភេទគឺ A, B, C និង D"
+},
+{
+"id": "question317",
+"question": "តើអក្សរ HA នៅក្នុងមេរោគផ្តាសាយ (ឧទាហរណ៍ H1N1) តំណាងអោយអ្វី?",
+"choices": [
+"Hemagglutinin (ប្រើសម្រាប់តោងភ្ជាប់កោសិកា)",
+"Neuraminidase",
+"Helicase Antigen",
+"Capsid Protein"
+],
+"correct_answer": "Hemagglutinin (ប្រើសម្រាប់តោងភ្ជាប់កោសិកា)"
+},
+{
+"id": "question318",
+"question": "តើអក្សរ NA នៅក្នុងមេរោគផ្តាសាយ តំណាងអោយអ្វី និងមានតួនាទីអ្វី?",
+"choices": [
+"Hemagglutinin",
+"Neuraminidase (អង់ស៊ីមជួយអោយវីរុសទម្លុះចេញពីកោសិកា)",
+"Nucleic Acid",
+"Capsid Antigen"
+],
+"correct_answer": "Neuraminidase (អង់ស៊ីមជួយអោយវីរុសទម្លុះចេញពីកោសិកា)"
+},
+{
+"id": "question319",
+"question": "តើអាងស្តុកមេរោគធម្មជាតិ (Natural Reservoir) ដ៏ធំបំផុតរបស់វីរុសផ្តាសាយប្រភេទ A (Influenza A) គឺសត្វអ្វី?",
+"choices": [
+"សត្វកណ្តុរ",
+"សត្វឆ្កែ",
+"បក្សីទឹកព្រៃនិងបក្សីស្រុក (Aves / Birds)",
+"សត្វមូស"
+],
+"correct_answer": "បក្សីទឹកព្រៃនិងបក្សីស្រុក (Aves / Birds)"
+},
+{
+"id": "question320",
+"question": "តើវីរុស Coronavirus ស្ថិតនៅក្នុងគ្រួសារណា និងមានហ្សែនជាអ្វី?",
+"choices": [
+"Coronaviridae, ហ្សែនជា single-stranded RNA វិជ្ជមាន",
+"Herpesviridae, ហ្សែនជា double-stranded DNA",
+"Retroviridae, ហ្សែនជា RNA",
+"Picornaviridae, ហ្សែនជា DNA"
+],
+"correct_answer": "Coronaviridae, ហ្សែនជា single-stranded RNA វិជ្ជមាន"
+},
+{
+"id": "question321",
+"question": "តើវីរុស SARS-CoV-1 បណ្តាលអោយមានរោគសញ្ញាជំងឺអ្វីខ្លះចម្បង?",
+"choices": [
+"រលាកថ្លើមរ៉ាំរ៉ៃ",
+"រលាកផ្លូវដង្ហើមធ្ងន់ធ្ងរស្រួចស្រាវ (Severe Acute Respiratory Syndrome)",
+"ពុលចំណីអាហារ",
+"ពិការភាពសាច់ដុំ"
+],
+"correct_answer": "រលាកផ្លូវដង្ហើមធ្ងន់ធ្ងរស្រួចស្រាវ (Severe Acute Respiratory Syndrome)"
+},
+{
+"id": "question322",
+"question": "តើវីរុសក្នុងគ្រួសារ Herpesviridae មានលក្ខណៈហ្សែនបែបណា?",
+"choices": [
+"RNA ខ្សែទោល",
+"DNA ពីរខ្សែមានសំបកព័ទ្ធជុំវិញ (Enveloped double-stranded DNA)",
+"RNA ពីរខ្សែ",
+"DNA ខ្សែទោលគ្មានសំបក"
+],
+"correct_answer": "DNA ពីរខ្សែមានសំបកព័ទ្ធជុំវិញ (Enveloped double-stranded DNA)"
+},
+{
+"id": "question323",
+"question": "តើវីរុស Herpes Simplex Virus (HSV) ចែកចេញជាប៉ុន្មានប្រភេទចម្បង?",
+"choices": [
+"១ ប្រភេទ",
+"២ ប្រភេទគឺ HSV-1 (ពងបែកមាត់) និង HSV-2 (ពងបែកប្រដាប់ភេទ)",
+"៣ ប្រភេទ",
+"៤ ប្រភេទ"
+],
+"correct_answer": "២ ប្រភេទគឺ HSV-1 (ពងបែកមាត់) និង HSV-2 (ពងបែកប្រដាប់ភេទ)"
+},
+{
+"id": "question324",
+"question": "តើវីរុស Varicella-Zoster Virus (VZV) បង្កជំងឺអ្វីខ្លះនៅពេលឆ្លងដំបូង និងពេលរើឡើងវិញ?",
+"choices": [
+"ដំបូងបង្កជំងឺគ្រុនឈាម ក្រោយមករើជាគ្រុនចាញ់",
+"ដំបូងបង្កជំងឺអុតស្វាយ (Chickenpox) ពេលរើឡើងវិញបង្កជាជំងឺរើម (Shingles/Zona)",
+"ដំបូងបង្កជំងឺកញ្ជ្រោល ក្រោយមករើជាស្អូច",
+"មិនដែលរើឡើងវិញទេ"
+],
+"correct_answer": "ដំបូងបង្កជំងឺអុតស្វាយ (Chickenpox) ពេលរើឡើងវិញបង្កជាជំងឺរើម (Shingles/Zona)"
+},
+{
+"id": "question325",
+"question": "តើវីរុស VZV ទៅសំងំ (Latency) នៅកន្លែងណាក្នុងរាងកាយក្រោយពេលជាសះស្បើយពីអុតស្វាយ?",
+"choices": [
+"កោសិកាថ្លើម",
+"កោសិកាតម្រងនោម",
+"កោសិកាប្រព័ន្ធប្រសាទ Sensory ganglia (កូនកណ្តុរប្រសាទ)",
+"គ្រាប់ឈាមក្រហម"
+],
+"correct_answer": "កោសិកាប្រព័ន្ធប្រសាទ Sensory ganglia (កូនកណ្តុរប្រសាទ)"
+},
+{
+"id": "question326",
+"question": "តើវីរុសបង្កជំងឺឆ្កែឆ្កួត (Rabies virus) មានរូបរាងលក្ខណៈពិសេសដូចម្តេច?",
+"choices": [
+"រាងមូលដូចស្វ៊ែរ",
+"រាងដូចគ្រាប់កាំភ្លើង (Bullet-shaped)",
+"រាងដូចសរសៃវែងៗ",
+"រាងគូបដប់ពីរកំពូល"
+],
+"correct_answer": "រាងដូចគ្រាប់កាំភ្លើង (Bullet-shaped)"
+},
+{
+"id": "question327",
+"question": "តើ Rabies virus ស្ថិតនៅក្នុងគ្រួសារ (Family) ណា?",
+"choices": [
+"Rhabdoviridae",
+"Flaviviridae",
+"Filoviridae",
+"Paramyxoviridae"
+],
+"correct_answer": "Rhabdoviridae"
+},
+{
+"id": "question328",
+"question": "តើវីរុសគ្រុនឈាម (Dengue virus) មានប៉ុន្មានសេរ៉ូទីប (Serotypes)?",
+"choices": [
+"២ សេរ៉ូទីប",
+"៣ សេរ៉ូទីប",
+"៤ សេរ៉ូទីប (DEN-1, DEN-2, DEN-3, DEN-4)",
+"៥ សេរ៉ូទីប"
+],
+"correct_answer": "៤ សេរ៉ូទីប (DEN-1, DEN-2, DEN-3, DEN-4)"
+},
+{
+"id": "question329",
+"question": "តើវីរុសគ្រុនឈាម (Dengue virus) ឆ្លងតាមរយៈមូសប្រភេទណាខាំ?",
+"choices": [
+"Anopheles",
+"Aedes aegypti (មូសខ្លា)",
+"Culex",
+"Mansonia"
+],
+"correct_answer": "Aedes aegypti (មូសខ្លា)"
+},
+{
+"id": "question330",
+"question": "តើវីរុសរលាកខួរក្បាលជប៉ុន (Japanese Encephalitis Virus) ឆ្លងតាមរយៈមូសប្រភេទណាជាភ្នាក់ងារចម្បង?",
+"choices": [
+"Aedes",
+"Anopheles",
+"Culex (មូសណោម)",
+"Flea"
+],
+"correct_answer": "Culex (មូសណោម)"
+},
+{
+"id": "question331",
+"question": "តើវីរុសរលាកថ្លើម (Viral Hepatitis) ប្រភេទណាខ្លះដែលឆ្លងតាមផ្លូវអាហារនិងទឹកមិនស្អាត (Fecal-oral route)?",
+"choices": [
+"Hepatitis B និង C",
+"Hepatitis A និង E",
+"Hepatitis C tactics",
+"Hepatitis D"
+],
+"correct_answer": "Hepatitis A និង E"
+},
+{
+"id": "question332",
+"question": "តើវីរុសរលាកថ្លើមប្រភេទណាខ្លះដែលអាចវិវត្តទៅជាជំងឺរលាកថ្លើមរ៉ាំរ៉ៃ ក្រិនថ្លើម និងមហារីកថ្លើម?",
+"choices": [
+"Hepatitis A និង E",
+"Hepatitis B, C និង D",
+"Hepatitis A តែមួយគត់",
+"Hepatitis E តែមួយគត់"
+],
+"correct_answer": "Hepatitis B, C និង D"
+},
+{
+"id": "question333",
+"question": "តើវីរុសរលាកថ្លើមប្រភេទ B (HBV) ជាប្រភេទវីរុសហ្សែនអ្វីដែលមានលក្ខណៈប្លែកពីវីរុសរលាកថ្លើមផ្សេងទៀត?",
+"choices": [
+"RNA ខ្សែទោល",
+"DNA ពីរខ្សែផ្នែកខ្លះ (Partially double-stranded DNA)",
+"RNA ពីរខ្សែ",
+"គ្មានហ្សែនទេ"
+],
+"correct_answer": "DNA ពីរខ្សែផ្នែកខ្លះ (Partially double-stranded DNA)"
+},
+{
+"id": "question334",
+"question": "តើវីរុសរលាកថ្លើមប្រភេទណាដែលជា វីរុសខ្វះលក្ខណៈសម្បត្តិ (Defective virus) ហើយត្រូវការមេរោគរលាកថ្លើមប្រភេទ B (HBV) ជួយទើបអាចបង្ករោគបាន?",
+"choices": [
+"HAV",
+"HCV",
+"HDV (Hepatitis D / Delta virus)",
+"HEV"
+],
+"correct_answer": "HDV (Hepatitis D / Delta virus)"
+},
+{
+"id": "question335",
+"question": "តើបាក់តេរី Pseudomonas aeruginosa មានលក្ខណៈសម្គាល់ពណ៌និងក្លិនអ្វីខ្លះនៅលើវប្បកម្ម (Culture)?",
+"choices": [
+"ពណ៌ក្រហម ក្លិនស្អុយខ្លាំង",
+"ពណ៌ខៀវ-បៃតង (Pyocyanin) និងមានក្លិនក្រអូបដូចផ្លែឈើ/ផ្កាម្លិះ (Sweet grape-like odor)",
+"ពណ៌ខ្មៅ គ្មានក្លិន",
+"ពណ៌ស ក្លិនដូចទឹកដោះគោ"
+],
+"correct_answer": "ពណ៌ខៀវ-បៃតង (Pyocyanin) និងមានក្លិនក្រអូបដូចផ្លែឈើ/ផ្កាម្លិះ (Sweet grape-like odor)"
+},
+{
+"id": "question336",
+"question": "តើបាក់តេរី Burkholderia pseudomallei បង្កជំងឺអ្វីដែលជាជំងឺប្រចាំតំបន់ក្នុងប្រទេសកម្ពុជា?",
+"choices": [
+"Melioidosis (ជំងឺមេលីអូដូស៊ីស)",
+"Tuberculosis",
+"Plague",
+"Cholera"
+],
+"correct_answer": "Melioidosis (ជំងឺមេលីអូដូស៊ីស)"
+},
+{
+"id": "question337",
+"question": "តើបាក់តេរី Clostridium perfringens បង្កផលវិបាកគ្លីនិកអ្វីខ្លះចម្បង?",
+"choices": [
+"ជំងឺស្វិតដៃជើង",
+"ជំងឺហ្គាសហ្គង់ហ្គ្រែន (Gas gangrene / Myonecrosis) និងពុលចំណីអាហារ",
+"ជំងឺរលាកស្រោមខួរ",
+"ជំងឺស្វាយ"
+],
+"correct_answer": "ជំងឺហ្គាសហ្គង់ហ្គ្រែន (Gas gangrene / Myonecrosis) និងពុលចំណីអាហារ"
+},
+{
+"id": "question338",
+"question": "តើជាតិពុល (Toxin) របស់បាក់តេរី Clostridium tetani ធ្វើអោយមានរោគសញ្ញាអ្វីខ្លះ?",
+"choices": [
+"សាច់ដុំទន់ជ្រាយមិនអាចកម្រើកបាន",
+"កន្ត្រាក់សាច់ដុំខ្លាំងនិងរឹងគាំង (Spastic paralysis / Trismus / Opisthotonos)",
+"រាករូសបាត់បង់ជាតិទឹក",
+"ក្អកមានឈាម"
+],
+"correct_answer": "កន្ត្រាក់សាច់ដុំខ្លាំងនិងរឹងគាំង (Spastic paralysis / Trismus / Opisthotonos)"
+},
+{
+"id": "question339",
+"question": "តើបាក់តេរី Neisseria gonorrhoeae បង្កជំងឺអ្វី?",
+"choices": [
+"ជំងឺស្វាយ (Syphilis)",
+"ជំងឺប្រមេះទឹកបាយ (Gonorrhea)",
+"ជំងឺរលាកសួត",
+"ជំងឺអុតស្វាយ"
+],
+"correct_answer": "ជំងឺប្រមេះទឹកបាយ (Gonorrhea)"
+},
+{
+"id": "question340",
+"question": "តើបាក់តេរី Neisseria meningitidis មានរូបរាងលក្ខណៈបែបណា?",
+"choices": [
+"Gram-positive bacilli",
+"Gram-negative diplococci រាងដូចគ្រាប់សណ្តែក (Bean-shaped)",
+"Spirochetes រាងគំរង់អង្គាញ់",
+"Gram-positive cocci ជាចង្កោម"
+],
+"correct_answer": "Gram-negative diplococci រាងដូចគ្រាប់សណ្តែក (Bean-shaped)"
+},
+{
+"id": "question341",
+"question": "តើបាក់តេរី Treponema pallidum មានរូបរាងលក្ខណៈបែបណា?",
+"choices": [
+"Gram-positive bacilli",
+"Spirochete (រាងមូលអង្កាញ់ជាវង់ៗ)",
+"Gram-negative diplococci",
+"Gram-positive cocci ជាចង្កោម"
+],
+"correct_answer": "Spirochete (រាងមូលអង្កាញ់ជាវង់ៗ)"
+},
+{
+"id": "question342",
+"question": "តើរោគសញ្ញាគ្លីនិកចម្បងនៃជំងឺស្វាយដំណាក់កាលទី១ (Primary Syphilis) គឺអ្វី?",
+"choices": [
+"មានកន្ទួលពាសពេញរាងកាយ",
+"ដំបៅរឹងមិនឈឺចាប់នៅប្រដាប់ភេទ (Chancre)",
+"រលាកខួរក្បាល",
+"រលាកសន្លាក់រ៉ាំរ៉ៃ"
+],
+"correct_answer": "ដំបៅរឹងមិនឈឺចាប់នៅប្រដាប់ភេទ (Chancre)"
+},
+{
+"id": "question343",
+"question": "តើផលវិបាកធ្ងន់ធ្ងរនៃជំងឺស្វាយដំណាក់កាលទី៣ (Tertiary Syphilis) រួមមានអ្វីខ្លះ?",
+"choices": [
+"ដំបៅរឹង Chancre តែមួយគត់",
+"កន្ទួលស្បែកភ្លាមៗ",
+"Gummas, Neurosyphilis និងការប៉ះពាល់ប្រព័ន្ធសរសៃឈាមបេះដូង",
+"រាករូសបាត់បង់ជាតិទឹក"
+],
+"correct_answer": "Gummas, Neurosyphilis និងការប៉ះពាល់ប្រព័ន្ធសរសៃឈាមបេះដូង"
+},
+{
+"id": "question344",
+"question": "តើជំងឺឡិបតូស្ពីរ៉ូស៊ីស (Leptospirosis) ឆ្លងមកមនុស្សតាមរយៈផ្លូវណាជាចម្បង?",
+"choices": [
+"ការដកដង្ហើមស្រូបយកលំអងផ្កា",
+"ការប៉ះពាល់ទឹកឬដីសើមដែលមានផ្ទុកទឹកនោមសត្វកណ្តុរឬសត្វចិញ្ចឹមដែលមានមេរោគ",
+"មូសខ្លាខាំ",
+"ការបរិភោគសាច់ឆ្អិនល្អ"
+],
+"correct_answer": "ការប៉ះពាល់ទឹកឬដីសើមដែលមានផ្ទុកទឹកនោមសត្វកណ្តុរឬសត្វចិញ្ចឹមដែលមានមេរោគ"
+},
+{
+"id": "question345",
+"question": "តើបាក់តេរី Chlamydia trachomatis អាចបណ្តាលអោយមានជំងឺអ្វីខ្លះ?",
+"choices": [
+"Nongonococcal urethritis, Trachoma (ភ្នែក) និង Lymphogranuloma venereum",
+"ជំងឺអាសន្នរោគ",
+"ជំងឺគ្រុនពោះវៀន",
+"ជំងឺហ្គាសហ្គង់ហ្គ្រែន"
+],
+"correct_answer": "Nongonococcal urethritis, Trachoma (ភ្នែក) និង Lymphogranuloma venereum"
+},
+{
+"id": "question346",
+"question": "តើទម្រង់ទាំងពីរនៅក្នុងវដ្តជីវិតរបស់ Chlamydia មានអ្វីខ្លះ?",
+"choices": [
+"Spore និង Vegetative cell",
+"Elementary body (ទម្រង់ឆ្លង) និង Reticulate body (ទម្រង់បង្កើតកូនចៅ)",
+"Trophozoite និង Cyst",
+"Capsule និង Flagella"
+],
+"correct_answer": "Elementary body (ទម្រង់ឆ្លង) និង Reticulate body (ទម្រង់បង្កើតកូនចៅ)"
+},
+{
+"id": "question347",
+"question": "តើភ្នាក់ងារចម្លងរោគ (Vector) នៃជំងឺគ្រុនទីហ្វុសរាតត្បាត (Epidemic Typhus) បង្កដោយ Rickettsia prowazekii គឺអ្វី?",
+"choices": [
+"មូសដែកគោល",
+"ចៃខ្លួនមនុស្ស (Body louse)",
+"ចៃឆ្កែ",
+"រុយ"
+],
+"correct_answer": "ចៃខ្លួនមនុស្ស (Body louse)"
+},
+{
+"id": "question348",
+"question": "តើជំងឺគ្រុនក្រហមព្រៃ (Scrub Typhus) បង្កដោយ Orientia tsutsugamushi ឆ្លងតាមរយៈភ្នាក់ងារណា?",
+"choices": [
+"ចៃកណ្តុរ",
+"កូនចៃល្អិតឬកុតាមួយប្រភេទ (Chiggers / Mites)",
+"មូសណោម",
+"សត្វកាតាប"
+],
+"correct_answer": "Kូនចៃល្អិតឬកុតាមួយប្រភេទ (Chiggers / Mites)"
+},
+{
+"id": "question349",
+"question": "តើតេស្តគីមីជីវៈមួយណាដែលប្រើសម្រាប់បែងចែក Staphylococcus aureus ពី Staphylococci ផ្សេងទៀត?",
+"choices": [
+"តេស្ត Oxidase",
+"តេស្ត Coagulase (Staphylococcus aureus បង្ហាញលទ្ធផលវិជ្ជមាន)",
+"តេស្ត Urease",
+"តេស្ត Indole"
+],
+"correct_answer": "តេស្ត Coagulase (Staphylococcus aureus បង្ហាញលទ្ធផលវិជ្ជមាន)"
+},
+{
+"id": "question350",
+"question": "តើបាក់តេរី Streptococcus pneumoniae មានរូបរាងលក្ខណៈពិសេសដូចម្តេច?",
+"choices": [
+"Gram-negative bacilli រាងចុងស្រួច",
+"Gram-positive lancet-shaped diplococci (រាងដូចផ្លែដាវជាគូៗ)",
+"Gram-positive cocci ជាចង្កោមដូចផ្លែទំពាំងបាយជូរ",
+"Spirochetes អង្កាញ់ខ្លាំង"
+],
+"correct_answer": "Gram-positive lancet-shaped diplococci (រាងដូចផ្លែដាវជាគូៗ)"
+},
+{
+"id": "question351",
+"question": "តើបាក់តេរី Streptococcus pyogenes (Group A Streptococcus) បង្ហាញលក្ខណៈ hemolysis បែបណាលើ Blood Agar?",
+"choices": [
+"Alpha-hemolysis (ពណ៌បៃតងផ្នែកខ្លះ)",
+"Beta-hemolysis (បំផ្លាញគ្រាប់ឈាមទាំងស្រុង ក្លាយជា زូនថ្លា)",
+"Gamma-hemolysis (គ្មានការបំផ្លាញគ្រាប់ឈាម)",
+"Delta-hemolysis"
+],
+"correct_answer": "Beta-hemolysis (បំផ្លាញគ្រាប់ឈាមទាំងស្រុង ក្លាយជា زូនថ្លា)"
+},
+{
+"id": "question352",
+"question": "តើបាក់តេរី Streptococcus agalactiae (Group B Streptococcus) ជះឥទ្ធិពលខ្លាំងលើក្រុមអ្នកជំងឺណា និងបង្កជំងឺអ្វី?",
+"choices": [
+"មនុស្សចាស់ បង្កជំងឺវង្វេងវង្វាន់",
+"ទារកទើបនឹងកើត បង្កជំងឺរលាកស្រោមខួរនិងមេរោគក្នុងឈាម (Neonatal meningitis / Sepsis)",
+"យុវជន បង្កជំងឺមុនពាសពេញផ្ទៃ",
+"ស្ត្រីមានផ្ទៃពោះ បង្កជំងឺសម្រាលកូនមិនចេញ"
+],
+"correct_answer": "ទារកទើបនឹងកើត បង្កជំងឺរលាកស្រោមខួរនិងមេរោគក្នុងឈាម (Neonatal meningitis / Sepsis)"
+},
+{
+"id": "question353",
+"question": "តើបាក់តេរីក្រុម Viridans Streptococci ច្រើនបង្កបញ្ហាអ្វីខ្លះក្នុងរាងកាយ?",
+"choices": [
+"ជំងឺពុកធ្មេញ (Dental caries) និងជំងឺរលាកស្រទាប់ខាងក្នុងបេះដូង (Subacute endocarditis)",
+"ជំងឺរាករូសមហន្តរាយ",
+"ជំងឺរលាកថ្លើម",
+"ជំងឺជើងដំរី"
+],
+"correct_answer": "ជំងឺពុកធ្មេញ (Dental caries) និងជំងឺរលាកស្រទាប់ខាងក្នុងបេះដូង (Subacute endocarditis)"
+},
+{
+"id": "question354",
+"question": "តើបាក់តេរី Bacillus anthracis មានលក្ខណៈសម្គាល់រចនាសម្ព័ន្ធអ្វីខ្លះ?",
+"choices": [
+"Gram-negative rod គ្មាន Spore",
+"Gram-positive spore-forming rod មាន capsule ធ្វើពី poly-D-glutamic acid",
+"Spirochete គ្មាន capsule",
+"Gram-positive cocci គ្មាន spore"
+],
+"correct_answer": "Gram-positive spore-forming rod មាន capsule ធ្វើពី poly-D-glutamic acid"
+},
+{
+"id": "question355",
+"question": "តើបាក់តេរី Corynebacterium diphtheriae មានរូបរាងនិងការរៀបចំខ្លួនបែបណា?",
+"choices": [
+"រាងមូលជាខ្សែវែងៗ",
+"រាងដូចដំបងហើមចុងម្ខាង (Club-shaped) រៀបចំខ្លួនដូចអក្សរចិន (Chinese letter arrangement)",
+"រាងកណ្តៀវដាច់ៗពីគ្នា",
+"រាងគំរង់វែងស្មើមាត់"
+],
+"correct_answer": "រាងដូចដំបងហើមចុងម្ខាង (Club-shaped) រៀបចំខ្លួនដូចអក្សរចិន (Chinese letter arrangement)"
+},
+{
+"id": "question356",
+"question": "តើជាតិពុលរបស់បាក់តេរី Clostridium botulinum មានសកម្មភាពដូចម្តេចលើរាងកាយ?",
+"choices": [
+"ធ្វើអោយសាច់ដុំកន្ត្រាក់រឹងគាំង",
+"ទប់ស្កាត់ការបញ្ចេញ Acetylcholine ធ្វើអោយខ្សោយសាច់ដុំទន់ជ្រាយ (Flaccid paralysis)",
+"បំផ្លាញកោសិកាថ្លើមភ្លាមៗ",
+"ធ្វើអោយសម្ពាធឈាមកើនឡើងខ្លាំង"
+],
+"correct_answer": "ទប់ស្កាត់ការបញ្ចេញ Acetylcholine ធ្វើអោយខ្សោយសាច់ដុំទន់ជ្រាយ (Flaccid paralysis)"
+},
+{
+"id": "question357",
+"question": "តើគេប្រើវិធីលាបពណ៌អ្វីជាចម្បងដើម្បីមើលឃើញបាក់តេរីរបេង Mycobacterium tuberculosis?",
+"choices": [
+"Gram Stain",
+"Acid-Fast Stain (Ziehl-Neelsen stain)",
+"India Ink",
+"Albert Stain"
+],
+"correct_answer": "Acid-Fast Stain (Ziehl-Neelsen stain)"
+},
+{
+"id": "question358",
+"question": "តើបាក់តេរី Mycobacterium leprae គឺជាភ្នាក់ងារបង្កជំងឺអ្វី?",
+"choices": [
+"ជំងឺរបេងសួត",
+"ជំងឺឃ្លង់ (Leprosy / Hansen's disease)",
+"ជំងឺស្វិតដៃជើង",
+"ជំងឺស្វាយ"
+],
+"correct_answer": "ជំងឺឃ្លង់ (Leprosy / Hansen's disease)"
+},
+{
+"id": "question359",
+"question": "តើបាក់តេរី Vibrio cholerae (ភ្នាក់ងារបង្កជំងឺអាសន្នរោគ) មានរូបរាងលក្ខណៈនិងធ្វើអោយមានលាមកបែបណា?",
+"choices": [
+"រាងមូល, លាមកមានឈាមព្រូន",
+"រាងកោងដូចសញ្ញាក្បៀស (Comma-shaped) ធ្វើអោយមានលាមកពណ៌សដូចទឹកលាងអង្ករ (Rice-water stools)",
+"រាងត្រង់វែង, លាមកពណ៌ខ្មៅ",
+"រាងគូប, មិនបង្កអោយរាកទេ"
+],
+"correct_answer": "រាងកោងដូចសញ្ញាក្បៀស (Comma-shaped) ធ្វើអោយមានលាមកពណ៌សដូចទឹកលាងអង្ករ (Rice-water stools)"
+},
+{
+"id": "question360",
+"question": "តើបាក់តេរី Campylobacter jejuni មានរូបរាងលក្ខណៈនិងលក្ខខណ្ឌលូតលាស់បែបណា?",
+"choices": [
+"រាងមូល, ត្រូវការអុកស៊ីសែនកម្រិតខ្ពស់ លូតលាស់នៅសីតុណ្ហភាព 4°C",
+"រាងអក្សរ S ឬរាងក្បៀស, ជាពួក Microaerophilic លូតលាស់បានល្អនៅសីតុណ្ហភាព 42°C",
+"រាងត្រង់ស្មើ, ជាពួក Obligate Anaerobe",
+"គ្មានចលនាទាល់តែសោះ"
+],
+"correct_answer": "រាងអក្សរ S ឬរាងក្បៀស, ជាពួក Microaerophilic លូតលាស់បានល្អនៅសីតុណ្ហភាព 42°C"
+},
+{
+"id": "question361",
+"question": "តើបាក់តេរី Helicobacter pylori ត្រូវបានផ្សារភ្ជាប់យ៉ាងខ្លាំងទៅនឹងជំងឺអ្វីខ្លះ?",
+"choices": [
+"ជំងឺរលាកសួតស្រួចស្រាវ",
+"ជំងឺដំបៅក្រពះ-ពោះវៀន (Peptic ulcers) និងមហារីកក្រពះ (Gastric carcinoma)",
+"ជំងឺខ្សោយតម្រងនោម",
+"ជំងឺគ្រុនឈាម"
+],
+"correct_answer": "ជំងឺដំបៅក្រពះ-ពោះវៀន (Peptic ulcers) និងមហារីកក្រពះ (Gastric carcinoma)"
+},
+{
+"id": "question362",
+"question": "តើបាក់តេរី Haemophilus influenzae ត្រូវការសារធាតុអ្វីខ្លះនៅក្នុងមជ្ឈដ្ឋានវប្បកម្មដើម្បីលូតលាស់?",
+"choices": [
+"ជាតិស្ករ Glucose តែមួយគត់",
+"Factor X (Hemin) និង Factor V (NAD)",
+"ជាតិអំបិលកម្រិតខ្ពស់ 10%",
+"វីតាមីន C និង D"
+],
+"correct_answer": "Factor X (Hemin) និង Factor V (NAD)"
+},
+{
+"id": "question363",
+"question": "តើបាក់តេរី Bordetella pertussis បណ្តាលអោយកើតជំងឺអ្វី?",
+"choices": [
+"ជំងឺក្អកមាន់ (Whooping cough / Pertussis)",
+"ជំងឺរបេង",
+"ជំងឺពុលចំណីអាហារ",
+"ជំងឺប្រមេះទឹកបាយ"
+],
+"correct_answer": "ជំងឺក្អកមាន់ (Whooping cough / Pertussis)"
+},
+{
+"id": "question364",
+"question": "តើជំងឺរលាកសួតបង្កដោយ Legionella pneumophila ឆ្លងតាមរយៈផ្លូវណា?",
+"choices": [
+"ការរួមភេទមិនបានការពារ",
+"ការដកដង្ហើមស្រូបយកតំណក់ទឹកល្អិតៗ (Aerosols) ពីប្រព័ន្ធទឹកដែលមានមេរោគ ដូចជាម៉ាស៊ីនត្រជាក់ឬប៉មត្រជាក់",
+"ការខាំរបស់សត្វចៃ",
+"ការញ៉ាំសាច់ជ្រូកឆៅ"
+],
+"correct_answer": "ការដកដង្ហើមស្រូបយកតំណក់ទឹកល្អិតៗ (Aerosols) ពីប្រព័ន្ធទឹកដែលមានមេរោគ ដូចជាម៉ាស៊ីនត្រជាក់ឬប៉មត្រជាក់"
+},
+{
+"id": "question365",
+"question": "តើលក្ខណៈប្លែកពិសេសរបស់បាក់តេរី Mycoplasma pneumoniae គឺអ្វី?",
+"choices": [
+"មានភ្នាសកោសិកា peptidoglycan ក្រាស់ណាស់",
+"មិនមានភ្នាសកោសិកា (Lacks a cell wall) ធ្វើអោយវាស៊ាំនឹងថ្នាំ Beta-lactams ដោយធម្មជាតិ",
+"មានរាងជាវង់អង្កាញ់វែងជាងគេ",
+"បង្កើត Spore ធន់នឹងកម្តៅ"
+],
+"correct_answer": "មិនមានភ្នាសកោសិកា (Lacks a cell wall) ធ្វើអោយវាស៊ាំនឹងថ្នាំ Beta-lactams ដោយធម្មជាតិ"
+},
+{
+"id": "question366",
+"question": "ក្រោមការពិនិត្យមីក្រូទស្សន៍ តើផ្សិត Aspergillus fumigatus មានរូបរាងលក្ខណៈបែបណា?",
+"choices": [
+"កោសិកាមូលពន្លកគ្មានសរសៃ",
+"សរសៃផ្សិតមានថ្នាក់ (Septate hyphae) បែកមែកក្នុងមុំខ្នាតប្រហែល 45 ដឺក្រេ",
+"សរសៃផ្សិតគ្មានថ្នាក់ បែកមែកមុំ 90 ដឺក្រេ",
+"ទម្រង់ស្រោមក្រាស់ព័ទ្ធជុំវិញ"
+],
+"correct_answer": "សរសៃផ្សិតមានថ្នាក់ (Septate hyphae) បែកមែកក្នុងមុំខ្នាតប្រហែល 45 ដឺក្រេ"
+},
+{
+"id": "question367",
+"question": "តើផ្សិតក្រុម Dermatophytes ឆ្លងតាមរបៀបណា និងបំផ្លាញលិលិកាប្រភេទណា?",
+"choices": [
+"ឆ្លងតាមផ្លូវដកដង្ហើម ជ្រៀតចូលក្នុងសួត",
+"ឆ្លងតាមការប៉ះពាល់ផ្ទាល់ បំផ្លាញលិលិកាដែលមានជាតិកេរ៉ាទីន (Keratinized tissues) ដូចជា ស្បែក សក់ ក្រចក",
+"ឆ្លងតាមសត្វល្អិតខាំ បំផ្លាញថ្លើម",
+"ឆ្លងតាមឈាម ទៅបំផ្លាញបេះដូង"
+],
+"correct_answer": "ការប៉ះពាល់ផ្ទាល់ បំផ្លាញលិលិកាដែលមានជាតិកេរ៉ាទីន (Keratinized tissues) ដូចជា ស្បែក សក់ ក្រចក"
+},
+{
+"id": "question368",
+"question": "តើផ្សិត Sporothrix schenckii តែងតែឆ្លងតាមយន្តការណា ដែលគេច្រើនហៅថា 'Rose gardener's disease'?",
+"choices": [
+"ការលេបពងផ្សិតពីបន្លែផ្អាប់",
+"ការមុតឬចាក់ចូលស្បែកដោយបន្លាផ្កា កំទេចឈើ ឬដីដែលមានមេរោគ (Traumatic inoculation)",
+"ការខាំរបស់សត្វឆ្មា",
+"ការហែលទឹកក្នុងអាងសាធារណៈ"
+],
+"correct_answer": "ការមុតឬចាក់ចូលស្បែកដោយបន្លាផ្កា កំទេចឈើ ឬដីដែលមានមេរោគ (Traumatic inoculation)"
+},
+{
+"id": "question369",
+"question": "តើការឆ្លងផ្សិត Histoplasma capsulatum ច្រើនទាក់ទងនឹងប្រវត្តិប៉ះពាល់អ្វី?",
+"choices": [
+"ការបរិភោគអាហារសមុទ្រឆៅ",
+"ការដកដង្ហើមស្រូបយកស្ព័រផ្សិតពីដីដែលមានលាយលាមកសត្វស្លាបឬលាមកប្រពុច (Bird or bat droppings)",
+"ការដើរខ្វះស្បែកជើងលើវាលស្រែ",
+"ការប៉ះពាល់សំបកកង់ឡានចាស់ៗ"
+],
+"correct_answer": "ការដកដង្ហើមស្រូបយកស្ព័រផ្សិតពីដីដែលមានលាយលាមកសត្វស្លាបឬលាមកប្រពុច (Bird or bat droppings)"
+},
+{
+"id": "question370",
+"question": "ក្រោមមីក្រូទស្សន៍ ទម្រង់ Yeast របស់ផ្សិត Blastomyces dermatitidis មានលក្ខណៈសម្គាល់អ្វី?",
+"choices": [
+"ទម្រង់ពន្លកតូចឆ្មារបែកគ្នា",
+"ទម្រង់កោសិកា Yeast ពន្លកមានមូលដ្ឋានធំទូលាយ (Broad-based budding yeast)",
+"ទម្រង់គ្មានការពន្លកទាល់តែសោះ",
+"ទម្រង់រាងចតុកោណកែង"
+],
+"correct_answer": "ទម្រង់កោសិកា Yeast ពន្លកមានមូលដ្ឋានធំទូលាយ (Broad-based budding yeast)"
+},
+{
+"id": "question371",
+"question": "តើដំបៅពោះវៀនបង្កដោយ Entamoeba histolytica មានលក្ខណៈរូបរាងបែបណា?",
+"choices": [
+"ដំបៅរាក់ៗរាងមូលស្មើ",
+"ដំបៅរាងដូចដបពិសោធន៍ (Flask-shaped ulcers) នៅក្នុងពោះវៀនធំ",
+"ដំបៅមានលក្ខណៈដូចកងចិញ្ចៀន",
+"គ្មានបង្កដំបៅទេ"
+],
+"correct_answer": "ដំបៅរាងដូចដបពិសោធន៍ (Flask-shaped ulcers) នៅក្នុងពោះវៀនធំ"
+},
+{
+"id": "question372",
+"question": "តើទម្រង់ Trophozoite របស់ Giardia lamblia មានរូបរាងលក្ខណៈពិសេសដូចម្តេច?",
+"choices": [
+"រាងមូលដូចកូនបាល់ គ្មានណ្វាយូ",
+"រាងដូចផ្លែភីរ៍ (Pear-shaped) មានណ្វាយូ ២ និងមានរោមញ័រ ៤ គូ មើលទៅដូចមុខមនុស្សចាស់",
+"រាងវែងទ្រវែង គ្មានរោមញ័រ",
+"រាងអឌ្ឍចន្ទមានចំណុចខ្មៅ"
+],
+"correct_answer": "រាងដូចផ្លែភីរ៍ (Pear-shaped) មានណ្វាយូ ២ និងមានរោមញ័រ ៤ គូ មើលទៅដូចមុខមនុស្សចាស់"
+},
+{
+"id": "question373",
+"question": "តើលក្ខណៈពិសេសរបស់ប៉ារាសិត Trichomonas vaginalis ក្នុងការឆ្លងតាមផ្លូវភេទគឺអ្វី?",
+"choices": [
+"វាបង្កើត Cyst ធន់ណាស់ក្នុងបរិស្ថាន",
+"វាមានតែទម្រង់ Trophozoite តែមួយគត់ (គ្មានទម្រង់ Cyst ទេ) ដូច្នេះត្រូវការការប៉ះពាល់ផ្ទាល់",
+"វាឆ្លងតាមរយៈការដកដង្ហើមរួមគ្នា",
+"វាជាបាក់តេរី Gram-positive"
+],
+"correct_answer": "វាមានតែទម្រង់ Trophozoite តែមួយគត់ (គ្មានទម្រង់ Cyst ទេ) ដូច្នេះត្រូវការការប៉ះពាល់ផ្ទាល់"
+},
+{
+"id": "question374",
+"question": "តើគេប្រើវិធីលាបពណ៌អ្វីដើម្បីរក Oocysts របស់ Cryptosporidium parvum ក្នុងលាមក?",
+"choices": [
+"Gram Stain",
+"Modified Acid-Fast Stain (ពណ៌ក្រហមលើ background ខៀវ)",
+"India Ink",
+"Albert Stain"
+],
+"correct_answer": "Modified Acid-Fast Stain (ពណ៌ក្រហមលើ background ខៀវ)"
+},
+{
+"id": "question375",
+"question": "តើម្ចាស់ផ្ទះចុងក្រោយ (Definitive Host) របស់ប៉ារាសិត Toxoplasma gondii គឺសត្វអ្វី?",
+"choices": [
+"សត្វឆ្កែ",
+"សត្វឆ្មា (Felines / Domestic cats)",
+"សត្វជ្រូក",
+"សត្វគោ"
+],
+"correct_answer": "សត្វឆ្មា (Felines / Domestic cats)"
+},
+{
+"id": "question376",
+"question": "តើភ្នាក់ងារចម្លងរោគ (Vector) នៃជំងឺឡេសម៉ានីញ៉ូស (Leishmania spp.) គឺសត្វល្អិតអ្វី?",
+"choices": [
+"មូសខ្លា",
+"រុយខ្សាច់ (Sandfly / Phlebotomus)",
+"រុយត្សេត្សេ (Tsetse fly)",
+"សត្វចៃគ្រែ"
+],
+"correct_answer": "រុយខ្សាច់ (Sandfly / Phlebotomus)"
+},
+{
+"id": "question377",
+"question": "តើជំងឺដេកមិនភ្ញាក់អាហ្វ្រិក (African Sleeping Sickness) បង្កដោយ Trypanosoma brucei ឆ្លងតាមរយៈអ្វី?",
+"choices": [
+"រុយត្សេត្សេខាំ (Tsetse fly / Glossina)",
+"រុយខ្សាច់ខាំ",
+"សត្វកាតាបខាំ",
+"ការផឹកទឹកមិនស្អាត"
+],
+"correct_answer": "រុយត្សេត្សេខាំ (Tsetse fly / Glossina)"
+},
+{
+"id": "question378",
+"question": "តើជំងឺ Chagas disease បង្កដោយ Trypanosoma cruzi ឆ្លងតាមរយៈភ្នាក់ងារណា?",
+"choices": [
+"រុយត្សេត្សេ",
+"សត្វកាតាបម្យ៉ាង (Triatomine bug / Kissing bug)",
+"មូសដែកគោល",
+"ចៃកណ្តុរ"
+],
+"correct_answer": "សត្វកាតាបម្យ៉ាង (Triatomine bug / Kissing bug)"
+},
+{
+"id": "question379",
+"question": "តើការឆ្លងមេរោគព្រូនអុកស៊ីយូ (Enterobius vermicularis) កើតឡើងតាមរយៈយន្តការណាជាចម្បង?",
+"choices": [
+"ការទម្លុះស្បែកជើងរបស់ដង្កូវ",
+"ការលេបឬដកដង្ហើមស្រូបយកពងព្រូន (Ingestion of eggs / Autoinoculation)",
+"ការបរិភោគសាច់គោឆៅ",
+"ការខាំរបស់មូសខ្លា"
+],
+"correct_answer": "ការលេបឬដកដង្ហើមស្រូបយកពងព្រូន (Ingestion of eggs / Autoinoculation)"
+},
+{
+"id": "question380",
+"question": "តើព្រូនរំពាត់ Trichuris trihiura មានលក្ខណៈសម្គាល់ពងរបស់វាដូចម្តេច?",
+"choices": [
+"ពងមានរាងមូលដូចបាល់",
+"ពងមានរាងដូចធុងស្រា (Barrel-shaped) មានឆ្នុកថ្លានៅសងខាងចុង (Bipolar plugs)",
+"ពងមានសំបកស្តើងថ្លាមានកូនព្រូនខាងក្នុង",
+"ពងមានបន្លាធំមួយនៅចំហៀង"
+],
+"correct_answer": "ពងមានរាងដូចធុងស្រា (Barrel-shaped) មានឆ្នុកថ្លានៅសងខាងចុង (Bipolar plugs)"
+},
+{
+"id": "question381",
+"question": "តើផលវិបាកគ្លីនិកដ៏ចម្បងនិងគ្រោះថ្នាក់បំផុតនៃការឆ្លងព្រូនជំពក់ (Necator americanus / Ankylostoma duodenale) គឺអ្វី?",
+"choices": [
+"ការរលាកសួតរ៉ាំរ៉ៃ",
+"ជំងឺស្លេកស្លាំងដោយសារ خسារធាតុដែក (Iron deficiency anemia) ពីការជញ្ជក់ឈាមនៅពោះវៀន",
+"ការឡើងបែកពងស្បែក",
+"ការបាត់បង់ការមើលឃើញ"
+],
+"correct_answer": "ជំងឺស្លេកស្លាំងដោយសារ خسារធាតុដែក (Iron deficiency anemia) ពីការជញ្ជក់ឈាមនៅពោះវៀន"
+},
+{
+"id": "question382",
+"question": "តើព្រូនខ្សែអំបោះ Strongyloides stercoralis មានវដ្តជីវិតប្លែកពិសេសអ្វីខ្លះក្នុងខ្លួនមនុស្ស?",
+"choices": [
+"វាត្រូវការសត្វគោជាម្ចាស់ផ្ទះកណ្តាលជានិច្ច",
+"សមត្ថភាពធ្វើវដ្តឆ្លងឡើងវិញដោយខ្លួនឯងក្នុងពោះវៀន (Autoinfection cycle)",
+"វាមិនដែលបំផ្លាញពោះវៀនទេ",
+"វារស់តែក្នុងកោសិកាឈាមក្រហម"
+],
+"correct_answer": "សមត្ថភាពធ្វើវដ្តឆ្លងឡើងវិញដោយខ្លួនឯងក្នុងពោះវៀន (Autoinfection cycle)"
+},
+{
+"id": "question383",
+"question": "តើជំងឺទ្រីស៊ីណូស៊ីស (Trichinella spiralis) ឆ្លងមកមនុស្សតាមរយៈការបរិភោគអ្វី?",
+"choices": [
+"ការហូបបន្លែឆៅមិនលាង",
+"ការបរិភោគសាច់សត្វ (ដូចជាសាច់ជ្រូក) មិនឆ្អិនល្អដែលមានដង្កូវកប់ក្នុងសាច់ដុំ (Encysted larvae)",
+"ការផឹកទឹកស្ទឹងផ្ទាល់",
+"ការញ៉ាំត្រីប្រឡាក់ឆៅ"
+],
+"correct_answer": "ការបរិភោគសាច់សត្វ (ដូចជាសាច់ជ្រូក) មិនឆ្អិនល្អដែលមានដង្កូវកប់ក្នុងសាច់ដុំ (Encysted larvae)"
+},
+{
+"id": "question384",
+"question": "ហេតុអ្វីបានជាការបូមឈាមរកដង្កូវ Microfilariae របស់ Wuchereria bancrofti ត្រូវធ្វើនៅពេលយប់?",
+"choices": [
+"ដោយសារមេរោគខ្លាចពន្លឺថ្ងៃ",
+"ដោយសារដង្កូវមានចរន្តចរាចរណ៍ក្នុងឈាមបរិភពខ្ពស់នៅពេលយប់ (Nocturnal periodicity)",
+"ដោយសារឈាមកកលឿននៅពេលថ្ងៃ",
+"គ្មានហេតុផលវេជ្ជសាស្ត្រទេ"
+],
+"correct_answer": "ដោយសារដង្កូវមានចរន្តចរាចរណ៍ក្នុងឈាមបរិភពខ្ពស់នៅពេលយប់ (Nocturnal periodicity)"
+},
+{
+"id": "question385",
+"question": "តើជំងឺដង្កូវព្រូនកូឡៅ (Dracunculus medinensis / Guinea worm) ឆ្លងតាមរយៈអ្វី?",
+"choices": [
+"ការដើរជាន់ដីខ្សាច់",
+"ការផឹកទឹកដែលមានផ្ទុកពពួក crustacean តូចៗ (Cyclops / Water fleas) មានដង្កូវប៉ារាសិត",
+"ការខាំរបស់សត្វកណ្តុរ",
+"ការបរិភោគសាច់មាន់"
+],
+"correct_answer": "ការផឹកទឹកដែលមានផ្ទុកពពួក crustacean តូចៗ (Cyclops / Water fleas) មានដង្កូវប៉ារាសិត"
+},
+{
+"id": "question386",
+"question": "តើម្ចាស់ផ្ទះកណ្តាល (Intermediate Host) របស់តេនញ៉ាសាច់គោ Taenia saginata គឺសត្វអ្វី?",
+"choices": [
+"សត្វជ្រូក",
+"សត្វគោឬក្របី (Cattle)",
+"សត្វឆ្កែ",
+"លៀសហាល"
+],
+"correct_answer": "សត្វគោឬក្របី (Cattle)"
+},
+{
+"id": "question387",
+"question": "តើជំងឺគីសព្រូនក្នុងខួរក្បាល (Neurocysticercosis) កើតឡើងដោយសារមនុស្សលេបអ្វី?",
+"choices": [
+"ដង្កូវ Cysticerci ពីសាច់ជ្រូកឆ្អិន",
+"ពងព្រូនរបស់តេនញ៉ាសាច់ជ្រូក Taenia solium (Eggs/Onchospheres) ដោយផ្ទាល់",
+"ពងព្រូនរបស់ Taenia saginata",
+"កោសិកា Yeast"
+],
+"correct_answer": "ពងព្រូនរបស់តេនញ៉ាសាច់ជ្រូក Taenia solium (Eggs/Onchospheres) ដោយផ្ទាល់"
+},
+{
+"id": "question388",
+"question": "តើព្រូនខ្សែតេនញ៉ាត្រី Diphyllobothrium latum អាចបណ្តាលអោយមានផលវិបាកកង្វះវីតាមីនអ្វី?",
+"choices": [
+"កង្វះវីតាមីន A",
+"កង្វះវីតាមីន B12 (បណ្តាលអោយមាន Megaloblastic anemia)",
+"កង្វះវីតាមីន C",
+"កង្វះវីតាមីន D"
+],
+"correct_answer": "Kង្វះវីតាមីន B12 (បណ្តាលអោយមាន Megaloblastic anemia)"
+},
+{
+"id": "question389",
+"question": "តើជំងឺគីសទឹកថ្លា Hydatid cyst disease បង្កឡើងដោយប៉ារាសិតមួយណា?",
+"choices": [
+"Taenia solium",
+"Echinococcus granulosus",
+"Ascaris lumbricoides",
+"Schistosoma mekongi"
+],
+"correct_answer": "Echinococcus granulosus"
+},
+{
+"id": "question390",
+"question": "តើព្រូនស្លឹកឈើថ្លា Clonorchis sinensis (Oriental liver fluke) ត្រូវបានផ្សារភ្ជាប់ទៅនឹងមហារីកអ្វី?",
+"choices": [
+"មហារីកសួត",
+"មហារីកផ្លូវទឹកប្រមាត់ (Cholangiocarcinoma)",
+"មហារីកឆ្អឹង",
+"មហារីកស្បែក"
+],
+"correct_answer": "មហារីកផ្លូវទឹកប្រមាត់ (Cholangiocarcinoma)"
+},
+{
+"id": "question391",
+"question": "តើព្រូនស្លឹកឈើសួត Paragonimus westermani ឆ្លងមកមនុស្សតាមរយៈការបរិភោគអ្វី?",
+"choices": [
+"ការបរិភោគក្តាម ឬបង្គាទឹកសាបឆៅឬមិនឆ្អិនល្អ (Crabs / Crayfish)",
+"ការញ៉ាំសាច់គោបន្លុក",
+"ការផឹកទឹកដោះគោឆៅ",
+"ការហូបបន្លែត្រគួន"
+],
+"correct_answer": "ការបរិភោគក្តាម ឬបង្គាទឹកសាបឆៅឬមិនឆ្អិនល្អ (Crabs / Crayfish)"
+},
+{
+"id": "question392",
+"question": "តើព្រូនស្លឹកឈើក្នុងឈាម Schistosoma haematobium បង្កផលប៉ះពាល់គ្លីនិកនិងមហារីកនៅកន្លែងណា?",
+"choices": [
+"បង្កការហូរឈាមតាមដង្ហើម និងមហារីកសួត",
+"បង្កការនោមមានឈាម (Hematuria) និងមហារីកប្លោកនោម (Squamous cell carcinoma of bladder)",
+"បង្កជំងឺក្រិនថ្លើមតែមួយគត់",
+"បង្កការរាករូស"
+],
+"correct_answer": "បង្កការនោមមានឈាម (Hematuria) និងមហារីកប្លោកនោម (Squamous cell carcinoma of bladder)"
+},
+{
+"id": "question393",
+"question": "តើវីរុស Adenovirus អាចបណ្តាលអោយមានរោគសញ្ញាចម្បងៗអ្វីខ្លះ?",
+"choices": [
+"Pharyngitis, Conjunctivitis (ភ្នែកក្រហម) និង Hemorrhagic cystitis (រលាកប្លោកនោមហូរឈាម)",
+"ជំងឺអេដស៍",
+"ជំងឺខ្វិនសាច់ដុំមុខ",
+"ជំងឺជ្រុះសក់ពាសពេញក្បាល"
+],
+"correct_answer": "Pharyngitis, Conjunctivitis (ភ្នែកក្រហម) និង Hemorrhagic cystitis (រលាកប្លោកនោមហូរឈាម)"
+},
+{
+"id": "question394",
+"question": "តើវីរុស Human Papillomavirus (HPV) ប្រភេទ (Strains) ណាខ្លះដែលបង្កហានិភ័យខ្ពស់បំផុតនៃមហារីកមាត់ស្បូន?",
+"choices": [
+"HPV 6 និង 11",
+"HPV 16 និង 18",
+"HPV 1 និង 2",
+"HPV 3 និង 4"
+],
+"correct_answer": "HPV 16 និង 18"
+},
+{
+"id": "question395",
+"question": "តើវីរុស Epstein-Barr Virus (EBV) ត្រូវបានផ្សារភ្ជាប់ទៅនឹងជំងឺអ្វីខ្លះ?",
+"choices": [
+"Infectious mononucleosis, Burkitt lymphoma និង Nasopharyngeal carcinoma",
+"ជំងឺពងបែកដៃជើងមាត់",
+"ជំងឺឆ្កែឆ្កួត",
+"ជំងឺស្វិតដៃជើង"
+],
+"correct_answer": "Infectious mononucleosis, Burkitt lymphoma និង Nasopharyngeal carcinoma"
+},
+{
+"id": "question396",
+"question": "តើវីរុស Cytomegalovirus (CMV) បង្កផលវិបាកធ្ងន់ធ្ងរអ្វីខ្លះលើអ្នកជំងឺអេដស៍ (AIDS)?",
+"choices": [
+"ការជ្រុះធ្មេញ",
+"រលាកប្របកភ្នែកស្រាល",
+"CMV Retinitis (រលាកប្រស្រីភ្នែកអាចធ្វើអោយងងឹត) និង Colitis (រលាកពោះវៀន)",
+"ជំងឺស្បែកស្ងួត"
+],
+"correct_answer": "CMV Retinitis (រលាកប្រស្រីភ្នែកអាចធ្វើអោយងងឹត) និង Colitis (រលាកពោះវៀន)"
+},
+{
+"id": "question397",
+"question": "តើវីរុស Parvovirus B19 បង្កជំងឺអ្វីលើកុមារដែលមានរោគសញ្ញាសម្គាល់ដូចគេទះកំផ្លៀង?",
+"choices": [
+"Erythema infectiosum (Fifth disease / 'Slapped cheek' appearance)",
+"ជំងឺកញ្ជ្រោលធំ",
+"ជំងឺអុតស្វាយរាលដាល",
+"ជំងឺរើម"
+],
+"correct_answer": "Erythema infectiosum (Fifth disease / 'Slapped cheek' appearance)"
+},
+{
+"id": "question398",
+"question": "តើពាក្យថា Antigenic Drift នៅក្នុងវីរុសផ្តាសាយ សំដៅលើអ្វី?",
+"choices": [
+"ការផ្លាស់ប្តូរហ្សែនធំធេងបង្កើតវីរុសថ្មីស្រឡាង",
+"ការផ្លាស់ប្តូរតូចតាចដោយសារការបំប្លែងខ្លួន (Point mutations) នៃ HA/NA បង្កជាការរាតត្បាតប្រចាំរដូវ",
+"ការបាត់បង់សំបករបស់វីរុស",
+"ការផ្លាស់ប្តូរម្ចាស់ផ្ទះពីមនុស្សទៅសត្វ"
+],
+"correct_answer": "ការផ្លាស់ប្តូរតូចតាចដោយសារការបំប្លែងខ្លួន (Point mutations) នៃ HA/NA បង្កជាការរាតត្បាតប្រចាំរដូវ"
+},
+{
+"id": "question399",
+"question": "តើពាក្យថា Antigenic Shift នៅក្នុងវីរុសផ្តាសាយ សំដៅលើអ្វី និងកើតឡើងលើប្រភេទណា?",
+"choices": [
+"ការបំប្លែងខ្លួនតូចតាចលើ Influenza B",
+"ការផ្លាស់ប្តូរហ្សែនដ៏ធំធេងតាមរយៈការផ្សំផ្គុំឡើងវិញ (Reassortment) កើតឡើងតែលើ Influenza A បង្កជាជំងឺរាតត្បាតសកល (Pandemic)",
+"ការងាប់ទៅវិញនៃវីរុសក្នុងខ្យល់",
+"ការឆ្លងចូលកោសិកាឈាមស"
+],
+"correct_answer": "ការផ្លាស់ប្តូរហ្សែនដ៏ធំធេងតាមរយៈការផ្សំផ្គុំឡើងវិញ (Reassortment) កើតឡើងតែលើ Influenza A បង្កជាជំងឺរាតត្បាតសកល (Pandemic)"
+},
+{
+"id": "question400",
+"question": "តើភ្នាក់ងារបង្កជំងឺប្រភេទ ព្រីយ៉ុង (Prions) មានលក្ខណៈពិសេសខុសពីវីរុសនិងបាក់តេរីដូចម្តេច?",
+"choices": [
+"វាមាន DNA ធំជាងបាក់តេរី",
+"វាជាប្រូតេអ៊ីនឆ្លងរោគដែលមិនមានផ្ទុកអាស៊ីតណុយក្លេអ៊ិក (Infectious proteins devoid of nucleic acids)",
+"វាជាប្រភេទផ្សិតម្យ៉ាង",
+"វាអាចកំចាត់បានយ៉ាងងាយដោយទឹកអាល់កុល"
+],
+"correct_answer": "វាជាប្រូតេអ៊ីនឆ្លងរោគដែលមិនមានផ្ទុកអាស៊ីតណុយក្លេអ៊ិក (Infectious proteins devoid of nucleic acids)"
+},
+{
+"id": "question461",
+"question": "Which of the following classes of antifungal medications acts by inhibiting the synthesis of beta-glucan in the fungal cell wall?",
+"choices": [
+"Polyenes (e.g., Amphotericin B)",
+"Azoles (e.g., Fluconazole)",
+"Echinocandins (e.g., Caspofungin)",
+"Allylamines (e.g., Terbinafine)"
+],
+"correct_answer": "Echinocandins (e.g., Caspofungin)"
+},
+{
+"id": "question462",
+"question": "What is the primary mechanism of action of the cholera toxin produced by Vibrio cholerae?",
+"choices": [
+"Inhibition of protein synthesis by inactivating EF-2",
+"Continuous activation of adenylate cyclase, leading to high cAMP levels and massive fluid secretion",
+"Cleavage of SNARE proteins to inhibit neurotransmitter release",
+"Disruption of cell membranes via phospholipase activity"
+],
+"correct_answer": "Continuous activation of adenylate cyclase, leading to high cAMP levels and massive fluid secretion"
+},
+{
+"id": "question463",
+"question": "Which of the following vectors is responsible for transmitting the protozoan parasite Leishmania donovani?",
+"choices": [
+"Anopheles mosquito",
+"Tsetse fly",
+"Sandfly (Phlebotomus / Lutzomyia)",
+"Ixodes tick"
+],
+"correct_answer": "Sandfly (Phlebotomus / Lutzomyia)"
+},
+{
+"id": "question464",
+"question": "Which heterophile antibody test is traditionally used to support the clinical diagnosis of Infectious Mononucleosis caused by Epstein-Barr Virus?",
+"choices": [
+"Widal test",
+"Weil-Felix test",
+"Paul-Bunnell test (Monospot test)",
+"Elek test"
+],
+"correct_answer": "Paul-Bunnell test (Monospot test)"
+},
+{
+"id": "question465",
+"question": "The characteristic 'Owl's eye' intranuclear inclusion bodies observed in histopathology are highly indicative of infection by which virus?",
+"choices": [
+"Herpes Simplex Virus 1",
+"Epstein-Barr Virus",
+"Cytomegalovirus (CMV)",
+"Varicella-Zoster Virus"
+],
+"correct_answer": "Cytomegalovirus (CMV)"
+},
+{
+"id": "question466",
+"question": "Which of the following structures enables Mycobacterium tuberculosis to resist phagocytic destruction by preventing phagosome-lysosome fusion?",
+"choices": [
+"Lipopolysaccharide outer membrane",
+"Cord factor and sulfatides within the mycolic acid cell wall",
+"Endospore protective coat",
+"Flagellar H antigen"
+],
+"correct_answer": "Cord factor and sulfatides within the mycolic acid cell wall"
+},
+{
+"id": "question467",
+"question": "The observation of Koplik spots on the buccal mucosa is a pathognomonic diagnostic sign for which viral disease?",
+"choices": [
+"Mumps",
+"Rubella",
+"Measles (Kanjreol)",
+"Chickenpox"
+],
+"correct_answer": "Measles (Kanjreol)"
+},
+{
+"id": "question468",
+"question": "Which morphological characteristic best describes the colonies of Bacillus anthracis on blood agar plates?",
+"choices": [
+"Swarming wave-like growth",
+"Mucoid pink colonies",
+"Medusa head appearance (curled extensions)",
+"Black centered metallic sheen"
+],
+"correct_answer": "Medusa head appearance (curled extensions)"
+},
+{
+"id": "question469",
+"question": "The active mechanism of tetanus toxin (tetanospasmin) involves the inhibition of which neurotransmitters?",
+"choices": [
+"Acetylcholine at the neuromuscular junction",
+"GABA and glycine at inhibitory interneurons",
+"Dopamine and serotonin in the basal ganglia",
+"Epinephrine and norepinephrine in sympathetic loops"
+],
+"correct_answer": "GABA and glycine at inhibitory interneurons"
+},
+{
+"id": "question470",
+"question": "Which structural component of the Gram-negative bacterial outer membrane acts directly as the endotoxin?",
+"choices": [
+"Peptidoglycan backbone",
+"Lipid A component of Lipopolysaccharide (LPS)",
+"Teichoic acid polymers",
+"Porin protein channels"
+],
+"correct_answer": "Lipid A component of Lipopolysaccharide (LPS)"
+},
+{
+"id": "question471",
+"question": "តើការចាក់វ៉ាក់សាំង BCG ត្រូវបានអនុវត្តជាចម្បងដើម្បីការពារប្រឆាំងនឹងជំងឺអ្វី?",
+"choices": [
+"ជំងឺគ្រុនពោះវៀន",
+"ជំងឺរបេង (Tuberculosis)",
+"ជំងឺអាសន្នរោគ",
+"ជំងឺស្វិតដៃជើង"
+],
+"correct_answer": "ជំងឺរបេង (Tuberculosis)"
+},
+{
+"id": "question472",
+"question": "តើបាក់តេរីមួយណាជាមូលហេតុចម្បងបំផុតនៃការឆ្លងរោគនៅផ្លូវនោម (Urinary Tract Infections) ជាទូទៅ?",
+"choices": [
+"Proteus mirabilis",
+"Escherichia coli",
+"Klebsiella pneumoniae",
+"Pseudomonas aeruginosa"
+],
+"correct_answer": "Escherichia coli"
+},
+{
+"id": "question473",
+"question": "តើបាក់តេរី Normal flora សំខាន់បំផុតដែលជួយរក្សា pH អាស៊ីតនៅក្នុងទ្វារមាសស្ត្រីវ័យបន្តពូជគឺអ្វី?",
+"choices": [
+"Staphylococcus aureus",
+"Lactobacillus spp. (Döderlein's bacilli)",
+"Gardnerella vaginalis",
+"Streptococcus agalactiae"
+],
+"correct_answer": "Lactobacillus spp. (Döderlein's bacilli)"
+},
+{
+"id": "question474",
+"question": "What type of genome structure characterizes the Dengue virus?",
+"choices": [
+"Double-stranded DNA",
+"Single-stranded negative-sense RNA",
+"Single-stranded positive-sense RNA",
+"Segmented double-stranded RNA"
+],
+"correct_answer": "Single-stranded positive-sense RNA"
+},
+{
+"id": "question475",
+"question": "Which organism is the causative agent of Lyme disease, transmitted via Ixodes ticks?",
+"choices": [
+"Treponema pallidum",
+"Borrelia burgdorferi",
+"Leptospira interrogans",
+"Rickettsia prowazekii"
+],
+"correct_answer": "Borrelia burgdorferi"
+},
+{
+"id": "question476",
+"question": "The presence of Negri bodies in infected neurons is a definitive post-mortem histopathological marker for:",
+"choices": [
+"Poliovirus",
+"Rabies virus",
+"Japanese Encephalitis Virus",
+"Herpes Simplex Virus"
+],
+"correct_answer": "Rabies virus"
+},
+{
+"id": "question477",
+"question": "Which of the following target cells does the Epstein-Barr Virus (EBV) primarily infect by binding to the CD21 receptor?",
+"choices": [
+"CD4+ T lymphocytes",
+"B lymphocytes",
+"Macrophages",
+"Neutrophils"
+],
+"correct_answer": "B lymphocytes"
+},
+{
+"id": "question478",
+"question": "The diagnostic feature of a flask-shaped ulcer in the large intestine is typically caused by:",
+"choices": [
+"Giardia lamblia",
+"Entamoeba histolytica",
+"Cryptosporidium parvum",
+"Balantidium coli"
+],
+"correct_answer": "Entamoeba histolytica"
+},
+{
+"id": "question479",
+"question": "Which vitamin deficiency is uniquely associated with the tapeworm Diphyllobothrium latum due to its high consumption of the host's nutrients?",
+"choices": [
+"Vitamin A",
+"Vitamin B12",
+"Vitamin C",
+"Vitamin D"
+],
+"correct_answer": "Vitamin B12"
+},
+{
+"id": "question480",
+"question": "Which of the following is the primary mechanism of action of the diphtheria toxin produced by Corynebacterium diphtheriae?",
+"choices": [
+"Activation of adenylate cyclase",
+"Inactivation of Elongation Factor 2 (EF-2) via ADP-ribosylation, halting protein synthesis",
+"Cleavage of synaptobrevin in spinal interneurons",
+"Degradation of membrane phospholipids"
+],
+"correct_answer": "Inactivation of Elongation Factor 2 (EF-2) via ADP-ribosylation, halting protein synthesis"
+},
+{
+"id": "question481",
+"question": "What is the primary mode of transmission for the protozoan parasite Cryptosporidium parvum?",
+"choices": [
+"Skin penetration by cercariae",
+"Bite of an infected Anopheles mosquito",
+"Ingestion of chlorination-resistant oocysts via contaminated water",
+"Sexual contact"
+],
+"correct_answer": "Ingestion of chlorination-resistant oocysts via contaminated water"
+},
+{
+"id": "question482",
+"question": "Which of the following best describes the method of reproduction for true yeasts?",
+"choices": [
+"Binary fission only",
+"Budding (blastoconidia formation)",
+"Arthrospore fragmentation",
+"Arthroconidia segmenting"
+],
+"correct_answer": "Budding (blastoconidia formation)"
+},
+{
+"id": "question483",
+"question": "Which of the following describes the biological classification of Prions?",
+"choices": [
+"Defective DNA viruses",
+"Acellular, infectious proteins devoid of any nucleic acid nucleic core",
+"Unicellular eukaryotic microbes",
+"Obligate intracellular prokaryotes"
+],
+"correct_answer": "Acellular, infectious proteins devoid of any nucleic acid nucleic core"
+},
+{
+"id": "question484",
+"question": "In the Gram stain procedure, what is the role of Gram's Iodine?",
+"choices": [
+"Primary stain",
+"Counterstain",
+"Mordant (forms a complex with crystal violet)",
+"Decolorizing agent"
+],
+"correct_answer": "Mordant (forms a complex with crystal violet)"
+},
+{
+"id": "question485",
+"question": "Which organism is the most common cause of non-gonococcal urethritis (NGU)?",
+"choices": [
+"Neisseria gonorrhoeae",
+"Chlamydia trachomatis",
+"Treponema pallidum",
+"Trichomonas vaginalis"
+],
+"correct_answer": "Chlamydia trachomatis"
+},
+{
+"id": "question486",
+"question": "The clinical condition known as 'malignant pustule' or cutaneous eschar with surrounding edema is caused by:",
+"choices": [
+"Staphylococcus aureus",
+"Bacillus anthracis",
+"Clostridium perfringens",
+"Pseudomonas aeruginosa"
+],
+"correct_answer": "Bacillus anthracis"
+},
+{
+"id": "question487",
+"question": "Which of the following parasites undergoes a lung migration phase during its lifecycle in the human host?",
+"choices": [
+"Enterobius vermicularis",
+"Ascaris lumbricoides",
+"Trichuris trichiura",
+"Taenia saginata"
+],
+"correct_answer": "Ascaris lumbricoides"
+},
+{
+"id": "question488",
+"question": "The presence of a painless hard ulcer (chancre) at the site of inoculation is the hallmark of which stage of syphilis?",
+"choices": [
+"Primary syphilis",
+"Secondary syphilis",
+"Latent syphilis",
+"Tertiary syphilis"
+],
+"correct_answer": "Primary syphilis"
+},
+{
+"id": "question489",
+"question": "Which fungal organism causes the subcutaneously tracking lesions known as 'Rose gardener's disease' following traumatic inoculation?",
+"choices": [
+"Histoplasma capsulatum",
+"Sporothrix schenckii",
+"Blastomyces dermatitidis",
+"Aspergillus fumigatus"
+],
+"correct_answer": "Sporothrix schenckii"
+},
+{
+"id": "question490",
+"question": "What morphological structure facilitates the swarming motility observed in Proteus mirabilis?",
+"choices": [
+"Peritrichous flagella",
+"Monotrichous flagella",
+"Lophotrichous flagella",
+"Axial filaments"
+],
+"correct_answer": "Peritrichous flagella"
+},
+{
+"id": "question491",
+"question": "តើប្រភេទវីរុសមួយណាដែលជាមូលហេតុចម្បងនៃជំងឺពងបែកដៃជើងមាត់ (HFMD) ដែលអាចបង្កផលវិបាករលាកខួរក្បាលធ្ងន់ធ្ងរ?",
+"choices": [
+"Poliovirus",
+"Enterovirus 71 (EV71)",
+"Measles virus",
+"Adenovirus"
+],
+"correct_answer": "Enterovirus 71 (EV71)"
+},
+{
+"id": "question492",
+"question": "តើពាក្យគ្លីនិក 'Incubation Period' មានន័យដូចម្តេច?",
+"choices": [
+"រយៈពេលចាប់តាំងពីមេរោគចូលក្នុងខ្លួន រហូតដល់លេចចេញរោគសញ្ញាដំបូង",
+"រយៈពេលដែលជំងឺឈានដល់កម្រិតធ្ងន់ធ្ងរបំផុត",
+"រយៈពេលដែលថ្នាំផ្សះសម្លាប់មេរោគអស់ពីរាងកាយ",
+"ដំណាក់កាលដែលប្រព័ន្ធការពារបង្កើតអង់ទីគ័ររួចរាល់"
+],
+"correct_answer": "រយៈពេលចាប់តាំងពីមេរោគចូលក្នុងខ្លួន រហូតដល់លេចចេញរោគសញ្ញាដំបូង"
+},
+{
+"id": "question493",
+"question": "Which of the following diagnostic procedures serves as the gold standard for verifying malaria infection?",
+"choices": [
+"Stool examination",
+"Microscopic evaluation of thick and thin blood smears",
+"Widal serological test",
+"Urine antigen capture"
+],
+"correct_answer": "Microscopic evaluation of thick and thin blood smears"
+},
+{
+"id": "question494",
+"question": "Which of the following standard chemical components is unique to the fungal cell wall, distinguishing it from bacterial cell walls?",
+"choices": [
+"Peptidoglycan",
+"Chitin",
+"Lipopolysaccharide",
+"Teichoic acid"
+],
+"correct_answer": "Chitin"
+},
+{
+"id": "question495",
+"question": "What defines the asexual reproductive structures of fungi?",
+"choices": [
+"Teleomorph",
+"Anamorph",
+"Zygospore",
+"Basidiospore"
+],
+"correct_answer": "Anamorph"
+},
+{
+"id": "question496",
+"question": "The biological vector for the transmission of Trypanosoma brucei (African Sleeping Sickness) is the:",
+"choices": [
+"Sandfly",
+"Tsetse fly (Glossina)",
+"Triatomine bug",
+"Anopheles mosquito"
+],
+"correct_answer": "Tsetse fly (Glossina)"
+},
+{
+"id": "question497",
+"question": "Which structural component targets the CD4 receptor on human T-helper cells during HIV entry?",
+"choices": [
+"gp41",
+"gp120",
+"p24",
+"p17"
+],
+"correct_answer": "gp120"
+},
+{
+"id": "question498",
+"question": "Which diagnostic indicator confirms reactive secondary hypereosinophilia rather than clonal eosinophilia?",
+"choices": [
+"Presence of genetic mutations like BCR-ABL",
+"Elevation driven by underlying parasitic infections or allergic reactions",
+"Malignant expansion of bone marrow blasts",
+"Permanent absence of IL-5 cytokine levels"
+],
+"correct_answer": "Elevation driven by underlying parasitic infections or allergic reactions"
+},
+{
+"id": "question499",
+"question": "Which organism causes chronic infection of the biliary tract and is classified as a biological carcinogen linked to cholangiocarcinoma?",
+"choices": [
+"Schistosoma mansoni",
+"Clonorchis sinensis",
+"Paragonimus westermani",
+"Fasciola hepatica"
+],
+"correct_answer": "Clonorchis sinensis"
+},
+{
+"id": "question500",
+"question": "Which component allows structural categorization of influenza viruses into types A, B, C, and D?",
+"choices": [
+"Surface glycoproteins Hemagglutinin and Neuraminidase",
+"Internal ribonucleoprotein and matrix protein core antigens",
+"The layout of the lipid bilayer envelope",
+"The length of the segmented single-stranded DNA"
+],
+"correct_answer": "Internal ribonucleoprotein and matrix protein core antigens"
+}
+]

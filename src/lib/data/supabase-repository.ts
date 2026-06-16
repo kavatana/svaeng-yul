@@ -508,9 +508,10 @@ export const supabaseRepository: DataRepository = {
       questions: picked.map((q) => ({
         id: q.id,
         subjectId: q.subjectId,
-          questionText: q.questionText,
+        questionText: q.questionText,
         options: q.options,
         difficulty: q.difficulty,
+        localContextNote: q.localContextNote,
       })),
     };
   },

@@ -169,6 +169,7 @@ export function startQuizSession(params: {
     questionText: q.questionText,
     options: q.options,
     difficulty: q.difficulty,
+    localContextNote: q.localContextNote,
   }));
 
   return { session, questions };

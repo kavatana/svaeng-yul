@@ -18,6 +18,7 @@ import type { OptionKey } from "@/types/domain";
 export interface RunnerQuestion {
   id: string;
   questionText: string;
+  localContextNote?: string | null;
   options: Record<OptionKey, string>;
   difficulty: "easy" | "medium" | "hard";
   subjectName: string;
@@ -133,6 +134,11 @@ export function QuizRunner({
           {current.subjectName}
           {current.topicName ? ` · ${current.topicName}` : ""}
         </Badge>
+        {current.localContextNote && (
+          <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-2">
+            {current.localContextNote}
+          </p>
+        )}
         <h2 className="text-lg font-medium leading-relaxed">{current.questionText}</h2>
 
         <div className="space-y-2.5">

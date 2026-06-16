@@ -16,6 +16,7 @@ import type { OptionKey } from "@/types/domain";
 export interface PracticeQuestion {
   id: string;
   questionText: string;
+  localContextNote?: string | null;
   options: Record<OptionKey, string>;
   correctOption: OptionKey;
   explanation: string;
@@ -183,6 +184,9 @@ export function QcmPracticeRunner({
                   </span>
                   <p className="text-sm font-medium leading-relaxed">
                     <span className="text-muted-foreground">Q{i + 1}. </span>
+                    {q.localContextNote && (
+                      <span className="text-muted-foreground text-xs font-semibold uppercase tracking-wider mr-2">[{q.localContextNote}]</span>
+                    )}
                     {q.questionText}
                   </p>
                 </div>
@@ -239,6 +243,11 @@ export function QcmPracticeRunner({
 
       <GlowCard className="space-y-4 p-5">
         <Badge variant="secondary">{current.difficulty}</Badge>
+        {current.localContextNote && (
+          <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-2">
+            {current.localContextNote}
+          </p>
+        )}
         <h2 className="text-lg font-medium leading-relaxed">{current.questionText}</h2>
         <div className="space-y-2.5">
           {OPTION_KEYS.map((key) => {

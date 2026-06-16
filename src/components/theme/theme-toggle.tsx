@@ -1,17 +1,16 @@
 "use client";
 
-import { Monitor, Moon, Sun } from "lucide-react";
+import { Moon, Sun } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 import { useTheme, type ThemePreference } from "@/components/theme/theme-provider";
 
 const OPTIONS: { value: ThemePreference; label: string; icon: typeof Sun }[] = [
-  { value: "system", label: "System", icon: Monitor },
   { value: "light", label: "Light", icon: Sun },
   { value: "dark", label: "Dark", icon: Moon },
 ];
 
-/** Segmented System / Light / Dark control. Used on the profile page. */
+/** Segmented Light / Dark control. Used on the profile page. */
 export function ThemeToggle() {
   const { theme, setTheme } = useTheme();
   return (
@@ -47,11 +46,11 @@ export function ThemeToggle() {
 
 /** Compact icon-only cycle button for the app header / sidebar. */
 export function ThemeToggleButton({ className }: { className?: string }) {
-  const { theme, resolvedTheme, setTheme } = useTheme();
-  // Cycle system → light → dark → system.
-  const next: ThemePreference =
-    theme === "system" ? "light" : theme === "light" ? "dark" : "system";
-  const Icon = theme === "system" ? Monitor : resolvedTheme === "dark" ? Moon : Sun;
+  const { theme, setTheme } = useTheme();
+  // Cycle light → dark.
+  const next: ThemePreference = theme === "light" ? "dark" : "light";
+  const Icon = theme === "light" ? Moon : Sun;
+  
   return (
     <button
       type="button"

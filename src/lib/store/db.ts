@@ -152,7 +152,7 @@ function seedState(): StoreState {
       id: sessionId,
       userId: DEMO_STUDENT_ID,
       subjectId: infection.id,
-        mode: "random_practice",
+        mode: "practice",
       timePerQuestionSeconds: 60,
     totalQuestions: infQuestions.length,
       correctCount: 2,

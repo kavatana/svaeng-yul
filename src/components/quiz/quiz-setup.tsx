@@ -40,7 +40,7 @@ export function QuizSetup({
 
   const [subjectId, setSubjectId] = useState(initialSubject);
   const [mode, setMode] = useState<QuizMode>(
-    (QUIZ_MODES.find((m) => m.mode === defaultMode)?.mode ?? "random_practice") as QuizMode,
+    (QUIZ_MODES.find((m) => m.mode === defaultMode)?.mode ?? "practice") as QuizMode,
   );
   
   const [count, setCount] = useState<number>(50);

@@ -5,7 +5,7 @@
 
 export type OptionKey = "A" | "B" | "C" | "D";
 export type Difficulty = "easy" | "medium" | "hard";
-export type QuizMode = "random_practice" | "range_practice";
+export type QuizMode = "practice" | "timed" | "weak_area" | "challenge";
 export type ContentStatus = "draft" | "published" | "archived";
 export type UserRole = "student" | "admin";
 

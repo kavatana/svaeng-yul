@@ -77,16 +77,16 @@ export interface ModeMeta {
 
 export const QUIZ_MODES: ModeMeta[] = [
   {
-    mode: "random_practice",
+    mode: "practice",
     label: "Random Practice",
     blurb: "Questions pulled randomly from the subject.",
     icon: "Dices",
   },
   {
-    mode: "range_practice",
-    label: "Range Practice",
-    blurb: "Questions pulled sequentially from a specific range.",
-    icon: "ListOrdered",
+    mode: "timed",
+    label: "Timed Practice",
+    blurb: "Practice under time pressure.",
+    icon: "Timer",
   },
 ];
 

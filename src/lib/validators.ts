@@ -2,7 +2,7 @@ import { z } from "zod";
 
 export const optionKeySchema = z.enum(["A", "B", "C", "D"]);
 export const difficultySchema = z.enum(["easy", "medium", "hard"]);
-export const quizModeSchema = z.enum(["random_practice", "range_practice"]);
+export const quizModeSchema = z.enum(["practice", "timed", "weak_area", "challenge"]);
 export const statusSchema = z.enum(["draft", "published", "archived"]);
 
 /* ── Auth ─────────────────────────────────────────────── */

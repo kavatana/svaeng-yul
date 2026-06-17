@@ -6,6 +6,10 @@ import { Badge } from "@/components/ui/badge";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
+interface TopicCardTopic {
+  id: string;
+  name: string;
+}
 
 export function TopicCard({
   topic,
@@ -13,7 +17,7 @@ export function TopicCard({
   questionCount,
   isWeak,
 }: {
-  topic: any;
+  topic: TopicCardTopic;
   subjectSlug: string;
   questionCount: number;
   isWeak?: boolean;

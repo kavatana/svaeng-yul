@@ -467,7 +467,7 @@ export const supabaseRepository: DataRepository = {
   },
 
   async startQuizSession(params) {
-    let query = db()
+    const query = db()
       .from("questions")
       .select("*")
       .eq("subject_id", params.subjectId)
@@ -475,7 +475,7 @@ export const supabaseRepository: DataRepository = {
     
     const { data, error } = await query;
     assertNoError(error, "Load quiz question pool");
-    let pool = (data ?? []).map(mapQuestion);
+    const pool = (data ?? []).map(mapQuestion);
 
     
 

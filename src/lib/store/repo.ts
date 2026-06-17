@@ -2,18 +2,19 @@ import { v4 as uuid } from "uuid";
 import { store, DEMO_STUDENT_ID } from "@/lib/store/db";
 import type {
   AnswerReport,
+  Badge,
+  Challenge,
   ContentStatus,
   Difficulty,
-  OptionKey,
   Post,
   Profile,
+  QcmDashboardStats,
   Question,
   QuizMode,
   QuizQuestion,
   QuizResult,
   QuizSession,
   ReportStatus,
-  SubjectStats,
   UserQcmQuestion,
   UserQcmSession,
   UserQcmSet,
@@ -21,9 +22,16 @@ import type {
   UserRole,
 } from "@/types/domain";
 import type {
+  AdminStats,
+  AdminWeakSubject,
+  AttachAiVerdictInput,
+  CreateHintRequestInput,
+  CreatePostInput,
   CreateQcmQuestionInput,
   CreateQcmSetInput,
+  CreateReportInput,
   RecordQcmPracticeInput,
+  ReviewReportInput,
   UpdateQcmQuestionInput,
   UpdateQcmSetInput,
 } from "@/lib/data/types";
@@ -128,7 +136,7 @@ function pickQuestions(params: {
 
   startQuestionIndex?: number;
 }): Question[] {
-  let pool = store.questions.filter(
+  const pool = store.questions.filter(
     (q) => q.subjectId === params.subjectId && q.status === "published",
   );
 
@@ -367,37 +375,37 @@ export const DEFAULT_USER_ID = DEMO_STUDENT_ID;
 
 
 export function overallAccuracy(userId: string): number { return 0; }
-export function listBadges(): any[] { return []; }
+export function listBadges(): Badge[] { return []; }
 export function getEarnedBadgeIds(userId: string): Set<string> { return new Set(); }
-export function createHintRequest(input: any): void {}
-export function createReport(input: any): any { return {} as any; }
-export function attachAiVerdict(reportId: string, ai: any) {}
-export function listReports(status?: any): any[] { return []; }
-export function getReport(id: string): any { return null; }
-export function reviewReport(input: any): any { return null; }
-export function listPosts(status?: any): any[] { return []; }
-export function listAllPosts(): any[] { return []; }
-export function getPostBySlug(slug: string): any { return null; }
-export function getPost(id: string): any { return null; }
-export function createPost(input: any): any { return {} as any; }
-export function updatePost(id: string, patch: any): any { return null; }
+export function createHintRequest(input: CreateHintRequestInput): void {}
+export function createReport(input: CreateReportInput): AnswerReport { return {} as AnswerReport; }
+export function attachAiVerdict(reportId: string, ai: AttachAiVerdictInput): void {}
+export function listReports(status?: ReportStatus): AnswerReport[] { return []; }
+export function getReport(id: string): AnswerReport | null { return null; }
+export function reviewReport(input: ReviewReportInput): AnswerReport | null { return null; }
+export function listPosts(status?: ContentStatus): Post[] { return []; }
+export function listAllPosts(): Post[] { return []; }
+export function getPostBySlug(slug: string): Post | null { return null; }
+export function getPost(id: string): Post | null { return null; }
+export function createPost(input: CreatePostInput): Post { return {} as Post; }
+export function updatePost(id: string, patch: Partial<Post>): Post | null { return null; }
 export function savedPostIds(userId: string): Set<string> { return new Set(); }
 export function toggleSavedPost(userId: string, postId: string): boolean { return false; }
-export function listChallenges(): any[] { return []; }
+export function listChallenges(): Challenge[] { return []; }
 export function getChallengeProgress(userId: string, challengeId: string): number { return 0; }
-export function listQcmSets(ownerId: string, opts?: any): any[] { return []; }
-export function getQcmSet(setId: string, ownerId: string): any { return null; }
-export function createQcmSet(input: any): any { return {} as any; }
-export function updateQcmSet(setId: string, ownerId: string, patch: any): any { return null; }
+export function listQcmSets(ownerId: string, opts?: { includeArchived?: boolean }): UserQcmSetSummary[] { return []; }
+export function getQcmSet(setId: string, ownerId: string): UserQcmSet | null { return null; }
+export function createQcmSet(input: CreateQcmSetInput): UserQcmSet { return {} as UserQcmSet; }
+export function updateQcmSet(setId: string, ownerId: string, patch: UpdateQcmSetInput): UserQcmSet | null { return null; }
 export function deleteQcmSet(setId: string, ownerId: string): boolean { return false; }
-export function listQcmQuestions(setId: string, ownerId: string, opts?: any): any[] { return []; }
-export function getQcmQuestion(questionId: string, ownerId: string): any { return null; }
-export function createQcmQuestion(input: any): any { return {} as any; }
-export function updateQcmQuestion(questionId: string, ownerId: string, patch: any): any { return null; }
+export function listQcmQuestions(setId: string, ownerId: string, opts?: { includeArchived?: boolean }): UserQcmQuestion[] { return []; }
+export function getQcmQuestion(questionId: string, ownerId: string): UserQcmQuestion | null { return null; }
+export function createQcmQuestion(input: CreateQcmQuestionInput): UserQcmQuestion { return {} as UserQcmQuestion; }
+export function updateQcmQuestion(questionId: string, ownerId: string, patch: UpdateQcmQuestionInput): UserQcmQuestion | null { return null; }
 export function deleteQcmQuestion(questionId: string, ownerId: string): boolean { return false; }
-export function recordQcmPractice(input: any): any { return {} as any; }
-export function qcmDashboardStats(ownerId: string): any { return { totalSets: 0, totalQuestions: 0, totalPractices: 0 }; }
-export function listStudentProfiles(): any[] { return []; }
-export function adminStats(): any { return {}; }
-export function adminWeakSubjects(): any[] { return []; }
-export function advanceChallenges(userId: string, subjectId: string, questionsAnswered: number) {}
+export function recordQcmPractice(input: RecordQcmPracticeInput): UserQcmSession { return {} as UserQcmSession; }
+export function qcmDashboardStats(ownerId: string): QcmDashboardStats { return { totalSets: 0, totalQuestions: 0, examSets: 0 }; }
+export function listStudentProfiles(): Profile[] { return []; }
+export function adminStats(): AdminStats { return {} as AdminStats; }
+export function adminWeakSubjects(): AdminWeakSubject[] { return []; }
+export function advanceChallenges(userId: string, subjectId: string, questionsAnswered: number): void {}

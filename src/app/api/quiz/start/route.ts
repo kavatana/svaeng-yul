@@ -22,20 +22,28 @@ export async function POST(request: Request) {
   const subject = (await getSubjectBySlug(subjectId)) ?? (await getSubject(subjectId));
   if (!subject) return NextResponse.json({ error: "Unknown subject" }, { status: 404 });
 
-  const { session, questions } = await startQuizSession({
-    userId: user.userId,
-    subjectId: subject.id,
-    timePerQuestionSeconds,
-    mode,
-    count,
-  });
+  try {
+    const { session, questions } = await startQuizSession({
+      userId: user.userId,
+      subjectId: subject.id,
+      timePerQuestionSeconds,
+      mode,
+      count,
+    });
 
-  if (questions.length === 0) {
+    if (questions.length === 0) {
+      return NextResponse.json(
+        { error: "No questions available for this selection yet." },
+        { status: 422 },
+      );
+    }
+
+    return NextResponse.json({ sessionId: session.id, questions });
+  } catch (error: any) {
+    console.error("Quiz Start Error:", error);
     return NextResponse.json(
-      { error: "No questions available for this selection yet." },
-      { status: 422 },
+      { error: error?.message ?? "An unexpected server error occurred while starting the quiz." },
+      { status: 500 }
     );
   }
-
-  return NextResponse.json({ sessionId: session.id, questions });
 }

@@ -467,45 +467,52 @@ export const supabaseRepository: DataRepository = {
   },
 
   async startQuizSession(params) {
-    let query = db()
+    const { data: allIds, error: idErr } = await db()
       .from("questions")
-      .select("*")
+      .select("id")
       .eq("subject_id", params.subjectId)
       .eq("status", "published");
-    
-    const { data, error } = await query;
-    assertNoError(error, "Load quiz question pool");
-    let pool = (data ?? []).map(mapQuestion);
+    assertNoError(idErr, "Load quiz question IDs");
 
-    
+    const pickedIds = shuffle(allIds ?? []).slice(0, params.count).map(row => row.id);
 
-    const picked = shuffle(pool).slice(0, params.count);
     const { data: sessionRow, error: sessionError } = await db()
       .from("quiz_sessions")
       .insert({
         user_id: params.userId,
         subject_id: params.subjectId,
-                mode: params.mode,
-        total_questions: picked.length,
+        mode: params.mode,
+        total_questions: pickedIds.length,
       })
       .select()
       .single();
     assertNoError(sessionError, "Create quiz session");
 
-    if (picked.length > 0) {
+    let finalQuestions: ReturnType<typeof mapQuestion>[] = [];
+
+    if (pickedIds.length > 0) {
       const { error: mapError } = await db().from("quiz_session_questions").insert(
-        picked.map((q, index) => ({
+        pickedIds.map((qId, index) => ({
           session_id: sessionRow.id,
-          question_id: q.id,
+          question_id: qId,
           order_index: index,
         })),
       );
       assertNoError(mapError, "Create quiz question mapping");
+
+      const { data: fullQuestions, error: qErr } = await db()
+        .from("questions")
+        .select("*")
+        .in("id", pickedIds);
+      assertNoError(qErr, "Load picked questions");
+
+      const qMap = new Map((fullQuestions ?? []).map((q: any) => [q.id, mapQuestion(q)]));
+      finalQuestions = pickedIds.map(id => qMap.get(id)!).filter(Boolean);
     }
 
     return {
-      session: mapSession(sessionRow, picked.map((q) => q.id)),
-      questions: picked.map((q) => ({
+      session: mapSession(sessionRow, pickedIds),
+      questions: finalQuestions.map((q) => ({
         id: q.id,
         subjectId: q.subjectId,
         questionText: q.questionText,

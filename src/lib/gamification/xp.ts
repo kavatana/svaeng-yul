@@ -52,7 +52,8 @@ export function computeQuizXp(params: {
   let xp = correctCount * 10 + 20;
   if (scorePercent >= 100) xp += 80;
   else if (scorePercent >= 80) xp += 30;
-  
+  if (mode === "challenge") xp += 25;
+
   return xp;
 }
 

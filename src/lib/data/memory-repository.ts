@@ -64,5 +64,5 @@ export const memoryRepository: DataRepository = {
   listStudentProfiles: async () => repo.listStudentProfiles(),
   adminStats: async () => repo.adminStats(),
   adminWeakSubjects: async () => repo.adminWeakSubjects(),
-    subjectStats: async (userId, subjectId) => ({ subjectId, totalQuestions: 0, answered: 0, accuracy: 0 }),
-      };
+  subjectStats: async (userId, subjectId) => repo.subjectStats(userId, subjectId),
+};

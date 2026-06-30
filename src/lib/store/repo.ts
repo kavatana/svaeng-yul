@@ -2,12 +2,15 @@ import { v4 as uuid } from "uuid";
 import { store, DEMO_STUDENT_ID } from "@/lib/store/db";
 import type {
   AnswerReport,
+  Badge,
+  Challenge,
   ContentStatus,
   Difficulty,
-  OptionKey,
   Post,
   Profile,
+  QcmDashboardStats,
   Question,
+  QuizAnswer,
   QuizMode,
   QuizQuestion,
   QuizResult,
@@ -21,9 +24,16 @@ import type {
   UserRole,
 } from "@/types/domain";
 import type {
+  AdminStats,
+  AdminWeakSubject,
+  AttachAiVerdictInput,
+  CreateHintRequestInput,
+  CreatePostInput,
   CreateQcmQuestionInput,
   CreateQcmSetInput,
+  CreateReportInput,
   RecordQcmPracticeInput,
+  ReviewReportInput,
   UpdateQcmQuestionInput,
   UpdateQcmSetInput,
 } from "@/lib/data/types";
@@ -31,7 +41,7 @@ import { shuffle } from "@/lib/utils";
 import { gradeQuiz, type SubmittedAnswer } from "@/lib/quiz/scoring";
 import { computeQuizXp, computeStreak, levelForXp } from "@/lib/gamification/xp";
 import { evaluateBadges } from "@/lib/gamification/badges";
-import { SUBJECT_META, type SubjectSlug } from "@/lib/constants";
+import { type SubjectSlug } from "@/lib/constants";
 
 const nowIso = () => new Date().toISOString();
 
@@ -128,10 +138,9 @@ function pickQuestions(params: {
 
   startQuestionIndex?: number;
 }): Question[] {
-  let pool = store.questions.filter(
+  const pool = store.questions.filter(
     (q) => q.subjectId === params.subjectId && q.status === "published",
   );
-
 
   return shuffle(pool).slice(0, params.count);
 }
@@ -365,39 +374,453 @@ function buildResultFromStored(session: QuizSession): QuizResult {
 /** Convenience for demo: the default student id. */
 export const DEFAULT_USER_ID = DEMO_STUDENT_ID;
 
+/** Answers from this user's completed sessions, optionally scoped to a subject. */
+function answersForCompletedSessions(userId: string, subjectId?: string): QuizAnswer[] {
+  const sessionIds = new Set(
+    store.sessions
+      .filter(
+        (s) =>
+          s.userId === userId &&
+          s.completedAt &&
+          (!subjectId || s.subjectId === subjectId),
+      )
+      .map((s) => s.id),
+  );
+  return store.answers.filter((a) => sessionIds.has(a.sessionId));
+}
 
-export function overallAccuracy(userId: string): number { return 0; }
-export function listBadges(): any[] { return []; }
-export function getEarnedBadgeIds(userId: string): Set<string> { return new Set(); }
-export function createHintRequest(input: any): void {}
-export function createReport(input: any): any { return {} as any; }
-export function attachAiVerdict(reportId: string, ai: any) {}
-export function listReports(status?: any): any[] { return []; }
-export function getReport(id: string): any { return null; }
-export function reviewReport(input: any): any { return null; }
-export function listPosts(status?: any): any[] { return []; }
-export function listAllPosts(): any[] { return []; }
-export function getPostBySlug(slug: string): any { return null; }
-export function getPost(id: string): any { return null; }
-export function createPost(input: any): any { return {} as any; }
-export function updatePost(id: string, patch: any): any { return null; }
-export function savedPostIds(userId: string): Set<string> { return new Set(); }
-export function toggleSavedPost(userId: string, postId: string): boolean { return false; }
-export function listChallenges(): any[] { return []; }
-export function getChallengeProgress(userId: string, challengeId: string): number { return 0; }
-export function listQcmSets(ownerId: string, opts?: any): any[] { return []; }
-export function getQcmSet(setId: string, ownerId: string): any { return null; }
-export function createQcmSet(input: any): any { return {} as any; }
-export function updateQcmSet(setId: string, ownerId: string, patch: any): any { return null; }
-export function deleteQcmSet(setId: string, ownerId: string): boolean { return false; }
-export function listQcmQuestions(setId: string, ownerId: string, opts?: any): any[] { return []; }
-export function getQcmQuestion(questionId: string, ownerId: string): any { return null; }
-export function createQcmQuestion(input: any): any { return {} as any; }
-export function updateQcmQuestion(questionId: string, ownerId: string, patch: any): any { return null; }
-export function deleteQcmQuestion(questionId: string, ownerId: string): boolean { return false; }
-export function recordQcmPractice(input: any): any { return {} as any; }
-export function qcmDashboardStats(ownerId: string): any { return { totalSets: 0, totalQuestions: 0, totalPractices: 0 }; }
-export function listStudentProfiles(): any[] { return []; }
-export function adminStats(): any { return {}; }
-export function adminWeakSubjects(): any[] { return []; }
-export function advanceChallenges(userId: string, subjectId: string, questionsAnswered: number) {}
+export function subjectStats(userId: string, subjectId: string): SubjectStats {
+  const totalQuestions = store.questions.filter(
+    (q) => q.subjectId === subjectId && q.status === "published",
+  ).length;
+  const answers = answersForCompletedSessions(userId, subjectId);
+  const answeredQuestionIds = new Set(answers.map((a) => a.questionId));
+  const correct = answers.filter((a) => a.isCorrect).length;
+  return {
+    subjectId,
+    totalQuestions,
+    answered: answeredQuestionIds.size,
+    accuracy: answers.length ? Math.round((correct / answers.length) * 100) : 0,
+  };
+}
+
+export function overallAccuracy(userId: string): number {
+  const answers = answersForCompletedSessions(userId);
+  if (!answers.length) return 0;
+  return Math.round((answers.filter((a) => a.isCorrect).length / answers.length) * 100);
+}
+
+/* ── Badges ───────────────────────────────────────────── */
+export function listBadges(): Badge[] {
+  return [...store.badges].sort((a, b) => a.name.localeCompare(b.name));
+}
+
+export function getEarnedBadgeIds(userId: string): Set<string> {
+  return new Set(
+    store.userBadges.filter((ub) => ub.userId === userId).map((ub) => ub.badgeId),
+  );
+}
+
+/* ── Hint requests ────────────────────────────────────── */
+export function createHintRequest(input: CreateHintRequestInput): void {
+  store.hintRequests.push({
+    id: uuid(),
+    userId: input.userId,
+    sessionId: input.sessionId,
+    questionId: input.questionId,
+    hintText: input.hintText,
+    createdAt: nowIso(),
+  });
+}
+
+/* ── Answer reports (AI dispute flow) ─────────────────── */
+export function createReport(input: CreateReportInput): AnswerReport {
+  const report: AnswerReport = {
+    id: uuid(),
+    userId: input.userId,
+    questionId: input.questionId,
+    sessionId: input.sessionId,
+    studentReason: input.studentReason,
+    referenceNote: input.referenceNote,
+    aiVerdict: null,
+    aiConfidence: null,
+    aiReason: null,
+    aiSuggestedAction: null,
+    adminStatus: "pending",
+    adminNote: null,
+    reviewedBy: null,
+    createdAt: nowIso(),
+    reviewedAt: null,
+  };
+  store.reports.push(report);
+  return report;
+}
+
+export function attachAiVerdict(reportId: string, ai: AttachAiVerdictInput): void {
+  const report = store.reports.find((r) => r.id === reportId);
+  if (!report) return;
+  report.aiVerdict = ai.verdict as AnswerReport["aiVerdict"];
+  report.aiConfidence = ai.confidence;
+  report.aiReason = ai.reason;
+  report.aiSuggestedAction = ai.action;
+}
+
+export function listReports(status?: ReportStatus): AnswerReport[] {
+  return store.reports
+    .filter((r) => !status || r.adminStatus === status)
+    .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+}
+
+export function getReport(id: string): AnswerReport | null {
+  return store.reports.find((r) => r.id === id) ?? null;
+}
+
+export function reviewReport(input: ReviewReportInput): AnswerReport | null {
+  const report = getReport(input.reportId);
+  if (!report) return null;
+
+  if (input.action === "changed_answer" && input.newCorrectOption) {
+    const q = getQuestion(report.questionId);
+    if (q) Object.assign(q, { correctOption: input.newCorrectOption, updatedAt: nowIso() });
+  }
+  if (input.action === "improved_explanation" && input.newExplanation) {
+    const q = getQuestion(report.questionId);
+    if (q) Object.assign(q, { explanation: input.newExplanation, updatedAt: nowIso() });
+  }
+  if (input.action === "marked_ambiguous") {
+    const q = getQuestion(report.questionId);
+    if (q) Object.assign(q, { status: "draft" as ContentStatus, updatedAt: nowIso() });
+  }
+
+  report.adminStatus = input.action;
+  report.adminNote = input.adminNote ?? null;
+  report.reviewedBy = input.reviewerId;
+  report.reviewedAt = nowIso();
+  return report;
+}
+
+/* ── Posts ────────────────────────────────────────────── */
+export function listPosts(status: ContentStatus = "published"): Post[] {
+  return store.posts
+    .filter((p) => p.status === status)
+    .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+}
+
+export function listAllPosts(): Post[] {
+  return [...store.posts].sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+}
+
+export function getPostBySlug(slug: string): Post | null {
+  return store.posts.find((p) => p.slug === slug) ?? null;
+}
+
+export function getPost(id: string): Post | null {
+  return store.posts.find((p) => p.id === id) ?? null;
+}
+
+export function createPost(input: CreatePostInput): Post {
+  const post: Post = { ...input, id: uuid(), createdAt: nowIso() };
+  store.posts.push(post);
+  return post;
+}
+
+export function updatePost(id: string, patch: Partial<Post>): Post | null {
+  const post = getPost(id);
+  if (!post) return null;
+  Object.assign(post, patch);
+  return post;
+}
+
+export function savedPostIds(userId: string): Set<string> {
+  return new Set(
+    store.savedPosts.filter((s) => s.userId === userId).map((s) => s.postId),
+  );
+}
+
+export function toggleSavedPost(userId: string, postId: string): boolean {
+  const idx = store.savedPosts.findIndex((s) => s.userId === userId && s.postId === postId);
+  if (idx >= 0) {
+    store.savedPosts.splice(idx, 1);
+    return false;
+  }
+  store.savedPosts.push({ userId, postId });
+  return true;
+}
+
+/* ── Challenges ───────────────────────────────────────── */
+export function listChallenges(): Challenge[] {
+  return [...store.challenges].sort((a, b) => a.endsAt.localeCompare(b.endsAt));
+}
+
+export function getChallengeProgress(userId: string, challengeId: string): number {
+  return (
+    store.challengeProgress.find(
+      (p) => p.userId === userId && p.challengeId === challengeId,
+    )?.progressValue ?? 0
+  );
+}
+
+export function advanceChallenges(
+  userId: string,
+  subjectId: string,
+  questionsAnswered: number,
+): void {
+  for (const challenge of store.challenges) {
+    if (challenge.subjectId && challenge.subjectId !== subjectId) continue;
+    if (
+      challenge.targetType !== "questions_answered" &&
+      challenge.targetType !== "questions_completed"
+    ) {
+      continue;
+    }
+    const existing = store.challengeProgress.find(
+      (p) => p.userId === userId && p.challengeId === challenge.id,
+    );
+    const nextValue = Math.min(
+      challenge.targetValue,
+      (existing?.progressValue ?? 0) + questionsAnswered,
+    );
+    const completedAt =
+      nextValue >= challenge.targetValue
+        ? existing?.completedAt ?? nowIso()
+        : existing?.completedAt ?? null;
+    if (existing) {
+      existing.progressValue = nextValue;
+      existing.completedAt = completedAt;
+    } else {
+      store.challengeProgress.push({
+        challengeId: challenge.id,
+        userId,
+        progressValue: nextValue,
+        completedAt,
+      });
+    }
+  }
+}
+
+/* ── My QCM (owner-scoped; ownership enforced here) ───── */
+function touchQcmSet(setId: string) {
+  const set = store.userQcmSets.find((s) => s.id === setId);
+  if (set) set.updatedAt = nowIso();
+}
+
+function toQcmSetSummary(set: UserQcmSet): UserQcmSetSummary {
+  const questionCount = store.userQcmQuestions.filter(
+    (q) => q.setId === set.id && !q.isArchived,
+  ).length;
+  const lastSession = store.userQcmSessions
+    .filter((s) => s.setId === set.id)
+    .sort((a, b) => b.createdAt.localeCompare(a.createdAt))[0];
+  const subjectLabel =
+    set.customSubject ||
+    (set.subjectId ? getSubject(set.subjectId)?.name ?? null : null);
+  return {
+    ...set,
+    questionCount,
+    lastPracticedAt: lastSession?.createdAt ?? null,
+    lastAccuracy: lastSession ? Math.round(lastSession.scorePercent) : null,
+    subjectLabel,
+    topicLabel: null,
+  };
+}
+
+export function listQcmSets(
+  ownerId: string,
+  opts?: { includeArchived?: boolean },
+): UserQcmSetSummary[] {
+  return store.userQcmSets
+    .filter((s) => s.ownerId === ownerId && (opts?.includeArchived || !s.isArchived))
+    .sort((a, b) => b.updatedAt.localeCompare(a.updatedAt))
+    .map(toQcmSetSummary);
+}
+
+export function getQcmSet(setId: string, ownerId: string): UserQcmSet | null {
+  return (
+    store.userQcmSets.find((s) => s.id === setId && s.ownerId === ownerId) ?? null
+  );
+}
+
+export function createQcmSet(input: CreateQcmSetInput): UserQcmSet {
+  const set: UserQcmSet = {
+    id: uuid(),
+    ownerId: input.ownerId,
+    title: input.title,
+    description: input.description,
+    subjectId: input.subjectId,
+    customSubject: input.customSubject,
+    visibility: input.visibility,
+    examDate: input.examDate,
+    tags: input.tags,
+    isArchived: false,
+    createdAt: nowIso(),
+    updatedAt: nowIso(),
+  };
+  store.userQcmSets.push(set);
+  return set;
+}
+
+export function updateQcmSet(
+  setId: string,
+  ownerId: string,
+  patch: UpdateQcmSetInput,
+): UserQcmSet | null {
+  const set = getQcmSet(setId, ownerId);
+  if (!set) return null;
+  Object.assign(set, patch, { updatedAt: nowIso() });
+  return set;
+}
+
+export function deleteQcmSet(setId: string, ownerId: string): boolean {
+  const idx = store.userQcmSets.findIndex((s) => s.id === setId && s.ownerId === ownerId);
+  if (idx < 0) return false;
+  store.userQcmSets.splice(idx, 1);
+  store.userQcmQuestions = store.userQcmQuestions.filter((q) => q.setId !== setId);
+  store.userQcmSessions = store.userQcmSessions.filter((s) => s.setId !== setId);
+  return true;
+}
+
+export function listQcmQuestions(
+  setId: string,
+  ownerId: string,
+  opts?: { includeArchived?: boolean },
+): UserQcmQuestion[] {
+  return store.userQcmQuestions
+    .filter(
+      (q) =>
+        q.setId === setId &&
+        q.ownerId === ownerId &&
+        (opts?.includeArchived || !q.isArchived),
+    )
+    .sort((a, b) => a.createdAt.localeCompare(b.createdAt));
+}
+
+export function getQcmQuestion(
+  questionId: string,
+  ownerId: string,
+): UserQcmQuestion | null {
+  return (
+    store.userQcmQuestions.find((q) => q.id === questionId && q.ownerId === ownerId) ??
+    null
+  );
+}
+
+export function createQcmQuestion(input: CreateQcmQuestionInput): UserQcmQuestion {
+  const set = getQcmSet(input.setId, input.ownerId);
+  if (!set) throw new Error("Unknown set");
+  const question: UserQcmQuestion = {
+    id: uuid(),
+    setId: input.setId,
+    ownerId: input.ownerId,
+    questionText: input.questionText,
+    options: input.options,
+    correctOption: input.correctOption,
+    explanation: input.explanation,
+    difficulty: input.difficulty,
+    sourceNote: input.sourceNote,
+    tags: input.tags,
+    isArchived: false,
+    createdAt: nowIso(),
+    updatedAt: nowIso(),
+  };
+  store.userQcmQuestions.push(question);
+  touchQcmSet(input.setId);
+  return question;
+}
+
+export function updateQcmQuestion(
+  questionId: string,
+  ownerId: string,
+  patch: UpdateQcmQuestionInput,
+): UserQcmQuestion | null {
+  const question = getQcmQuestion(questionId, ownerId);
+  if (!question) return null;
+  Object.assign(question, patch, { updatedAt: nowIso() });
+  touchQcmSet(question.setId);
+  return question;
+}
+
+export function deleteQcmQuestion(questionId: string, ownerId: string): boolean {
+  const idx = store.userQcmQuestions.findIndex(
+    (q) => q.id === questionId && q.ownerId === ownerId,
+  );
+  if (idx < 0) return false;
+  const [removed] = store.userQcmQuestions.splice(idx, 1);
+  touchQcmSet(removed.setId);
+  return true;
+}
+
+export function recordQcmPractice(input: RecordQcmPracticeInput): UserQcmSession {
+  const set = getQcmSet(input.setId, input.ownerId);
+  if (!set) throw new Error("Unknown set");
+  const scorePercent = input.totalQuestions
+    ? Math.round((input.correctCount / input.totalQuestions) * 100)
+    : 0;
+  const session: UserQcmSession = {
+    id: uuid(),
+    setId: input.setId,
+    ownerId: input.ownerId,
+    totalQuestions: input.totalQuestions,
+    correctCount: input.correctCount,
+    scorePercent,
+    createdAt: nowIso(),
+  };
+  store.userQcmSessions.push(session);
+  return session;
+}
+
+export function qcmDashboardStats(ownerId: string): QcmDashboardStats {
+  const sets = store.userQcmSets.filter((s) => s.ownerId === ownerId && !s.isArchived);
+  const setIds = new Set(sets.map((s) => s.id));
+  const totalQuestions = store.userQcmQuestions.filter(
+    (q) => q.ownerId === ownerId && !q.isArchived && setIds.has(q.setId),
+  ).length;
+  const today = new Date().toISOString().slice(0, 10);
+  const examSets = sets.filter((s) => s.examDate && s.examDate >= today).length;
+  return {
+    totalSets: sets.length,
+    totalQuestions,
+    examSets,
+  };
+}
+
+/* ── Admin / leaderboard ──────────────────────────────── */
+export function listStudentProfiles(): Profile[] {
+  return store.profiles
+    .filter((p) => p.role === "student")
+    .sort((a, b) => b.xp - a.xp);
+}
+
+export function adminStats(): AdminStats {
+  const completedSessions = store.sessions.filter((s) => s.completedAt).length;
+  return {
+    totalQuestions: store.questions.length,
+    publishedQuestions: store.questions.filter((q) => q.status === "published").length,
+    totalUsers: store.profiles.filter((p) => p.role === "student").length,
+    pendingReports: store.reports.filter((r) => r.adminStatus === "pending").length,
+    quizzesCompleted: completedSessions,
+    totalPosts: store.posts.length,
+  };
+}
+
+export function adminWeakSubjects(): AdminWeakSubject[] {
+  const answers = store.answers.filter((a) =>
+    store.sessions.some((s) => s.id === a.sessionId && s.completedAt),
+  );
+  const tally = new Map<string, { correct: number; total: number }>();
+  for (const answer of answers) {
+    const question = getQuestion(answer.questionId);
+    if (!question) continue;
+    const t = tally.get(question.subjectId) ?? { correct: 0, total: 0 };
+    t.total += 1;
+    if (answer.isCorrect) t.correct += 1;
+    tally.set(question.subjectId, t);
+  }
+  return [...tally.entries()]
+    .map(([subjectId, t]) => ({
+      subjectId,
+      answered: t.total,
+      accuracy: t.total ? Math.round((t.correct / t.total) * 100) : 0,
+    }))
+    .filter((x) => x.answered > 0)
+    .sort((a, b) => a.accuracy - b.accuracy);
+}

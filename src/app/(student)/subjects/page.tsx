@@ -11,8 +11,7 @@ export default async function SubjectsPage() {
   const subjectRows = await Promise.all(
     subjects.map(async (subject) => {
       const stats = await subjectStats(profile.userId, subject.id);
-      const weakTopic = null;
-      return { subject, stats, weakTopic };
+      return { subject, stats };
     }),
   );
 
@@ -26,7 +25,7 @@ export default async function SubjectsPage() {
       </header>
 
       <div className="grid gap-3 sm:grid-cols-2">
-        {subjectRows.map(({ subject, stats, weakTopic }) => (
+        {subjectRows.map(({ subject, stats }) => (
           <SubjectCard
             key={subject.id}
             subject={subject}

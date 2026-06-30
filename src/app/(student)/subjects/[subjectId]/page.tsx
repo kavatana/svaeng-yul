@@ -7,7 +7,6 @@ import { requireUser } from "@/lib/auth/session";
 import {
   getSubject,
   getSubjectBySlug,
-  listQuestions,
   subjectMeta,
   subjectStats,
 } from "@/lib/data";

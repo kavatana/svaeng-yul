@@ -47,7 +47,6 @@ export default async function HomePage() {
     practiced.sort((a, b) => a.stats.accuracy - b.stats.accuracy)[0] ??
     statsBySubject[0];
   const focusMeta = subjectMeta(focus.subject.slug);
-  const focusWeakTopic = null;
 
   const recent = (await listSessions(profile.userId))[0] ?? null;
   const recentSubject = recent ? await getSubject(recent.subjectId) : null;
@@ -59,7 +58,6 @@ export default async function HomePage() {
   const dailyChallengeProgress = dailyChallenge
     ? await getChallengeProgress(profile.userId, dailyChallenge.id)
     : 0;
-  const weakTopics = new Map<string, string | null>();
 
   return (
     <div className="space-y-6">
@@ -93,20 +91,14 @@ export default async function HomePage() {
           <div className="min-w-0">
             <div className="font-semibold">{focus.subject.name}</div>
             <p className="truncate text-xs text-muted-foreground">
-              {focusWeakTopic
-                ? `Recommended: ${''}`
-                : focus.stats.answered
-                  ? `${pct(focus.stats.accuracy)} accuracy — keep going`
-                  : "Start your first set here"}
+              {focus.stats.answered
+                ? `${pct(focus.stats.accuracy)} accuracy — keep going`
+                : "Start your first set here"}
             </p>
           </div>
         </div>
         <Link
-          href={
-            focusWeakTopic
-              ? `/quiz/setup?subject=${focus.subject.slug}&mode=weak_area`
-              : `/quiz/setup?subject=${focus.subject.slug}`
-          }
+          href={`/quiz/setup?subject=${focus.subject.slug}`}
           className={cn(buttonVariants({ size: "lg" }), "w-full")}
         >
           Practice now <ArrowRight className="size-4" />

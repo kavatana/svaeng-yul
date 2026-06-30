@@ -39,11 +39,12 @@ export async function POST(request: Request) {
     }
 
     return NextResponse.json({ sessionId: session.id, questions });
-  } catch (error: any) {
+  } catch (error: unknown) {
     console.error("Quiz Start Error:", error);
-    return NextResponse.json(
-      { error: error?.message ?? "An unexpected server error occurred while starting the quiz." },
-      { status: 500 }
-    );
+    const message =
+      error instanceof Error
+        ? error.message
+        : "An unexpected server error occurred while starting the quiz.";
+    return NextResponse.json({ error: message }, { status: 500 });
   }
 }

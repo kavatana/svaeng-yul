@@ -18,7 +18,7 @@ import type {
   UserRole,
 } from "@/types/domain";
 import type { DataRepository, QuestionFilter } from "@/lib/data/types";
-import { shuffle, slugify } from "@/lib/utils";
+import { shuffle } from "@/lib/utils";
 import { gradeQuiz, type SubmittedAnswer } from "@/lib/quiz/scoring";
 import { computeQuizXp, computeStreak, levelForXp } from "@/lib/gamification/xp";
 import { evaluateBadges } from "@/lib/gamification/badges";

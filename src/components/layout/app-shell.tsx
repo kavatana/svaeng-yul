@@ -1,14 +1,29 @@
 import Link from "next/link";
-import { LogOut } from "lucide-react";
+import { FlaskConical, LogOut } from "lucide-react";
 
 import { Brand } from "@/components/layout/brand";
 import { StudentBottomNav, StudentSideNav } from "@/components/layout/student-nav";
 import { ThemeToggleButton } from "@/components/theme/theme-toggle";
 import { signOut } from "@/lib/auth/actions";
+import { isSupabaseConfigured } from "@/lib/config";
 import { MEDICAL_SAFETY_NOTE } from "@/lib/constants";
+
+/** Subtle, persistent reminder that demo data is in-memory and resets on restart. */
+function DemoModeBadge({ className = "" }: { className?: string }) {
+  return (
+    <span
+      className={`inline-flex items-center gap-1.5 rounded-full border border-amber/30 bg-amber/10 px-2.5 py-1 text-[0.7rem] font-medium text-amber ${className}`}
+      title="Running without Supabase — data lives in memory and resets when the server restarts."
+    >
+      <FlaskConical className="size-3" />
+      Demo mode — data resets on restart
+    </span>
+  );
+}
 
 /** Student app shell: sidebar on tablet/desktop, bottom nav on phone. */
 export function AppShell({ children }: { children: React.ReactNode }) {
+  const isDemo = !isSupabaseConfigured;
   return (
     <div className="min-h-dvh md:flex">
       {/* Tablet / desktop sidebar */}
@@ -18,6 +33,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         </Link>
         <StudentSideNav />
         <div className="mt-auto space-y-3">
+          {isDemo && <DemoModeBadge className="mx-2" />}
           <p className="px-2 text-[0.7rem] leading-relaxed text-muted-foreground">
             {MEDICAL_SAFETY_NOTE}
           </p>
@@ -55,6 +71,11 @@ export function AppShell({ children }: { children: React.ReactNode }) {
       </header>
 
       <main className="mx-auto w-full max-w-3xl flex-1 px-4 pb-28 pt-4 md:px-8 md:py-8 md:pb-8">
+        {isDemo && (
+          <div className="mb-4 flex justify-center md:hidden">
+            <DemoModeBadge />
+          </div>
+        )}
         {children}
       </main>
 

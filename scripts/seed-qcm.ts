@@ -10,7 +10,7 @@
  */
 import { createClient } from "@supabase/supabase-js";
 
-import { validateQcm, formatValidationReport } from "@/lib/seed/validate-qcm";
+import { validateQcm } from "@/lib/seed/validate-qcm";
 import { seedSupabase } from "@/lib/seed/seed-supabase";
 
 function loadEnvLocal() {

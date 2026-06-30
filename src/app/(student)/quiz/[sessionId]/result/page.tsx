@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { connection } from "next/server";
-import { Home, RefreshCw, Target } from "lucide-react";
+import { Home, RefreshCw } from "lucide-react";
 
 import { requireUser } from "@/lib/auth/session";
 import {

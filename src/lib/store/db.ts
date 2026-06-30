@@ -21,7 +21,6 @@ import {
   POSTS,
   QUESTIONS,
   SUBJECTS,
-  TOPICS,
 } from "@/data/seed";
 
 /**

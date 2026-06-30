@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { connection } from "next/server";
-import { Archive, Plus } from "lucide-react";
+import { Archive, ChevronLeft, ChevronRight, Plus } from "lucide-react";
 
 import {
   archiveQuestionAction,
@@ -19,10 +19,18 @@ import type { ContentStatus, Difficulty } from "@/types/domain";
 const selectClass =
   "h-9 rounded-lg border border-input bg-background/40 px-2 text-sm outline-none";
 
+const PAGE_SIZE = 50;
+
 export default async function AdminQuestionsPage({
   searchParams,
 }: {
-  searchParams: Promise<{ subject?: string; status?: string; difficulty?: string; q?: string }>;
+  searchParams: Promise<{
+    subject?: string;
+    status?: string;
+    difficulty?: string;
+    q?: string;
+    page?: string;
+  }>;
 }) {
   await connection();
   const sp = await searchParams;
@@ -35,9 +43,35 @@ export default async function AdminQuestionsPage({
     difficulty: (sp.difficulty as Difficulty) || undefined,
     search: sp.q || undefined,
   });
+
+  const totalQuestions = questions.length;
+  const totalPages = Math.max(1, Math.ceil(totalQuestions / PAGE_SIZE));
+  const parsedPage = Number.parseInt(sp.page ?? "1", 10);
+  const currentPage = Math.min(
+    Math.max(Number.isNaN(parsedPage) ? 1 : parsedPage, 1),
+    totalPages,
+  );
+  const startIndex = (currentPage - 1) * PAGE_SIZE;
+  const pageQuestions = questions.slice(startIndex, startIndex + PAGE_SIZE);
+
+  // Preserve active filters across pagination links; only `page` changes.
+  const pageHref = (page: number) => {
+    const params = new URLSearchParams();
+    if (sp.q) params.set("q", sp.q);
+    if (sp.subject) params.set("subject", sp.subject);
+    if (sp.status) params.set("status", sp.status);
+    if (sp.difficulty) params.set("difficulty", sp.difficulty);
+    if (page > 1) params.set("page", String(page));
+    const query = params.toString();
+    return query ? `/admin/questions?${query}` : "/admin/questions";
+  };
+
+  // Only resolve subjects referenced by the visible page (small + fast).
   const subjectsById = new Map(
     await Promise.all(
-      [...new Set(questions.map((q) => q.subjectId))].map(async (id) => [id, await getSubject(id)] as const),
+      [...new Set(pageQuestions.map((q) => q.subjectId))].map(
+        async (id) => [id, await getSubject(id)] as const,
+      ),
     ),
   );
 
@@ -49,7 +83,11 @@ export default async function AdminQuestionsPage({
       <header className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <h1 className="text-2xl font-semibold">Question bank</h1>
-          <p className="text-sm text-muted-foreground">{questions.length} questions</p>
+          <p className="text-sm text-muted-foreground">
+            {totalQuestions === 0
+              ? "0 questions"
+              : `Showing ${startIndex + 1}–${startIndex + pageQuestions.length} of ${totalQuestions} questions`}
+          </p>
         </div>
         <div className="flex gap-2">
           <Link href="/admin/import" className={cn(buttonVariants({ variant: "outline" }))}>
@@ -94,13 +132,13 @@ export default async function AdminQuestionsPage({
         </Button>
       </form>
 
-      {questions.length === 0 ? (
+      {totalQuestions === 0 ? (
         <GlowCard className="py-10 text-center text-sm text-muted-foreground">
           No questions match these filters.
         </GlowCard>
       ) : (
         <GlowCard className="divide-y divide-border p-0">
-          {questions.map((q) => (
+          {pageQuestions.map((q) => (
             <div key={q.id} className="flex items-start gap-3 px-4 py-3">
               <div className="min-w-0 flex-1">
                 <p className="text-sm font-medium">{q.questionText}</p>
@@ -131,6 +169,45 @@ export default async function AdminQuestionsPage({
             </div>
           ))}
         </GlowCard>
+      )}
+
+      {totalPages > 1 && (
+        <nav
+          aria-label="Question pages"
+          className="flex flex-wrap items-center justify-between gap-3"
+        >
+          <p className="text-xs text-muted-foreground">
+            Page {currentPage} of {totalPages}
+          </p>
+          <div className="flex items-center gap-2">
+            {currentPage > 1 ? (
+              <Link
+                href={pageHref(currentPage - 1)}
+                className={cn(buttonVariants({ variant: "outline", size: "sm" }))}
+                rel="prev"
+              >
+                <ChevronLeft className="size-4" /> Previous
+              </Link>
+            ) : (
+              <Button variant="outline" size="sm" disabled>
+                <ChevronLeft className="size-4" /> Previous
+              </Button>
+            )}
+            {currentPage < totalPages ? (
+              <Link
+                href={pageHref(currentPage + 1)}
+                className={cn(buttonVariants({ variant: "outline", size: "sm" }))}
+                rel="next"
+              >
+                Next <ChevronRight className="size-4" />
+              </Link>
+            ) : (
+              <Button variant="outline" size="sm" disabled>
+                Next <ChevronRight className="size-4" />
+              </Button>
+            )}
+          </div>
+        </nav>
       )}
     </div>
   );

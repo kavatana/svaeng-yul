@@ -20,9 +20,6 @@ export interface ValidationResult {
   };
 }
 
-const EXPECTED_TOTAL = 50;
-const EXPECTED_PER_SUBJECT = 10;
-const EXPECTED_DIFF_PER_SUBJECT: Record<Difficulty, number> = { easy: 3, medium: 4, hard: 3 };
 const MIN_EXPLANATION_WORDS = 40;
 
 const FORBIDDEN_SUBJECTS = ["math", "mathematics", "physics", "chemistry", "biology", "english"];

@@ -1,5 +1,5 @@
 import { connection } from "next/server";
-import { Flame, Star, Zap, Sparkles, User } from "lucide-react";
+import { Flame, Star, Zap } from "lucide-react";
 
 import { requireUser } from "@/lib/auth/session";
 import {

@@ -19,9 +19,19 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# one-off conversion / debug scripts (not part of the app)
+/scratch/
+
 # env files
 .env
+.env.local
+.env.production
+.env.development
 .env*.local
+.env*.bak
+secrets.json
+service-account.json
+*.key
 
 # typescript
 *.tsbuildinfo
@@ -30,3 +40,4 @@ next-env.d.ts
 # vercel
 .vercel
 svaeng-yul/
+.env*

@@ -54,14 +54,21 @@ export function AnswerReviewCard({
         })}
       </div>
 
-      <div className="ml-8 rounded-xl bg-secondary/40 p-3 text-sm">
-        <span className="font-medium text-purple-glow">Why: </span>
-        {q.explanation}
-      </div>
+      {q.explanation && q.explanation !== "No explanation provided." && (
+        <div className="ml-8 rounded-xl bg-secondary/40 p-3 text-sm">
+          <span className="font-medium text-purple-glow">Why: </span>
+          {q.explanation}
+        </div>
+      )}
 
-      {/* Show a clean source only for verified items; hide verification noise. */}
-      {q.verificationStatus === "verified" && q.sourceReference && (
+      {/* Honest trust signal: a real source only for instructor-verified items;
+          otherwise an explicit practice-only caveat — this bank is not yet verified. */}
+      {q.verificationStatus === "verified" && q.sourceReference ? (
         <p className="ml-8 text-xs text-muted-foreground">Source: {q.sourceReference}</p>
+      ) : (
+        <p className="ml-8 text-xs text-amber-500/90">
+          ⚠ Practice item — not yet instructor-verified. Confirm against your course materials.
+        </p>
       )}
     </GlowCard>
   );

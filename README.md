@@ -7,6 +7,10 @@ medical / nursing students. Built around one loop: **Practice → Feedback → W
 Area → Retry → Mastery.** Visual direction: **Midnight Study Clinic** — dreamy
 dark mode, soft glowing cards, late-night study mood.
 
+**Live demo:** [svaeng-yul-demo.vercel.app](https://svaeng-yul-demo.vercel.app)
+— runs in demo mode (no setup, no account needed; tap **Demo student** or
+**Demo admin** to explore).
+
 ## Two ways to run
 
 Svaeng-Yul runs in **two modes**, decided automatically by environment variables:
@@ -124,9 +128,11 @@ Models are configurable via `OLLAMA_HINT_MODEL`, `ANTHROPIC_HINT_MODEL`, and
 
 ## Seed data & QCM bank
 
-A verified bank of **50 QCM** (10 per subject; 3 easy / 4 medium / 3 hard) plus
-topics, sources, posts, and challenges lives in `src/data/seed/`. It powers demo
-mode automatically. See **[docs/seed-data.md](docs/seed-data.md)** for details,
+A large practice bank of **~1,750 QCM** across 5 subjects (nursing, history,
+demography, embryology, infectious disease) lives in `src/data/seed/`. It powers demo
+mode automatically. **Important: this bank is machine-assembled and NOT yet
+instructor-verified** — answer keys and explanations are pending human review, so every
+item is flagged `needs_instructor_verification` until a qualified instructor signs off. See **[docs/seed-data.md](docs/seed-data.md)** for details,
 plus `data/admin-upload-test-plan.md` and `data/instructor-review-checklist.md`.
 
 ```bash
@@ -135,8 +141,9 @@ npm run export:qcm-csv    # regenerate data/* artifacts + public/sample-question
 npm run seed:qcm          # seed a live Supabase project (needs env + migrations 0001–0005)
 ```
 
-> Educational practice only. 14 questions are flagged for instructor verification
-> (Cambodia-specific figures/dates). Not final exam content until reviewed.
+> Educational practice only. The bank is **not yet instructor-verified** — all items
+> are flagged `needs_instructor_verification`; answer keys and explanations still need
+> review by a qualified instructor. Not final exam content, and not medical advice.
 
 ## Scripts
 

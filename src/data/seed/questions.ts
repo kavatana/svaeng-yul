@@ -31,7 +31,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   // ═════════ FUNDAMENTAL OF NURSING SCIENCES (real data from nursing_data.json) ═════════
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើការផ្តល់ថ្នាំតាមបាតហាមប្រើចំពោះអ្នកជម្ងឺបែបណា? [cite: 19]`,
+    questionText: `តើការផ្តល់ថ្នាំតាមបាតហាមប្រើចំពោះអ្នកជម្ងឺបែបណា?`,
     a: `ឬសដូងបាត`, b: `ទល់លាមក`, c: `ការហូរឈាមនៅ Rectum`, d: `ការលាកនៅ Rectum`,
     correct: "C",
     explanation: "The correct answer is C: ការហូរឈាមនៅ Rectum. This reflects standard nursing protocol for this procedure. The other options — A (ឬសដូងបាត), B (ទល់លាមក), D (ការលាកនៅ Rectum) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -40,7 +40,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើអ្នកត្រូវកាន់ប្រដាប់បន្តក់ថ្នាំត្រចៀកចំងាយប៉ុន្មានសង់ទីម៉ែត្រ ពីផ្នែកខាងលើនៃរន្ធត្រចៀក ? [cite: 28]`,
+    questionText: `តើអ្នកត្រូវកាន់ប្រដាប់បន្តក់ថ្នាំត្រចៀកចំងាយប៉ុន្មានសង់ទីម៉ែត្រ ពីផ្នែកខាងលើនៃរន្ធត្រចៀក ?`,
     a: `១ សង់ទីម៉ែត្រ`, b: `២ សង់ទីម៉ែត្រ`, c: `៣ សង់ទីម៉ែត្រ`, d: `៤ សង់ទីម៉ែត្រ`,
     correct: "A",
     explanation: "The correct answer is A: ១ សង់ទីម៉ែត្រ. This reflects standard nursing protocol for this procedure. The other options — B (២ សង់ទីម៉ែត្រ), C (៣ សង់ទីម៉ែត្រ), D (៤ សង់ទីម៉ែត្រ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -49,7 +49,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើត្រូវដាក់ស្ថានភាពអ្នកជំងឺដែលបានបន្តក់ថ្នាំត្រចៀករួច យ៉ាងដូចម្តេច? [cite: 38]`,
+    questionText: `តើត្រូវដាក់ស្ថានភាពអ្នកជំងឺដែលបានបន្តក់ថ្នាំត្រចៀករួច យ៉ាងដូចម្តេច?`,
     a: `ដេកផ្អៀងក្នុងរយៈពេល ២-៣នាទី`, b: `អង្គុយផ្ទៀងត្រចៀកក្នុងរយៈពេល ២-៣នាទី`, c: `ដំណេកផ្ងាក្នុងរយៈពេល ៥-១០នាទី`, d: `ដំណេកផ្អៀងក្នុងរយៈពេល ៥-១០នាទី`,
     correct: "D",
     explanation: "The correct answer is D: ដំណេកផ្អៀងក្នុងរយៈពេល ៥-១០នាទី. This reflects standard nursing protocol for this procedure. The other options — A (ដេកផ្អៀងក្នុងរយៈពេល ២-៣នាទី), B (អង្គុយផ្ទៀងត្រចៀកក្នុងរយៈពេល ២-៣នាទី), C (ដំណេកផ្ងាក្នុងរយៈពេល ៥-១០នាទី) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -58,7 +58,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើការដាក់ដុំសំឡីដើម្បីទប់ថ្នាំកុំឱ្យហៀរចេញក្រៅ ត្រូវទុកក្នុងរយៈពេលប៉ុន្មាននាទី នៅពេលបន្តក់ថ្នាំចូលក្នុងរន្ធត្រចៀករួច? [cite: 42, 43]`,
+    questionText: `តើការដាក់ដុំសំឡីដើម្បីទប់ថ្នាំកុំឱ្យហៀរចេញក្រៅ ត្រូវទុកក្នុងរយៈពេលប៉ុន្មាននាទី នៅពេលបន្តក់ថ្នាំចូលក្នុងរន្ធត្រចៀករួច?`,
     a: `៥នាទី`, b: `១០នាទី`, c: `១៥នាទី`, d: `២០នាទី`,
     correct: "C",
     explanation: "The correct answer is C: ១៥នាទី. This reflects standard nursing protocol for this procedure. The other options — A (៥នាទី), B (១០នាទី), D (២០នាទី) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -67,7 +67,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើអ្នកត្រូវចាប់កាន់ស្លឹកត្រចៀកក្មេងដែលមានអាយុតិចជាង៣ឆ្នាំយ៉ាងដូចម្តេច នៅពេលបន្តក់ថ្នាំត្រចៀក? [cite: 53]`,
+    questionText: `តើអ្នកត្រូវចាប់កាន់ស្លឹកត្រចៀកក្មេងដែលមានអាយុតិចជាង៣ឆ្នាំយ៉ាងដូចម្តេច នៅពេលបន្តក់ថ្នាំត្រចៀក?`,
     a: `ទាញស្លឹកត្រចៀកផ្នែកខាងលើទៅលើ`, b: `ទាញស្លឹកត្រចៀកផ្នែកខាងលើទៅលើ ហើយងាកទៅក្រោយថ្នមៗ`, c: `ទាញទងត្រចៀកចុះក្រោម ហើយងាកទៅខាងមុខ`, d: `ទាញទងត្រចៀកចុះក្រោម ហើយងាកទៅខាងក្រោយ`,
     correct: "D",
     explanation: "The correct answer is D: ទាញទងត្រចៀកចុះក្រោម ហើយងាកទៅខាងក្រោយ. This reflects standard nursing protocol for this procedure. The other options — A (ទាញស្លឹកត្រចៀកផ្នែកខាងលើទៅលើ), B (ទាញស្លឹកត្រចៀកផ្នែកខាងលើទៅលើ ហើយងាកទៅក្រោយថ្នមៗ), C (ទាញទងត្រចៀកចុះក្រោម ហើយងាកទៅខាងមុខ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -76,7 +76,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើអ្នកជម្ងឺត្រូវសំរាកក្នុងស្ថានភាពយ៉ាងដូចម្តេច ពេលសុលថ្នាំតាមបាត ? [cite: 61]`,
+    questionText: `តើអ្នកជម្ងឺត្រូវសំរាកក្នុងស្ថានភាពយ៉ាងដូចម្តេច ពេលសុលថ្នាំតាមបាត ?`,
     a: `ដេកផ្ងារសណ្តូកជើង`, b: `ដេកផ្អៀងឆ្វេង ហើយអង្គុញជើងផ្នែកខាងលើបន្តិច`, c: `ដេកផ្ងារដោយបញ្ឈរជង្គង់`, d: `ដេកផ្អៀងស្តាំ សណ្តូកជើង`,
     correct: "B",
     explanation: "The correct answer is B: ដេកផ្អៀងឆ្វេង ហើយអង្គុញជើងផ្នែកខាងលើបន្តិច. This reflects standard nursing protocol for this procedure. The other options — A (ដេកផ្ងារសណ្តូកជើង), C (ដេកផ្ងារដោយបញ្ឈរជង្គង់), D (ដេកផ្អៀងស្តាំ សណ្តូកជើង) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -85,7 +85,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើត្រូវស៊ុលថ្នាំតាមបាតក្នុងជំរៅប៉ុន្មានសំរាប់មនុស្សពេញវ័យ? [cite: 66]`,
+    questionText: `តើត្រូវស៊ុលថ្នាំតាមបាតក្នុងជំរៅប៉ុន្មានសំរាប់មនុស្សពេញវ័យ?`,
     a: `៤ សង់ទីម៉ែត្រ`, b: `៦ សង់ទីម៉ែត្រ`, c: `៨ សង់ទីម៉ែត្រ`, d: `១០ សង់ទីម៉ែត្រ`,
     correct: "D",
     explanation: "The correct answer is D: ១០ សង់ទីម៉ែត្រ. This reflects standard nursing protocol for this procedure. The other options — A (៤ សង់ទីម៉ែត្រ), B (៦ សង់ទីម៉ែត្រ), C (៨ សង់ទីម៉ែត្រ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -94,7 +94,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `រចនាសម្ព័ន្ធផ្ទៃក្នុងត្រចៀកឆាប់ទទួលនូវ ៖ [cite: 73]`,
+    questionText: `រចនាសម្ព័ន្ធផ្ទៃក្នុងត្រចៀកឆាប់ទទួលនូវ ៖`,
     a: `ការឈឺចាប់`, b: `ការហើម`, c: `សីតុណ្ហភាពខ្ពស់`, d: `សីតុណ្ហភាពទាប`,
     correct: "C",
     explanation: "The correct answer is C: សីតុណ្ហភាពខ្ពស់. This reflects standard nursing protocol for this procedure. The other options — A (ការឈឺចាប់), B (ការហើម), D (សីតុណ្ហភាពទាប) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -103,7 +103,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ចំលើយមួយណាមិនមែនជាលទ្ធផលមិនរំពឹងទុកក្រោយពីបន្តក់ថ្នាំត្រចៀក ៖ [cite: 87]`,
+    questionText: `ចំលើយមួយណាមិនមែនជាលទ្ធផលមិនរំពឹងទុកក្រោយពីបន្តក់ថ្នាំត្រចៀក ៖`,
     a: `រលាករន្ធត្រចៀក ហើម ឈឺមិនអាចប៉ះបាន`, b: `លទ្ធភាពលឺរបស់អ្នកជំងឺចេះតែបន្តខ្សោយ`, c: `អ្នកជំងឺមានលទ្ធភាពធ្វើការពន្យល់ពីព័ត៌មាននានា`, d: `អ្នកជំងឺមានការលំបាកក្នុងការអនុវត្តទំរង់ការ`,
     correct: "C",
     explanation: "The correct answer is C: អ្នកជំងឺមានលទ្ធភាពធ្វើការពន្យល់ពីព័ត៌មាននានា. This reflects standard nursing protocol for this procedure. The other options — A (រលាករន្ធត្រចៀក ហើម ឈឺមិនអាចប៉ះបាន), B (លទ្ធភាពលឺរបស់អ្នកជំងឺចេះតែបន្តខ្សោយ), D (អ្នកជំងឺមានការលំបាកក្នុងការអនុវត្តទំរង់ការ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -112,7 +112,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើអ្នកត្រូវកាន់ប្រដាប់បន្តក់ថ្នាំត្រចៀកចំងាយប៉ុន្មានសង់ទីម៉ែត្រ ពីផ្នែកខាងលើនៃរន្ធត្រចៀក? [cite: 97]`,
+    questionText: `តើអ្នកត្រូវកាន់ប្រដាប់បន្តក់ថ្នាំត្រចៀកចំងាយប៉ុន្មានសង់ទីម៉ែត្រ ពីផ្នែកខាងលើនៃរន្ធត្រចៀក?`,
     a: `១ សង់ទីម៉ែត្រ`, b: `២ សង់ទីម៉ែត្រ`, c: `៣ សង់ទីម៉ែត្រ`, d: `៤ សង់ទីម៉ែត្រ`,
     correct: "A",
     explanation: "The correct answer is A: ១ សង់ទីម៉ែត្រ. This reflects standard nursing protocol for this procedure. The other options — B (២ សង់ទីម៉ែត្រ), C (៣ សង់ទីម៉ែត្រ), D (៤ សង់ទីម៉ែត្រ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -121,7 +121,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើត្រូវដាក់ស្ថានភាពអ្នកជំងឺដែលបានបន្តក់ថ្នាំត្រចៀករួច យ៉ាងដូចម្តេច? [cite: 109]`,
+    questionText: `តើត្រូវដាក់ស្ថានភាពអ្នកជំងឺដែលបានបន្តក់ថ្នាំត្រចៀករួច យ៉ាងដូចម្តេច?`,
     a: `ដេកផ្អៀងក្នុងរយៈពេល ២-៣នាទី`, b: `អង្គុយផ្ទៀងត្រចៀកក្នុងរយៈពេល ២-៣នាទី`, c: `ដំណេកផ្ងាក្នុងរយៈពេល ៥-១០នាទី`, d: `ដំណេកផ្អៀងក្នុងរយៈពេល ៥-១០នាទី`,
     correct: "D",
     explanation: "The correct answer is D: ដំណេកផ្អៀងក្នុងរយៈពេល ៥-១០នាទី. This reflects standard nursing protocol for this procedure. The other options — A (ដេកផ្អៀងក្នុងរយៈពេល ២-៣នាទី), B (អង្គុយផ្ទៀងត្រចៀកក្នុងរយៈពេល ២-៣នាទី), C (ដំណេកផ្ងាក្នុងរយៈពេល ៥-១០នាទី) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -130,7 +130,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើការដាក់ដុំសំឡីដើម្បីទប់ថ្នាំកុំឱ្យហៀរចេញក្រៅ ត្រូវទុកក្នុងរយៈពេលប៉ុន្មាននាទី នៅពេល បន្តក់ថ្នាំចូលក្នុងរន្ធត្រចៀករួច ? [cite: 115, 116]`,
+    questionText: `តើការដាក់ដុំសំឡីដើម្បីទប់ថ្នាំកុំឱ្យហៀរចេញក្រៅ ត្រូវទុកក្នុងរយៈពេលប៉ុន្មាននាទី នៅពេល បន្តក់ថ្នាំចូលក្នុងរន្ធត្រចៀករួច ?`,
     a: `៥នាទី`, b: `១០នាទី`, c: `១៥នាទី`, d: `២០នាទី`,
     correct: "C",
     explanation: "The correct answer is C: ១៥នាទី. This reflects standard nursing protocol for this procedure. The other options — A (៥នាទី), B (១០នាទី), D (២០នាទី) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -139,7 +139,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ចំលើយមួយណាដែលមិនមែនជាលទ្ធផលមិនរំពឹងទុកក្រោយពីបន្តក់ថ្នាំត្រចៀក ៖ [cite: 127]`,
+    questionText: `ចំលើយមួយណាដែលមិនមែនជាលទ្ធផលមិនរំពឹងទុកក្រោយពីបន្តក់ថ្នាំត្រចៀក ៖`,
     a: `រលាករន្ធត្រចៀក ហើម ឈឺមិនអាចប៉ះបាន`, b: `លទ្ធភាពលឺរបស់អ្នកជំងឺចេះតែបន្តខ្សោ`, c: `អ្នកជំងឺមានលទ្ធភាពធ្វើការពន្យល់ពីព័ត៌មាននានា`, d: `អ្នកជំងឺមានការលំបាកក្នុងការអនុវត្តទំរង់ការ`,
     correct: "C",
     explanation: "The correct answer is C: អ្នកជំងឺមានលទ្ធភាពធ្វើការពន្យល់ពីព័ត៌មាននានា. This reflects standard nursing protocol for this procedure. The other options — A (រលាករន្ធត្រចៀក ហើម ឈឺមិនអាចប៉ះបាន), B (លទ្ធភាពលឺរបស់អ្នកជំងឺចេះតែបន្តខ្សោ), D (អ្នកជំងឺមានការលំបាកក្នុងការអនុវត្តទំរង់ការ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -148,7 +148,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ការបន្តក់សូលុយស្យុងដែលគ្មានស្តេរីលទៅក្នុងត្រចៀកដែលដាច់ក្រដាសបណ្តាលអោយ ៖ [cite: 133]`,
+    questionText: `ការបន្តក់សូលុយស្យុងដែលគ្មានស្តេរីលទៅក្នុងត្រចៀកដែលដាច់ក្រដាសបណ្តាលអោយ ៖`,
     a: `មានការបង្ករោគធ្ងន់ធ្ងរ`, b: `មានការបង្ករោគតិចតួច`, c: `គ្មានគ្រោះថ្នាក់`, d: `ប្រឈមមុខនឹងការឆ្លងរោគ`,
     correct: "A",
     explanation: "The correct answer is A: មានការបង្ករោគធ្ងន់ធ្ងរ. This reflects standard nursing protocol for this procedure. The other options — B (មានការបង្ករោគតិចតួច), C (គ្មានគ្រោះថ្នាក់), D (ប្រឈមមុខនឹងការឆ្លងរោគ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -157,7 +157,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ចំពោះមនុស្សចាស់ តើគេត្រូវសុលថ្នាំតាមបាតជំរៅប៉ុន្មាន? [cite: 143]`,
+    questionText: `ចំពោះមនុស្សចាស់ តើគេត្រូវសុលថ្នាំតាមបាតជំរៅប៉ុន្មាន?`,
     a: `៥ ស.ម`, b: `៨ស.ម`, c: `៩ស.ម`, d: `១០ ស.ម`,
     correct: "D",
     explanation: "The correct answer is D: ១០ ស.ម. This reflects standard nursing protocol for this procedure. The other options — A (៥ ស.ម), B (៨ស.ម), C (៩ស.ម) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -166,7 +166,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ចំពោះកុមារតើគេស៊ុលថ្នាំតាមបាតជំរៅប៉ុន្មាន? [cite: 152]`,
+    questionText: `ចំពោះកុមារតើគេស៊ុលថ្នាំតាមបាតជំរៅប៉ុន្មាន?`,
     a: `២ស.ម`, b: `៤ស.ម`, c: `៥ស.ម`, d: `៨ស.ម`,
     correct: "C",
     explanation: "The correct answer is C: ៥ស.ម. This reflects standard nursing protocol for this procedure. The other options — A (២ស.ម), B (៤ស.ម), D (៨ស.ម) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -175,7 +175,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ក្រោយពេលសុលថ្នាំតាមបាតរួចតើអោយអ្នកជំងឺសំរាកប៉ុន្មាននាទី ? [cite: 157]`,
+    questionText: `ក្រោយពេលសុលថ្នាំតាមបាតរួចតើអោយអ្នកជំងឺសំរាកប៉ុន្មាននាទី ?`,
     a: `១០ នាទី`, b: `១៥ នាទី`, c: `១៨ នាទី`, d: `២០ នាទី`,
     correct: "B",
     explanation: "The correct answer is B: ១៥ នាទី. This reflects standard nursing protocol for this procedure. The other options — A (១០ នាទី), C (១៨ នាទី), D (២០ នាទី) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -184,7 +184,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ចំពោះកុមារក្រោយពីសុលថ្នាំតាមបាតរួចត្រូវសង្កត់ឆ្អឹបសាច់កំប៉ះគូទប៉ុន្មាននាទី ? [cite: 164]`,
+    questionText: `ចំពោះកុមារក្រោយពីសុលថ្នាំតាមបាតរួចត្រូវសង្កត់ឆ្អឹបសាច់កំប៉ះគូទប៉ុន្មាននាទី ?`,
     a: `២ ទៅ ៣ នាទី`, b: `៥ ទៅ ១០ នាទី`, c: `១៥ ទៅ ២០ នាទី`, d: `២០ ទោ ២៥ នាទី`,
     correct: "B",
     explanation: "The correct answer is B: ៥ ទៅ ១០ នាទី. This reflects standard nursing protocol for this procedure. The other options — A (២ ទៅ ៣ នាទី), C (១៥ ទៅ ២០ នាទី), D (២០ ទោ ២៥ នាទី) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -193,7 +193,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើនៅត្រង់កន្លែងណានៃរាងកាយ ដែលអ្នកអាចចាក់ថ្នាំសើរស្បែកបាន? [cite: 171]`,
+    questionText: `តើនៅត្រង់កន្លែងណានៃរាងកាយ ដែលអ្នកអាចចាក់ថ្នាំសើរស្បែកបាន?`,
     a: `ដើមដៃទាំងសងខាង`, b: `ផ្នែកខាងមុខនៃភ្លៅ`, c: `ស្បែកពោះ`, d: `កំភួនដៃផ្នែកខាងក្នុង`,
     correct: "D",
     explanation: "The correct answer is D: កំភួនដៃផ្នែកខាងក្នុង. This reflects standard nursing protocol for this procedure. The other options — A (ដើមដៃទាំងសងខាង), B (ផ្នែកខាងមុខនៃភ្លៅ), C (ស្បែកពោះ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -202,7 +202,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើនៅត្រង់កន្លែងណានៃរាងកាយ ដែលអ្នកមិនអាចចាក់ថ្នាំក្រោមស្បែកបាន? [cite: 172, 173]`,
+    questionText: `តើនៅត្រង់កន្លែងណានៃរាងកាយ ដែលអ្នកមិនអាចចាក់ថ្នាំក្រោមស្បែកបាន?`,
     a: `ដើមដៃទាំងសងខាង`, b: `ផ្នែកខាងមុខនៃភ្លៅ`, c: `ស្បែកពោះ`, d: `ផ្នែកខាងក្រៅនៃភ្លៅ`,
     correct: "D",
     explanation: "The correct answer is D: ផ្នែកខាងក្រៅនៃភ្លៅ. This reflects standard nursing protocol for this procedure. The other options — A (ដើមដៃទាំងសងខាង), B (ផ្នែកខាងមុខនៃភ្លៅ), C (ស្បែកពោះ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -211,7 +211,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ដូចម្តេចដែលហៅថាការចាក់ថ្នាំសើរស្បែក? [cite: 192]`,
+    questionText: `ដូចម្តេចដែលហៅថាការចាក់ថ្នាំសើរស្បែក?`,
     a: `គឺជាការចាក់បញ្ចូលសារធាតុថ្នាំទៅក្នុងស្រទាប់ស្បែក(Derm)`, b: `ការចាក់បញ្ចូលថ្នាំទៅក្នុងស្រទាប់ខែម`, c: `ការចាក់បញ្ចូលថ្នាំទៅក្នុងកាលិកាក្រោមស្បែក`, d: `ការចាក់បញ្ចូលថ្នាំទៅក្នុងស្រទាប់សាច់ដុំ`,
     correct: "A",
     explanation: "The correct answer is A: គឺជាការចាក់បញ្ចូលសារធាតុថ្នាំទៅក្នុងស្រទាប់ស្បែក(Derm). This reflects standard nursing protocol for this procedure. The other options — B (ការចាក់បញ្ចូលថ្នាំទៅក្នុងស្រទាប់ខែម), C (ការចាក់បញ្ចូលថ្នាំទៅក្នុងកាលិកាក្រោមស្បែក), D (ការចាក់បញ្ចូលថ្នាំទៅក្នុងស្រទាប់សាច់ដុំ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -220,7 +220,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើជម្រៅប្រហែលប៉ុន្មានដែលអ្នកត្រូវចាក់បញ្ចូលម្ជុល ចំពោះការចាក់ថ្នាំសើរស្បែក? [cite: 193]`,
+    questionText: `តើជម្រៅប្រហែលប៉ុន្មានដែលអ្នកត្រូវចាក់បញ្ចូលម្ជុល ចំពោះការចាក់ថ្នាំសើរស្បែក?`,
     a: `២មម`, b: `៣មម`, c: `៤មម`, d: `៥មម`,
     correct: "B",
     explanation: "The correct answer is B: ៣មម. This reflects standard nursing protocol for this procedure. The other options — A (២មម), C (៤មម), D (៥មម) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -229,7 +229,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើការជ្រាបចូលរបស់ឱសថតាមការចាក់សើរស្បែកមានសកម្មភាពយ៉ាងដូចម្តេច? [cite: 194]`,
+    questionText: `តើការជ្រាបចូលរបស់ឱសថតាមការចាក់សើរស្បែកមានសកម្មភាពយ៉ាងដូចម្តេច?`,
     a: `យឺត`, b: `យឺតណាស់`, c: `រហ័ស`, d: `រហ័សណាស់`,
     correct: "A",
     explanation: "The correct answer is A: យឺត. This reflects standard nursing protocol for this procedure. The other options — B (យឺតណាស់), C (រហ័ស), D (រហ័សណាស់) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -238,7 +238,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើអ្នកត្រូវណែនាំអ្នកជំងឺយ៉ាងដូចម្ដេចក្រោយពេលចាក់ថ្នាំសើរស្បែក? [cite: 203]`,
+    questionText: `តើអ្នកត្រូវណែនាំអ្នកជំងឺយ៉ាងដូចម្ដេចក្រោយពេលចាក់ថ្នាំសើរស្បែក?`,
     a: `ត្រូវឈ្លី ឬ អេះកន្លែងចាក់`, b: `មិនត្រូវឈ្លី ឬ អេះកន្លែងចាក់`, c: `ត្រូវស្អំត្រជាក់នៅកន្លែងចាក់`, d: `ត្រូវស្អំក្តៅនៅកន្លែងចាក់`,
     correct: "B",
     explanation: "The correct answer is B: មិនត្រូវឈ្លី ឬ អេះកន្លែងចាក់. This reflects standard nursing protocol for this procedure. The other options — A (ត្រូវឈ្លី ឬ អេះកន្លែងចាក់), C (ត្រូវស្អំត្រជាក់នៅកន្លែងចាក់), D (ត្រូវស្អំក្តៅនៅកន្លែងចាក់) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -247,7 +247,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើបរិមាណឱសថប៉ុន្មានដែលគេអាចចាក់សើរស្បែកបាន? [cite: 208]`,
+    questionText: `តើបរិមាណឱសថប៉ុន្មានដែលគេអាចចាក់សើរស្បែកបាន?`,
     a: `០.០១ម.ល - ០.១ម.ល`, b: `០.០១ម.ល - ២ម.ល`, c: `០.១ម.ល - ២ម.ល`, d: `១ម.ល - ២ម.ល`,
     correct: "A",
     explanation: "The correct answer is A: ០.០១ម.ល - ០.១ម.ល. This reflects standard nursing protocol for this procedure. The other options — B (០.០១ម.ល - ២ម.ល), C (០.១ម.ល - ២ម.ល), D (១ម.ល - ២ម.ល) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -256,7 +256,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ហេតុអ្វីបានជាគេហាមឈ្លីកន្លែងចាក់ បន្ទាប់ពីចាក់ថ្នាំសើរស្បែករួច? [cite: 222]`,
+    questionText: `ហេតុអ្វីបានជាគេហាមឈ្លីកន្លែងចាក់ បន្ទាប់ពីចាក់ថ្នាំសើរស្បែករួច?`,
     a: `ថ្នាំជ្រាបចេញមកក្រៅវិញ និង លទ្ធផលនៃតេស្តមិនត្រឹមត្រូវ`, b: `ថ្នាំជ្រាបលឿន និង ឆាប់ឃើញសញ្ញាប្រតិកម្មនៃតេស្ត`, c: `ថ្នាំជ្រាបចូលទៅក្នុងជាលិកា និង លទ្ធផលនៃតេស្តមិនត្រឹមត្រូវ`, d: `ថ្នាំជ្រាបចេញមកក្រៅវិញ និង រមាស់កន្លែងចាក់`,
     correct: "C",
     explanation: "The correct answer is C: ថ្នាំជ្រាបចូលទៅក្នុងជាលិកា និង លទ្ធផលនៃតេស្តមិនត្រឹមត្រូវ. This reflects standard nursing protocol for this procedure. The other options — A (ថ្នាំជ្រាបចេញមកក្រៅវិញ និង លទ្ធផលនៃតេស្តមិនត្រឹមត្រូវ), B (ថ្នាំជ្រាបលឿន និង ឆាប់ឃើញសញ្ញាប្រតិកម្មនៃតេស្ត), D (ថ្នាំជ្រាបចេញមកក្រៅវិញ និង រមាស់កន្លែងចាក់) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -265,7 +265,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើសឺរ៉ាំងលេខ ១សម គេក្រិតប៉ុន្មានភាគរយ? [cite: 230]`,
+    questionText: `តើសឺរ៉ាំងលេខ ១សម គេក្រិតប៉ុន្មានភាគរយ?`,
     a: `០.១ និង ០.09`, b: `០.២ និង ០.០២`, c: `០.៣ និង ០.០៣`, d: `០.០២ និង ០.០៣`,
     correct: "A",
     explanation: "The correct answer is A: ០.១ និង ០.09. This reflects standard nursing protocol for this procedure. The other options — B (០.២ និង ០.០២), C (០.៣ និង ០.០៣), D (០.០២ និង ០.០៣) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -274,7 +274,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើគេប្រើម្ជុលប្រវែងប៉ុន្មានដើម្បីចាក់ សើរ ស្បែក? [cite: 236]`,
+    questionText: `តើគេប្រើម្ជុលប្រវែងប៉ុន្មានដើម្បីចាក់ សើរ ស្បែក?`,
     a: `$3/8,$ $1/2,$ $5/8$ inch`, b: `$3/9$ $1/5$ $4//6$ inch`, c: `1, 1.5, 2 inch`, d: `1.6, 2.1, 3 inch`,
     correct: "A",
     explanation: "The correct answer is A: $3/8,$ $1/2,$ $5/8$ inch. This reflects standard nursing protocol for this procedure. The other options — B ($3/9$ $1/5$ $4//6$ inch), C (1, 1.5, 2 inch), D (1.6, 2.1, 3 inch) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -283,7 +283,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើការដាក់ស្ថានភាពចំហផ្លូវដង្ហើមចំពោះមនុស្សពេញវ័យត្រូវដាក់ដូចម្តេច? [cite: 246]`,
+    questionText: `តើការដាក់ស្ថានភាពចំហផ្លូវដង្ហើមចំពោះមនុស្សពេញវ័យត្រូវដាក់ដូចម្តេច?`,
     a: `ដាក់ស្ថានភាពដេកផ្ងាធម្មតារួចយកខ្នើយទៅកល់ក្រោមករចំនួនពីរជាន់`, b: `ដាក់ស្ថានភាពដេកផ្ងាដោយឆ្លើយក្បាលទៅក្រោយដោយរុញចង្ការឡើងលើបន្តិច`, c: `ដាក់ស្ថានភាពដេកផ្ងារួចទាញចង្ការទៅក្រោយដោយដៃម្ខាងសង្កត់ថ្ងាស`, d: `ដាក់ស្ថានភាពដោយឲ្យក្បាលឆ្លើយទៅក្រោយឡើងលើរួចទាញចង្ការចុះបន្តិច`,
     correct: "A",
     explanation: "The correct answer is A: ដាក់ស្ថានភាពដេកផ្ងាធម្មតារួចយកខ្នើយទៅកល់ក្រោមករចំនួនពីរជាន់. This reflects standard nursing protocol for this procedure. The other options — B (ដាក់ស្ថានភាពដេកផ្ងាដោយឆ្លើយក្បាលទៅក្រោយដោយរុញចង្ការឡើងលើបន្តិច), C (ដាក់ស្ថានភាពដេកផ្ងារួចទាញចង្ការទៅក្រោយដោយដៃម្ខាងសង្កត់ថ្ងាស), D (ដាក់ស្ថានភាពដោយឲ្យក្បាលឆ្លើយទៅក្រោយឡើងលើរួចទាញចង្ការចុះបន្តិច) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -292,7 +292,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើការដាក់ស្ថានភាពចំហផ្លូវដង្ហើមកុមារធ្វើឡើងយ៉ាងដូចម្តេច ៖ [cite: 251]`,
+    questionText: `តើការដាក់ស្ថានភាពចំហផ្លូវដង្ហើមកុមារធ្វើឡើងយ៉ាងដូចម្តេច ៖`,
     a: `ដាក់ស្ថានភាពដេកធម្មតា`, b: `ទាញចង្ការនិង កល់ក្បាលបន្តិច`, c: `លើកចង្ការនិង រុញក្បាលបន្តិច`, d: `ដាក់ក្បាលកុមារត្រង់និង កល់ខ្នើយកពីរជាន់`,
     correct: "D",
     explanation: "The correct answer is D: ដាក់ក្បាលកុមារត្រង់និង កល់ខ្នើយកពីរជាន់. This reflects standard nursing protocol for this procedure. The other options — A (ដាក់ស្ថានភាពដេកធម្មតា), B (ទាញចង្ការនិង កល់ក្បាលបន្តិច), C (លើកចង្ការនិង រុញក្បាលបន្តិច) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -301,7 +301,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើ CPR គឺជាអ្វី ៖ [cite: 256]`,
+    questionText: `តើ CPR គឺជាអ្វី ៖`,
     a: `គឺជាបច្ចេកទេសជួយសង្គ្រោះអ្នកជំងឺអត់ដកដង្ហើម`, b: `គឺជាបច្ចេកទេសជួយសង្គ្រោះអ្នកជំងឺបេះដូងគ្មានចលនា`, c: `គឺជាបច្ចេកទេសជួយសង្គ្រោះជីវិតមនុស្សបែបបន្ទាន់`, d: `គឺជាបច្ចេកទេសសង្គ្រោះចលនាដង្ហើមនិង បេះដូង`,
     correct: "D",
     explanation: "The correct answer is D: គឺជាបច្ចេកទេសសង្គ្រោះចលនាដង្ហើមនិង បេះដូង. This reflects standard nursing protocol for this procedure. The other options — A (គឺជាបច្ចេកទេសជួយសង្គ្រោះអ្នកជំងឺអត់ដកដង្ហើម), B (គឺជាបច្ចេកទេសជួយសង្គ្រោះអ្នកជំងឺបេះដូងគ្មានចលនា), C (គឺជាបច្ចេកទេសជួយសង្គ្រោះជីវិតមនុស្សបែបបន្ទាន់) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -310,7 +310,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើអ្វីទៅជាពាក្យពេញរបស់ CPR ? [cite: 264]`,
+    questionText: `តើអ្វីទៅជាពាក្យពេញរបស់ CPR ?`,
     a: `Cardio Pulmonary Resuscitation`, b: `Cardio Pulmonary vascular`, c: `Chest Pressure Resuscitation`, d: `Chest Pressure Recovery`,
     correct: "A",
     explanation: "The correct answer is A: Cardio Pulmonary Resuscitation. This reflects standard nursing protocol for this procedure. The other options — B (Cardio Pulmonary vascular), C (Chest Pressure Resuscitation), D (Chest Pressure Recovery) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -319,7 +319,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើក្នុង CPR អក្សរ A តំណាងឲ្យអ្វី? [cite: 270]`,
+    questionText: `តើក្នុង CPR អក្សរ A តំណាងឲ្យអ្វី?`,
     a: `Approaching`, b: `Auscultation`, c: `Airborne`, d: `Airway`,
     correct: "D",
     explanation: "The correct answer is D: Airway. This reflects standard nursing protocol for this procedure. The other options — A (Approaching), B (Auscultation), C (Airborne) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -328,7 +328,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើ ABC ត្រូវបានផ្លាស់ប្តូរជាអ្វី? [cite: 275]`,
+    questionText: `តើ ABC ត្រូវបានផ្លាស់ប្តូរជាអ្វី?`,
     a: `ACB`, b: `CBA`, c: `BCA`, d: `CAB`,
     correct: "D",
     explanation: "The correct answer is D: CAB. This reflects standard nursing protocol for this procedure. The other options — A (ACB), B (CBA), C (BCA) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -337,7 +337,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើនៅឆ្នាំ ២០១០ មានការផ្លាស់ប្តូរអ្វីពីសេចក្តីសម្រេចរបស់ AHA ៖ [cite: 289]`,
+    questionText: `តើនៅឆ្នាំ ២០១០ មានការផ្លាស់ប្តូរអ្វីពីសេចក្តីសម្រេចរបស់ AHA ៖`,
     a: `ABC Changed to CBA`, b: `ABC Changed to BAC`, c: `ABC Changed to ACB`, d: `ABC Changed to CAB`,
     correct: "D",
     explanation: "The correct answer is D: ABC Changed to CAB. This reflects standard nursing protocol for this procedure. The other options — A (ABC Changed to CBA), B (ABC Changed to BAC), C (ABC Changed to ACB) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -346,7 +346,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើពាក្យពេញរបស់AHAជាអ្វី ៖ [cite: 295]`,
+    questionText: `តើពាក្យពេញរបស់AHAជាអ្វី ៖`,
     a: `American Heart Association`, b: `American Health Association`, c: `American Heart Agency`, d: `American Health Agency`,
     correct: "A",
     explanation: "The correct answer is A: American Heart Association. This reflects standard nursing protocol for this procedure. The other options — B (American Health Association), C (American Heart Agency), D (American Health Agency) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -355,7 +355,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើនៅមុនឆ្នាំ២០១០ ការសង្កត់បេះដូងដោយអ្នកសង្គ្រោះ២នាក់មានវដ្តយ៉ាងដូចម្តេច? [cite: 307]`,
+    questionText: `តើនៅមុនឆ្នាំ២០១០ ការសង្កត់បេះដូងដោយអ្នកសង្គ្រោះ២នាក់មានវដ្តយ៉ាងដូចម្តេច?`,
     a: `សង្កត់១៥ដងផ្លុំ១ដង`, b: `សង្កត់៣០ដងផ្លុំ១ដង`, c: `សង្កត់៣០ដងផ្លុំ២ដង`, d: `សង្កត់១៥ដងផ្លុំ២ដង`,
     correct: "D",
     explanation: "The correct answer is D: សង្កត់១៥ដងផ្លុំ២ដង. This reflects standard nursing protocol for this procedure. The other options — A (សង្កត់១៥ដងផ្លុំ១ដង), B (សង្កត់៣០ដងផ្លុំ១ដង), C (សង្កត់៣០ដងផ្លុំ២ដង) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -364,7 +364,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើនៅឆ្នាំ២០១០ការសង្កត់បេះដូងដោយអ្នកសង្គ្រោះ២នាក់មានវដ្តយ៉ាងដូចម្តេច? [cite: 317]`,
+    questionText: `តើនៅឆ្នាំ២០១០ការសង្កត់បេះដូងដោយអ្នកសង្គ្រោះ២នាក់មានវដ្តយ៉ាងដូចម្តេច?`,
     a: `សង្កត់១៥ដងផ្លុំ២ដង`, b: `សង្កត់៣០ដងផ្លុំ២ដង`, c: `សង្កត់៣០ដងផ្លុំ១ដង`, d: `សង្កត់១៥ដងផ្លុំ១ដង`,
     correct: "B",
     explanation: "The correct answer is B: សង្កត់៣០ដងផ្លុំ២ដង. This reflects standard nursing protocol for this procedure. The other options — A (សង្កត់១៥ដងផ្លុំ២ដង), C (សង្កត់៣០ដងផ្លុំ១ដង), D (សង្កត់១៥ដងផ្លុំ១ដង) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -373,7 +373,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើបច្ចេកទេសបីដែលធ្វើព្រមគ្នាក្នុងពេលប៉ាន់ប្រមាណស្មារតីជនរងគ្រោះហៅថាអ្វី? [cite: 324]`,
+    questionText: `តើបច្ចេកទេសបីដែលធ្វើព្រមគ្នាក្នុងពេលប៉ាន់ប្រមាណស្មារតីជនរងគ្រោះហៅថាអ្វី?`,
     a: `Look, Listen and Feel`, b: `Look, Touching and Feel`, c: `Listen, Touching and Feel`, d: `Touching pule, Look and Feel`,
     correct: "A",
     explanation: "The correct answer is A: Look, Listen and Feel. This reflects standard nursing protocol for this procedure. The other options — B (Look, Touching and Feel), C (Listen, Touching and Feel), D (Touching pule, Look and Feel) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -382,7 +382,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ករណីសង្គ្រោះដង្ហើមបេះដូងដើម្បីប៉ាន់ប្រមាណជីពចរជនរងគ្រោះតើគេស្ទាបជីពចរឈ្មោះអ្វី? [cite: 331]`,
+    questionText: `ករណីសង្គ្រោះដង្ហើមបេះដូងដើម្បីប៉ាន់ប្រមាណជីពចរជនរងគ្រោះតើគេស្ទាបជីពចរឈ្មោះអ្វី?`,
     a: `Temporal`, b: `Carotid`, c: `Femoral`, d: `Radial`,
     correct: "B",
     explanation: "The correct answer is B: Carotid. This reflects standard nursing protocol for this procedure. The other options — A (Temporal), C (Femoral), D (Radial) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -391,7 +391,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `បើជនរងគ្រោះនៅមានចង្វាក់បេះដូងតែគាំងដង្ហើមតើអ្នកសង្គ្រោះត្រូវធ្វើដូចម្តេច? [cite: 339]`,
+    questionText: `បើជនរងគ្រោះនៅមានចង្វាក់បេះដូងតែគាំងដង្ហើមតើអ្នកសង្គ្រោះត្រូវធ្វើដូចម្តេច?`,
     a: `អនុវត្តបច្ចេកទេស CPR ភ្លាមៗដើម្បីជួយកម្រិតស្មារតីជនរងគ្រោះមកវិញ`, b: `ផ្លុំបញ្ចូលខ្យល់ដង្ហើម២ដងក្នុងមួយវដ្តជាប់ជាបន្តរហូតដល់ជនរងគ្រោះមានដង្ហើមវិញ`, c: `ផ្តល់ការប៉ាន់ប្រមាណតាមបច្ចេកទេសបីក្នុងពេលតែមួយរួចអនុវត្តបច្ចេកទេស CPR`, d: `ផ្តល់អុកស៊ីសែនដល់ជនរងគ្រោះរួចដាក់ជនរងគ្រោះក្នុងស្ថានភាពផ្ទៀងសុវត្ថិភាព`,
     correct: "B",
     explanation: "The correct answer is B: ផ្លុំបញ្ចូលខ្យល់ដង្ហើម២ដងក្នុងមួយវដ្តជាប់ជាបន្តរហូតដល់ជនរងគ្រោះមានដង្ហើមវិញ. This reflects standard nursing protocol for this procedure. The other options — A (អនុវត្តបច្ចេកទេស CPR ភ្លាមៗដើម្បីជួយកម្រិតស្មារតីជនរងគ្រោះមកវិញ), C (ផ្តល់ការប៉ាន់ប្រមាណតាមបច្ចេកទេសបីក្នុងពេលតែមួយរួចអនុវត្តបច្ចេកទេស CPR), D (ផ្តល់អុកស៊ីសែនដល់ជនរងគ្រោះរួចដាក់ជនរងគ្រោះក្នុងស្ថានភាពផ្ទៀងសុវត្ថិភាព) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -400,7 +400,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើអ្នកវាស់សីតុណ្ហភាពនៃរាងកាយក្នុងគោលបំណងអ្វី? [cite: 343]`,
+    questionText: `តើអ្នកវាស់សីតុណ្ហភាពនៃរាងកាយក្នុងគោលបំណងអ្វី?`,
     a: `ដើម្បីផ្តល់ការថែទាំ`, b: `ដើម្បីប្រៀបធៀបកំដៅពីមុន`, c: `ដើម្បីធ្វើការវាយតំលៃកំដៅរាងកាយ`, d: `ដើម្បីដឹងពីវត្តមានកំដៅពីរបស់ជាលិការាងកាយ`,
     correct: "D",
     explanation: "The correct answer is D: ដើម្បីដឹងពីវត្តមានកំដៅពីរបស់ជាលិការាងកាយ. This reflects standard nursing protocol for this procedure. The other options — A (ដើម្បីផ្តល់ការថែទាំ), B (ដើម្បីប្រៀបធៀបកំដៅពីមុន), C (ដើម្បីធ្វើការវាយតំលៃកំដៅរាងកាយ) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -409,7 +409,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `កំដៅរាងកាយធម្មតាស្ថិតនៅចន្លោះពី ? [cite: 384]`,
+    questionText: `កំដៅរាងកាយធម្មតាស្ថិតនៅចន្លោះពី ?`,
     a: `36-37 C`, b: `36-38C`, c: `36-39C`, d: `36-40C`,
     correct: "B",
     explanation: "The correct answer is B: 36-38C. This reflects standard nursing protocol for this procedure. The other options — A (36-37 C), C (36-39C), D (36-40C) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -418,7 +418,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើត្រូវរងចាំរយៈពេលប៉ុន្មាន នៅពេលយកកំដៅតាមមាត់សំរាប់អ្នកជំងឺទើបនឹងជក់បារី ឬ ផឹកទឹកក្តៅ ឬ ទឹកត្រជាក់? [cite: 391, 392]`,
+    questionText: `តើត្រូវរងចាំរយៈពេលប៉ុន្មាន នៅពេលយកកំដៅតាមមាត់សំរាប់អ្នកជំងឺទើបនឹងជក់បារី ឬ ផឹកទឹកក្តៅ ឬ ទឹកត្រជាក់?`,
     a: `5-10 នាទី`, b: `10-20 នាទី`, c: `20-30 នាទី`, d: `ប្រហែល 1 ម៉ោង`,
     correct: "C",
     explanation: "The correct answer is C: 20-30 នាទី. This reflects standard nursing protocol for this procedure. The other options — A (5-10 នាទី), B (10-20 នាទី), D (ប្រហែល 1 ម៉ោង) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -427,7 +427,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើសំណើរខាងក្រោមមួយណា ដែលបញ្ជាក់ពីកំរិតត្រៀមលើសសំពាធឈាម? [cite: 404]`,
+    questionText: `តើសំណើរខាងក្រោមមួយណា ដែលបញ្ជាក់ពីកំរិតត្រៀមលើសសំពាធឈាម?`,
     a: `អតិបរិមា<120mm Hg និង អប្បរិម<80 mm Hg`, b: `អតិបរិមា120-139 mm Hg និង អប្បរិមា80-89 mm Hg`, c: `អតិបរិមា140-159mm Hg និង អប្បរិមា90-99 mm Hg`, d: `អតិបរិមា>160 mm Hg និង អប្បរិមា>100 mm Hg`,
     correct: "B",
     explanation: "The correct answer is B: អតិបរិមា120-139 mm Hg និង អប្បរិមា80-89 mm Hg. This reflects standard nursing protocol for this procedure. The other options — A (អតិបរិមា<120mm Hg និង អប្បរិម<80 mm Hg), C (អតិបរិមា140-159mm Hg និង អប្បរិមា90-99 mm Hg), D (អតិបរិមា>160 mm Hg និង អប្បរិមា>100 mm Hg) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -436,7 +436,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `កំរិតសំពាធឈាមធម្មតា សំរាប់មនុស្សពេញវ័យ គឺ ៖ [cite: 406]`,
+    questionText: `កំរិតសំពាធឈាមធម្មតា សំរាប់មនុស្សពេញវ័យ គឺ ៖`,
     a: `អតិបរិមា<120 mmHg និង អប្បរិមា<80mmHg`, b: `អតបរិមា120-139mmHg និង អប្បរិមា80-89 mmHg`, c: `អតិបរិមា140-159 mmHg និង អប្បរិមា90-99 mmHg`, d: `អតិបរិមា>160 mmHg និង អប្បរិមា>100 mmHg`,
     correct: "A",
     explanation: "The correct answer is A: អតិបរិមា<120 mmHg និង អប្បរិមា<80mmHg. This reflects standard nursing protocol for this procedure. The other options — B (អតបរិមា120-139mmHg និង អប្បរិមា80-89 mmHg), C (អតិបរិមា140-159 mmHg និង អប្បរិមា90-99 mmHg), D (អតិបរិមា>160 mmHg និង អប្បរិមា>100 mmHg) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -445,7 +445,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើសំណើខាងក្រោមមួយណា ដែលជាការលើកសំពាធឈាម កំរិតទី១? [cite: 412]`,
+    questionText: `តើសំណើខាងក្រោមមួយណា ដែលជាការលើកសំពាធឈាម កំរិតទី១?`,
     a: `អតិបរិមា<120mmHgនិង អប្បរិមា<80mmHg`, b: `អតិបរិមា120-139mmHgនិង អប្បរិមា80-89 mmHg`, c: `អតិបរិមា140-159mmHgនិង អប្បរិមា 90-99 mmHg`, d: `អតិបរិមា>160 mmHgនិង អប្បរិមា>100 mmHg`,
     correct: "C",
     explanation: "The correct answer is C: អតិបរិមា140-159mmHgនិង អប្បរិមា 90-99 mmHg. This reflects standard nursing protocol for this procedure. The other options — A (អតិបរិមា<120mmHgនិង អប្បរិមា<80mmHg), B (អតិបរិមា120-139mmHgនិង អប្បរិមា80-89 mmHg), D (អតិបរិមា>160 mmHgនិង អប្បរិមា>100 mmHg) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -454,7 +454,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើសំណើខាងក្រោមមួយណា ដែលជាការលើកសំពាធឈាម កំរិតទី២ [cite: 420]`,
+    questionText: `តើសំណើខាងក្រោមមួយណា ដែលជាការលើកសំពាធឈាម កំរិតទី២`,
     a: `អតិបរិមា <120mmHgនិង អប្បរមា <80mmHg`, b: `អតិបរិមា120-139mmHg និង អប្បរិមា80-89mmHg`, c: `អតិបរិមា140-159mmHg និង អប្បរិមា 90-99 mmHg`, d: `អតិបរិមា >160 mmHg និង អប្បរិមា >100 mmHg`,
     correct: "D",
     explanation: "The correct answer is D: អតិបរិមា >160 mmHg និង អប្បរិមា >100 mmHg. This reflects standard nursing protocol for this procedure. The other options — A (អតិបរិមា <120mmHgនិង អប្បរមា <80mmHg), B (អតិបរិមា120-139mmHg និង អប្បរិមា80-89mmHg), C (អតិបរិមា140-159mmHg និង អប្បរិមា 90-99 mmHg) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -463,7 +463,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `ចំពោះការយកសំពាធឈាម តើគេត្រូវសប់បញ្ចូលខ្យល់ អោយលើសពីកំរិតអតិប្បរមានៃការបាត់ជីពចរប៉ុន្មានថែមទៀត? [cite: 426, 428]`,
+    questionText: `ចំពោះការយកសំពាធឈាម តើគេត្រូវសប់បញ្ចូលខ្យល់ អោយលើសពីកំរិតអតិប្បរមានៃការបាត់ជីពចរប៉ុន្មានថែមទៀត?`,
     a: `50mmHg`, b: `40mmHg`, c: `30mmHg`, d: `20mmHg`,
     correct: "C",
     explanation: "The correct answer is C: 30mmHg. This reflects standard nursing protocol for this procedure. The other options — A (50mmHg), B (40mmHg), D (20mmHg) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",
@@ -472,7 +472,7 @@ export const QUESTION_SEEDS: QuestionSeed[] = [
   },
   {
     subjectSlug: "fundamental-of-nursing-sciences",
-    questionText: `តើការវាស់សំពាធឈាម ពេលបន្ធូរខ្យល់មកវិញ គេត្រូវអោយទ្រនិចនាឡិកាធ្លាក់ចុះក្នុងល្បឿនប៉ុន្មាន? [cite: 438]`,
+    questionText: `តើការវាស់សំពាធឈាម ពេលបន្ធូរខ្យល់មកវិញ គេត្រូវអោយទ្រនិចនាឡិកាធ្លាក់ចុះក្នុងល្បឿនប៉ុន្មាន?`,
     a: `1-2mm Hg/mn`, b: `2-3mmHg/mn`, c: `3-4mmHg/mn`, d: `4-5mmHg/mn`,
     correct: "B",
     explanation: "The correct answer is B: 2-3mmHg/mn. This reflects standard nursing protocol for this procedure. The other options — A (1-2mm Hg/mn), C (3-4mmHg/mn), D (4-5mmHg/mn) — do not align with established clinical guidelines and would compromise patient safety or procedural accuracy.",

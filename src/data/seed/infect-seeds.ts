@@ -13,7 +13,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -28,7 +28,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -43,7 +43,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -58,7 +58,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -73,7 +73,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -88,7 +88,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -103,7 +103,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -118,7 +118,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -133,7 +133,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -148,7 +148,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -163,7 +163,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -178,7 +178,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -193,7 +193,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -208,7 +208,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -223,7 +223,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -238,7 +238,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -253,7 +253,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -268,7 +268,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -283,7 +283,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -298,7 +298,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -313,7 +313,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -328,7 +328,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -343,7 +343,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -358,7 +358,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -373,7 +373,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -388,7 +388,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -403,7 +403,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -418,7 +418,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -433,7 +433,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -448,7 +448,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -463,7 +463,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -478,7 +478,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -493,7 +493,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -508,7 +508,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -523,7 +523,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -538,7 +538,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -553,7 +553,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -568,7 +568,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -583,7 +583,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -598,7 +598,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -613,7 +613,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -628,7 +628,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -643,7 +643,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -658,7 +658,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -673,7 +673,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -688,7 +688,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -703,7 +703,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -718,7 +718,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -733,7 +733,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -748,7 +748,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -763,7 +763,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -778,7 +778,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -793,7 +793,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -808,7 +808,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -823,7 +823,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -838,7 +838,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -853,7 +853,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -868,7 +868,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -883,7 +883,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -898,7 +898,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -913,7 +913,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -928,7 +928,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -943,7 +943,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -958,7 +958,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -973,7 +973,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -988,7 +988,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1003,7 +1003,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1018,7 +1018,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1033,7 +1033,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1048,7 +1048,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1063,7 +1063,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1078,7 +1078,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1093,7 +1093,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1108,7 +1108,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1123,7 +1123,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1138,7 +1138,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1153,7 +1153,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1168,7 +1168,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1183,7 +1183,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1198,7 +1198,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1213,7 +1213,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1228,7 +1228,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1243,7 +1243,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1258,7 +1258,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1273,7 +1273,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1288,7 +1288,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1303,7 +1303,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1318,7 +1318,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1333,7 +1333,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1348,7 +1348,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1363,7 +1363,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1378,7 +1378,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1393,7 +1393,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1408,7 +1408,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1423,7 +1423,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1438,7 +1438,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1453,7 +1453,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1468,7 +1468,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1483,7 +1483,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1498,7 +1498,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1513,7 +1513,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1528,7 +1528,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1543,7 +1543,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1558,7 +1558,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1573,7 +1573,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1588,7 +1588,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1603,7 +1603,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1618,7 +1618,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1633,7 +1633,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1648,7 +1648,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1663,7 +1663,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1678,7 +1678,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1693,7 +1693,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1708,7 +1708,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1723,7 +1723,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1738,7 +1738,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1753,7 +1753,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1768,7 +1768,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1783,7 +1783,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1798,7 +1798,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1813,7 +1813,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1828,7 +1828,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1843,7 +1843,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1858,7 +1858,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1873,7 +1873,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1888,7 +1888,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1903,7 +1903,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1918,7 +1918,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1933,7 +1933,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1948,7 +1948,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1963,7 +1963,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1978,7 +1978,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -1993,7 +1993,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2008,7 +2008,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2023,7 +2023,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2038,7 +2038,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2053,7 +2053,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2068,7 +2068,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2083,7 +2083,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2098,7 +2098,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2113,7 +2113,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2128,7 +2128,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2143,7 +2143,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2158,7 +2158,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2173,7 +2173,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2188,7 +2188,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2203,7 +2203,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2218,7 +2218,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2233,7 +2233,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2248,7 +2248,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2263,7 +2263,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2278,7 +2278,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2293,7 +2293,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2308,7 +2308,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2323,7 +2323,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2338,7 +2338,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2353,7 +2353,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2368,7 +2368,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2383,7 +2383,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2398,7 +2398,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2413,7 +2413,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2428,7 +2428,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2443,7 +2443,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2458,7 +2458,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2473,7 +2473,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2488,7 +2488,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2503,7 +2503,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2518,7 +2518,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2533,7 +2533,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2548,7 +2548,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2563,7 +2563,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2578,7 +2578,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2593,7 +2593,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2608,7 +2608,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2623,7 +2623,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2638,7 +2638,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2653,7 +2653,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2668,7 +2668,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2683,7 +2683,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2698,7 +2698,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2713,7 +2713,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2728,7 +2728,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2743,7 +2743,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2758,7 +2758,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2773,7 +2773,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2788,7 +2788,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2803,7 +2803,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2818,7 +2818,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2833,7 +2833,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2848,7 +2848,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2863,7 +2863,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2878,7 +2878,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2893,7 +2893,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2908,7 +2908,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2923,7 +2923,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2938,7 +2938,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2953,7 +2953,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2968,7 +2968,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2983,7 +2983,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -2998,7 +2998,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3013,7 +3013,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3028,7 +3028,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3043,7 +3043,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3058,7 +3058,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3073,7 +3073,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3088,7 +3088,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3103,7 +3103,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3118,7 +3118,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3133,7 +3133,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3148,7 +3148,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3163,7 +3163,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3178,7 +3178,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3193,7 +3193,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3208,7 +3208,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3223,7 +3223,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3238,7 +3238,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3253,7 +3253,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3268,7 +3268,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3283,7 +3283,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3298,7 +3298,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3313,7 +3313,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3328,7 +3328,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3343,7 +3343,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3358,7 +3358,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3373,7 +3373,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3388,7 +3388,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3403,7 +3403,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3418,7 +3418,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3433,7 +3433,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3448,7 +3448,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3463,7 +3463,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3478,7 +3478,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3493,7 +3493,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3508,7 +3508,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3523,7 +3523,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3538,7 +3538,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3553,7 +3553,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3568,7 +3568,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3583,7 +3583,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3598,7 +3598,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3613,7 +3613,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3628,7 +3628,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3643,7 +3643,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3658,7 +3658,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3673,7 +3673,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3688,7 +3688,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3703,7 +3703,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3718,7 +3718,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3733,7 +3733,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3748,7 +3748,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3763,7 +3763,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3778,7 +3778,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "D",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3793,7 +3793,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3808,7 +3808,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3823,7 +3823,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3838,7 +3838,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3853,7 +3853,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3868,7 +3868,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3883,7 +3883,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3898,7 +3898,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3913,7 +3913,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3928,7 +3928,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3943,7 +3943,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3958,7 +3958,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3973,7 +3973,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -3988,7 +3988,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4003,7 +4003,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4018,7 +4018,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4033,7 +4033,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4048,7 +4048,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4063,7 +4063,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4078,7 +4078,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4093,7 +4093,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4108,7 +4108,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4123,7 +4123,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4138,7 +4138,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4153,7 +4153,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4168,7 +4168,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4183,7 +4183,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4198,7 +4198,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4213,7 +4213,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4228,7 +4228,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4243,7 +4243,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4258,7 +4258,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4273,7 +4273,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4288,7 +4288,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4303,7 +4303,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4318,7 +4318,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4333,7 +4333,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4348,7 +4348,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4363,7 +4363,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4378,7 +4378,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4393,7 +4393,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4408,7 +4408,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4423,7 +4423,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4438,7 +4438,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4453,7 +4453,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4468,7 +4468,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4483,7 +4483,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4498,7 +4498,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4513,7 +4513,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4528,7 +4528,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4543,7 +4543,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4558,7 +4558,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4573,7 +4573,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4588,7 +4588,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4603,7 +4603,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4618,7 +4618,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4633,7 +4633,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4648,7 +4648,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4663,7 +4663,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4678,7 +4678,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4693,7 +4693,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4708,7 +4708,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4723,7 +4723,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4738,7 +4738,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4753,7 +4753,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4768,7 +4768,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4783,7 +4783,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4798,7 +4798,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4813,7 +4813,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4828,7 +4828,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4843,7 +4843,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4858,7 +4858,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4873,7 +4873,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4888,7 +4888,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4903,7 +4903,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4918,7 +4918,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4933,7 +4933,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4948,7 +4948,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4963,7 +4963,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4978,7 +4978,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -4993,7 +4993,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5008,7 +5008,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5023,7 +5023,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5038,7 +5038,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5053,7 +5053,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5068,7 +5068,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5083,7 +5083,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5098,7 +5098,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5113,7 +5113,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5128,7 +5128,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5143,7 +5143,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5158,7 +5158,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5173,7 +5173,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5188,7 +5188,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5203,7 +5203,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5218,7 +5218,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5233,7 +5233,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5248,7 +5248,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5263,7 +5263,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5278,7 +5278,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5293,7 +5293,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5308,7 +5308,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5323,7 +5323,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5338,7 +5338,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5353,7 +5353,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5368,7 +5368,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5383,7 +5383,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5398,7 +5398,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5413,7 +5413,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5428,7 +5428,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5443,7 +5443,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5458,7 +5458,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5473,7 +5473,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5488,7 +5488,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5503,7 +5503,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5518,7 +5518,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5533,7 +5533,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5548,7 +5548,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5563,7 +5563,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5578,7 +5578,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5593,7 +5593,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5608,7 +5608,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5623,7 +5623,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5638,7 +5638,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5653,7 +5653,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5668,7 +5668,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5683,7 +5683,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5698,7 +5698,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5713,7 +5713,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5728,7 +5728,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5743,7 +5743,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5758,7 +5758,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5773,7 +5773,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5788,7 +5788,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5803,7 +5803,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5818,7 +5818,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5833,7 +5833,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5848,7 +5848,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5863,7 +5863,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5878,7 +5878,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5893,7 +5893,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5908,7 +5908,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5923,7 +5923,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5938,7 +5938,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5953,7 +5953,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5968,7 +5968,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5983,7 +5983,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -5998,7 +5998,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6013,7 +6013,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6028,7 +6028,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6043,7 +6043,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6058,7 +6058,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6073,7 +6073,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6088,7 +6088,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6103,7 +6103,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6118,7 +6118,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6133,7 +6133,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6148,7 +6148,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6163,7 +6163,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6178,7 +6178,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6193,7 +6193,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6208,7 +6208,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6223,7 +6223,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6238,7 +6238,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6253,7 +6253,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6268,7 +6268,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6283,7 +6283,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6298,7 +6298,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6313,7 +6313,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6328,7 +6328,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "C",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6343,7 +6343,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6358,7 +6358,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6373,7 +6373,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6388,7 +6388,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6403,7 +6403,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6418,7 +6418,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6433,7 +6433,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6448,7 +6448,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "A",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6463,7 +6463,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6478,7 +6478,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6493,7 +6493,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6508,7 +6508,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6523,7 +6523,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6538,7 +6538,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6553,7 +6553,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
   {
@@ -6568,7 +6568,7 @@ export const INFECT_SEEDS: QuestionSeed[] = [
       correct: "B",
       explanation: "No explanation provided.",
       sourceId: "infections_disease_agents.json",
-      verificationStatus: "verified",
+      verificationStatus: "needs_instructor_verification",
       hintSeed: "Review materials.",
     },
 ];

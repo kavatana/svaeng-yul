@@ -13,7 +13,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -28,7 +28,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -43,7 +43,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -58,7 +58,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -73,7 +73,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -88,7 +88,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -103,7 +103,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -118,7 +118,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -133,7 +133,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -148,7 +148,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -163,7 +163,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -178,7 +178,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -193,7 +193,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -208,7 +208,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -223,7 +223,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -238,7 +238,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -253,7 +253,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -268,7 +268,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -283,7 +283,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -298,7 +298,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -313,7 +313,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -328,7 +328,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -343,7 +343,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -358,7 +358,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -373,7 +373,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -388,7 +388,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -403,7 +403,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -418,7 +418,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -433,7 +433,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -448,7 +448,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -463,7 +463,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -478,7 +478,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -493,7 +493,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -508,7 +508,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -523,7 +523,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -538,7 +538,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -553,7 +553,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -568,7 +568,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -583,7 +583,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -598,7 +598,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -613,7 +613,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -628,7 +628,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -643,7 +643,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -658,7 +658,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -673,7 +673,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -688,7 +688,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -703,7 +703,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -718,7 +718,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -733,7 +733,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -748,7 +748,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -763,7 +763,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -778,7 +778,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -793,7 +793,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -808,7 +808,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -823,7 +823,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -838,7 +838,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -853,7 +853,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -868,7 +868,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -883,7 +883,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -898,7 +898,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -913,7 +913,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -928,7 +928,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -943,7 +943,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -958,7 +958,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -973,7 +973,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -988,7 +988,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1003,7 +1003,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1018,7 +1018,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1033,7 +1033,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1048,7 +1048,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1063,7 +1063,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1078,7 +1078,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1093,7 +1093,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1108,7 +1108,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1123,7 +1123,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1138,7 +1138,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1153,7 +1153,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1168,7 +1168,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1183,7 +1183,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1198,7 +1198,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1213,7 +1213,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1228,7 +1228,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1243,7 +1243,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1258,7 +1258,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1273,7 +1273,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1288,7 +1288,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1303,7 +1303,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1318,7 +1318,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1333,7 +1333,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1348,7 +1348,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1363,7 +1363,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1378,7 +1378,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1393,7 +1393,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1408,7 +1408,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1423,7 +1423,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1438,7 +1438,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1453,7 +1453,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1468,7 +1468,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1483,7 +1483,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1498,7 +1498,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1513,7 +1513,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1528,7 +1528,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1543,7 +1543,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1558,7 +1558,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1573,7 +1573,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1588,7 +1588,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1603,7 +1603,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1618,7 +1618,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1633,7 +1633,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1648,7 +1648,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1663,7 +1663,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1678,7 +1678,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1693,7 +1693,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1708,7 +1708,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1723,7 +1723,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1738,7 +1738,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1753,7 +1753,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1768,7 +1768,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1783,7 +1783,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1798,7 +1798,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1813,7 +1813,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1828,7 +1828,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1843,7 +1843,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1858,7 +1858,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1873,7 +1873,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1888,7 +1888,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1903,7 +1903,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1918,7 +1918,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1933,7 +1933,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1948,7 +1948,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1963,7 +1963,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1978,7 +1978,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -1993,7 +1993,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2008,7 +2008,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2023,7 +2023,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2038,7 +2038,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2053,7 +2053,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2068,7 +2068,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2083,7 +2083,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2098,7 +2098,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2113,7 +2113,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2128,7 +2128,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2143,7 +2143,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2158,7 +2158,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2173,7 +2173,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2188,7 +2188,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2203,7 +2203,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2218,7 +2218,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2233,7 +2233,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2248,7 +2248,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2263,7 +2263,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2278,7 +2278,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2293,7 +2293,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2308,7 +2308,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2323,7 +2323,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2338,7 +2338,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2353,7 +2353,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2368,7 +2368,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2383,7 +2383,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2398,7 +2398,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2413,7 +2413,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2428,7 +2428,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2443,7 +2443,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2458,7 +2458,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2473,7 +2473,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2488,7 +2488,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2503,7 +2503,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2518,7 +2518,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2533,7 +2533,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2548,7 +2548,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2563,7 +2563,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2578,7 +2578,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2593,7 +2593,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2608,7 +2608,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2623,7 +2623,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2638,7 +2638,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2653,7 +2653,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2668,7 +2668,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2683,7 +2683,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2698,7 +2698,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2713,7 +2713,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2728,7 +2728,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2743,7 +2743,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2758,7 +2758,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2773,7 +2773,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2788,7 +2788,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2803,7 +2803,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2818,7 +2818,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2833,7 +2833,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2848,7 +2848,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2863,7 +2863,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2878,7 +2878,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2893,7 +2893,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2908,7 +2908,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2923,7 +2923,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2938,7 +2938,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2953,7 +2953,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2968,7 +2968,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2983,7 +2983,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -2998,7 +2998,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3013,7 +3013,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3028,7 +3028,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3043,7 +3043,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3058,7 +3058,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3073,7 +3073,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3088,7 +3088,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3103,7 +3103,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3118,7 +3118,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3133,7 +3133,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3148,7 +3148,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3163,7 +3163,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3178,7 +3178,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3193,7 +3193,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3208,7 +3208,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3223,7 +3223,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3238,7 +3238,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3253,7 +3253,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3268,7 +3268,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3283,7 +3283,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3298,7 +3298,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3313,7 +3313,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3328,7 +3328,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3343,7 +3343,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3358,7 +3358,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3373,7 +3373,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3388,7 +3388,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3403,7 +3403,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3418,7 +3418,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3433,7 +3433,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3448,7 +3448,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3463,7 +3463,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3478,7 +3478,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3493,7 +3493,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3508,7 +3508,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3523,7 +3523,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3538,7 +3538,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3553,7 +3553,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3568,7 +3568,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3583,7 +3583,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3598,7 +3598,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3613,7 +3613,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3628,7 +3628,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3643,7 +3643,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3658,7 +3658,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3673,7 +3673,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3688,7 +3688,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3703,7 +3703,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3718,7 +3718,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3733,7 +3733,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3748,7 +3748,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3763,7 +3763,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3778,7 +3778,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3793,7 +3793,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3808,7 +3808,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3823,7 +3823,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3838,7 +3838,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3853,7 +3853,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3868,7 +3868,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3883,7 +3883,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3898,7 +3898,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3913,7 +3913,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3928,7 +3928,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3943,7 +3943,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3958,7 +3958,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3973,7 +3973,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -3988,7 +3988,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4003,7 +4003,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4018,7 +4018,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4033,7 +4033,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4048,7 +4048,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4063,7 +4063,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4078,7 +4078,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4093,7 +4093,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4108,7 +4108,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4123,7 +4123,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4138,7 +4138,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4153,7 +4153,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4168,7 +4168,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4183,7 +4183,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4198,7 +4198,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4213,7 +4213,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4228,7 +4228,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4243,7 +4243,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "C",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4258,7 +4258,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4273,7 +4273,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4288,7 +4288,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4303,7 +4303,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4318,7 +4318,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "A",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4333,7 +4333,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4348,7 +4348,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4363,7 +4363,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "B",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
   {
@@ -4378,7 +4378,7 @@ export const HISTORY_SEEDS: QuestionSeed[] = [
     correct: "D",
     explanation: "No explanation provided.",
     sourceId: "history-json",
-    verificationStatus: "verified",
+    verificationStatus: "needs_instructor_verification",
     hintSeed: "Review history materials.",
   },
 ];
